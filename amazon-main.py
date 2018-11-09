@@ -225,6 +225,8 @@ class Webpage(object):
         return regionSearch
 
 obj = Webpage('https://www.amazon.com/');
+
+#parameters of scrapeAmazon([keywords], [marketplaces], sortBy, detailed, limit)
 ans = obj.scrapeAmazon(["sport watch", "rolex"], ["US", "FR"], 1, 1, 2)
 js = json.dumps(ans)
 with open('result.json','w') as fp:
