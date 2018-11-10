@@ -172,36 +172,63 @@ def get_specs():
         return "NA"
 
 
-def scrape_also_bought_element(el):
+def separate_price_and_currency(value, marketPlace):
+    if "-" in value:
+        value = value.split("-")
+        value = value[0].strip()
+    if marketPlace == "US":
+        value = float(value[1:])
+        return ["USD", value]
+    return ["NA", "NA"]
+
+
+def scrape_also_bought_element(el, marketPlace):
     details = dict()
     dets = el.text.split("\n")
     details["title"] = dets[0]
+    details["currency"], details["price"] = separate_price_and_currency(
+        el.find_elements_by_tag_name("a")[-1].text, marketPlace)
+    details["htmlLinkPage"] = el.find_element_by_tag_name(
+        "a").get_attribute("href")
+    ratings = el.find_elements_by_tag_name("a")[1]
+    try:
+        details["ratingOf5stars"] = ratings.get_attribute("title").split()[0]
+        details["customersReviewsCount"] = ratings.find_element_by_tag_name(
+            "a").text
+    except:
+        details["ratingOf5stars"] = "NA"
+        details["customerReviewsCount"] = "NA"
     return details
 
 
-def get_also_bought():
+def get_also_bought(marketPlace):
     try:
         carousel = driver.find_element_by_id(
             "desktop-dp-sims_purchase-similarities-sims-feature")
         lis = carousel.find_elements_by_tag_name("li")
-        for i in range(len(lis)):
-            if lis[i].get_attribute("aria-hidden") == "true":
+        newli = []
+        for x in lis:
+            if x.get_attribute("aria-hidden") == "true":
                 continue
-            lis[i] = scrape_also_bought_element(lis[i])
-        return lis
+            try:
+                newli.append(scrape_also_bought_element(x, marketPlace))
+            except:
+                pass
+        return newli
     except:
         return "NA"
 
 
-def get_detailed_results(arr):
+def get_detailed_results(arr, marketPlace):
     for i in range(len(arr)):
-        # get description
+        # get detailed versions
+        print("Getting details of", arr[i]["title"][:20])
         driver.get(arr[i]["htmlLinkPage"])
         arr[i]["type"] = "scrapeAmazonDetailed"
         arr[i]["rating"] = get_detailed_ratings(
             arr[i]["customersReviewsCount"])
         arr[i]["description"] = get_description()
-        arr[i]["customersAlsoBought"] = get_also_bought()
+        arr[i]["customersAlsoBought"] = get_also_bought(marketPlace)
         arr[i]["productSpecs"] = get_specs()
     return arr
 
@@ -242,20 +269,17 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
 
             # if detailedResults
             if detailedResults == 1:
-                thisSearch = get_detailed_results(thisSearch)
+                thisSearch = get_detailed_results(thisSearch, marketPlace)
 
             # add the result to the final object
             finalObject.extend(thisSearch)
 
 
-dummy = [
-    {
-        "htmlLinkPage": "https://www.amazon.com/Timex-TW5M03400-Ironman-Classic-Full-Size/dp/B01F8V3T1C/ref=sr_1_35?ie=UTF8&qid=1541837706&sr=8-35&keywords=sport+watch",
-        "customersReviewsCount": 50
-    }
-]
+# dummy = [{"htmlLinkPage": "https://www.amazon.com/Timex-TW5M03400-Ironman-Classic-Full-Size/dp/B01F8V3T1C/ref=sr_1_35?ie=UTF8&qid=1541837706&sr=8-35&keywords=sport+watch",
+#           "customersReviewsCount": 1}]
 
-get_detailed_results(dummy)
+# get_detailed_results(dummy, "US")
+scrapeAmazon(["sport watch"], ["US"], 0, 1, 20)
 js = json.dumps(finalObject)
 with open('result.json', 'w') as fp:
     fp.write(js)
