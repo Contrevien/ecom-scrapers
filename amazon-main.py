@@ -3,10 +3,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import os
-import re
-import csv
 import urllib.request
-from collections import Counter
 import time
 import json
 
@@ -15,6 +12,8 @@ class Webpage(object):
     def __init__(self, url):
         ch = os.getcwd() + '/tools/chromedriver'
         options = Options()
+        prefs = {"profile.managed_default_content_settings.images": 2}
+        options.add_experimental_option("prefs", prefs)
         options.add_argument("--disable-gpu")
         options.add_argument("--disable-dev-shm-usage")
         options.add_argument("--no-sandbox")
@@ -37,9 +36,7 @@ class Webpage(object):
             if region == "FR":
                 matchWord.append("Les clients ayant acheté cet article ont également acheté")
                 
-            keywordSearch = dict()
             for keyword in keywords:
-                keywordSearch[keyword] = []
                 #type in the search bar
                 print("Loading..")
                 self.driver.get(url)
@@ -60,7 +57,6 @@ class Webpage(object):
                 except:
                     errors.append("Possible error in result count")
 
-                done = False
                 start = 0
                 search = []
                 end = 50000000
@@ -218,13 +214,13 @@ class Webpage(object):
                     search.append(temp)
                     self.driver.back()
                     start += 1
-                keywordSearch[keyword] = search
-            regionSearch.append(keywordSearch)
+                regionSearch.append(search)
         print(errors)
         self.driver.quit()
         return regionSearch
 
-obj = Webpage('https://www.amazon.com/');
+
+obj = Webpage('https://www.amazon.com/')
 
 #parameters of scrapeAmazon([keywords], [marketplaces], sortBy, detailed, limit)
 ans = obj.scrapeAmazon(["sport watch", "rolex"], ["US", "FR"], 1, 1, 2)
