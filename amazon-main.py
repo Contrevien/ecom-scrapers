@@ -2,10 +2,12 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 import os
 import urllib.request
 import time
 import json
+
 
 class Webpage(object):
 
@@ -34,26 +36,30 @@ class Webpage(object):
                 matchWord.append("Customers who bought this item also bought")
                 matchWord.append("Customers also shopped for")
             if region == "FR":
-                matchWord.append("Les clients ayant acheté cet article ont également acheté")
-                
+                matchWord.append(
+                    "Les clients ayant acheté cet article ont également acheté")
+
             for keyword in keywords:
-                #type in the search bar
+                # type in the search bar
                 print("Loading..")
                 self.driver.get(url)
                 try:
-                    self.driver.find_element_by_id("twotabsearchtextbox").send_keys(keyword+"\n")
+                    searchBar = self.wait.until(
+                        EC.presence_of_element_located((By.ID, "twotabsearchtextbox")))
+                    searchBar.send_keys(keyword + "\n")
                 except:
                     errors.append("Possible error in search box")
                     break
                 print("Searching..", keyword)
-                #save timestamp
+                # save timestamp
                 timestamp = int(time.time())
-                #get the number of results
+                # get the number of results
                 try:
-                    result_count = self.driver.find_element_by_id("s-result-count").text
+                    result_count = self.driver.find_element_by_id(
+                        "s-result-count").text
                     result_count = result_count.split()
                     result_count = result_count[3]
-                    #get results list
+                    # get results list
                 except:
                     errors.append("Possible error in result count")
 
@@ -67,8 +73,8 @@ class Webpage(object):
                     temp["timestamp"] = timestamp
                     temp["resultsNumber"] = result_count
                     temp["keyword"] = keyword
-                    temp["marketplace"] = region;
-                    if limitResults==-1:
+                    temp["marketplace"] = region
+                    if limitResults == -1:
                         temp["limitResults"] = "No limit"
                     else:
                         temp["limitResults"] = limitResults
@@ -78,37 +84,43 @@ class Webpage(object):
                         temp["type"] = "scrapeAmazonSimple"
                     ul = self.driver.find_element_by_id("s-results-list-atf")
 
-                    #go to element or next page
+                    # go to element or next page
                     el = ul.find_element_by_id("result_" + str(start))
-                    self.driver.get(el.find_element_by_class_name("a-link-normal").get_attribute("href"))
-                
+                    self.driver.get(el.find_element_by_class_name(
+                        "a-link-normal").get_attribute("href"))
+
                     print("Scraping", start)
-                    #title
+                    # title
                     try:
-                        title = self.driver.find_element_by_id("productTitle").text
+                        title = self.driver.find_element_by_id(
+                            "productTitle").text
                         title = title.strip()
                         temp["title"] = title
                     except:
                         temp["title"] = "NA"
                         errors.append("Possible Error in Title")
 
-                    #price
+                    # price
                     try:
-                        fetched_price = self.driver.find_element_by_id("priceblock_ourprice").text
+                        fetched_price = self.driver.find_element_by_id(
+                            "priceblock_ourprice").text
                         temp["price"] = fetched_price
                     except:
                         try:
-                            fetched_price = self.driver.find_element_by_id("priceblock_saleprice").text    
+                            fetched_price = self.driver.find_element_by_id(
+                                "priceblock_saleprice").text
                             temp["price"] = fetched_price
                         except:
                             temp["price"] = "NA"
                             errors.append("Price not found")
 
-                    #descriptions, only if detailed
+                    # descriptions, only if detailed
                     if detailedResults == 1:
                         try:
-                            des_div = self.driver.find_element_by_id("feature-bullets")
-                            des_spans = des_div.find_elements_by_class_name("a-list-item")
+                            des_div = self.driver.find_element_by_id(
+                                "feature-bullets")
+                            des_spans = des_div.find_elements_by_class_name(
+                                "a-list-item")
                             description = []
                             for des in des_spans:
                                 description.append(des.text)
@@ -118,15 +130,20 @@ class Webpage(object):
                             temp["description"] = "NA"
                             errors.append("Description not found")
 
-                    #reviews
+                    # reviews
                     try:
-                        review_a = self.driver.find_element_by_id("reviewsMedley")
-                        review_b = review_a.find_element_by_id("dp-summary-see-all-reviews")
-                        reviews = int(review_b.find_element_by_tag_name("h2").text.split()[0])
+                        review_a = self.driver.find_element_by_id(
+                            "reviewsMedley")
+                        review_b = review_a.find_element_by_id(
+                            "dp-summary-see-all-reviews")
+                        reviews = int(review_b.find_element_by_tag_name(
+                            "h2").text.split()[0])
                         temp["customersReviewsCount"] = reviews
                         if detailedResults == 1:
-                            table = review_a.find_element_by_id("histogramTable")
-                            percents = table.find_elements_by_class_name("a-text-right")
+                            table = review_a.find_element_by_id(
+                                "histogramTable")
+                            percents = table.find_elements_by_class_name(
+                                "a-text-right")
                             review_arr = []
                             for i in percents:
                                 per = int(i.text[:-1])
@@ -139,23 +156,26 @@ class Webpage(object):
                         temp["rating"] = "NA"
                         errors.append("Review not found")
 
-                    #specs
+                    # specs
                     if detailedResults == 1:
                         productSpecs = dict()
                         try:
-                            self.driver.find_element_by_id("softlinesTechnicalSpecificationsLink").click()
-                            
-                            tbody = self.driver.find_element_by_id("technicalSpecifications_section_1")
+                            self.driver.find_element_by_id(
+                                "softlinesTechnicalSpecificationsLink").click()
+
+                            tbody = self.driver.find_element_by_id(
+                                "technicalSpecifications_section_1")
                             heads = tbody.find_elements_by_tag_name("th")
                             values = tbody.find_elements_by_tag_name("td")
-                            
+
                             for i in range(len(heads)):
-                                productSpecs[heads[i].text.strip()] = values[i].text.strip()
+                                productSpecs[heads[i].text.strip()
+                                             ] = values[i].text.strip()
                             self.driver.back()
                         except:
                             temp["productSpecs"] = "NA"
 
-                    #similar
+                    # similar
                     if detailedResults == 1:
                         try:
                             more = []
@@ -163,14 +183,16 @@ class Webpage(object):
                             sim_i = 1
                             while True:
                                 try:
-                                    carousels.append(self.driver.find_element_by_id("sims-consolidated-"+ str(sim_i) +"_feature_div"))
+                                    carousels.append(self.driver.find_element_by_id(
+                                        "sims-consolidated-" + str(sim_i) + "_feature_div"))
                                     sim_i += 1
                                 except:
                                     break
                             selected = None
                             for c in carousels:
                                 try:
-                                    testWord =  c.find_element_by_class_name("a-carousel-heading").text
+                                    testWord = c.find_element_by_class_name(
+                                        "a-carousel-heading").text
                                     flag = 0
                                     for word in matchWord:
                                         if word in testWord:
@@ -188,9 +210,11 @@ class Webpage(object):
                             for i in more:
                                 temp2 = {}
                                 print(i)
-                                temp2["htmlLink"] = i.find_element_by_tag_name("a").get_attribute("href")
+                                temp2["htmlLink"] = i.find_element_by_tag_name(
+                                    "a").get_attribute("href")
                                 print(temp2["htmlLink"])
-                                temp2["ratingOf5Stars"] = i.find_elements_by_tag_name("a")[1].get_attribute("title").split()[0]
+                                temp2["ratingOf5Stars"] = i.find_elements_by_tag_name(
+                                    "a")[1].get_attribute("title").split()[0]
                                 print(temp2["ratingOf5Stars"])
                                 details = i.text.split('\n')
                                 try:
@@ -222,12 +246,12 @@ class Webpage(object):
 
 obj = Webpage('https://www.amazon.com/')
 
-#parameters of scrapeAmazon([keywords], [marketplaces], sortBy, detailed, limit)
+# parameters of scrapeAmazon([keywords], [marketplaces], sortBy, detailed, limit)
 ans = obj.scrapeAmazon(["sport watch", "rolex"], ["US", "FR"], 1, 1, 2)
 js = json.dumps(ans)
-with open('result.json','w') as fp:
+with open('result.json', 'w') as fp:
     fp.write(js)
-    
+
 # TODO
 # - Complete customersAlsoBought
 # - Add loop for different marketplaces
