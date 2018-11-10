@@ -17,7 +17,7 @@ options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
 options.add_argument("log-level=3")
 driver = webdriver.Chrome(options=options, executable_path=ch)
-wait = WebDriverWait(driver, 600)
+wait = WebDriverWait(driver, 10)
 finalObject = []
 matchWord = []
 errors = []
@@ -32,34 +32,15 @@ def change_match_word_as_per_marketPlace(marketplace):
             "Les clients ayant acheté cet article ont également acheté")
 
 
-def go_to_marketPlace(marketPlace):
-    '''Switch to the respective marketplace'''
-    print("Loading website for", marketPlace)
-    if marketPlace == "US":
-        driver.get("https://www.amazon.com/")
-    else:
-        driver.get("https://www.amazon.com" + marketPlace.lower() + "/")
-    change_match_word_as_per_marketPlace(marketPlace)
-
-
-def search(keyword):
-    try:
-        searchBar = wait.until(
-            EC.presence_of_element_located((By.ID, "twotabsearchtextbox")))
-        searchBar.send_keys(keyword + "\n")
-        return 1
-    except Exception as e:
-        print(e)
-        errors.append(e)
-        return -1
-
-
-def get_price_and_currency(el):
+def get_price_and_currency(el, marketPlace):
     try:
         currency = el.find_element_by_class_name("sx-price-currency").text
         if currency == "$":
             currency = "USD"
+        if marketPlace == "IN":
+            currency = "INR"
         whole = el.find_element_by_class_name("sx-price-whole").text
+        whole = "".join(whole.split(","))
         fractional = el.find_element_by_class_name("sx-price-fractional").text
         return [currency, float(whole + "." + fractional)]
     except:
@@ -90,20 +71,20 @@ def get_customer_ratings(el):
         return "NA"
 
 
-def scrape_element(el):
+def scrape_element(el, marketPlace):
     temp = dict()
     temp["asinCode"] = el.get_attribute("data-asin")
     temp["htmlLinkPage"] = el.find_element_by_class_name(
         "s-access-detail-page").get_attribute("href")
     temp["title"] = el.find_element_by_tag_name(
         "h2").get_attribute("data-attribute")
-    temp["currency"], temp["price"] = get_price_and_currency(el)
+    temp["currency"], temp["price"] = get_price_and_currency(el, marketPlace)
     temp["ratingOf5stars"] = get_avg_ratings(el)
     temp["customersReviewsCount"] = get_customer_ratings(el)
     return temp
 
 
-def scrape_less_detailed():
+def scrape_less_detailed(marketPlace):
     done = False
     resultsFound = 0
     page = 1
@@ -112,7 +93,7 @@ def scrape_less_detailed():
     while not done:
         try:
             el = driver.find_element_by_id("result_" + str(resultsFound))
-            thisSearch.append(scrape_element(el))
+            thisSearch.append(scrape_element(el, marketPlace))
             resultsFound += 1
         except:
             try:
@@ -156,29 +137,41 @@ def get_detailed_ratings(reviewCount):
         return "NA"
 
 
-def get_specs():
+def filter_specs(tbody):
+    heads = tbody.find_elements_by_tag_name("th")
+    values = tbody.find_elements_by_tag_name("td")
     productSpecs = dict()
-    try:
-        driver.find_element_by_id(
-            "softlinesTechnicalSpecificationsLink").click()
-        tbody = driver.find_element_by_id("technicalSpecifications_section_1")
-        heads = tbody.find_elements_by_tag_name("th")
-        values = tbody.find_elements_by_tag_name("td")
+    for i in range(len(heads)):
+        productSpecs[heads[i].text.strip()] = values[i].text.strip()
+    return productSpecs
 
-        for i in range(len(heads)):
-            productSpecs[heads[i].text.strip()] = values[i].text.strip()
-        return productSpecs
+
+def get_specs():
+    tbody = ""
+    try:
+        driver.get(driver.find_element_by_id(
+            "softlinesTechnicalSpecificationsLink").get_attribute("href"))
+        tbody = driver.find_element_by_id("technicalSpecifications_section_1")
+        return filter_specs(tbody)
     except:
-        return "NA"
+        try:
+            tbody = driver.find_element_by_id(
+                "technicalSpecifications_feature_div")
+            return filter_specs(tbody)
+        except:
+            return "NA"
 
 
 def separate_price_and_currency(value, marketPlace):
     if "-" in value:
         value = value.split("-")
         value = value[0].strip()
+    if "," in value:
+        value = "".join(value.split(","))
     if marketPlace == "US":
-        value = float(value[1:])
-        return ["USD", value]
+        return ["USD", float(value[1:])]
+    if marketPlace == "IN":
+        return ["INR", float(value)]
     return ["NA", "NA"]
 
 
@@ -186,37 +179,49 @@ def scrape_also_bought_element(el, marketPlace):
     details = dict()
     dets = el.text.split("\n")
     details["title"] = dets[0]
-    details["currency"], details["price"] = separate_price_and_currency(
-        el.find_elements_by_tag_name("a")[-1].text, marketPlace)
-    details["htmlLinkPage"] = el.find_element_by_tag_name(
-        "a").get_attribute("href")
-    ratings = el.find_elements_by_tag_name("a")[1]
+    a = el.find_elements_by_tag_name("a")
     try:
-        details["ratingOf5stars"] = ratings.get_attribute("title").split()[0]
-        details["customersReviewsCount"] = ratings.find_element_by_tag_name(
-            "a").text
+        details["currency"], details["price"] = separate_price_and_currency(
+            a[-1].text, marketPlace)
+    except Exception as e:
+        print(e)
+
+    details["htmlLinkPage"] = a[0].get_attribute("href")
+    try:
+        details["ratingOf5stars"] = float(
+            a[1].get_attribute("title").split()[0])
+        details["customersReviewsCount"] = int("".join(a[2].text.split(",")))
     except:
         details["ratingOf5stars"] = "NA"
         details["customerReviewsCount"] = "NA"
     return details
 
 
+def get_lists_of_carousel(carousel, marketPlace):
+    lis = carousel.find_elements_by_tag_name("li")
+    newli = []
+    for x in lis:
+        if x.get_attribute("aria-hidden") == "true":
+            continue
+        try:
+            newli.append(scrape_also_bought_element(x, marketPlace))
+        except:
+            pass
+    return newli
+
+
 def get_also_bought(marketPlace):
     try:
         carousel = driver.find_element_by_id(
             "desktop-dp-sims_purchase-similarities-sims-feature")
-        lis = carousel.find_elements_by_tag_name("li")
-        newli = []
-        for x in lis:
-            if x.get_attribute("aria-hidden") == "true":
-                continue
-            try:
-                newli.append(scrape_also_bought_element(x, marketPlace))
-            except:
-                pass
-        return newli
+        return get_lists_of_carousel(carousel, marketPlace)
     except:
-        return "NA"
+        try:
+            carousel = driver.find_element_by_id(
+                "sp-details")
+            return get_lists_of_carousel(carousel, marketPlace)
+        except:
+            return "NA"
 
 
 def get_detailed_results(arr, marketPlace):
@@ -229,29 +234,48 @@ def get_detailed_results(arr, marketPlace):
             arr[i]["customersReviewsCount"])
         arr[i]["description"] = get_description()
         arr[i]["customersAlsoBought"] = get_also_bought(marketPlace)
+        print(arr[i]["customersAlsoBought"])
         arr[i]["productSpecs"] = get_specs()
     return arr
 
 
+def open_url(marketPlace, keyword, sorter):
+    try:
+        keyword = "+".join(keyword.split())
+        if marketPlace == "US":
+            driver.get(
+                "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=" + keyword + "&sort=" + sorter)
+        else:
+            driver.get("https://www.amazon." + marketPlace.lower() +
+                       "/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=" + keyword + "&sort=" + sorter)
+        return 1
+    except:
+        return -1
+
+
 def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResults=-1):
+
+    sortArray = ["relevancerank", "popularity-rank", "price-asc-rank",
+                 "price-desc-rank", "review-rank", "date-desc-rank"]
+
+    sorter = sortArray[sortBy]
 
     # go to the respective marketPlace
     for marketPlace in marketPlaces:
-        go_to_marketPlace(marketPlace)
 
         # search each keyword
         for keyword in keywords:
             print("Searching " + keyword + " in " + marketPlace)
 
-            # find the search bar and enter the keyword
-            if search(keyword) == -1:
+            # open the url for searching the keyword
+            if open_url(marketPlace, keyword, sorter) == -1:
                 return
 
             # save timestamp
             timestamp = int(time.time())
 
             # scrape the results
-            thisSearch = scrape_less_detailed()
+            thisSearch = scrape_less_detailed(marketPlace)
             for x in thisSearch:
                 x["timestamp"] = timestamp
                 x["keyword"] = keyword
@@ -275,11 +299,11 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
             finalObject.extend(thisSearch)
 
 
-# dummy = [{"htmlLinkPage": "https://www.amazon.com/Timex-TW5M03400-Ironman-Classic-Full-Size/dp/B01F8V3T1C/ref=sr_1_35?ie=UTF8&qid=1541837706&sr=8-35&keywords=sport+watch",
+# dummy = [{"htmlLinkPage": "https://www.amazon.in/Sonata-Digital-Grey-Dial-Watch-NK7982PP04/dp/B00B81QJBO/ref=sr_1_7?s=watches&ie=UTF8&qid=1541855163&sr=1-7&keywords=sport+watch",
 #           "customersReviewsCount": 1}]
 
-# get_detailed_results(dummy, "US")
-scrapeAmazon(["sport watch"], ["US"], 0, 1, 20)
+# get_detailed_results(dummy, "IN")
+scrapeAmazon(["t shirt"], ["US"], 0, 1)
 js = json.dumps(finalObject)
 with open('result.json', 'w') as fp:
     fp.write(js)
