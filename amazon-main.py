@@ -27,9 +27,9 @@ options.add_argument("log-level=3")
 driver = webdriver.Chrome(options=options, executable_path=ch)
 wait = WebDriverWait(driver, 10)
 
-client = MongoClient(port=27017)
-mydb = client.amazon
-mycol = mydb['scrapeAmazon']
+client = MongoClient('mongodb://developer:5cr4p3r18@devserver.nulabs.it:27027/scraperDb')
+mydb = client.scaperDb
+mycol = mydb['amazon']
 
 finalObject = []
 matchWord = []
@@ -162,8 +162,7 @@ def get_detailed_ratings(reviewCount):
         percents = table.find_elements_by_class_name("a-text-right")
         review_arr = []
         for i in percents:
-            per = int(i.text[:-1])
-            review_arr.append(int(reviewCount*(per/100)))
+            review_arr.append(int(i.text[:-1]))
         ratings = dict()
         for i in range(5):
             ratings[str(5-i)+"stars"] = review_arr[i]
@@ -331,11 +330,12 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
             if detailedResults == 1:
                 thisSearch = get_detailed_results(thisSearch, marketPlace, timestamp)
 
+            for x in thisSearch:
+                mydb.mycol.insert_one(x)
+            
             # add the result to the final object
             finalObject.extend(thisSearch)
 
 
 scrapeAmazon(["sport watch"], ["US"], 0, 1)
-js = json.dumps(finalObject)
-with open('result.json', 'w') as fp:
-    fp.write(js)
+
