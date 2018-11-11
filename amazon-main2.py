@@ -8,6 +8,12 @@ import urllib.request
 import time
 import json
 
+currencyMap = {
+    "US": "USD",
+    "IN": "INR",
+    "FR": "EUR"
+}
+
 ch = os.getcwd() + '/tools/chromedriver'
 options = Options()
 prefs = {"profile.managed_default_content_settings.images": 2}
@@ -23,26 +29,42 @@ matchWord = []
 errors = []
 
 
-def change_match_word_as_per_marketPlace(marketplace):
-    if marketplace == "US" or marketplace == "IN":
-        matchWord.append("Customers who bought this item also bought")
-        matchWord.append("Customers also shopped for")
-    if marketplace == "FR":
-        matchWord.append(
-            "Les clients ayant acheté cet article ont également acheté")
+def slice_price(price, marketPlace):
+    if marketPlace == "US":
+        price = price.split()[1:]
+        if "," in price[0]:
+            price[0] = "".join(price[0].split(","))
+        return float(".".join(price))
+    elif marketPlace == "FR":
+        price = price.split()[1:]
+        final = ".".join(price[-1].split(","))
+        final = "".join(price[:-1]) + final
+        return float(final)
+    elif marketPlace == "IN":
+        price = price.strip()
+        if "," in price:
+            price = "".join(price.split(","))
+        return float(price)
 
 
 def get_price_and_currency(el, marketPlace):
     try:
-        currency = el.find_element_by_class_name("sx-price-currency").text
-        if currency == "$":
-            currency = "USD"
-        if marketPlace == "IN":
-            currency = "INR"
-        whole = el.find_element_by_class_name("sx-price-whole").text
-        whole = "".join(whole.split(","))
-        fractional = el.find_element_by_class_name("sx-price-fractional").text
-        return [currency, float(whole + "." + fractional)]
+        currency = currencyMap[marketPlace]
+        a = el.find_elements_by_class_name("a-link-normal")
+        price = ""
+        if len(a) == 5:
+            price = a[-1].text.strip()
+        elif len(a) == 6:
+            price = a[-2].text.strip()
+        elif len(a) == 7:
+            price = a[-3].text.strip()
+        elif len(a) == 4:
+            price = a[-2].text.strip()
+        else:
+            return ["NA", "NA"]
+        price = slice_price(price, marketPlace)
+        return [currency, price]
+
     except:
         return ["NA", "NA"]
 
@@ -51,6 +73,9 @@ def get_avg_ratings(el):
     try:
         text = el.find_element_by_tag_name(
             "i").get_attribute("class").split()[-1]
+        if "a-star" not in text:
+            text = el.find_elements_by_tag_name(
+                "i")[1].get_attribute("class").split()[-1]
         text = text.split("-")
         rating = ""
         for x in text:
@@ -81,10 +106,11 @@ def scrape_element(el, marketPlace):
     temp["currency"], temp["price"] = get_price_and_currency(el, marketPlace)
     temp["ratingOf5stars"] = get_avg_ratings(el)
     temp["customersReviewsCount"] = get_customer_ratings(el)
+    print(temp)
     return temp
 
 
-def scrape_less_detailed(marketPlace):
+def scrape_less_detailed(marketPlace, limitResults):
     done = False
     resultsFound = 0
     page = 1
@@ -93,7 +119,8 @@ def scrape_less_detailed(marketPlace):
     while not done:
         try:
             el = driver.find_element_by_id("result_" + str(resultsFound))
-            thisSearch.append(scrape_element(el, marketPlace))
+            if limitResults == -1 or resultsFound < limitResults:
+                thisSearch.append(scrape_element(el, marketPlace))
             resultsFound += 1
         except:
             try:
@@ -103,7 +130,7 @@ def scrape_less_detailed(marketPlace):
                 print("Scraping Page " + str(page) + " of results")
             except:
                 done = True
-    return thisSearch
+    return [thisSearch, resultsFound]
 
 
 def get_description():
@@ -234,7 +261,6 @@ def get_detailed_results(arr, marketPlace):
             arr[i]["customersReviewsCount"])
         arr[i]["description"] = get_description()
         arr[i]["customersAlsoBought"] = get_also_bought(marketPlace)
-        print(arr[i]["customersAlsoBought"])
         arr[i]["productSpecs"] = get_specs()
     return arr
 
@@ -275,21 +301,20 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
             timestamp = int(time.time())
 
             # scrape the results
-            thisSearch = scrape_less_detailed(marketPlace)
+            thisSearch, totalResults = scrape_less_detailed(
+                marketPlace, limitResults)
             for x in thisSearch:
                 x["timestamp"] = timestamp
                 x["keyword"] = keyword
                 x["marketPlace"] = marketPlace
                 x["sortBy"] = sortBy
-                x["resultsNumber"] = len(thisSearch)
+                x["resultsNumber"] = totalResults
                 if limitResults == -1:
                     x["limitResults"] = "no limit"
                 else:
                     x["limitResults"] = limitResults
+                    thisSearch = thisSearch[:limitResults]
                 x["type"] = "scrapeAmazonSimple"
-
-            if limitResults != -1:
-                thisSearch = thisSearch[:limitResults]
 
             # if detailedResults
             if detailedResults == 1:
@@ -303,7 +328,7 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
 #           "customersReviewsCount": 1}]
 
 # get_detailed_results(dummy, "IN")
-scrapeAmazon(["t shirt"], ["US"], 0, 1)
+scrapeAmazon(["sport watch"], ["US"], 0, 0, 5)
 js = json.dumps(finalObject)
-with open('result.json', 'w') as fp:
+with open('result-test.json', 'w') as fp:
     fp.write(js)
