@@ -8,250 +8,323 @@ import urllib.request
 import time
 import json
 
+currencyMap = {
+    "US": "USD",
+    "IN": "INR",
+    "FR": "EUR"
+}
 
-class Webpage(object):
-
-    def __init__(self, url):
-        ch = os.getcwd() + '/tools/chromedriver'
-        options = Options()
-        prefs = {"profile.managed_default_content_settings.images": 2}
-        options.add_experimental_option("prefs", prefs)
-        options.add_argument("--disable-gpu")
-        options.add_argument("--disable-dev-shm-usage")
-        options.add_argument("--no-sandbox")
-        options.add_argument("log-level=3")
-        self.driver = webdriver.Chrome(options=options, executable_path=ch)
-        self.wait = WebDriverWait(self.driver, 600)
-
-    def scrapeAmazon(self, keywords, marketPlace, sortBy, detailedResults, limitResults=-1):
-        errors = []
-        regionSearch = []
-        for region in marketPlace:
-            if region == "US":
-                url = "https://www.amazon.com/"
-            else:
-                url = "https://www.amazon."+region.lower()+"/"
-            matchWord = []
-            if region == "US" or region == "IN":
-                matchWord.append("Customers who bought this item also bought")
-                matchWord.append("Customers also shopped for")
-            if region == "FR":
-                matchWord.append(
-                    "Les clients ayant acheté cet article ont également acheté")
-
-            for keyword in keywords:
-                # type in the search bar
-                print("Loading..")
-                self.driver.get(url)
-                try:
-                    searchBar = self.wait.until(
-                        EC.presence_of_element_located((By.ID, "twotabsearchtextbox")))
-                    searchBar.send_keys(keyword + "\n")
-                except:
-                    errors.append("Possible error in search box")
-                    break
-                print("Searching..", keyword)
-                # save timestamp
-                timestamp = int(time.time())
-                # get the number of results
-                try:
-                    result_count = self.driver.find_element_by_id(
-                        "s-result-count").text
-                    result_count = result_count.split()
-                    result_count = result_count[3]
-                    # get results list
-                except:
-                    errors.append("Possible error in result count")
-
-                start = 0
-                search = []
-                end = 50000000
-                if not (limitResults == -1):
-                    end = limitResults
-                while len(search) < end:
-                    temp = dict()
-                    temp["timestamp"] = timestamp
-                    temp["resultsNumber"] = result_count
-                    temp["keyword"] = keyword
-                    temp["marketplace"] = region
-                    if limitResults == -1:
-                        temp["limitResults"] = "No limit"
-                    else:
-                        temp["limitResults"] = limitResults
-                    if detailedResults == 1:
-                        temp["type"] = "scrapeAmazonDetailed"
-                    else:
-                        temp["type"] = "scrapeAmazonSimple"
-                    ul = self.driver.find_element_by_id("s-results-list-atf")
-
-                    # go to element or next page
-                    el = ul.find_element_by_id("result_" + str(start))
-                    self.driver.get(el.find_element_by_class_name(
-                        "a-link-normal").get_attribute("href"))
-
-                    print("Scraping", start)
-                    # title
-                    try:
-                        title = self.driver.find_element_by_id(
-                            "productTitle").text
-                        title = title.strip()
-                        temp["title"] = title
-                    except:
-                        temp["title"] = "NA"
-                        errors.append("Possible Error in Title")
-
-                    # price
-                    try:
-                        fetched_price = self.driver.find_element_by_id(
-                            "priceblock_ourprice").text
-                        temp["price"] = fetched_price
-                    except:
-                        try:
-                            fetched_price = self.driver.find_element_by_id(
-                                "priceblock_saleprice").text
-                            temp["price"] = fetched_price
-                        except:
-                            temp["price"] = "NA"
-                            errors.append("Price not found")
-
-                    # descriptions, only if detailed
-                    if detailedResults == 1:
-                        try:
-                            des_div = self.driver.find_element_by_id(
-                                "feature-bullets")
-                            des_spans = des_div.find_elements_by_class_name(
-                                "a-list-item")
-                            description = []
-                            for des in des_spans:
-                                description.append(des.text)
-                            description = "".join(description)
-                            temp["description"] = description
-                        except:
-                            temp["description"] = "NA"
-                            errors.append("Description not found")
-
-                    # reviews
-                    try:
-                        review_a = self.driver.find_element_by_id(
-                            "reviewsMedley")
-                        review_b = review_a.find_element_by_id(
-                            "dp-summary-see-all-reviews")
-                        reviews = int(review_b.find_element_by_tag_name(
-                            "h2").text.split()[0])
-                        temp["customersReviewsCount"] = reviews
-                        if detailedResults == 1:
-                            table = review_a.find_element_by_id(
-                                "histogramTable")
-                            percents = table.find_elements_by_class_name(
-                                "a-text-right")
-                            review_arr = []
-                            for i in percents:
-                                per = int(i.text[:-1])
-                                review_arr.append(int(reviews*(per/100)))
-                            ratings = dict()
-                            for i in range(5):
-                                ratings[str(5-i)+"stars"] = review_arr[i]
-                            temp["rating"] = ratings
-                    except:
-                        temp["rating"] = "NA"
-                        errors.append("Review not found")
-
-                    # specs
-                    if detailedResults == 1:
-                        productSpecs = dict()
-                        try:
-                            self.driver.find_element_by_id(
-                                "softlinesTechnicalSpecificationsLink").click()
-
-                            tbody = self.driver.find_element_by_id(
-                                "technicalSpecifications_section_1")
-                            heads = tbody.find_elements_by_tag_name("th")
-                            values = tbody.find_elements_by_tag_name("td")
-
-                            for i in range(len(heads)):
-                                productSpecs[heads[i].text.strip()
-                                             ] = values[i].text.strip()
-                            self.driver.back()
-                        except:
-                            temp["productSpecs"] = "NA"
-
-                    # similar
-                    if detailedResults == 1:
-                        try:
-                            more = []
-                            carousels = []
-                            sim_i = 1
-                            while True:
-                                try:
-                                    carousels.append(self.driver.find_element_by_id(
-                                        "sims-consolidated-" + str(sim_i) + "_feature_div"))
-                                    sim_i += 1
-                                except:
-                                    break
-                            selected = None
-                            for c in carousels:
-                                try:
-                                    testWord = c.find_element_by_class_name(
-                                        "a-carousel-heading").text
-                                    flag = 0
-                                    for word in matchWord:
-                                        if word in testWord:
-                                            print("Yes")
-                                            selected = c
-                                            break
-                                    if flag == 1:
-                                        break
-                                except:
-                                    continue
-                            print(selected)
-                            ol = selected.find_element_by_tag_name("ol")
-                            more.extend(ol.find_elements_by_tag_name("li"))
-                            customersAlsoBought = []
-                            for i in more:
-                                temp2 = {}
-                                print(i)
-                                temp2["htmlLink"] = i.find_element_by_tag_name(
-                                    "a").get_attribute("href")
-                                print(temp2["htmlLink"])
-                                temp2["ratingOf5Stars"] = i.find_elements_by_tag_name(
-                                    "a")[1].get_attribute("title").split()[0]
-                                print(temp2["ratingOf5Stars"])
-                                details = i.text.split('\n')
-                                try:
-                                    temp2["title"] = details[0]
-                                except:
-                                    temp2["title"] = "NA"
-                                try:
-                                    temp2["customersReviewsCount"] = details[1]
-                                except:
-                                    temp2["customersReviewsCount"] = "NA"
-                                try:
-                                    temp2["price"] = details[2]
-                                except:
-                                    temp2["price"] = "NA"
-                                customersAlsoBought.append(temp2)
-                            temp["customersAlsoBought"] = customersAlsoBought
-                        except:
-                            temp["customersAlsoBought"] = "NA"
-                            errors.append("Customers also bought error")
-                    temp["htmlPageLink"] = self.driver.current_url
-                    search.append(temp)
-                    self.driver.back()
-                    start += 1
-                regionSearch.append(search)
-        print(errors)
-        self.driver.quit()
-        return regionSearch
+ch = os.getcwd() + '/tools/chromedriver'
+options = Options()
+prefs = {"profile.managed_default_content_settings.images": 2}
+options.add_experimental_option("prefs", prefs)
+options.add_argument("--disable-gpu")
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("--no-sandbox")
+options.add_argument("log-level=3")
+driver = webdriver.Chrome(options=options, executable_path=ch)
+wait = WebDriverWait(driver, 10)
+finalObject = []
+matchWord = []
+errors = []
 
 
-obj = Webpage('https://www.amazon.com/')
+def slice_price(price, marketPlace):
+    if marketPlace == "US":
+        price = price.split()[1:]
+        if "," in price[0]:
+            price[0] = "".join(price[0].split(","))
+        return float(".".join(price))
+    elif marketPlace == "FR":
+        price = price.split()[1:]
+        final = ".".join(price[-1].split(","))
+        final = "".join(price[:-1]) + final
+        return float(final)
+    elif marketPlace == "IN":
+        price = price.strip()
+        if "," in price:
+            price = "".join(price.split(","))
+        return float(price)
 
-# parameters of scrapeAmazon([keywords], [marketplaces], sortBy, detailed, limit)
-ans = obj.scrapeAmazon(["sport watch", "rolex"], ["US", "FR"], 1, 1, 2)
-js = json.dumps(ans)
+
+def get_price_and_currency(el, marketPlace):
+    try:
+        currency = currencyMap[marketPlace]
+        a = el.find_elements_by_class_name("a-link-normal")
+        price = ""
+        if len(a) == 5:
+            price = a[-1].text.strip()
+        elif len(a) == 6:
+            price = a[-2].text.strip()
+        elif len(a) == 7:
+            price = a[-3].text.strip()
+        elif len(a) == 4:
+            price = a[-2].text.strip()
+        else:
+            return ["NA", "NA"]
+        price = slice_price(price, marketPlace)
+        return [currency, price]
+
+    except:
+        return ["NA", "NA"]
+
+
+def get_avg_ratings(el):
+    try:
+        text = el.find_element_by_tag_name(
+            "i").get_attribute("class").split()[-1]
+        if "a-star" not in text:
+            text = el.find_elements_by_tag_name(
+                "i")[1].get_attribute("class").split()[-1]
+        text = text.split("-")
+        rating = ""
+        for x in text:
+            if x.isdigit():
+                rating += x + " "
+        return float(".".join(rating.split()))
+    except:
+        return "NA"
+
+
+def get_customer_ratings(el):
+    try:
+        ratings = el.find_elements_by_tag_name("a")[-1].text
+        if "," in ratings:
+            ratings = "".join(ratings.split(","))
+        return int(ratings)
+    except:
+        return "NA"
+
+
+def scrape_element(el, marketPlace):
+    temp = dict()
+    temp["asinCode"] = el.get_attribute("data-asin")
+    temp["htmlLinkPage"] = el.find_element_by_class_name(
+        "s-access-detail-page").get_attribute("href")
+    temp["title"] = el.find_element_by_tag_name(
+        "h2").get_attribute("data-attribute")
+    temp["currency"], temp["price"] = get_price_and_currency(el, marketPlace)
+    temp["ratingOf5stars"] = get_avg_ratings(el)
+    temp["customersReviewsCount"] = get_customer_ratings(el)
+    print(temp)
+    return temp
+
+
+def scrape_less_detailed(marketPlace, limitResults):
+    done = False
+    resultsFound = 0
+    page = 1
+    thisSearch = []
+    print("Scraping Page 1 of results")
+    while not done:
+        try:
+            el = driver.find_element_by_id("result_" + str(resultsFound))
+            if limitResults == -1 or resultsFound < limitResults:
+                thisSearch.append(scrape_element(el, marketPlace))
+            resultsFound += 1
+        except:
+            try:
+                driver.get(driver.find_element_by_id(
+                    "pagnNextLink").get_attribute("href"))
+                page += 1
+                print("Scraping Page " + str(page) + " of results")
+            except:
+                done = True
+    return [thisSearch, resultsFound]
+
+
+def get_description():
+    try:
+        des_div = driver.find_element_by_id("feature-bullets")
+        des_spans = des_div.find_elements_by_class_name("a-list-item")
+        description = []
+        for des in des_spans:
+            description.append(des.text)
+        description = "".join(description)
+        return description
+    except:
+        return "NA"
+
+
+def get_detailed_ratings(reviewCount):
+    try:
+        review = wait.until(
+            EC.presence_of_element_located((By.ID, "reviewsMedley")))
+        table = review.find_element_by_id("histogramTable")
+        percents = table.find_elements_by_class_name("a-text-right")
+        review_arr = []
+        for i in percents:
+            per = int(i.text[:-1])
+            review_arr.append(int(reviewCount*(per/100)))
+        ratings = dict()
+        for i in range(5):
+            ratings[str(5-i)+"stars"] = review_arr[i]
+        return ratings
+    except:
+        return "NA"
+
+
+def filter_specs(tbody):
+    heads = tbody.find_elements_by_tag_name("th")
+    values = tbody.find_elements_by_tag_name("td")
+    productSpecs = dict()
+    for i in range(len(heads)):
+        productSpecs[heads[i].text.strip()] = values[i].text.strip()
+    return productSpecs
+
+
+def get_specs():
+    tbody = ""
+    try:
+        driver.get(driver.find_element_by_id(
+            "softlinesTechnicalSpecificationsLink").get_attribute("href"))
+        tbody = driver.find_element_by_id("technicalSpecifications_section_1")
+        return filter_specs(tbody)
+    except:
+        try:
+            tbody = driver.find_element_by_id(
+                "technicalSpecifications_feature_div")
+            return filter_specs(tbody)
+        except:
+            return "NA"
+
+
+def separate_price_and_currency(value, marketPlace):
+    if "-" in value:
+        value = value.split("-")
+        value = value[0].strip()
+    if "," in value:
+        value = "".join(value.split(","))
+    if marketPlace == "US":
+        return ["USD", float(value[1:])]
+    if marketPlace == "IN":
+        return ["INR", float(value)]
+    return ["NA", "NA"]
+
+
+def scrape_also_bought_element(el, marketPlace):
+    details = dict()
+    dets = el.text.split("\n")
+    details["title"] = dets[0]
+    a = el.find_elements_by_tag_name("a")
+    try:
+        details["currency"], details["price"] = separate_price_and_currency(
+            a[-1].text, marketPlace)
+    except Exception as e:
+        print(e)
+
+    details["htmlLinkPage"] = a[0].get_attribute("href")
+    try:
+        details["ratingOf5stars"] = float(
+            a[1].get_attribute("title").split()[0])
+        details["customersReviewsCount"] = int("".join(a[2].text.split(",")))
+    except:
+        details["ratingOf5stars"] = "NA"
+        details["customerReviewsCount"] = "NA"
+    return details
+
+
+def get_lists_of_carousel(carousel, marketPlace):
+    lis = carousel.find_elements_by_tag_name("li")
+    newli = []
+    for x in lis:
+        if x.get_attribute("aria-hidden") == "true":
+            continue
+        try:
+            newli.append(scrape_also_bought_element(x, marketPlace))
+        except:
+            pass
+    return newli
+
+
+def get_also_bought(marketPlace):
+    try:
+        carousel = driver.find_element_by_id(
+            "desktop-dp-sims_purchase-similarities-sims-feature")
+        return get_lists_of_carousel(carousel, marketPlace)
+    except:
+        try:
+            carousel = driver.find_element_by_id(
+                "sp-details")
+            return get_lists_of_carousel(carousel, marketPlace)
+        except:
+            return "NA"
+
+
+def get_detailed_results(arr, marketPlace):
+    for i in range(len(arr)):
+        # get detailed versions
+        print("Getting details of", arr[i]["title"][:20])
+        driver.get(arr[i]["htmlLinkPage"])
+        arr[i]["type"] = "scrapeAmazonDetailed"
+        arr[i]["rating"] = get_detailed_ratings(
+            arr[i]["customersReviewsCount"])
+        arr[i]["description"] = get_description()
+        arr[i]["customersAlsoBought"] = get_also_bought(marketPlace)
+        arr[i]["productSpecs"] = get_specs()
+    return arr
+
+
+def open_url(marketPlace, keyword, sorter):
+    try:
+        keyword = "+".join(keyword.split())
+        if marketPlace == "US":
+            driver.get(
+                "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=" + keyword + "&sort=" + sorter)
+        else:
+            driver.get("https://www.amazon." + marketPlace.lower() +
+                       "/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=" + keyword + "&sort=" + sorter)
+        return 1
+    except:
+        return -1
+
+
+def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResults=-1):
+
+    sortArray = ["relevancerank", "popularity-rank", "price-asc-rank",
+                 "price-desc-rank", "review-rank", "date-desc-rank"]
+
+    sorter = sortArray[sortBy]
+
+    # go to the respective marketPlace
+    for marketPlace in marketPlaces:
+
+        # search each keyword
+        for keyword in keywords:
+            print("Searching " + keyword + " in " + marketPlace)
+
+            # open the url for searching the keyword
+            if open_url(marketPlace, keyword, sorter) == -1:
+                return
+
+            # save timestamp
+            timestamp = int(time.time())
+
+            # scrape the results
+            thisSearch, totalResults = scrape_less_detailed(
+                marketPlace, limitResults)
+            for x in thisSearch:
+                x["timestamp"] = timestamp
+                x["keyword"] = keyword
+                x["marketPlace"] = marketPlace
+                x["sortBy"] = sortBy
+                x["resultsNumber"] = totalResults
+                if limitResults == -1:
+                    x["limitResults"] = "no limit"
+                else:
+                    x["limitResults"] = limitResults
+                    thisSearch = thisSearch[:limitResults]
+                x["type"] = "scrapeAmazonSimple"
+
+            # if detailedResults
+            if detailedResults == 1:
+                thisSearch = get_detailed_results(thisSearch, marketPlace)
+
+            # add the result to the final object
+            finalObject.extend(thisSearch)
+
+
+scrapeAmazon(["sport watch"], ["US"], 0, 0, 5)
+js = json.dumps(finalObject)
 with open('result.json', 'w') as fp:
     fp.write(js)
-
-# TODO
-# - Complete customersAlsoBought
-# - Add loop for different marketplaces
