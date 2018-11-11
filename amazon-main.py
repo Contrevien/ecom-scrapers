@@ -7,11 +7,13 @@ import os
 import urllib.request
 import time
 import json
+from pymongo import MongoClient
 
 currencyMap = {
     "US": "USD",
     "IN": "INR",
-    "FR": "EUR"
+    "FR": "EUR",
+    "IT": "EUR"
 }
 
 ch = os.getcwd() + '/tools/chromedriver'
@@ -24,6 +26,11 @@ options.add_argument("--no-sandbox")
 options.add_argument("log-level=3")
 driver = webdriver.Chrome(options=options, executable_path=ch)
 wait = WebDriverWait(driver, 10)
+
+client = MongoClient(port=27017)
+mydb = client.amazon
+mycol = mydb['scrapeAmazon']
+
 finalObject = []
 matchWord = []
 errors = []
@@ -35,7 +42,7 @@ def slice_price(price, marketPlace):
         if "," in price[0]:
             price[0] = "".join(price[0].split(","))
         return float(".".join(price))
-    elif marketPlace == "FR":
+    elif marketPlace == "FR" or marketPlace == "IT":
         price = price.split()[1:]
         final = ".".join(price[-1].split(","))
         final = "".join(price[:-1]) + final
@@ -96,21 +103,22 @@ def get_customer_ratings(el):
         return "NA"
 
 
-def scrape_element(el, marketPlace):
+def scrape_element(el, marketPlace, timestamp, detailedResults):
     temp = dict()
     temp["asinCode"] = el.get_attribute("data-asin")
     temp["htmlLinkPage"] = el.find_element_by_class_name(
         "s-access-detail-page").get_attribute("href")
     temp["title"] = el.find_element_by_tag_name(
         "h2").get_attribute("data-attribute")
-    temp["currency"], temp["price"] = get_price_and_currency(el, marketPlace)
-    temp["ratingOf5stars"] = get_avg_ratings(el)
-    temp["customersReviewsCount"] = get_customer_ratings(el)
-    print(temp)
+    temp["currency"], price = get_price_and_currency(el, marketPlace)
+    temp["prices"] = [{"price": price, "timestamp": timestamp}]
+    if detailedResults != 1:
+        temp["ratings"] = [{"ratingOf5Stars": get_avg_ratings(el), "timestamp": timestamp}]
+    temp["customersReviewsCounts"] = [{"customersReviewsCount": get_customer_ratings(el), "timestamp": timestamp}]
     return temp
 
 
-def scrape_less_detailed(marketPlace, limitResults):
+def scrape_less_detailed(marketPlace, limitResults, timestamp, detailedResults):
     done = False
     resultsFound = 0
     page = 1
@@ -119,8 +127,8 @@ def scrape_less_detailed(marketPlace, limitResults):
     while not done:
         try:
             el = driver.find_element_by_id("result_" + str(resultsFound))
-            if limitResults == -1 or resultsFound < limitResults:
-                thisSearch.append(scrape_element(el, marketPlace))
+            if limitResults == 0 or resultsFound < limitResults:
+                thisSearch.append(scrape_element(el, marketPlace, timestamp, detailedResults))
             resultsFound += 1
         except:
             try:
@@ -193,12 +201,20 @@ def separate_price_and_currency(value, marketPlace):
     if "-" in value:
         value = value.split("-")
         value = value[0].strip()
-    if "," in value:
-        value = "".join(value.split(","))
     if marketPlace == "US":
+        if "," in value:
+            value = "".join(value.split(","))
         return ["USD", float(value[1:])]
     if marketPlace == "IN":
+        if "," in value:
+            value = "".join(value.split(","))
         return ["INR", float(value)]
+    if marketPlace == "FR" or marketPlace == "IT":
+        value = value.split()[1:]
+        value = "".join(value)
+        value = ".".join(value.split(","))
+        return ["EUR", float(value)]
+
     return ["NA", "NA"]
 
 
@@ -208,19 +224,20 @@ def scrape_also_bought_element(el, marketPlace):
     details["title"] = dets[0]
     a = el.find_elements_by_tag_name("a")
     try:
-        details["currency"], details["price"] = separate_price_and_currency(
-            a[-1].text, marketPlace)
-    except Exception as e:
-        print(e)
+        for span in el.find_elements_by_tag_name("span"):
+            if "a-color-price" in span.get_attribute("class"):
+                details["currency"], details["price"] = separate_price_and_currency(
+                    span.text, marketPlace)
+    except:
+        details["currency"], details["price"] = ["NA", "NA"]
 
     details["htmlLinkPage"] = a[0].get_attribute("href")
+    details["ratingOf5stars"] = get_avg_ratings(el)
     try:
-        details["ratingOf5stars"] = float(
-            a[1].get_attribute("title").split()[0])
-        details["customersReviewsCount"] = int("".join(a[2].text.split(",")))
+        details["customersReviewsCount"] = int(
+            "".join(a[-2].text.split(",")))
     except:
-        details["ratingOf5stars"] = "NA"
-        details["customerReviewsCount"] = "NA"
+        details["customersReviewsCount"] = "NA"
     return details
 
 
@@ -243,22 +260,16 @@ def get_also_bought(marketPlace):
             "desktop-dp-sims_purchase-similarities-sims-feature")
         return get_lists_of_carousel(carousel, marketPlace)
     except:
-        try:
-            carousel = driver.find_element_by_id(
-                "sp-details")
-            return get_lists_of_carousel(carousel, marketPlace)
-        except:
-            return "NA"
+        return "NA"
 
 
-def get_detailed_results(arr, marketPlace):
+def get_detailed_results(arr, marketPlace, timestamp):
     for i in range(len(arr)):
         # get detailed versions
         print("Getting details of", arr[i]["title"][:20])
         driver.get(arr[i]["htmlLinkPage"])
         arr[i]["type"] = "scrapeAmazonDetailed"
-        arr[i]["rating"] = get_detailed_ratings(
-            arr[i]["customersReviewsCount"])
+        arr[i]["ratings"] = [{ "rating": get_detailed_ratings(arr[i]["customersReviewsCounts"][0]["customersReviewsCount"]), "timestamp": timestamp }]
         arr[i]["description"] = get_description()
         arr[i]["customersAlsoBought"] = get_also_bought(marketPlace)
         arr[i]["productSpecs"] = get_specs()
@@ -279,7 +290,7 @@ def open_url(marketPlace, keyword, sorter):
         return -1
 
 
-def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResults=-1):
+def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResults=0):
 
     sortArray = ["relevancerank", "popularity-rank", "price-asc-rank",
                  "price-desc-rank", "review-rank", "date-desc-rank"]
@@ -302,15 +313,15 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
 
             # scrape the results
             thisSearch, totalResults = scrape_less_detailed(
-                marketPlace, limitResults)
+                marketPlace, limitResults, timestamp, detailedResults)
             for x in thisSearch:
                 x["timestamp"] = timestamp
                 x["keyword"] = keyword
                 x["marketPlace"] = marketPlace
                 x["sortBy"] = sortBy
-                x["resultsNumber"] = totalResults
-                if limitResults == -1:
-                    x["limitResults"] = "no limit"
+                x["resultsNumber"] = [{"resultsCount": totalResults, "timestamp": timestamp}]
+                if limitResults == 0:
+                    x["limitResults"] = 0
                 else:
                     x["limitResults"] = limitResults
                     thisSearch = thisSearch[:limitResults]
@@ -318,13 +329,13 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
 
             # if detailedResults
             if detailedResults == 1:
-                thisSearch = get_detailed_results(thisSearch, marketPlace)
+                thisSearch = get_detailed_results(thisSearch, marketPlace, timestamp)
 
             # add the result to the final object
             finalObject.extend(thisSearch)
 
 
-scrapeAmazon(["sport watch"], ["US"], 0, 0, 5)
+scrapeAmazon(["sport watch"], ["US"], 0, 1)
 js = json.dumps(finalObject)
 with open('result.json', 'w') as fp:
     fp.write(js)
