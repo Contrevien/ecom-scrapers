@@ -33,6 +33,10 @@ finalObject = []
 errors = {}
 deparmentsHistory = ["Base"]
 
+client = MongoClient(
+    'mongodb://developer:5cr4p3r18@devserver.nulabs.it:27027/scraperDb')
+scraperDb = client.scraperDb
+
 
 def open_url(marketPlace):
     try:
@@ -79,12 +83,14 @@ def slice_price(value, marketPlace):
 
 
 def store_data():
-    if len(errors) != 0:
-        finalObject.insert(0, errors)
-    json_data = json.dumps(finalObject)
-    with open('test.json', 'w') as f:
-        f.write(json_data)
-    driver.quit()
+    # if len(errors) != 0:
+    #     finalObject.insert(0, errors)
+    # json_data = json.dumps(finalObject)
+    # with open('test.json', 'w') as f:
+    #     f.write(json_data)
+    # driver.quit()
+    for x in finalObject:
+        scraperDb.bestSellers.insert_one(x)
 
 
 def scrape_element(el, marketPlace, limitResults):
@@ -94,9 +100,14 @@ def scrape_element(el, marketPlace, limitResults):
         sys.exit()
     obj = {}
     obj["department"] = deparmentsHistory[1]
-    if len(deparmentsHistory) >= 2:
-        for i in range(len(deparmentsHistory[2:])):
-            obj["sub"*(i+1) + "department"] = deparmentsHistory[i+2]
+    try:
+        obj["subDepartment"] = deparmentsHistory[2]
+    except:
+        obj["subDepartment"] = ""
+    try:
+        obj["subSubDepartment"] = deparmentsHistory[3]
+    except:
+        obj["subSubDepartment"] = ""
     obj["type"] = "amazonBestSellers"
     obj["marketPlace"] = marketPlace
     obj["timestamp"] = timestamp
@@ -228,28 +239,15 @@ def amazonBestSellers(departments, marketPlaces, limitResults=0):
 
 
 test = {
+    "Computers & Accessories": {
+        "Desktops": dict(),
+    },
     "Amazon Devices & Accessories": {
         "Amazon Devices": {
             "Home Security from Amazon": dict(),
-            "Amazon Echo & Alexa Devices": dict(),
-            "Dash Buttons": {
-                "Baby & Kids": dict(),
-                "Beauty": dict(),
-                "Beverages": dict(),
-            },
-        },
-        "Amazon Device Accessories": {
-            "Adapters & Connectors": dict(),
-            "Alexa Gadgets": dict(),
-            "Audio": dict(),
         },
     },
-    "Computers & Accessories": {
-        "Desktops": dict(),
-        "Laptops": dict(),
-        "Tablets": dict(),
-    }
 }
 
-amazonBestSellers(test, ["US"], 10)
+amazonBestSellers(test, ["US"])
 store_data()

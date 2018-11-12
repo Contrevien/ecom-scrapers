@@ -28,11 +28,9 @@ driver = webdriver.Chrome(options=options, executable_path=ch)
 wait = WebDriverWait(driver, 10)
 
 client = MongoClient('mongodb://developer:5cr4p3r18@devserver.nulabs.it:27027/scraperDb')
-mydb = client.scaperDb
-mycol = mydb['amazon']
+scraperDb = client.scraperDb
 
 finalObject = []
-matchWord = []
 errors = []
 
 
@@ -115,6 +113,7 @@ def scrape_element(el, marketPlace, timestamp, detailedResults):
     if detailedResults != 1:
         temp["ratings"] = [{"ratingOf5Stars": get_avg_ratings(el), "timestamp": timestamp}]
     temp["customersReviewsCounts"] = [{"customersReviewsCount": get_customer_ratings(el), "timestamp": timestamp}]
+
     return temp
 
 
@@ -331,11 +330,11 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
                 thisSearch = get_detailed_results(thisSearch, marketPlace, timestamp)
 
             for x in thisSearch:
-                mydb.mycol.insert_one(x)
-            
+                scraperDb.amazonSimpleProducts.insert_one(x)
+
             # add the result to the final object
             finalObject.extend(thisSearch)
 
-
-scrapeAmazon(["sport watch"], ["US"], 0, 1)
+print(finalObject)
+scrapeAmazon(["sport watch"], ["US"], 0, 0)
 
