@@ -95,9 +95,13 @@ def store_data():
     #     f.write(json_data)
     # driver.quit()
     for x in bestSellers:
-        a = scraperDb.bestSellers.find({"asinCode": x["asinCode"]})
-        if not a.count():
-            scraperDb.bestSellers.insert_one(x)
+        scraperDb.bestSellers.insert_one(x)
+    for x in scraperDb.errors.find({"type": "bestSellers"}):
+        y = x.copy()
+        if len(errors) != 0:
+            errors["timestamp"] = timestamp
+            y["errors"].append(errors)
+            scraperDb.errors.find_one_and_replace({"type": "bestSellers"}, y)
 
 
 def scrape_element(el, marketPlace, limitResults):
@@ -131,9 +135,16 @@ def scrape_element(el, marketPlace, limitResults):
             errors["title"] += 1
         else:
             errors["title"] = 1
-
-    obj["htmlLinkPage"] = a[0].get_attribute("href")
-
+    try:
+        obj["htmlLinkPage"] = a[0].get_attribute("href")
+        if "htmlLink" in errors.keys():
+            errors["htmlLink"] = 0
+    except:
+        obj["htmlLinkPage"] = "NA"
+        if "htmlLink" in errors.keys():
+            errors["htmlLink"] += 1
+        else:
+            errors["htmlLink"] = 1 
     try:
         rating = a[1].get_attribute("title").split()[0]
         if marketPlace == "IT" or marketPlace == "FR":
@@ -238,10 +249,9 @@ def loop_and_open(department, value, marketPlace, limitResults):
         print("At", deparmentsHistory[-1])
 
 
-def amazonBestSellers(departments, marketPlaces, limitResults=0):
+def amazonBestSellers(departments, marketPlaces, limitResults=0, mode=1):
 
     for marketPlace in marketPlaces:
-
         if open_url(marketPlace) == -1:
             return
         print(deparmentsHistory[-1])
@@ -250,7 +260,11 @@ def amazonBestSellers(departments, marketPlaces, limitResults=0):
                 department, departments[department], marketPlace, limitResults)
         for x in bestSellers:
             x["limitResults"] = limitResults
-    store_data()
+    if mode == 1:
+        store_data()
+    else:
+        return bestSellers
+    driver.quit()
 
 
 test = {

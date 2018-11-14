@@ -23,7 +23,7 @@ scraperDb = client.scraperDb
 
 def monitorAmazon(keyowrds, marketPlaces, sortBy=0, detailedResults=0, limitResults=0):
     updatedObjects = scrapeAmazon(
-        keyowrds, marketPlaces, sortBy, detailedResults, limitResults, 2)
+        keyowrds, marketPlaces, sortBy, detailedResults, 1, 2)
     for x in updatedObjects:
         if detailedResults == 0:
             a = scraperDb.amazonSimpleProducts.find(
@@ -34,11 +34,23 @@ def monitorAmazon(keyowrds, marketPlaces, sortBy=0, detailedResults=0, limitResu
             else:
                 for y in a:
                     print("Updating", y["title"][:20])
-                    y["resultsNumber"].extend(x["resultsNumber"])
-                    y["customersReviewsCounts"].extend(
-                        x["customersReviewsCounts"])
-                    y["ratingsOf5Stars"].extend(x["ratingsOf5Stars"])
-                    y["prices"].extend(x["prices"])
+                    if y["resultsNumber"][-1]["resultsCount"] != x["resultsNumber"][-1]["resultsCount"]:
+                        y["resultsNumber"].extend(x["resultsNumber"])
+                    else:
+                        y["resultsNumber"][-1]["timestamp"] = x["resultsNumber"][-1]["timestamp"]
+                    if y["customersReviewsCounts"][-1]["customersReviewsCount"] != x["customersReviewsCounts"][-1]["customersReviewsCount"]:
+                        y["customersReviewsCounts"].extend(
+                            x["customersReviewsCounts"])
+                    else:
+                        y["customersReviewsCounts"][-1]["timestamp"] = x["customersReviewsCounts"][-1]["timestamp"]
+                    if y["ratingsOf5Stars"][-1]["ratingOf5Stars"] != x["ratingsOf5Stars"][-1]["ratingOf5Stars"]:
+                        y["ratingsOf5Stars"].extend(x["ratingsOf5Stars"])
+                    else:
+                        y["ratingsOf5Stars"][-1]["timestamp"] = x["ratingsOf5Stars"][-1]["timestamp"]
+                    if y["prices"][-1]["price"] != x["prices"][-1]["price"]:
+                        y["prices"].extend(x["prices"])
+                    else:
+                        y["prices"][-1]["timestamp"] = x["prices"][-1]["timestamp"]
                     scraperDb.amazonSimpleProducts.find_one_and_replace(
                         {"_id": y["_id"]}, y)
 
@@ -51,10 +63,26 @@ def monitorAmazon(keyowrds, marketPlaces, sortBy=0, detailedResults=0, limitResu
             else:
                 for y in a:
                     print("Updating", y["title"][:20])
-                    y["resultsNumber"].extend(x["resultsNumber"])
-                    y["customersReviewsCounts"].extend(
-                        x["customersReviewsCounts"])
-                    y["ratings"].extend(x["ratings"])
-                    y["prices"].extend(x["prices"])
+                    if y["resultsNumber"][-1]["resultsCount"] != x["resultsNumber"][-1]["resultsCount"]:
+                        y["resultsNumber"].extend(x["resultsNumber"])
+                    else:
+                        y["resultsNumber"][-1]["timestamp"] = x["resultsNumber"][-1]["timestamp"]
+                    if y["customersReviewsCounts"][-1]["customersReviewsCount"] != x["customersReviewsCounts"][-1]["customersReviewsCount"]:
+                        y["customersReviewsCounts"].extend(
+                            x["customersReviewsCounts"])
+                    else:
+                        y["customersReviewsCounts"][-1]["timestamp"] = x["customersReviewsCounts"][-1]["timestamp"]
+                    if y["ratings"][-1]["rating"] != x["ratings"][-1]["rating"]:
+                        y["ratings"].extend(x["ratings"])
+                    else:
+                        y["ratings"][-1]["timestamp"] = x["ratings"][-1]["timestamp"]
+
+                    if y["prices"][-1]["price"] != x["prices"][-1]["price"]:
+                        y["prices"].extend(x["prices"])
+                    else:
+                        y["prices"][-1]["timestamp"] = x["prices"][-1]["timestamp"]
                     scraperDb.amazonDetailedProducts.find_one_and_replace(
                         {"_id": y["_id"]}, y)
+
+
+monitorAmazon(["sport watch"], ["US"])

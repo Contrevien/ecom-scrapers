@@ -29,7 +29,8 @@ wait = WebDriverWait(driver, 10)
 
 client = MongoClient('mongodb://developer:5cr4p3r18@devserver.nulabs.it:27027/scraperDb')
 scraperDb = client.scraperDb
-errors = []
+timestamp = int(time.time())
+errors = {}
 
 
 def slice_price(price, marketPlace):
@@ -71,9 +72,14 @@ def get_price_and_currency(el, marketPlace):
         else:
             return ["NA", "NA"]
         price = slice_price(price, marketPlace)
+        if "price" in errors.keys():
+            errors["price"] = 0
         return [currency, price]
-
     except:
+        if "price" in errors.keys():
+            errors["price"] += 1
+        else:
+            errors["price"] = 1
         return ["NA", "NA"]
 
 
@@ -89,8 +95,14 @@ def get_avg_ratings(el):
         for x in text:
             if x.isdigit():
                 rating += x + " "
+        if "avg-rating" in errors.keys():
+            errors["avg-rating"] = 0
         return float(".".join(rating.split()))
     except:
+        if "avg-rating" in errors.keys():
+            errors["avg-rating"] += 1
+        else:
+            errors["avg-rating"] = 1
         return "NA"
 
 
@@ -103,8 +115,14 @@ def get_customer_ratings(el, marketPlace):
             ratings = "".join(ratings.split())
         if marketPlace == "IT":
             ratings = "".join(ratings.split("."))
+        if "crc" in errors.keys():
+            errors["crc"] = 0
         return int(ratings)
     except:
+        if "crc" in errors.keys():
+            errors["crc"] += 1
+        else:
+            errors["crc"] = 1
         return "NA"
 
 
@@ -155,8 +173,14 @@ def get_description():
         for des in des_spans:
             description.append(des.text)
         description = "".join(description)
+        if "description" in errors.keys():
+            errors["description"] = 0
         return description
     except:
+        if "description" in errors.keys():
+            errors["description"] += 1
+        else:
+            errors["description"] = 1
         return "NA"
 
 
@@ -172,8 +196,14 @@ def get_detailed_ratings():
         ratings = dict()
         for i in range(5):
             ratings[str(5-i)+"stars"] = review_arr[i]
+        if "detailed-ratings" in errors.keys():
+            errors["detailed-ratings"] = 0
         return ratings
     except:
+        if "detailed-ratings" in errors.keys():
+            errors["detailed-ratings"] += 1
+        else:
+            errors["detailed-ratings"] = 1
         return "NA"
 
 
@@ -269,8 +299,14 @@ def get_also_bought(marketPlace):
     try:
         carousel = driver.find_element_by_id(
             "desktop-dp-sims_purchase-similarities-sims-feature")
+        if "alsoBought" in errors.keys():
+            errors["alsoBought"] = 0
         return get_lists_of_carousel(carousel, marketPlace)
     except:
+        if "alsoBought" in errors.keys():
+            errors["alsoBought"] += 1
+        else:
+            errors["alsoBought"] = 1
         return "NA"
 
 
@@ -319,9 +355,6 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
             if open_url(marketPlace, keyword, sorter) == -1:
                 return
 
-            # save timestamp
-            timestamp = int(time.time())
-
             # scrape the results
             thisSearch, totalResults = scrape_less_detailed(
                 marketPlace, limitResults, timestamp, detailedResults)
@@ -353,5 +386,17 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
 
             # add the result to the final object
             finalObject.extend(thisSearch)
+    driver.quit()
+    collection = ""
+    if detailedResults == 1:
+        collection = "amazonDetailedProducts"
+    else:
+        collection = "amazonSimpleProducts"
+    for x in scraperDb.errors.find({"type": collection}):
+        y = x.copy()
+        if len(errors) != 0:
+            errors["timestamp"] = timestamp
+            y["errors"].append(errors)
+            scraperDb.errors.find_one_and_replace({"type": collection}, y)
     return finalObject
 
