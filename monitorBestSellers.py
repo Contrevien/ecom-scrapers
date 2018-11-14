@@ -58,6 +58,3 @@ def monitorBestSellers(departments, marketPlaces):
                     y["prices"][-1]["timestamp"] = x["prices"][-1]["timestamp"]
                 scraperDb.bestSellers.find_one_and_replace(
                     {"_id": y["_id"]}, y)
-
-
-monitorBestSellers(test, ["US"])

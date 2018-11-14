@@ -144,7 +144,7 @@ def scrape_element(el, marketPlace, limitResults):
         if "htmlLink" in errors.keys():
             errors["htmlLink"] += 1
         else:
-            errors["htmlLink"] = 1 
+            errors["htmlLink"] = 1
     try:
         rating = a[1].get_attribute("title").split()[0]
         if marketPlace == "IT" or marketPlace == "FR":
@@ -263,6 +263,13 @@ def amazonBestSellers(departments, marketPlaces, limitResults=0, mode=1):
     if mode == 1:
         store_data()
     else:
+        for x in scraperDb.errors.find({"type": "bestSellers"}):
+            y = x.copy()
+            if len(errors) != 0:
+                errors["timestamp"] = timestamp
+                y["errors"].append(errors)
+                scraperDb.errors.find_one_and_replace(
+                    {"type": "bestSellers"}, y)
         return bestSellers
     driver.quit()
 
