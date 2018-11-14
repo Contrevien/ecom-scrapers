@@ -29,7 +29,7 @@ driver = webdriver.Chrome(options=options, executable_path=ch)
 wait = WebDriverWait(driver, 10)
 
 timestamp = int(time.time())
-finalObject = []
+bestSellers = []
 errors = {}
 deparmentsHistory = ["Base"]
 
@@ -75,26 +75,33 @@ def slice_price(value, marketPlace):
         value = value[2:]
         value = "".join(value.split(","))
         return float(value)
-    if marketPlace == "IT" or marketPlace == "FR":
-        value = value[4:]
-        "".join(value.split())
-        ".".join(value.split(","))
-        return float(value)
+    if marketPlace == "FR":
+        price = value.split()[1:]
+        final = ".".join(price[-1].split(","))
+        final = "".join(price[:-1]) + final
+        return float(final)
+    if marketPlace == "IT":
+        price = value[4:]
+        price = "".join(price.split("."))
+        price = ".".join(price.split(","))
+        return float(price)
 
 
 def store_data():
     # if len(errors) != 0:
-    #     finalObject.insert(0, errors)
-    # json_data = json.dumps(finalObject)
+    #     bestSellers.insert(0, errors)
+    # json_data = json.dumps(bestSellers)
     # with open('test.json', 'w') as f:
     #     f.write(json_data)
     # driver.quit()
-    for x in finalObject:
-        scraperDb.bestSellers.insert_one(x)
+    for x in bestSellers:
+        a = scraperDb.bestSellers.find({"asinCode": x["asinCode"]})
+        if not a.count():
+            scraperDb.bestSellers.insert_one(x)
 
 
 def scrape_element(el, marketPlace, limitResults):
-    if limitResults != 0 and len(finalObject) == limitResults:
+    if limitResults != 0 and len(bestSellers) == limitResults:
         store_data()
         print("Limit Reached!")
         sys.exit()
@@ -128,7 +135,11 @@ def scrape_element(el, marketPlace, limitResults):
     obj["htmlLinkPage"] = a[0].get_attribute("href")
 
     try:
-        rating = float(a[1].get_attribute("title").split()[0])
+        rating = a[1].get_attribute("title").split()[0]
+        if marketPlace == "IT" or marketPlace == "FR":
+            rating = float(".".join(rating.split(",")))
+        else:
+            rating = float(rating)
         if "rating" in errors.keys():
             errors["rating"] = 0
     except:
@@ -141,7 +152,10 @@ def scrape_element(el, marketPlace, limitResults):
         {"timestamp": timestamp, "ratingOf5Stars": rating}]
 
     try:
-        crc = int("".join((a[2].text.split(","))))
+        crc = "".join((a[2].text.split(",")))
+        crc = "".join(crc.split())
+        crc = "".join(crc.split("."))
+        crc = int(crc)
         if "crc" in errors.keys():
             errors["crc"] = 0
     except:
@@ -166,7 +180,7 @@ def scrape_element(el, marketPlace, limitResults):
     obj["currency"] = currencyMap[marketPlace]
     obj["prices"] = [{"timestamp": timestamp, "price": price}]
 
-    finalObject.append(obj)
+    bestSellers.append(obj)
 
 
 def scrape_department(department, marketPlace, limitResults):
@@ -216,7 +230,7 @@ def loop_and_open(department, value, marketPlace, limitResults):
     else:
         for subdep in value.keys():
             loop_and_open(subdep, value[subdep], marketPlace, limitResults)
-        ul = wait.until(EC.presence_of_element_located(
+        wait.until(EC.presence_of_element_located(
             (By.ID, "zg_browseRoot")))
         print("Going back")
         driver.back()
@@ -234,8 +248,9 @@ def amazonBestSellers(departments, marketPlaces, limitResults=0):
         for department in departments.keys():
             loop_and_open(
                 department, departments[department], marketPlace, limitResults)
-        for x in finalObject:
+        for x in bestSellers:
             x["limitResults"] = limitResults
+    store_data()
 
 
 test = {
@@ -248,6 +263,3 @@ test = {
         },
     },
 }
-
-amazonBestSellers(test, ["US"])
-store_data()

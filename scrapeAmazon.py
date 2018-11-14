@@ -29,8 +29,6 @@ wait = WebDriverWait(driver, 10)
 
 client = MongoClient('mongodb://developer:5cr4p3r18@devserver.nulabs.it:27027/scraperDb')
 scraperDb = client.scraperDb
-
-finalObject = []
 errors = []
 
 
@@ -40,11 +38,16 @@ def slice_price(price, marketPlace):
         if "," in price[0]:
             price[0] = "".join(price[0].split(","))
         return float(".".join(price))
-    elif marketPlace == "FR" or marketPlace == "IT":
+    elif marketPlace == "FR":
         price = price.split()[1:]
         final = ".".join(price[-1].split(","))
         final = "".join(price[:-1]) + final
         return float(final)
+    elif marketPlace == "IT":
+        price = price[4:]
+        price = "".join(price.split("."))
+        price = ".".join(price.split(","))
+        return float(price)
     elif marketPlace == "IN":
         price = price.strip()
         if "," in price:
@@ -91,11 +94,15 @@ def get_avg_ratings(el):
         return "NA"
 
 
-def get_customer_ratings(el):
+def get_customer_ratings(el, marketPlace):
     try:
         ratings = el.find_elements_by_tag_name("a")[-1].text
-        if "," in ratings:
+        if marketPlace == "US" or marketPlace == "IN":
             ratings = "".join(ratings.split(","))
+        if marketPlace == "FR":
+            ratings = "".join(ratings.split())
+        if marketPlace == "IT":
+            ratings = "".join(ratings.split("."))
         return int(ratings)
     except:
         return "NA"
@@ -111,8 +118,8 @@ def scrape_element(el, marketPlace, timestamp, detailedResults):
     temp["currency"], price = get_price_and_currency(el, marketPlace)
     temp["prices"] = [{"price": price, "timestamp": timestamp}]
     if detailedResults != 1:
-        temp["ratings"] = [{"ratingOf5Stars": get_avg_ratings(el), "timestamp": timestamp}]
-    temp["customersReviewsCounts"] = [{"customersReviewsCount": get_customer_ratings(el), "timestamp": timestamp}]
+        temp["ratingsOf5Stars"] = [{"ratingOf5Stars": get_avg_ratings(el), "timestamp": timestamp}]
+    temp["customersReviewsCounts"] = [{"customersReviewsCount": get_customer_ratings(el, marketPlace), "timestamp": timestamp}]
 
     return temp
 
@@ -153,7 +160,7 @@ def get_description():
         return "NA"
 
 
-def get_detailed_ratings(reviewCount):
+def get_detailed_ratings():
     try:
         review = wait.until(
             EC.presence_of_element_located((By.ID, "reviewsMedley")))
@@ -207,9 +214,15 @@ def separate_price_and_currency(value, marketPlace):
         if "," in value:
             value = "".join(value.split(","))
         return ["INR", float(value)]
-    if marketPlace == "FR" or marketPlace == "IT":
+    if marketPlace == "FR":
         value = value.split()[1:]
         value = "".join(value)
+        value = ".".join(value.split(","))
+        return ["EUR", float(value)]
+    if marketPlace == "IT":
+        value = value.split()[1:]
+        value = value[0]
+        value = "".join(value.split("."))
         value = ".".join(value.split(","))
         return ["EUR", float(value)]
 
@@ -267,10 +280,10 @@ def get_detailed_results(arr, marketPlace, timestamp):
         print("Getting details of", arr[i]["title"][:20])
         driver.get(arr[i]["htmlLinkPage"])
         arr[i]["type"] = "scrapeAmazonDetailed"
-        arr[i]["ratings"] = [{ "rating": get_detailed_ratings(arr[i]["customersReviewsCounts"][0]["customersReviewsCount"]), "timestamp": timestamp }]
         arr[i]["description"] = get_description()
         arr[i]["customersAlsoBought"] = get_also_bought(marketPlace)
         arr[i]["productSpecs"] = get_specs()
+        arr[i]["ratings"] = [{ "rating": get_detailed_ratings(), "timestamp": timestamp }]
     return arr
 
 
@@ -288,8 +301,8 @@ def open_url(marketPlace, keyword, sorter):
         return -1
 
 
-def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResults=0):
-
+def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResults=0, mode=1):
+    finalObject = []
     sortArray = ["relevancerank", "popularity-rank", "price-asc-rank",
                  "price-desc-rank", "review-rank", "date-desc-rank"]
 
@@ -328,13 +341,17 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
             # if detailedResults
             if detailedResults == 1:
                 thisSearch = get_detailed_results(thisSearch, marketPlace, timestamp)
-
-            for x in thisSearch:
-                scraperDb.amazonSimpleProducts.insert_one(x)
+                if mode == 1:
+                    print("Storing in DB")
+                    for x in thisSearch:
+                        scraperDb.amazonDetailedProducts.insert_one(x)
+            else:
+                if mode == 1:
+                    print("Storing in DB")
+                    for x in thisSearch:
+                        scraperDb.amazonSimpleProducts.insert_one(x)
 
             # add the result to the final object
             finalObject.extend(thisSearch)
-
-print(finalObject)
-scrapeAmazon(["sport watch"], ["US"], 0, 0)
+    return finalObject
 
