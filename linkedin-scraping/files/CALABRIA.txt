@@ -1,0 +1,1732 @@
+
+Cognome-Surname;Luogo di nascita-Place of birth;Data di nascita-Date of birth;Indirizzo-Address;Delibera d'iscrizione-Subscrition resolution;Intermediario-Intermediary;Sospensione cautelare/sanzionatoria  di-Protective/penalty suspension of;Regione di residenza-Residence;;
+ABATE Viviana; Cosenza (CS); 26/08/1983; Via Mattia Preti 82-87036Rende (CS); 860 del-of 26/10/2017;   ;  ISCRITTO ; CALABRIA;
+
+ABRUZZESE Francesco; Corigliano Calabro (CS); 14/01/1968; Contrada Giannone 195-87064Corigliano Calabro (CS); 12461 del-of 29/03/2000;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+ACCURSO Massimo; Taurianova (RC); 02/05/1964; Via Aspromonte Snc-89058Favazzina (RC); 286 del-of 17/02/2011;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+ADAMO Giuseppe; Catanzaro (CZ); 03/11/1974; Via Barlaam Da Seminara 123/a-88100Catanzaro (CZ); 13096 del-of 24/04/2001;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+ADDUCI Andrea; Belvedere Marittimo (CS); 17/05/1979; Via Spallanzani 6-87027Paola (CS); 312 del-of 01/06/2011;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+ADDUCI Domenica; Burgdorf (SVIZZERA); 02/03/1969; Via Leonardo Da Vinci 2-87075Trebisacce (CS); 15925 del-of 15/05/2007;   ;  ISCRITTO ; CALABRIA;
+
+AGOSTINO Mariarita; Cosenza (CS); 17/12/1981; Via Leonardo Da Vinci 37 A-87040Castrolibero (CS); 740 del-of 23/03/2016;   ;  ISCRITTO ; CALABRIA;
+
+AIELLO Demetrio; Catona (RC); 03/11/1957; Via Statale, 91-89053Catona (RC); 13839 del-of 27/11/2002;   ;  ISCRITTO ; CALABRIA;
+
+AIELLO Gaspare Gennaro; Cosenza (CS); 19/09/1969; Via L.miceli Snc-87040Castrolibero (CS); 13736 del-of 10/09/2002;   ;  ISCRITTO ; CALABRIA;
+
+AIELLO Silvano Francesco; Cosenza (CS); 30/06/1976; Via Po 22-87036Rende (CS); 13736 del-of 10/09/2002;   ;  ISCRITTO ; CALABRIA;
+
+ALBANESE Francesca; Polistena (RC); 23/09/1978; Contrada Zammariti 28-89048Siderno (RC); 842 del-of 15/06/2017;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+ALBANESE Francesco; Cittanova (RC); 22/07/1973; Via G. Galilei, 56-89022Cittanova (RC); 13096 del-of 24/04/2001;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+ALBANESE Vincenzo; Marina Di Gioiosa Ionica (RC); 01/01/1969; Via Roma 5-89046Marina Di Gioiosa Ionica (RC); 7900 del-of 22/03/1994;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+ALBANO Gerardo; Oppido Mamertina (RC); 06/06/1962; Corso Aspromonte 220-89014Oppido Mamertina (RC); 7447 del-of 18/10/1993;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+ALCARO Alonso; Catanzaro (CZ); 20/08/1982; Via C. Colombo 17-88065Guardavalle (CZ); 89 del-of 12/11/2009;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  SOSPESO con delibera Consob n. 20217 ; CALABRIA;
+
+ALEO Salvatore; Reggio Calabria (RC); 01/07/1959; Via Carlo Rosselli 26-89124Reggio Calabria (RC); 788 del-of 30/11/2016;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+ALESSI Alessandro; Taurianova (RC); 24/07/1977; Via La Resta 16 B-89029Taurianova (RC); 774 del-of 11/10/2016;   ;  ISCRITTO ; CALABRIA;
+
+ALFANO Sandro; Longobardi (CS); 03/02/1965; Localita' Marina 95-87030Longobardi (CS); 10308 del-of 11/11/1996;   ;  ISCRITTO ; CALABRIA;
+
+ALGERI Costantino Antonio; Vibo Valentia (VV); 26/10/1967; Via S. Caterina 4-89100Reggio Calabria (RC); 16073 del-of 07/08/2007;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+ALICE Luca; Cosenza (CS); 20/04/1967; Via Chialico, 5-87050Mangone (CS); 94 del-of 12/11/2009;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+ALIQUO' Fabrizio; Reggio Calabria (RC); 12/12/1966; Via Argine Dx Annunziata 97-89100Reggio Calabria (RC); 13125 del-of 15/05/2001;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+ALLOTTA Benedetto; Catanzaro (CZ); 25/07/1963; Viale Dei Giardini 25-87027Paola (CS); 13222 del-of 01/08/2001;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+AMADDEO Maria Laura; Reggio Calabria (RC); 18/01/1971; Via Sbarre Inferiori, Dir. Vita, 12-89100Reggio Calabria (RC); 11659 del-of 20/10/1998;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+AMELIO Mario; Magisano (CZ); 14/09/1955; Via Frazione S.pietro-88050Magisano (CZ); 13887 del-of 14/01/2003;   ;  ISCRITTO ; CALABRIA;
+
+AMENDOLA Francesco; Mendicino (CS); 14/03/1948; Piazza Dell'addolorata 7-87040Mendicino (CS); 7447 del-of 18/10/1993;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+AMENDOLA Piergiuseppe; Torino (TO); 09/04/1983; Via Rizzuto 14-87040Mendicino (CS); 520 del-of 29/10/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+AMODEO Antonio; Reggio Calabria (RC); 26/07/1959; Via Armo Gallina 174-89131Reggio Calabria (RC); 832 del-of 20/04/2017;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+ANELLI Umberto; Praia A Mare (CS); 12/12/1971; Via Padula 8-87028Praia A Mare (CS); 607 del-of 16/10/2014;   ;  ISCRITTO ; CALABRIA;
+
+ANSELMO Eugenio; Grimaldi (CS); 06/11/1956; Via Monastero 5-87034Grimaldi (CS); 480 del-of 23/04/2013;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+ANTONAZZO Cesare; Paola (CS); 21/10/1948; Via Marcello Ii-88046Lamezia Terme (CZ); 16339 del-of 12/02/2008;   ;  ISCRITTO ; CALABRIA;
+
+ANTONIOZZI Stefano; Cosenza (CS); 01/12/1969; Via L. Repaci 9-87021Belvedere Marittimo (CS); 810 del-of 31/01/2017;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; CALABRIA;
+
+APRIGLIANO Rosalba; Rossano (CS); 05/11/1976; Via Domenico Frugiuele 66-87100Cosenza (CS); 837 del-of 23/05/2017;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; CALABRIA;
+
+APRILE Antonella; Cassano All'ionio (CS); 04/03/1969; Viale Kennedy, 11-87075Trebisacce (CS); 10556 del-of 03/03/1997;   ;  ISCRITTO ; CALABRIA;
+
+ARCANO Pasquale Paolo Giacomo; Reggio Calabria (RC); 01/07/1966; Via San Giuseppe 26-89132Reggio Calabria (RC); 591 del-of 23/06/2014;   ;  ISCRITTO ; CALABRIA;
+
+ARCURI Giovanna; Carlopoli (CZ); 16/09/1962; Via S. Miceli 12-88046Lamezia Terme (CZ); 9141 del-of 27/03/1995;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+ARENA Giancarlo; Tropea (VV); 11/06/1971; Contrada Ferrovia Via Massara 8-89861Tropea (VV); 465 del-of 12/02/2013;   ;  ISCRITTO ; CALABRIA;
+
+ARENA Giuseppe; Palmi (RC); 14/09/1979; Via Toscanini 11-89013Gioia Tauro (RC); 16393 del-of 18/03/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+ARICO' Domenico; Basilea (SVIZZERA); 09/08/1966; Via Straorino 78-89126Reggio Calabria (RC); 6622 del-of 24/11/1992;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+ARIELLO Antonio; Cosenza (CS); 15/06/1964; Via Della Resistenza 198-87036Commenda (CS); 11310 del-of 31/03/1998;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+ARPAIA Giuditta; Siderno (RC); 29/06/1956; Via Feudo Vecchio 3-89048Siderno (RC); 670 del-of 28/05/2015;   IW BANK SPA;  ISCRITTO ; CALABRIA;
+
+ARTUSO Massimiliano; Cosenza (CS); 18/05/1967; Via Della Vittoria, 10-87100Cosenza (CS); 11963 del-of 11/05/1999;   ;  ISCRITTO ; CALABRIA;
+
+ASSISI Maurizio; Reggio Calabria (RC); 03/11/1973; Via Marina Scalo F.s.-89868Zambrone (VV); 13222 del-of 01/08/2001;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+ATTANASIO Danilo; Catanzaro (CZ); 30/04/1968; Viale Pio X 216-88100Catanzaro (CZ); 8093 del-of 01/06/1994;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+AUGELLO Raffaele; Catanzaro (CZ); 20/07/1962; Via Savutano 55-88046Lamezia Terme (CZ); 571 del-of 08/04/2014;   ;  ISCRITTO ; CALABRIA;
+
+AURELIO Pasquale; Albidona (CS); 10/07/1958; Via Armando Diaz 7-87070Albidona (CS); 323 del-of 18/07/2011;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+AZZARA' Pietro; Reggio Calabria (RC); 24/08/1966; Via Santa Lucia 38-89100Reggio Calabria (RC); 16339 del-of 12/02/2008;   UNICREDIT SPA;  ISCRITTO ; CALABRIA;
+
+BADAGLIACCA Giuseppe; Roma (RM); 20/09/1963; Via Generale Paolo Tommasini 1/d-89127Reggio Calabria (RC); 5913 del-of 08/01/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; CALABRIA;
+
+BARATTA Linda; Edmonton (CANADA); 28/05/1975; Via Verticelli 31-87050Casole Bruzio (CS); 686 del-of 30/07/2015;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+BARBA CASTAGNARO Giuseppe; Lamezia Terme (CZ); 11/01/1971; Via Salvatore Raffaele 21-88046Lamezia Terme (CZ); 12298 del-of 04/01/2000;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+BARBA Mariangela; Vibo Valentia (VV); 12/01/1966; C.so Vittoro Emanuele Iii, 73-89900Vibo Valentia (VV); 11083 del-of 09/12/1997;   ;  ISCRITTO ; CALABRIA;
+
+BARBARO Claudia; Catanzaro (CZ); 28/05/1980; Via Fiume Neto 37/d-88100Catanzaro (CZ); 286 del-of 17/02/2011;   ;  ISCRITTO ; CALABRIA;
+
+BARBAROSSA Ernesto; Cosenza (CS); 13/08/1985; Via Leonardo Da Vinci 14 P.zzi Grimoli Corpo G-87036Quattromiglia (CS); 502 del-of 23/07/2013;   ;  ISCRITTO ; CALABRIA;
+
+BARBAROSSA Ernesto; Cosenza (CS); 07/09/1957; Via Leonardo Da Vinci 10-87040Mendicino (CS); 12672 del-of 19/07/2000;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+BARBAROSSA Roberto; Cosenza (CS); 20/05/1968; Via Luigi Maria Greco 8-87100Cosenza (CS); 904 del-of 16/04/2018;   ;  ISCRITTO ; CALABRIA;
+
+BARBERI Vincenzo; Vibo Valentia (VV); 12/12/1949; Via Alcide De Gasperi 83/a-89900Vibo Valentia (VV); 497 del-of 09/07/2013;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+BARBERIO Eugenio; Nicastro (CZ); 14/11/1965; Via Falcone E Borsellino 23-87040Marano Principato (CS); 9141 del-of 27/03/1995;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+BARBERIO Gianfranco; Nicastro (CZ); 09/05/1962; Via Francesco Ferlaino 3-88040Pianopoli (CZ); 16139 del-of 09/10/2007;   ;  ISCRITTO ; CALABRIA;
+
+BARBERIO Sandra; Lamezia Terme (CZ); 20/08/1985; Via Giuseppina De Stefani 3-88046Lamezia Terme (CZ); 591 del-of 23/06/2014;   ;  ISCRITTO ; CALABRIA;
+
+BARBIERI Giuseppe; Davoli (CZ); 24/03/1969; Via San Giuseppe Moscati 17-88068Soverato (CZ); 611 del-of 28/10/2014;   ;  ISCRITTO ; CALABRIA;
+
+BARBIERI Luca; Cosenza (CS); 20/10/1981; Via Gelsi 32-87010Sartano (CS); 788 del-of 30/11/2016;   ;  ISCRITTO ; CALABRIA;
+
+BARBIERI Roberto; Rossano (CS); 08/07/1970; Contrada Gammicella Snc-87067Rossano (CS); 16252 del-of 11/12/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+BARBIERI Rosaria; Reggio Calabria (RC); 16/08/1989; Via G. Marconi 103-89018Villa San Giovanni (RC); 713 del-of 18/12/2015;   ;  ISCRITTO ; CALABRIA;
+
+BARBUTO Franco Gerardo; Argusto (CZ); 08/03/1951; Via Gradini Torre 24-88068Soverato (CZ); 140 del-of 19/02/2010;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+BARILE Antonio; San Giovanni In Fiore (CS); 26/07/1959; Viale Della Repubblica 130-87055San Giovanni In Fiore (CS); 13521 del-of 16/04/2002;   ;  ISCRITTO ; CALABRIA;
+
+BARILLA' Giuseppe; Gioia Tauro (RC); 17/07/1956; Via 25 Aprile 28-89017San Giorgio Morgeto (RC); 11879 del-of 17/03/1999;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+BARLETTA Domenico; Castrovillari (CS); 05/01/1964; Via Xx Settembre 22-87012Castrovillari (CS); 11261 del-of 03/03/1998;   ;  ISCRITTO ; CALABRIA;
+
+BARONE Emma; Rogliano (CS); 04/06/1982; Via Lara 14-87054Rogliano (CS); 295 del-of 24/03/2011;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+BARRANCA Martino; Siderno (RC); 12/06/1983; Via Cerchietto 43-89048Siderno (RC); 666 del-of 14/05/2015;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+BARTOLOMEO Gennaro; Cosenza (CS); 11/11/1972; Via S.chiara, 6 - Stazione-87064Corigliano Calabro (CS); 12731 del-of 26/09/2000;   ;  ISCRITTO ; CALABRIA;
+
+BARTONE Vincenzo; Cosenza (CS); 22/12/1942; Via Sabotino 48-87100Cosenza (CS); 11753 del-of 21/12/1998;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; CALABRIA;
+
+BASILE Maria Domenica; Cosenza (CS); 16/10/1970; Via Panoramica, 81-87030Belsito (CS); 13764 del-of 01/10/2002;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+BATTA Daniele; Cosenza (CS); 03/09/1973; Via Don Minzoni 47/a-87036Rende (CS); 14550 del-of 11/05/2004;   ;  ISCRITTO ; CALABRIA;
+
+BATTA Nicola; Cosenza (CS); 20/07/1972; Via Giuseppe Giacomantonio 34-87100Cosenza (CS); 13434 del-of 05/02/2002;   ;  ISCRITTO ; CALABRIA;
+
+BELCASTRO Angela; Paola (CS); 07/05/1979; Corso Mazzini 11-87100Cosenza (CS); 12255 del-of 15/12/1999;   ;  ISCRITTO ; CALABRIA;
+
+BELCASTRO Biagio; Spezzano Della Sila (CS); 19/06/1948; Corso Mazzini, 11-87100Cosenza (CS); 5913 del-of 08/01/1992;   ;  ISCRITTO ; CALABRIA;
+
+BELFIORE Cinzia; Cosenza (CS); 15/01/1974; Via Don Giovanni Minzoni 36-87100Cosenza (CS); 14020 del-of 08/04/2003;   ;  ISCRITTO ; CALABRIA;
+
+BELLEZZA Edoardo; Vibo Valentia (VV); 17/02/1963; Via Apostoli 9-89812Pizzo (VV); 9690 del-of 27/12/1995;   DEUTSCHE BANK SPA;  ISCRITTO ; CALABRIA;
+
+BELLINI Michele; Siena (SI); 06/05/1972; Via S. Sperato 30-89100Reggio Calabria (RC); 16307 del-of 22/01/2008;   ;  ISCRITTO ; CALABRIA;
+
+BENCARDINO Daniela; Belvedere Marittimo (CS); 03/10/1969; Via G. Da Fiore, 11-87021Belvedere Marittimo (CS); 10556 del-of 03/03/1997;   IW BANK SPA;  ISCRITTO ; CALABRIA;
+
+BENINCASA Giuseppe Luca; Nicastro (CZ); 02/10/1966; Via Bezzecca 13-88046Lamezia Terme (CZ); 12924 del-of 17/01/2001;   ;  ISCRITTO ; CALABRIA;
+
+BENTIVEDO Angelica; Cosenza (CS); 13/08/1972; Vico I La Motta 1-87043Bisignano (CS); 15638 del-of 28/11/2006;   ;  ISCRITTO ; CALABRIA;
+
+BERARDI Giuseppe; Frankfurt Am Main (GERMANIA); 16/01/1975; Viale Gramsci 172/a-88900Crotone (KR); 16139 del-of 09/10/2007;   ;  ISCRITTO ; CALABRIA;
+
+BERTUCCI Antonio Francesco; Mesoraca (KR); 13/10/1952; Via Cutro, 26-88900Crotone (KR); 9574 del-of 06/11/1995;   ;  ISCRITTO ; CALABRIA;
+
+BERTUCCI Sergio; Catanzaro (CZ); 08/08/1988; Via G. Amendola 66-88021Borgia (CZ); 740 del-of 23/03/2016;   ;  ISCRITTO ; CALABRIA;
+
+BIANCHI Giampaolo; Cosenza (CS); 14/03/1972; C.da Molara Snc-87100Cosenza (CS); 12127 del-of 15/09/1999;   ;  ISCRITTO ; CALABRIA;
+
+BOLIGNANO Floria; Reggio Calabria (RC); 23/04/1972; Via Circonvallazione Nord 1 Parco Caserta-89125Reggio Calabria (RC); 12298 del-of 04/01/2000;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+BOMBARDIERE Luigi; Ciro' (KR); 15/09/1954; Via Nicola Lapiccola 6-88900Crotone (KR); 706 del-of 12/11/2015;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+BOMBARDIERE Sergio; Ciro' Marina (KR); 25/06/1966; Via Crotone 21-88811Ciro' Marina (KR); 604 del-of 18/09/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+BOMBINO Rugiero Fioramante; Altilia (CS); 28/08/1962; Via Xxiv Maggio N.11-87100Cosenza (CS); 9141 del-of 27/03/1995;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+BONAPACE Marco; Catanzaro (CZ); 26/05/1972; Via Manganelli 13-88100Catanzaro (CZ); 12646 del-of 04/07/2000;   BPER BANCA SPA;  ISCRITTO ; CALABRIA;
+
+BORAGINA Simonbiagio; Tropea (VV); 04/01/1990; Via Crimmati 6-89817San Costantino (VV); 796 del-of 14/12/2016;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+BORRELLI Luigi; Cosenza (CS); 14/09/1984; Via Torricelli 12-87036Quattromiglia (CS); 431 del-of 16/10/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+BOSSI Giancarlo; Napoli (NA); 18/05/1966; Traversa Giuseppe Schipani 8-88100Catanzaro (CZ); 12323 del-of 19/01/2000;   ;  ISCRITTO ; CALABRIA;
+
+BOVA Carlo; Torino (TO); 09/11/1969; Via Treccarlini 2-89037Ardore Marina (RC); 507 del-of 12/09/2013;   ;  ISCRITTO ; CALABRIA;
+
+BOVA Marco; Reggio Calabria (RC); 25/06/1965; Via Italia N. 86-89100Reggio Calabria (RC); 11261 del-of 03/03/1998;   VALORI & FINANZA INVESTIMENTI SIM S.p.A.;  ISCRITTO ; CALABRIA;
+
+BOZZO Pasquale; Cosenza (CS); 24/08/1958; Via Santo Ianni Snc-87045Laurignano (CS); 415 del-of 23/07/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+BRIA Francesco; Cosenza (CS); 27/10/1982; Via Italia 123-87040Rose (CS); 553 del-of 05/02/2014;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+BRIGANTI Adele; Scilla (RC); 14/09/1988; Via Nazionale Bolano 4-89018Villa San Giovanni (RC); 783 del-of 10/11/2016;   ;  ISCRITTO ; CALABRIA;
+
+BRUNETTI Antonio Vincenzo; Corigliano Calabro (CS); 22/06/1965; Via Pietro Francioso 6-87065Corigliano Calabro Stazione (CS); 13417 del-of 15/01/2002;   ;  ISCRITTO ; CALABRIA;
+
+BRUNO Fortunato; Corigliano Calabro (CS); 15/02/1966; Via Ii Traversa G. Verdi 254-87036Rende (CS); 860 del-of 26/10/2017;   ;  ISCRITTO ; CALABRIA;
+
+BRUNO Giovanni; Castrovillari (CS); 09/03/1984; Contrada Piana 495-87070Cerchiara Di Calabria (CS); 256 del-of 26/11/2010;   ;  ISCRITTO ; CALABRIA;
+
+BRUNO Stefania; Cosenza (CS); 20/05/1990; Contrada Pianetto 4-87044Cerisano (CS); 779 del-of 25/10/2016;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+BUCUR Cristina Patricia; Stefanesti (ROMANIA); 29/06/1974; Via Roma 16-89123Reggio Calabria (RC); 13839 del-of 27/11/2002;   ;  ISCRITTO ; CALABRIA;
+
+BURDINO Caterina; Catanzaro (CZ); 27/04/1971; Via V.alfieri, 26-88024Girifalco (CZ); 12298 del-of 04/01/2000;   ;  ISCRITTO ; CALABRIA;
+
+CACCAMO Giuseppe; Siderno (RC); 06/05/1976; Via Letticugna, 43-89048Siderno (RC); 13764 del-of 01/10/2002;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+CACCAVALE Benedetto; Cosenza (CS); 18/07/1972; Via Luigi Fera 15/b-87100Cosenza (CS); 16339 del-of 12/02/2008;   ;  ISCRITTO ; CALABRIA;
+
+CACCAVARI Simone; Catanzaro (CZ); 01/10/1988; Via Paolo Borsellino 9-88060Marina Di Davoli (CZ); 442 del-of 29/11/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CACCIATORE Vincenzo; Rogliano (CS); 26/03/1964; Viale Stazione 16-87054Rogliano (CS); 11819 del-of 03/02/1999;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+CAIRA Beniamino; Cosenza (CS); 15/09/1970; Via Tintoretto N.10/c-87036Rende (CS); 11548 del-of 21/07/1998;   ALTO ADIGE BANCA SPA;  ISCRITTO ; CALABRIA;
+
+CALABRESE Barbara; Rogliano (CS); 11/12/1982; Via Nazionale 1-87056Santo Stefano Di Rogliano (CS); 78 del-of 29/10/2009;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CALABRESE Roberto; Cosenza (CS); 22/07/1972; Via Rusoli 17-87040Castrolibero (CS); 14020 del-of 08/04/2003;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+CALABRETTA Antonio; Cosenza (CS); 15/08/1960; Via B.cellini, 29-87036Rende (CS); 13839 del-of 27/11/2002;   ;  ISCRITTO ; CALABRIA;
+
+CALABRIA Rosamaria; Novi Ligure (AL); 21/06/1976; Via Della Pace 7-87040Mendicino (CS); 832 del-of 20/04/2017;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+CALABRO' Carmine; Cassano All'ionio (CS); 21/12/1970; Contrada Donnanna Snc - Colle Pantano-87067Rossano (CS); 13448 del-of 12/02/2002;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; CALABRIA;
+
+CALABRO' Maria; Villa San Giovanni (RC); 09/09/1968; Via Nazionale 402-89018Villa San Giovanni (RC); 12603 del-of 13/06/2000;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+CALANTONI Giuseppe; Collesano (PA); 24/09/1951; Via Missori 35-89127Reggio Calabria (RC); 15748 del-of 06/02/2007;   ;  ISCRITTO ; CALABRIA;
+
+CALLEA Vincenzo; Reggio Calabria (RC); 18/05/1990; Via Matteotti 29-89044Locri (RC); 891 del-of 22/02/2018;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+CALLEGARI Arturo; Reggio Calabria (RC); 10/03/1973; Via Romana Catona 7-89053Reggio Calabria (RC); 12127 del-of 15/09/1999;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+CAMBARERI Antonino; Palmi (RC); 26/06/1980; Via Michelangelo 1-89015Palmi (RC); 78 del-of 29/10/2009;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CAMPAGNA Fabio; San Marco Argentano (CS); 01/12/1966; Via Coriolano Martiarano, 11-87018San Marco Argentano (CS); 13162 del-of 06/06/2001;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+CAMPANARO Paolino; Joppolo (VV); 04/01/1957; Via Tondo, 40-89844Nicotera (VV); 13336 del-of 14/11/2001;   ;  ISCRITTO ; CALABRIA;
+
+CANALE Francesco; Reggio Calabria (RC); 04/01/1961; Via Filippini 3 B-89125Reggio Calabria (RC); 5844 del-of 18/12/1991;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+CANALE Giuseppe; Reggio Calabria (RC); 13/01/1959; Via Aschenez 114/a-89100Reggio Calabria (RC); 6622 del-of 24/11/1992;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+CANDELIERI Debora; Cosenza (CS); 31/07/1970; Via Don Minzoni, 8-87036Rende (CS); 14187 del-of 05/08/2003;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+CANDELIERI Francesco; Cosenza (CS); 13/10/1971; Via Silvio Pellico 3-87040Castrolibero (CS); 13736 del-of 10/09/2002;   ;  ISCRITTO ; CALABRIA;
+
+CANNIZZARO Giuseppe; Reggio Calabria (RC); 11/05/1976; Via Croce Valanidi, 63c-89100Reggio Calabria (RC); 12461 del-of 29/03/2000;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CAPARELLO Antonino; Nicastro (CZ); 23/10/1965; Via Alessandro Volta 21-88046Lamezia Terme (CZ); 431 del-of 16/10/2012;   DEUTSCHE BANK SPA;  ISCRITTO ; CALABRIA;
+
+CAPELLUPO Francesco; Catanzaro (CZ); 28/09/1981; Via Laco 2-88054Sersale (CZ); 56 del-of 07/09/2009;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CAPORALE Alessandra Anna; Lamezia Terme (CZ); 27/09/1991; Via G. Di Vittorio 26-88046Lamezia Terme (CZ); 849 del-of 27/07/2017;   ;  ISCRITTO ; CALABRIA;
+
+CAPPELLANO Antonio; Reggio Calabria (RC); 28/04/1967; Via Reggio Campi 7 Rione A-89126Reggio Calabria (RC); 596 del-of 17/07/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+CAPUANO Pasquale; Cassano All'ionio (CS); 29/05/1979; Via Atene, 42-87070Sibari Stazione (CS); 13973 del-of 11/03/2003;   ;  ISCRITTO ; CALABRIA;
+
+CARACCIOLO Paolo; Villa San Giovanni (RC); 30/05/1973; Via Dei Garibaldini, 13-89053Catona (RC); 13222 del-of 01/08/2001;   ;  ISCRITTO ; CALABRIA;
+
+CARBONE Patrizia; Cosenza (CS); 17/06/1969; Via Gaspare Oliverio 6-87055San Giovanni In Fiore (CS); 11685 del-of 11/11/1998;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CARDAMONE Michele; Soveria Mannelli (CZ); 21/09/1960; Corso Luigi Fera 96-87100Cosenza (CS); 7447 del-of 18/10/1993;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CARDAMONE Stella; Catanzaro (CZ); 09/08/1989; Via Aquileia 9-88100Catanzaro (CZ); 735 del-of 25/02/2016;   ;  ISCRITTO ; CALABRIA;
+
+CARDILE Antonino; Reggio Calabria (RC); 08/03/1941; Salita Zerbi 5-89124Reggio Calabria (RC); 681 del-of 22/06/2015;   ;  ISCRITTO ; CALABRIA;
+
+CARERI Carmelo; Bagnara Calabra (RC); 22/07/1939; Via Reggio Campi I Tronco N.175-89100Reggio Calabria (RC); 12982 del-of 21/02/2001;   ;  ISCRITTO ; CALABRIA;
+
+CARIO Carmine; Cosenza (CS); 12/01/1976; Via Panebianco Snc Palazzi Citta' Nuova-87100Cosenza (CS); 12 del-of 05/03/2009;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CARLO Francesco; Reggio Calabria (RC); 09/04/1972; Via Re Umberto, 79-89135Rosali (RC); 12461 del-of 29/03/2000;   ;  ISCRITTO ; CALABRIA;
+
+CARNEVALE Orlando; Cosenza (CS); 26/07/1963; Viale Ippocrate 43-87027Paola (CS); 6849 del-of 17/02/1993;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CARNUCCIO Paolo; Locri (RC); 21/05/1968; Via S.s. 110 Ii Traversa 4-89040Monasterace Marina (RC); 12 del-of 05/03/2009;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CARNUCCIO Pietro; Badolato (CZ); 05/11/1954; Via Indipendenza, 42-88100Catanzaro (CZ); 12298 del-of 04/01/2000;   ;  ISCRITTO ; CALABRIA;
+
+CARRAVETTA Alfredo; Cosenza (CS); 22/10/1974; Via Pirelle 3-87040Castrolibero (CS); 532 del-of 20/11/2013;   ;  ISCRITTO ; CALABRIA;
+
+CARROZZA Maria Assunta; Reggio Calabria (RC); 14/09/1975; Via Abate S. Elia, 141-89100Reggio Calabria (RC); 16073 del-of 07/08/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CARUSO Giuseppe; Nicastro (CZ); 07/11/1966; C.da Sgarano 12-88046Lamezia Terme (CZ); 189 del-of 23/06/2010;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; CALABRIA;
+
+CARUSO Giuseppe; Cosenza (CS); 13/10/1965; Via Piedarmi, 18-87073Oriolo (CS); 10809 del-of 16/07/1997;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+CARUSO Pasquale; Cosenza (CS); 10/11/1988; Via Pio La Torre 36-87100Cosenza (CS); 933 del-of 12/09/2018;   ;  ISCRITTO ; CALABRIA;
+
+CASABURI Gabriele; Catanzaro (CZ); 14/07/1965; Via Onofrio Colace 2 A-88100Catanzaro (CZ); 686 del-of 30/07/2015;   ;  ISCRITTO ; CALABRIA;
+
+CASCIARO Fabrizio; Cosenza (CS); 11/04/1976; Traversa F. Caruso 19-87100Cosenza (CS); 19 del-of 08/04/2009;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+CASERTA Caterina Antonia Ippolita; Torino (TO); 24/03/1965; Via S.filomena-89018Villa San Giovanni (RC); 13125 del-of 15/05/2001;   ;  ISCRITTO ; CALABRIA;
+
+CASERTA Mariangela; Cosenza (CS); 07/10/1970; Via Muoio Grande, 17-87040Mendicino (CS); 14020 del-of 08/04/2003;   ;  ISCRITTO ; CALABRIA;
+
+CASILE Leo Giovanni; Melito Di Porto Salvo (RC); 09/03/1964; Via Iv Novembre, 15-89033Bova (RC); 12502 del-of 27/04/2000;   ;  ISCRITTO ; CALABRIA;
+
+CASTAGNA Francesco; Messina (ME); 25/10/1950; Corso Margherita Snc-89817Briatico (VV); 13211 del-of 24/07/2001;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; CALABRIA;
+
+CASTELLITI Pietro Gianfranco; Crotone (KR); 07/04/1954; Via G. Da Fiore 130 F-88900Crotone (KR); 642 del-of 12/02/2015;   ;  ISCRITTO ; CALABRIA;
+
+CASTIGLIONE Fabio; Cosenza (CS); 16/01/1969; Via A. Lanza 12-87100Cosenza (CS); 13736 del-of 10/09/2002;   ;  ISCRITTO ; CALABRIA;
+
+CATALDO Domenico; Gerace (RC); 07/08/1962; Via Duca D'aosta 3-89040Gerace (RC); 783 del-of 10/11/2016;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CATONA Stefano; Reggio Calabria (RC); 29/06/1981; Viale Aldo Moro 16 Dir. Morabito-89129Reggio Calabria (RC); 56 del-of 07/09/2009;   ;  ISCRITTO ; CALABRIA;
+
+CAVALIERE Giuseppe; Reggio Calabria (RC); 07/07/1987; Via Ravagnese Gallina 5 Primo Tratto-89131Reggio Calabria (RC); 646 del-of 26/02/2015;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+CELIA Americo; Saracena (CS); 14/05/1982; Via S.m. Maddalena 289-87010Saracena (CS); 16252 del-of 11/12/2007;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+CELIA Ieso; Catanzaro (CZ); 17/05/1967; Via Degli Ulivi, 38-89047Roccella Ionica (RC); 11169 del-of 27/01/1998;   ;  ISCRITTO ; CALABRIA;
+
+CERAUDO Armando; Fuscaldo (CS); 18/04/1965; C.da Calandrino Snc-87012Castrovillari (CS); 12298 del-of 04/01/2000;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+CERVINO Luigi Tommaso; Reggio Calabria (RC); 08/01/1980; Via Croce Valanidi C.da Trombala'12-89100Reggio Calabria (RC); 13491 del-of 19/03/2002;   ;  ISCRITTO ; CALABRIA;
+
+CERZOSIMO Aldo; Cosenza (CS); 25/07/1970; Contrada Gammicella 4-87067Rossano (CS); 691 del-of 21/09/2015;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+CHERUBINI Fulvio; Cosenza (CS); 25/07/1955; Via Montesanto 109/a-87100Cosenza (CS); 14292 del-of 04/11/2003;   ;  ISCRITTO ; CALABRIA;
+
+CHIANTELLA Giovanni; Reggio Calabria (RC); 13/03/1971; Via Gebbione 3/e-89129Reggio Calabria (RC); 13491 del-of 19/03/2002;   ;  ISCRITTO ; CALABRIA;
+
+CHIAPPETTA Andrea; Cosenza (CS); 18/11/1975; Via Giuseppe Santoro 30-87100Cosenza (CS); 312 del-of 01/06/2011;   ;  ISCRITTO ; CALABRIA;
+
+CHIAPPETTA Enrico; Fagnano Castello (CS); 19/10/1961; Via Madre Teresa Di Calcutta 16-87013Fagnano Castello (CS); 611 del-of 28/10/2014;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+CHIAPPETTA Francesca; Cosenza (CS); 01/04/1965; Viale G.mancini-pal. Edilnova,fabbricato A-87100Cosenza (CS); 16393 del-of 18/03/2008;   ;  ISCRITTO ; CALABRIA;
+
+CHILLA' Maurizio; Catanzaro (CZ); 01/02/1954; Via Stanislao De Chiara 12-88100Catanzaro (CZ); 15813 del-of 21/03/2007;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+CHIMENTI Pasquale; Corigliano Calabro (CS); 07/08/1950; Via Fontanelle 65-87064Corigliano Calabro (CS); 11753 del-of 21/12/1998;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; CALABRIA;
+
+CHIODO Antonio; Malvern (AUSTRALIA); 03/12/1965; Via Ferruccio 35-89132Reggio Calabria (RC); 16119 del-of 25/09/2007;   ;  ISCRITTO ; CALABRIA;
+
+CHIRICO Giovanni Maria; Reggio Calabria (RC); 02/03/1970; Via Ibico, 3-89100Reggio Calabria (RC); 13015 del-of 20/03/2001;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+CHIRICOLO Pasquale; Reggio Calabria (RC); 13/05/1958; Via Sabauda 130/a Fraz.salice Cal.-89100Reggio Calabria (RC); 13839 del-of 27/11/2002;   ;  ISCRITTO ; CALABRIA;
+
+CHIZZONITI Massimiliano Giuseppe; Reggio Calabria (RC); 08/07/1963; Via Esperia 29/c-89122Reggio Calabria (RC); 14137 del-of 24/06/2003;   ;  ISCRITTO ; CALABRIA;
+
+CIARDULLO Giuseppe; Dipignano (CS); 27/12/1965; Via Maroli 20-87045Dipignano (CS); 415 del-of 23/07/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CIMINO Santo; Reggio Calabria (RC); 22/08/1954; Via Giuffre' Iii Trav., 20-89134Reggio Calabria (RC); 13162 del-of 06/06/2001;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CINELLI Francesco; San Lucido (CS); 27/09/1977; Via Garibaldi 17-87038San Lucido (CS); 13736 del-of 10/09/2002;   ;  ISCRITTO ; CALABRIA;
+
+CIRILLI Nicoletta; Sorano (GR); 01/07/1956; Via Dei Latini, 22-87012Castrovillari (CS); 13162 del-of 06/06/2001;   ;  ISCRITTO ; CALABRIA;
+
+CIRINO GROCCIA Giuseppina; Cosenza (CS); 21/01/1969; Via Esperia Loc. Tivolille Snc-87040Mendicino (CS); 12461 del-of 29/03/2000;   DEUTSCHE BANK SPA;  ISCRITTO ; CALABRIA;
+
+CIVITELLI Francesca; Aiello Calabro (CS); 28/09/1962; Piazza Zumbini 46-87100Cosenza (CS); 666 del-of 14/05/2015;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+CODISPOTI Francesca; Catanzaro (CZ); 14/04/1965; Via Francesco Spasari 3-88100Catanzaro (CZ); 181 del-of 03/06/2010;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; CALABRIA;
+
+COGLIANDRO Ivana; Reggio Calabria (RC); 08/01/1969; Strada Statale 106 208/d Iv Tratto Bocale-89134Reggio Calabria (RC); 460 del-of 22/01/2013;   UNIPOL BANCA SPA;  ISCRITTO ; CALABRIA;
+
+COGLIANDRO Massimo; Melito Di Porto Salvo (RC); 26/09/1978; Corso Italia 84-89062Lazzaro (RC); 507 del-of 12/09/2013;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+COGLIANDRO Pierfrancesco; Reggio Calabria (RC); 08/10/1970; Via Argine Calopinace Dx, 64-89100Reggio Calabria (RC); 13491 del-of 19/03/2002;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+COLLIA Claudio; Vibo Valentia (VV); 04/02/1951; C.so Vittorio Emanuele Iii 227-89900Vibo Valentia (VV); 11379 del-of 12/05/1998;   ;  ISCRITTO ; CALABRIA;
+
+COLOSIMO Giuseppe; Soveria Mannelli (CZ); 08/06/1978; Via Colla Traversa,1-88049Soveria Mannelli (CZ); 16393 del-of 18/03/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+COLUCCIO Mauro; Locri (RC); 27/05/1974; C.da Rubina, 8/b-89042Gioiosa Ionica (RC); 12982 del-of 21/02/2001;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+COMI Luana; Reggio Calabria (RC); 03/11/1993; Via Modena S. Sperato 57 Ii Trav.-89133Reggio Calabria (RC); 929 del-of 25/07/2018;   ;  ISCRITTO ; CALABRIA;
+
+COMITO Angelo; Catanzaro (CZ); 19/04/1956; Via Domenico Romeo 35/b-88100Catanzaro (CZ); 13839 del-of 27/11/2002;   ;  ISCRITTO ; CALABRIA;
+
+CONDELLO Teresa Rita; Reggio Calabria (RC); 25/03/1969; Via S.santo Prol.s.anna Ii Tr .92/o-89128Reggio Calabria (RC); 12298 del-of 04/01/2000;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+CONDIPODERO Giuseppe; Reggio Calabria (RC); 30/08/1975; Via Pio Xi Diramazione Gulli' 41-89131Reggio Calabria (RC); 12924 del-of 17/01/2001;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+CONFORTI Natale Luciano; Cosenza (CS); 13/12/1968; Via Alessandro Magno 610-87036Rende (CS); 637 del-of 27/01/2015;   ;  ISCRITTO ; CALABRIA;
+
+CONVERSANO Angelo Michele; Rossano (CS); 01/07/1963; Via Normanni 96-87067Rossano (CS); 13736 del-of 10/09/2002;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+CONVERTI Francesco; Roseto Capo Spulico (CS); 30/08/1963; Via Cristoforo Colombo 4-87070Roseto Capo Spulico (CS); 713 del-of 18/12/2015;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CORDIANO Giovambattista; Lamezia Terme (CZ); 14/05/1972; Viale I Maggio Iv Trav. 23-88046Lamezia Terme (CZ); 127 del-of 18/01/2010;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+CORRADO Antonella; Cosenza (CS); 24/12/1968; Via S. Maria Delle Grazie, 3-87058Spezzano Della Sila (CS); 10173 del-of 08/08/1996;   ;  ISCRITTO ; CALABRIA;
+
+CORREALE SANTACROCE Marco; Catanzaro (CZ); 01/01/1968; Vicoletto S.maria Di Mezzogiorno, 4-88100Catanzaro (CZ); 13175 del-of 26/06/2001;   ;  ISCRITTO ; CALABRIA;
+
+CORSARO Vincenza; Reggio Calabria (RC); 18/09/1966; Contrada Gagliardi 58 A-89131Reggio Calabria (RC); 882 del-of 18/01/2018;   ;  ISCRITTO ; CALABRIA;
+
+COSCARELLA Andrea; Cosenza (CS); 04/08/1975; Via Pasquale Rossi 49-87100Cosenza (CS); 14510 del-of 06/04/2004;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+COSCARELLA Francesco; Catanzaro (CZ); 03/01/1968; Via Bruno Leoni 1-88068Soverato (CZ); 10605 del-of 24/03/1997;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+COSENTINI Rocco; Cosenza (CS); 06/02/1962; Via Fr.s.nicola-87051Aprigliano (CS); 12492 del-of 18/04/2000;   ;  ISCRITTO ; CALABRIA;
+
+COSPITO Nicola; Cosenza (CS); 19/12/1972; Via Salvatore Foderaro 112-88046Lamezia Terme (CZ); 860 del-of 26/10/2017;   BPER BANCA SPA;  ISCRITTO ; CALABRIA;
+
+COSTANTINO Francesca; Reggio Calabria (RC); 08/06/1979; Viale Europa 74 A-89129Reggio Calabria (RC); 766 del-of 28/07/2016;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+COSTANTINO Vincenzo; Reggio Calabria (RC); 07/10/1983; Viale Pio Xi Diramazione Alampi 13-89133Reggio Calabria (RC); 753 del-of 26/05/2016;   ;  ISCRITTO ; CALABRIA;
+
+COSTANZO Bartolo; Catanzaro (CZ); 08/10/1971; Via Vittorio Veneto-88100Catanzaro (CZ); 10173 del-of 08/08/1996;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+COSTANZO Giuseppe; Nicastro (CZ); 06/05/1967; Via G. Marconi 54-88046Lamezia Terme (CZ); 10433 del-of 07/01/1997;   DEUTSCHE BANK SPA;  ISCRITTO ; CALABRIA;
+
+COSTARELLA Annalisa; Reggio Calabria (RC); 29/08/1978; Via F.baracca, 28-89100Reggio Calabria (RC); 14163 del-of 09/07/2003;   ;  ISCRITTO ; CALABRIA;
+
+COTRONEO Antonio; Reggio Calabria (RC); 14/05/1983; Piazzetta Giordano Bruno 7-87040Mendicino (CS); 507 del-of 12/09/2013;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+COTRONEO Francesco; Reggio Calabria (RC); 21/05/1980; Via Sacerdote Scopelliti 7-89052Campo Calabro (RC); 591 del-of 23/06/2014;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+COZZA Fabio; Crotone (KR); 25/07/1971; Corso Mazzini-88900Crotone (KR); 14374 del-of 29/12/2003;   ;  ISCRITTO ; CALABRIA;
+
+COZZA Nicola; Cosenza (CS); 09/10/1975; Via G. De Chirico 8 Traversa 10-87036Rende (CS); 626 del-of 18/12/2014;   ;  ISCRITTO ; CALABRIA;
+
+COZZUPOLI Consolato; Reggio Calabria (RC); 17/12/1970; Via Alfonso Frangipane 19-89129Reggio Calabria (RC); 691 del-of 21/09/2015;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+CRACCO Anna; Belluno (BL); 15/07/1948; Via Berlinguer 56-88040Pianopoli (CZ); 14187 del-of 05/08/2003;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CREDIDIO Paolo; Cosenza (CS); 05/02/1964; Via Montesanto 123-87100Cosenza (CS); 686 del-of 30/07/2015;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+CRISEO Giuseppina; Reggio Calabria (RC); 24/02/1970; Via Fondo Rausi 25/a-89100Reggio Calabria (RC); 16252 del-of 11/12/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+CRISPINO Enrico; Cosenza (CS); 28/04/1978; Via Annunziata 7/f-87040Marano Principato (CS); 13336 del-of 14/11/2001;   ;  SOSPESO con delibera Consob n. 20587 ; CALABRIA;
+
+CRISTIANO Francesco; Catanzaro (CZ); 08/02/1977; Via Armando Fares 36-88100Catanzaro (CZ); 465 del-of 12/02/2013;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+CROCITTA Roberto; Reggio Calabria (RC); 13/01/1950; Via Campolo Trav. Ii 7-89064Saline Ioniche (RC); 5972 del-of 12/02/1992;   ;  ISCRITTO ; CALABRIA;
+
+CRUCITTI Claudia; Reggio Calabria (RC); 17/11/1979; Via Sbarre Centrali 170-89133Reggio Calabria (RC); 14020 del-of 08/04/2003;   ;  ISCRITTO ; CALABRIA;
+
+CRUDO Maria Neve; Tropea (VV); 01/11/1989; Via Nazionale 122-87067Rossano (CS); 759 del-of 16/06/2016;   ;  ISCRITTO ; CALABRIA;
+
+CRUPI Felice; Cinquefrondi (RC); 16/10/1976; Trav.viale Margherita-89023Laureana Di Borrello (RC); 13521 del-of 16/04/2002;   ;  ISCRITTO ; CALABRIA;
+
+CRUPI Paola; Taurianova (RC); 04/05/1978; Trav. Regina Margherita Snc-89023Laureana Di Borrello (RC); 15638 del-of 28/11/2006;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+CUCULLO Monica; Cosenza (CS); 20/10/1977; Via Don Battista Nigro, 2-87056Santo Stefano Di Rogliano (CS); 14088 del-of 27/05/2003;   ;  ISCRITTO ; CALABRIA;
+
+CUCUZZA Giovanni; Bovalino (RC); 16/03/1950; Via Garibaldi 14-89034Bovalino (RC); 7549 del-of 30/11/1993;   ALTO ADIGE BANCA SPA;  ISCRITTO ; CALABRIA;
+
+CUGLIARI Domenico; Footscray (AUSTRALIA); 24/04/1970; Viale Affaccio Snc Complesso Agora' Scala D-89900Vibo Valentia (VV); 549 del-of 16/01/2014;   ;  ISCRITTO ; CALABRIA;
+
+CUGLIARI Giuseppe; Catanzaro (CZ); 26/04/1964; Via F. Colelli 8-88046Lamezia Terme (CZ); 15813 del-of 21/03/2007;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+CUPELLO Renato; Paola (CS); 01/11/1954; V.petignomme 7 Ex Via S.salvatore-87027Paola (CS); 14326 del-of 25/11/2003;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+CURCIO Milena; Locri (RC); 08/08/1975; Via Don Vittorio Snc-89044Locri (RC); 842 del-of 15/06/2017;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+CURRO' Felice Rocco; Scilla (RC); 07/01/1959; Via Sottotenente P. Mollica, 6-89058Scilla (RC); 12127 del-of 15/09/1999;   ;  ISCRITTO ; CALABRIA;
+
+CUTRUPI Giovanna; Reggio Calabria (RC); 15/04/1966; Via Reggio Campi Ii Tronco 323 Q-89126Reggio Calabria (RC); 11267 del-of 10/03/1998;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; CALABRIA;
+
+CUZZOCREA Nicola; Reggio Calabria (RC); 09/10/1971; Via Vecchia Provinciale 155-89121Reggio Calabria (RC); 12377 del-of 16/02/2000;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+CUZZOCREA Stefano; Cosenza (CS); 11/08/1966; Viale Dei Giardini Strada G, 12-87027Paola (CS); 12502 del-of 27/04/2000;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+CUZZOLA Pasquale; Reggio Calabria (RC); 28/06/1982; Via San Cristoforo,90-89100Reggio Calabria (RC); 16393 del-of 18/03/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+D'AGRI Carlo; Cosenza (CS); 05/01/1964; Via Giuseppe Ungaretti 55-87036Rende (CS); 14638 del-of 06/07/2004;   UNIONE DI BANCHE ITALIANE SPA;  ISCRITTO ; CALABRIA;
+
+D'ANGELI Michele; Polistena (RC); 08/01/1971; Via Cutura 59-87027Paola (CS); 11261 del-of 03/03/1998;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+D'URZO Giuseppe; Tropea (VV); 29/04/1990; Via Calvario 84-89843Stefanaconi (VV); 846 del-of 06/07/2017;   ;  ISCRITTO ; CALABRIA;
+
+DANIELE Lucio; Cardinale (CZ); 02/11/1957; Via Giordano Bruno 39-88068Soverato (CZ); 12298 del-of 04/01/2000;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+DANIELE Vincenzo; Chiaravalle Centrale (CZ); 18/02/1962; Via Colombo, 85-88064Chiaravalle Centrale (CZ); 9513 del-of 16/10/1995;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+DATTOLA Maria; Reggio Calabria (RC); 09/01/1956; Via S.cristofaro Case Sparse,8-89128Reggio Calabria (RC); 7447 del-of 18/10/1993;   IW BANK SPA;  ISCRITTO ; CALABRIA;
+
+DAVOLOS Maria; Comiso (RG); 05/12/1954; Via Agesidamo N.4-89044Locri (RC); 7900 del-of 22/03/1994;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+DE BONIS Mariavittoria; Cosenza (CS); 26/06/1986; Vico 3 La Motta 9-87043Bisignano (CS); 747 del-of 28/04/2016;   ;  ISCRITTO ; CALABRIA;
+
+DE BUONO Giancarlo; Cosenza (CS); 11/07/1964; Via Nicola Serra 44-87100Cosenza (CS); 526 del-of 12/11/2013;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+DE CARLO Pierpaolo; Scalea (CS); 29/06/1969; Via Lido 13-87029Scalea (CS); 10308 del-of 11/11/1996;   ;  ISCRITTO ; CALABRIA;
+
+DE CICCO Ernesto; Mendicino (CS); 05/01/1956; Corso Luigi Fera 130-87100Cosenza (CS); 12672 del-of 19/07/2000;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+DE GREGORIO Andrea; Villa San Giovanni (RC); 07/10/1956; Via Panoramica Dello Stretto 56-89018Villa San Giovanni (RC); 5972 del-of 12/02/1992;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+DE LEONARDIS Stefano; Palmi (RC); 28/07/1970; Via Antonino Fondacaro 10-89015Palmi (RC); 11992 del-of 01/06/1999;   ;  ISCRITTO ; CALABRIA;
+
+DE MARCO Filippo; Cosenza (CS); 06/11/1977; Via Accattatis, 23-87100Cosenza (CS); 13736 del-of 10/09/2002;   ;  ISCRITTO ; CALABRIA;
+
+DE MARCO Giuseppe Armando; Reggio Calabria (RC); 23/11/1957; Contrada Falcone Fondo N. 2/c-89125Reggio Calabria (RC); 16506 del-of 10/06/2008;   ;  ISCRITTO ; CALABRIA;
+
+DE MARCO Luigi; Belvedere Marittimo (CS); 04/01/1974; Via Magrio-87020Maiera' (CS); 12298 del-of 04/01/2000;   ;  ISCRITTO ; CALABRIA;
+
+DE MARCO Maurizio; Cosenza (CS); 27/02/1956; Via Giotto, 2-87036Rende (CS); 12982 del-of 21/02/2001;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+DE MARCO Michele; Cosenza (CS); 16/10/1957; Via Viccinelli 10-87075Trebisacce (CS); 8777 del-of 22/11/1994;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+DE MARCO Roberto; Cosenza (CS); 09/04/1971; Via B. Croce 159-87040Montalto Uffugo Scalo (CS); 11310 del-of 31/03/1998;   ;  ISCRITTO ; CALABRIA;
+
+DE MARZO Marilena; Lucera (FG); 30/04/1964; Via Dei Mille I Trav.-88046Lamezia Terme (CZ); 13222 del-of 01/08/2001;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+DE MATTEO Angelo; Crotone (KR); 18/07/1971; Via Nazioni Unite 191/d-88900Crotone (KR); 13491 del-of 19/03/2002;   ;  ISCRITTO ; CALABRIA;
+
+DE MEO Caterina; Reggio Calabria (RC); 28/08/1961; Via Esperia 63-89122Reggio Calabria (RC); 666 del-of 14/05/2015;   ;  ISCRITTO ; CALABRIA;
+
+DE PASQUALE Francesca; Polistena (RC); 27/05/1985; Via Giuseppe Di Vittorio 10-89024Polistena (RC); 532 del-of 20/11/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+DE ROSE Ottavio; Cosenza (CS); 08/08/1964; Via Fratelli Cervi 20-87100Cosenza (CS); 611 del-of 28/10/2014;   ;  ISCRITTO ; CALABRIA;
+
+DE ROSE Stefania; Cosenza (CS); 27/12/1980; C.da Surda, 3-87030Belsito (CS); 12646 del-of 04/07/2000;   ;  ISCRITTO ; CALABRIA;
+
+DE RUSSIS Ernesto; Rossano (CS); 29/10/1947; Piazza Duca Degli Abbruzzi, 10-87067Rossano (CS); 13839 del-of 27/11/2002;   ;  ISCRITTO ; CALABRIA;
+
+DE SALVO Maria Luisa; Cerchiara Di Calabria (CS); 22/04/1978; Contrada Ralla 4-87064Corigliano Calabro (CS); 649 del-of 19/03/2015;   ;  ISCRITTO ; CALABRIA;
+
+DE SANDO Alessandro; Lamezia Terme (CZ); 04/06/1978; Via E. De Filippo 4-88046Sambiase (CZ); 666 del-of 14/05/2015;   ;  ISCRITTO ; CALABRIA;
+
+DE SANTIS Gianluca; Cosenza (CS); 01/01/1973; Via Risorgimento 15-87050Rovito (CS); 507 del-of 12/09/2013;   ;  ISCRITTO ; CALABRIA;
+
+DE SANTO Luigina; Morano Calabro (CS); 28/03/1964; Via Gaspare Colosimo 26 Int.2-88040Martirano Lombardo (CZ); 8093 del-of 01/06/1994;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+DE STEFANO Antonino; Reggio Calabria (RC); 16/06/1954; Vallone Croce 3-89100Reggio Calabria (RC); 14759 del-of 26/10/2004;   ;  ISCRITTO ; CALABRIA;
+
+DE STEFANO Pietro Bruno; Reggio Calabria (RC); 18/05/1952; Vico Vitetta 32-89100Reggio Calabria (RC); 16307 del-of 22/01/2008;   ;  ISCRITTO ; CALABRIA;
+
+DE VICO Domenico; Longobucco (CS); 20/07/1970; Via Sibari Snc-87046Montalto Uffugo (CS); 19 del-of 08/04/2009;   ;  ISCRITTO ; CALABRIA;
+
+DE VITA Anna; Cosenza (CS); 12/07/1968; Via Casali 112-87100Cosenza (CS); 555 del-of 27/02/2014;   ;  ISCRITTO ; CALABRIA;
+
+DELLA CANANEA Marcello; Cosenza (CS); 16/01/1967; Via Della Repubblica, 138-87100Cosenza (CS); 12127 del-of 15/09/1999;   ;  ISCRITTO ; CALABRIA;
+
+DENARDO Rocco; Acquaro (VV); 24/02/1963; Via Oleifici-89832Acquaro (VV); 12672 del-of 19/07/2000;   ;  ISCRITTO ; CALABRIA;
+
+DENISI Maurizio; Santo Stefano In Aspromonte (RC); 16/01/1961; Via Rocciolio 16-89034Bovalino (RC); 13015 del-of 20/03/2001;   ;  ISCRITTO ; CALABRIA;
+
+DI CELLO Domenico; Nicastro (CZ); 27/06/1968; Via P. Mattarella, 5-88046Lamezia Terme (CZ); 12731 del-of 26/09/2000;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+DI CICCO Leonardo; Cassano All'ionio (CS); 23/08/1963; Via Figurella Snc-87011Cassano All'ionio (CS); 13125 del-of 15/05/2001;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+DI LORENZO Maria Grazia; Reggio Calabria (RC); 07/01/1974; Via Ravagnese Gallina Ii Trav. Genovese 14-89131Reggio Calabria (RC); 11267 del-of 10/03/1998;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+DI RENDE Valentino; Fiumefreddo Bruzio (CS); 02/03/1981; Via Dario Leone 76-88046Lamezia Terme (CZ); 16584 del-of 05/08/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+DI SANTO Settimio; Fuscaldo (CS); 16/01/1963; Torretta N. 43-87024Fuscaldo (CS); 15243 del-of 06/12/2005;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+DI SPENA Angela; Nicastro (CZ); 12/04/1967; Via S. Foderaro 249-88046Lamezia Terme (CZ); 135 del-of 18/01/2010;   ;  ISCRITTO ; CALABRIA;
+
+DONATO Debora; Belvedere Marittimo (CS); 13/04/1970; Via Vetticello 117-87021Belvedere Marittimo (CS); 511 del-of 02/10/2013;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+DONNICI Luca; Cosenza (CS); 10/04/1972; Via Don Minzoni 17-87036Rende (CS); 13887 del-of 14/01/2003;   ;  ISCRITTO ; CALABRIA;
+
+DRAGO Giovanni; Taurianova (RC); 26/06/1956; Via Cappuccini N.16-89029Taurianova (RC); 7119 del-of 09/06/1993;   ;  ISCRITTO ; CALABRIA;
+
+DURANTE Giorgio; Corigliano Calabro (CS); 24/09/1980; Via Gaetano Donizetti 16-87064Corigliano-rossano (CS); 926 del-of 11/07/2018;   ;  ISCRITTO ; CALABRIA;
+
+ELIA Luigi; Cosenza (CS); 25/12/1969; Largo B. Andreatta 20-87100Cosenza (CS); 16073 del-of 07/08/2007;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+ELIA Sergio; Catanzaro (CZ); 16/12/1974; Via Delle Fonti 169/3-88050Cerva (CZ); 16073 del-of 07/08/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+ERRANTE Bruna Maria Giovanna; Reggio Calabria (RC); 13/12/1979; Via Pio Xi Diramazione Gulli' 32-89133Reggio Calabria (RC); 15543 del-of 29/08/2006;   ;  ISCRITTO ; CALABRIA;
+
+ESPOSITO Maria; Cosenza (CS); 24/06/1970; Via Francesco Acri 3-87100Cosenza (CS); 846 del-of 06/07/2017;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+ESPOSITO Massimiliano; Cosenza (CS); 14/12/1973; Via Monte Ubaldo, 18-87100Cosenza (CS); 13222 del-of 01/08/2001;   ;  ISCRITTO ; CALABRIA;
+
+ESPOSITO Sabrina; Catanzaro (CZ); 08/09/1974; Via E.dandolo, 7-88100Catanzaro (CZ); 12172 del-of 02/11/1999;   ;  ISCRITTO ; CALABRIA;
+
+FACCIOLI Alfonso Maria; Oppido Mamertina (RC); 04/08/1984; Contrada Falcone Fondo 2b-89128Reggio Calabria (RC); 666 del-of 14/05/2015;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+FALBO Emilia; Cosenza (CS); 14/09/1964; Via Calabria 18-87030Carolei (CS); 13736 del-of 10/09/2002;   ;  ISCRITTO ; CALABRIA;
+
+FALCONE Gennaro; Reggio Calabria (RC); 04/09/1971; Via Quarnaro Ii 28/b-89135Reggio Calabria (RC); 12 del-of 05/03/2009;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; CALABRIA;
+
+FALVO Paolo; Soveria Mannelli (CZ); 13/06/1983; Via Dei Mille 72-88046Nicastro (CZ); 16752 del-of 29/12/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+FAMA' Giuseppe Maria; Melito Di Porto Salvo (RC); 01/02/1967; V.augusta Trav.i Pellaro, 7-89100Reggio Calabria (RC); 10809 del-of 16/07/1997;   ;  ISCRITTO ; CALABRIA;
+
+FARINA Cristina; Lamezia Terme (CZ); 18/04/1983; Via Cona,2-89813Polia (VV); 16393 del-of 18/03/2008;   ;  ISCRITTO ; CALABRIA;
+
+FAVASULI Saverio; Reggio Calabria (RC); 15/12/1980; Via Marra Privata 23-89135Reggio Calabria (RC); 713 del-of 18/12/2015;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+FEDELE Dario; Oppido Mamertina (RC); 18/04/1991; Corso Garibaldi 527-89127Reggio Calabria (RC); 747 del-of 28/04/2016;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+FEMIA Alessandro; Locri (RC); 04/11/1987; Via Garibaldi 197-89044Locri (RC); 502 del-of 23/07/2013;   ;  ISCRITTO ; CALABRIA;
+
+FERRAGINA Maurizio; Catanzaro (CZ); 06/09/1967; Via Milano Snc-88060Satriano (CZ); 12502 del-of 27/04/2000;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+FERRAGINA Rosario; Borgia (CZ); 04/01/1943; Via Martiri Di Gerace, 17-88100Catanzaro (CZ); 12837 del-of 28/11/2000;   ;  ISCRITTO ; CALABRIA;
+
+FERRARA Carmelo Domenico; Melito Di Porto Salvo (RC); 06/09/1978; Via Lagana' Privata 3-89121Reggio Calabria (RC); 816 del-of 22/02/2017;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+FERRARA Damiano Felice; Stilo (RC); 27/09/1967; Via Trastevere 130/4-89047Roccella Ionica (RC); 13521 del-of 16/04/2002;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+FERRARA Leandra; Melito Di Porto Salvo (RC); 25/04/1975; Via Pio Xi Diramazione Gulli 36/c-89100Reggio Calabria (RC); 13736 del-of 10/09/2002;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+FERRARA Vincenzo; Reggio Calabria (RC); 17/01/1969; Via San Nicola Ii Traversa Snc-89866Santa Domenica (VV); 6622 del-of 24/11/1992;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+FERRARA Vittoria; Cariati (CS); 08/12/1982; Via Nazioni Unite 210-88900Crotone (KR); 16252 del-of 11/12/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+FERRARI Michele; Messina (ME); 14/03/1973; Contrada Cardona 1-89029Taurianova (RC); 13887 del-of 14/01/2003;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+FERRARI Roberto; Castrovillari (CS); 27/08/1954; Via Del Pino Loricato 24/d-87012Castrovillari (CS); 12502 del-of 27/04/2000;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+FILIANOTI Natalia; Reggio Calabria (RC); 15/09/1977; Via G.melacrino 70-89100Reggio Calabria (RC); 16393 del-of 18/03/2008;   ;  ISCRITTO ; CALABRIA;
+
+FILIANOTI Pasquale Walter; Reggio Calabria (RC); 12/08/1975; Via Fata Morgana 45-89125Reggio Calabria (RC); 13887 del-of 14/01/2003;   ;  ISCRITTO ; CALABRIA;
+
+FILIANOTI Vittorio; Reggio Calabria (RC); 01/03/1972; Via Quarnaro I 17-89135Reggio Calabria (RC); 611 del-of 28/10/2014;   ;  ISCRITTO ; CALABRIA;
+
+FILICE Angela; Soveria Mannelli (CZ); 12/05/1977; Via Santa Maria 36-87056Santo Stefano Di Rogliano (CS); 929 del-of 25/07/2018;   ;  ISCRITTO ; CALABRIA;
+
+FILICE Bruno; Cosenza (CS); 16/03/1947; Via Lazio 8-87030Carolei (CS); 747 del-of 28/04/2016;   ;  ISCRITTO ; CALABRIA;
+
+FILICE Francesco; Cosenza (CS); 14/04/1969; Via Paolo Orsi 5 F-88100Catanzaro (CZ); 686 del-of 30/07/2015;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+FILIPPELLI Gianluca; Cosenza (CS); 26/05/1974; Via Ugo Spirito 109-87100Cosenza (CS); 13125 del-of 15/05/2001;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+FILOCAMO Antonio Francesco; Reggio Calabria (RC); 01/04/1976; Via Ravagnese Gallina Ii Tratto 165/b-89131Reggio Calabria (RC); 13096 del-of 24/04/2001;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+FLOCCARI Giovanni; Reggio Calabria (RC); 23/09/1966; Via Ciccarello 20/c-89132Reggio Calabria (RC); 7119 del-of 09/06/1993;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+FONTANA Giuseppe; Reggio Calabria (RC); 30/10/1971; Via Silipi 13-89135Reggio Calabria (RC); 10076 del-of 24/06/1996;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+FONTANA Salvatore; Rossano (CS); 11/09/1975; Via Antonio Pigafetta Snc-87067Rossano (CS); 13736 del-of 10/09/2002;   ;  ISCRITTO ; CALABRIA;
+
+FORESTIERO Antonio Ciriaco; Bedford (REGNO UNITO); 16/06/1969; Via Sandro Botticelli 3-87036Rende (CS); 11992 del-of 01/06/1999;   ;  ISCRITTO ; CALABRIA;
+
+FRAGOMENO Emilia Carmela; Reggio Calabria (RC); 05/09/1964; Viale Europa 56-89132Reggio Calabria (RC); 489 del-of 04/06/2013;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+FRANCO Angelaraffaela; Cosenza (CS); 25/11/1986; Corso Vittorio Emanuele Iii 6-87075Trebisacce (CS); 691 del-of 21/09/2015;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+FRANCO Tommaso; Reggio Calabria (RC); 13/07/1983; Via Xxi Agosto 32-89127Reggio Calabria (RC); 15543 del-of 29/08/2006;   ;  ISCRITTO ; CALABRIA;
+
+FRANZESE Nicodemo; Napoli (NA); 28/02/1987; Contrada Cardame Snc-87064Corigliano Calabro (CS); 759 del-of 16/06/2016;   ;  ISCRITTO ; CALABRIA;
+
+FRESCA Nicola; San Costantino Calabro (VV); 06/01/1954; Via Drosi 66-88060Satriano (CZ); 681 del-of 22/06/2015;   ;  ISCRITTO ; CALABRIA;
+
+FROIO Daniela; Catanzaro (CZ); 09/12/1982; Via Dei Carri Sud 63-88054Sersale (CZ); 403 del-of 31/05/2012;   ;  ISCRITTO ; CALABRIA;
+
+FRUGIUELE Roberto; Cosenza (CS); 15/09/1950; Via Aversa Precenzano 12-88046Nicastro (CZ); 540 del-of 19/12/2013;   ;  ISCRITTO ; CALABRIA;
+
+FUOCO Vincenzo; Scigliano (CS); 29/11/1959; Via Municipio 2 A-87057Scigliano (CS); 16608 del-of 02/09/2008;   ;  ISCRITTO ; CALABRIA;
+
+FURFARO Federico; Palmi (RC); 14/10/1967; Via Veneto 8-89015Palmi (RC); 13887 del-of 14/01/2003;   ;  ISCRITTO ; CALABRIA;
+
+GAETANO Alfonso; Crotone (KR); 19/04/1959; Via Gioacchino Da Fiore 250-88900Crotone (KR); 8418 del-of 20/09/1994;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+GAGLIARDI Antonio; Catanzaro (CZ); 10/05/1965; Via Lacquari Snc-89900Vibo Valentia (VV); 392 del-of 05/04/2012;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+GAGLIARDI Vitaliano; Catanzaro (CZ); 18/02/1956; Via Brigata Catanzaro, 10-88100Catanzaro (CZ); 13839 del-of 27/11/2002;   ;  ISCRITTO ; CALABRIA;
+
+GALASSO Giovanna; Cosenza (CS); 16/11/1964; Via Tiziano 19-87036Rende (CS); 740 del-of 23/03/2016;   ;  ISCRITTO ; CALABRIA;
+
+GALATI Antonella; Cosenza (CS); 21/06/1977; Via Pianetto Zanco 28/b-87054Rogliano (CS); 580 del-of 13/05/2014;   ;  ISCRITTO ; CALABRIA;
+
+GALEANO Nazzareno; Siderno (RC); 25/05/1964; Via Aspromonte 17-89048Siderno (RC); 196 del-of 08/07/2010;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+GALEOTTI Fabio; Sigillo (PG); 28/04/1955; Via Ricoso, 17-87022Cetraro (CS); 13839 del-of 27/11/2002;   ;  ISCRITTO ; CALABRIA;
+
+GALLO Angelo; Messina (ME); 05/02/1971; Via Xxv Luglio 1943 24-89100Reggio Calabria (RC); 16442 del-of 23/04/2008;   ;  ISCRITTO ; CALABRIA;
+
+GALLO Eugenio; Cosenza (CS); 16/08/1967; Via Del Millenario 58-87045Dipignano (CS); 420 del-of 13/09/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+GALLO Roberto; Reggio Calabria (RC); 29/07/1971; Via Don Orione 30/p-89100Reggio Calabria (RC); 13015 del-of 20/03/2001;   ;  ISCRITTO ; CALABRIA;
+
+GALLO Sergio; Cosenza (CS); 12/06/1960; Via Don Carlo De Cardona 12-87100Cosenza (CS); 12461 del-of 29/03/2000;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+GALLO Stanislao; Cosenza (CS); 06/12/1965; Via Francesco Muzzillo Snc Pal. Terrieri-87100Cosenza (CS); 12502 del-of 27/04/2000;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+GAMBAROTTI Davide; Cremona (CR); 09/05/1970; Via Terina 9-88046Lamezia Terme (CZ); 12837 del-of 28/11/2000;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+GARDI Michele; Cosenza (CS); 26/12/1967; Via Alessandro Il Molosso 8-87040Mendicino (CS); 12018 del-of 16/06/1999;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+GAROFALO Anna; Cosenza (CS); 18/07/1966; C.da Pianetto, 17-87024Fuscaldo (CS); 9777 del-of 12/02/1996;   ;  ISCRITTO ; CALABRIA;
+
+GARRITANO Irene; Cosenza (CS); 10/09/1974; Via Ungaretti, 55-87036Rende (CS); 14292 del-of 04/11/2003;   ;  ISCRITTO ; CALABRIA;
+
+GATTO Orlando; Taurianova (RC); 12/02/1964; Ss 111, 66-89013Gioia Tauro (RC); 9895 del-of 11/04/1996;   ;  ISCRITTO ; CALABRIA;
+
+GELSO Floriana; Cosenza (CS); 30/09/1989; Via Della Libertà 20-87032Amantea (CS); 763 del-of 07/07/2016;   ;  ISCRITTO ; CALABRIA;
+
+GENCARELLI Leo; Luzzi (CS); 14/11/1954; Via Leonardo Da Vinci, 45-87040Castrolibero (CS); 5972 del-of 12/02/1992;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+GENTILE Antonio; Cosenza (CS); 14/08/1964; Via Delle Betulle Snc-87012Castrovillari (CS); 6622 del-of 24/11/1992;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; CALABRIA;
+
+GENTILE Francesca; Melito Di Porto Salvo (RC); 30/07/1987; Via Rocchette 7-89038Palizzi Marina (RC); 540 del-of 19/12/2013;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+GENTILE Giuseppe; Catanzaro (CZ); 31/07/1983; C.da Tenimento 49-87100Cosenza (CS); 860 del-of 26/10/2017;   ;  ISCRITTO ; CALABRIA;
+
+GENTILUOMO Giulio; Locri (RC); 09/07/1981; Via Foggia 12-89044Locri (RC); 379 del-of 08/02/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+GENUA Giuseppe; Seminara (RC); 25/10/1962; Via Michelangelo 12-89015Palmi (RC); 13096 del-of 24/04/2001;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; CALABRIA;
+
+GERASOLO Roberto; Reggio Calabria (RC); 07/11/1981; Strada Porticato I Tronco 6-89046Marina Di Gioiosa Ionica (RC); 16252 del-of 11/12/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+GERBASI Michele; Cosenza (CS); 19/04/1958; Via Piemonte Snc-87036Rende (CS); 483 del-of 21/05/2013;   ;  ISCRITTO ; CALABRIA;
+
+GERMANO' Antonino; Gioia Tauro (RC); 24/07/1975; Via Adua 5-89056Santa Cristina D'aspromonte (RC); 19 del-of 08/04/2009;   ;  ISCRITTO ; CALABRIA;
+
+GIARDINO Vincenzo; Cosenza (CS); 06/04/1968; Via Del Carmine 11-87040Marano Marchesato (CS); 136 del-of 04/02/2010;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+GIARMOLEO Vincenzo; Reggio Calabria (RC); 12/06/1977; Vico Casalotto Ang.vico Neforo 1-89132Reggio Calabria (RC); 15813 del-of 21/03/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+GIGLIOTTI Giuseppe; Rossano (CS); 01/08/1960; Via T. Patti 69-87067Rossano (CS); 5972 del-of 12/02/1992;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; CALABRIA;
+
+GITTO Arturo; Rende (CS); 19/11/1954; Via Viali 33-87030Carolei (CS); 13839 del-of 27/11/2002;   ;  ISCRITTO ; CALABRIA;
+
+GIULIANO Cristina; Messina (ME); 09/08/1966; Vico De Nava 39 Archi-89121Reggio Calabria (RC); 8656 del-of 08/11/1994;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+GIURLANDA Francesco; Erice (TP); 06/08/1971; Via Panebianco 343-87100Cosenza (CS); 16119 del-of 25/09/2007;   BANCA MONTE DEI PASCHI DI SIENA SPA;  ISCRITTO ; CALABRIA;
+
+GRECO Andrea; Cosenza (CS); 17/06/1975; Via Lazio Palazzo Ale Torre A Sn-87100Cosenza (CS); 13491 del-of 19/03/2002;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+GRECO Fabrizio; Cosenza (CS); 01/08/1990; Via Linze 9-87040Mendicino (CS); 465 del-of 12/02/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+GRECO Monica; Cosenza (CS); 18/03/1977; Via Candelisi 17-87040Mendicino (CS); 16073 del-of 07/08/2007;   ;  ISCRITTO ; CALABRIA;
+
+GRECO Pascalmattia; Cosenza (CS); 28/06/1985; Via Atene City Garden 2g-87036Rende (CS); 586 del-of 29/05/2014;   ;  ISCRITTO ; CALABRIA;
+
+GRECO Roberto; Rossano (CS); 31/10/1969; Via E.noto, 57-87032Amantea (CS); 14020 del-of 08/04/2003;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+GRIFFO Maurizio; Lamezia Terme (CZ); 22/07/1974; Via Carvoli-89843Maierato (VV); 13521 del-of 16/04/2002;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+GRILLO Giuseppe; Cosenza (CS); 21/02/1980; Via Tommaso Piatti 1-87067Rossano (CS); 535 del-of 29/11/2013;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+GUARINO Antonio Francesco; Trebisacce (CS); 07/06/1989; Via Mandrale 4-87075Trebisacce (CS); 681 del-of 22/06/2015;   ;  ISCRITTO ; CALABRIA;
+
+GUARNIERI Alberico; Calopezzati (CS); 04/04/1963; Contrada Cutura 1-87054Rogliano (CS); 5972 del-of 12/02/1992;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+GUERRA COLOSI Salvatore; Palmi (RC); 09/01/1956; Via Affaccio-89015Palmi (RC); 13125 del-of 15/05/2001;   ;  ISCRITTO ; CALABRIA;
+
+GUERRA Valeria; Lugo (RA); 17/01/1972; Via Vallegianno' Ss108 66-87056Santo Stefano Di Rogliano (CS); 11642 del-of 06/10/1998;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+GUGLIELMI Nunzio; Andria (BT); 08/03/1966; Via Tiziano 19-87036Rende (CS); 740 del-of 23/03/2016;   ;  ISCRITTO ; CALABRIA;
+
+GUIDO Gaetano; Londra (REGNO UNITO); 25/03/1961; Via A. Lupinaro,16-87019Spezzano Albanese (CS); 7447 del-of 18/10/1993;   DEUTSCHE BANK SPA;  ISCRITTO ; CALABRIA;
+
+GULLO Ferdinando; Spezzano Albanese (CS); 23/07/1966; Via N. Machiavelli Snc-87046Montalto Uffugo (CS); 12150 del-of 13/10/1999;   ;  ISCRITTO ; CALABRIA;
+
+GULLO Ferdinando; Spezzano Albanese (CS); 14/12/1957; Via Lupinaro 55-87019Spezzano Albanese (CS); 450 del-of 20/12/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+IACONA Rosa Maria Teresa; Reggio Calabria (RC); 05/02/1961; Via Domenico Tripepi 9-89127Reggio Calabria (RC); 633 del-of 14/01/2015;   UNICREDIT SPA;  ISCRITTO ; CALABRIA;
+
+IANNAZZO Francesco; Catanzaro (CZ); 14/03/1968; Via G. Marconi N. 319-88046Lamezia Terme (CZ); 5913 del-of 08/01/1992;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+IANNO' Giuseppe Maria; Reggio Calabria (RC); 12/09/1966; Via Ciccarello 22/c-89100Reggio Calabria (RC); 12502 del-of 27/04/2000;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+IANNOLO Rosario; Cosoleto (RC); 11/06/1968; Via Verdirame 10/b-89133Reggio Calabria (RC); 6849 del-of 17/02/1993;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+IANNUZZI Roberto; Catanzaro (CZ); 11/03/1968; Via B. Miraglia 16/d-88100Catanzaro (CZ); 9297 del-of 19/06/1995;   ;  ISCRITTO ; CALABRIA;
+
+IANTORNO Pierpaolo; Rende (CS); 01/12/1969; Via M. Molinaro 51 B-87036Surdo (CS); 607 del-of 16/10/2014;   ;  ISCRITTO ; CALABRIA;
+
+IARIA Angela Maria; Roccaforte Del Greco (RC); 15/03/1968; Via Sbarre Inferiori 129/a-89100Reggio Calabria (RC); 670 del-of 28/05/2015;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+IAVARONE Domenico Santo; Locri (RC); 02/11/1963; Via Enotria 81/a-89122Reggio Calabria (RC); 7447 del-of 18/10/1993;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+IAZZOLINO Vincenzo; Cosenza (CS); 21/10/1963; Via Francesco De Francesco Snc Pal. Polillo-87100Cosenza (CS); 8192 del-of 27/06/1994;   ;  ISCRITTO ; CALABRIA;
+
+IDOTTA Serena; Reggio Calabria (RC); 19/07/1983; Via Giuseppe Melacrino 33-89124Reggio Calabria (RC); 280 del-of 28/01/2011;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; CALABRIA;
+
+IEMMA Guido Antonio; Taurianova (RC); 10/05/1962; Via Garibaldi, 102-89023Laureana Di Borrello (RC); 13257 del-of 11/09/2001;   SOLIDARIETA' & FINANZA SIM SPA;  ISCRITTO ; CALABRIA;
+
+IENNA Vito; Vico Equense (NA); 30/08/1971; Via Casa Savoia 319-89135Reggio Calabria (RC); 520 del-of 29/10/2013;   ;  ISCRITTO ; CALABRIA;
+
+IENUSO Vincenzo; Nicotera (VV); 15/02/1969; Via Filippella Snc-89844Nicotera (VV); 12298 del-of 04/01/2000;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+IMBROGNO Luigi; Florsheim (GERMANIA); 20/02/1977; Contrada Querceto 21-87040Rose (CS); 14870 del-of 18/01/2005;   ;  ISCRITTO ; CALABRIA;
+
+IMBROGNO Mario; San Pietro In Guarano (CS); 15/05/1956; Via Strada Provinciale 115 N. 140-87047San Pietro In Guarano (CS); 13973 del-of 11/03/2003;   ;  ISCRITTO ; CALABRIA;
+
+INFANTE Giuseppe; Rose (CS); 24/02/1968; Via Beato Stefano 16-87067Rossano Scalo (CS); 13045 del-of 03/04/2001;   ;  ISCRITTO ; CALABRIA;
+
+INGA Giovanni; Melbourne (AUSTRALIA); 15/08/1975; Via Mazzini, 9-89010Varapodio (RC); 14020 del-of 08/04/2003;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+INTRUGLIO Salvatore; Catanzaro (CZ); 27/03/1959; Porto D'orra Lotto 16 N. 52-88050Simeri Crichi (CZ); 156 del-of 18/03/2010;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+IOPPOLI Claudio Francesco; Casabona (KR); 01/01/1971; Via Roma, 27-88822Casabona (KR); 12461 del-of 29/03/2000;   SOLIDARIETA' & FINANZA SIM SPA;  ISCRITTO ; CALABRIA;
+
+IOVINO Romolo; Cosenza (CS); 26/09/1969; Via Adige, 1-87036Rende (CS); 13807 del-of 29/10/2002;   ;  ISCRITTO ; CALABRIA;
+
+IOZZI Franco; Cetraro (CS); 13/09/1959; Via Macchia Di Mare Iii Trav.,n 11-87022Cetraro (CS); 9574 del-of 06/11/1995;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; CALABRIA;
+
+IOZZI Roberto; Catanzaro (CZ); 20/09/1984; Via Luigi Einaudi 1-88024Girifalco (CZ); 520 del-of 29/10/2013;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+ITRI Oriana; Reggio Calabria (RC); 05/07/1982; Via Pio Xi 35/b-89133Reggio Calabria (RC); 810 del-of 31/01/2017;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+JANNELLI Manlio; Catanzaro (CZ); 17/08/1975; Via Pugliese 22-88100Catanzaro (CZ); 16206 del-of 06/11/2007;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+LA BELLA Francesco; Vibo Valentia (VV); 04/01/1968; Via A. Gramsci 10-89843Stefanaconi (VV); 474 del-of 27/03/2013;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+LA TORRE Giuseppe; Tropea (VV); 20/08/1975; Largo Vaccari Snc-89861Tropea (VV); 312 del-of 01/06/2011;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+LACAVA Giovanni; Reggio Calabria (RC); 13/04/1959; Via Pio Xi, Trav.putorti',25-89133Reggio Calabria (RC); 7447 del-of 18/10/1993;   ;  ISCRITTO ; CALABRIA;
+
+LAFACE Paolo; La Chaux De Fonds (SVIZZERA); 21/08/1969; Via Vecchia Prv.le, 38 Archi-89100Reggio Calabria (RC); 11685 del-of 11/11/1998;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+LAGANA' Roberto; Reggio Calabria (RC); 04/08/1972; Via Rausei 8-89124Reggio Calabria (RC); 706 del-of 12/11/2015;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+LAITANO Vincenzo; Castrovillari (CS); 07/05/1983; C/da San Rocco 2/2-87016Morano Calabro (CS); 747 del-of 28/04/2016;   ;  ISCRITTO ; CALABRIA;
+
+LANATA' Rosaria; Girifalco (CZ); 05/08/1964; C.da Cannavu' Snc-88024Girifalco (CZ); 10962 del-of 14/10/1997;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+LANCIA Andrea; Locri (RC); 27/02/1979; Via Piano Baglio 11-89041Caulonia (RC); 14292 del-of 04/11/2003;   ;  ISCRITTO ; CALABRIA;
+
+LANGELLA Rosario; Cosenza (CS); 31/01/1968; Via Vittorio Emanuele Iii 24-87018San Marco Argentano (CS); 12721 del-of 12/09/2000;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+LANGONE Elisa; Lungro (CS); 16/08/1981; Via Musici Vico Vii 1-87010Lungro (CS); 173 del-of 13/05/2010;   ACTIVTRADES PLC;  ISCRITTO ; CALABRIA;
+
+LAPONTE Beniamino; Bagnara Calabra (RC); 05/12/1949; Via Falcone 12-87100Cosenza (CS); 681 del-of 22/06/2015;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+LASCHERA Silvio; Villapiana (CS); 10/02/1977; Via Praino Agostino 3-87076Villapiana (CS); 13653 del-of 09/07/2002;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+LATELLA Giuseppe Antonio; Reggio Calabria (RC); 17/06/1966; Via Maldariti Trav. Iv 51-89131Reggio Calabria (RC); 7549 del-of 30/11/1993;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+LAVIA Raffaele; Longobucco (CS); 11/03/1974; Via D.l.sturzo, 15-87060Calopezzati (CS); 13417 del-of 15/01/2002;   ;  ISCRITTO ; CALABRIA;
+
+LAZZAROLI Vincenzo; Catanzaro (CZ); 18/05/1971; Viale Ferdinando Galiani 77 A-88100Catanzaro (CZ); 933 del-of 12/09/2018;   ;  ISCRITTO ; CALABRIA;
+
+LIJOI Domenico; Catanzaro (CZ); 23/04/1972; Via Roma, 51-88060Sant'andrea Apostolo Dello Ionio (CZ); 12721 del-of 12/09/2000;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; CALABRIA;
+
+LISTA Fabio; Penna San Giovanni (MC); 12/04/1966; Via Roma 159-88900Crotone (KR); 12255 del-of 15/12/1999;   ;  ISCRITTO ; CALABRIA;
+
+LO FEUDO Gianluca; Cosenza (CS); 11/11/1978; Via Santa Maria Stozza Snc-87045Laurignano (CS); 535 del-of 29/11/2013;   ;  ISCRITTO ; CALABRIA;
+
+LO GATTO Tommaso; Reggio Calabria (RC); 12/06/1967; Contrada Feudo Vecchio 3-89048Siderno (RC); 295 del-of 24/03/2011;   ;  ISCRITTO ; CALABRIA;
+
+LO GIUDICE Carmen; Castrovillari (CS); 13/09/1979; Via Xxv Aprile 18-87075Trebisacce (CS); 607 del-of 16/10/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+LO IACONO Fabio; Reggio Calabria (RC); 14/01/1968; Via Udine 8/a-89100Reggio Calabria (RC); 12 del-of 05/03/2009;   ;  ISCRITTO ; CALABRIA;
+
+LOBEATO Carlo; Crotone (KR); 13/02/1945; Via Veneto, 136-88900Crotone (KR); 9777 del-of 12/02/1996;   ;  ISCRITTO ; CALABRIA;
+
+LOIZZO Dario; Cosenza (CS); 10/12/1974; Londra Villini Giordano-87036Rende (CS); 12298 del-of 04/01/2000;   ;  ISCRITTO ; CALABRIA;
+
+LOMBARDI Francesco; Cosenza (CS); 02/04/1969; Via Petroni, 134-87036Rende (CS); 13807 del-of 29/10/2002;   ;  ISCRITTO ; CALABRIA;
+
+LOMBARDI Ugo; Cosenza (CS); 01/04/1968; Via Fratelli Sprovieri 13-87100Cosenza (CS); 8925 del-of 13/12/1994;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+LOMBARDO Antonello; Bisignano (CS); 10/10/1971; Via Degli Alimena 118-87100Cosenza (CS); 675 del-of 11/06/2015;   BPER BANCA SPA;  ISCRITTO ; CALABRIA;
+
+LONGO Francesco; Reggio Calabria (RC); 20/02/1965; Via Vecchia Provinciale Archi 194-89121Reggio Calabria (RC); 832 del-of 20/04/2017;   ;  ISCRITTO ; CALABRIA;
+
+LOPES Federico; Soveria Mannelli (CZ); 03/06/1984; Via Zumbini 98-87050Pietrafitta (CS); 256 del-of 26/11/2010;   ;  ISCRITTO ; CALABRIA;
+
+LORIA Domenico; Rossano (CS); 03/11/1962; C.da Torre Commetta, 7-87067Rossano (CS); 14374 del-of 29/12/2003;   ;  ISCRITTO ; CALABRIA;
+
+LORIA Igino Domenico; Catanzaro (CZ); 14/11/1965; Via Reggio 11 Seconda Traversa-88900Crotone (KR); 646 del-of 26/02/2015;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+LOSTUMBO Mya; Catanzaro (CZ); 27/04/1979; Via Giulivetto, 20-88100Catanzaro (CZ); 13434 del-of 05/02/2002;   ;  ISCRITTO ; CALABRIA;
+
+LOSTUMBO Nicola; Catanzaro (CZ); 09/05/1982; Via Giulivetto, 20-88100Catanzaro (CZ); 13434 del-of 05/02/2002;   ;  ISCRITTO ; CALABRIA;
+
+LOSTUMBO Paolo; Catanzaro (CZ); 03/01/1940; C.da Giulivetto, 20-88100Catanzaro (CZ); 12603 del-of 13/06/2000;   ;  ISCRITTO ; CALABRIA;
+
+LUCCARELLI Laura; Cosenza (CS); 15/06/1983; Via Delle Rose 3-87040Castrolibero (CS); 372 del-of 18/01/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+LUCCHETTA Giorgia Rosaria; Polistena (RC); 08/10/1990; Via Tevere 6-89025Rosarno (RC); 553 del-of 05/02/2014;   ;  ISCRITTO ; CALABRIA;
+
+LUCIA Anna; Catanzaro (CZ); 08/03/1960; P.zza Dante, 2-88100Catanzaro (CZ); 13015 del-of 20/03/2001;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+LUDDENI Maria Teresa; Polistena (RC); 06/11/1972; Via Dei Fiori 20-89024Polistena (RC); 824 del-of 16/03/2017;   ;  ISCRITTO ; CALABRIA;
+
+LUPIA Serafino; Cerva (CZ); 08/07/1956; Via Milazzo 12b-88100Catanzaro (CZ); 13973 del-of 11/03/2003;   ;  ISCRITTO ; CALABRIA;
+
+LUPIS Fabio; Reggio Calabria (RC); 26/11/1979; Via Sbarre Superiori 85-89132Reggio Calabria (RC); 824 del-of 16/03/2017;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+LUPO Francesco; Cosenza (CS); 24/05/1973; Via Dei Gladioli, 4 - Schiavonea-87064Corigliano Calabro (CS); 13015 del-of 20/03/2001;   ;  ISCRITTO ; CALABRIA;
+
+LUSTRI' Andrea; Reggio Calabria (RC); 20/09/1965; Via Lombardia N 26-89022Cittanova (RC); 9513 del-of 16/10/1995;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+MACRI' Loredana; Reggio Calabria (RC); 09/10/1966; Via G. Palestino 3-89125Reggio Calabria (RC); 11923 del-of 14/04/1999;   ;  ISCRITTO ; CALABRIA;
+
+MACRI' Mariano; Lamezia Terme (CZ); 30/01/1974; Via Vincenzina De Maria 5-88046Lamezia Terme (CZ); 10308 del-of 11/11/1996;   ;  ISCRITTO ; CALABRIA;
+
+MACRI' Rosario; Crotone (KR); 12/01/1973; Via C.alvaro, 10-88824Belvedere Di Spinello (KR); 13125 del-of 15/05/2001;   ;  ISCRITTO ; CALABRIA;
+
+MADEO Andrea; Cariati (CS); 25/06/1978; Via Piave 40-87062Cariati (CS); 366 del-of 21/12/2011;   ;  ISCRITTO ; CALABRIA;
+
+MADEO Giuseppe; Rossano (CS); 08/12/1971; Via Ippocrate 21-87067Rossano (CS); 596 del-of 17/07/2014;   ;  ISCRITTO ; CALABRIA;
+
+MADEO Luigina; Longobucco (CS); 20/09/1965; Via Montegrappa 35/s-87100Cosenza (CS); 599 del-of 30/07/2014;   UNICREDIT SPA;  ISCRITTO ; CALABRIA;
+
+MADEO Pasquale; Rossano (CS); 07/05/1972; Via Nazionale, 45-87067Rossano (CS); 13653 del-of 09/07/2002;   ;  ISCRITTO ; CALABRIA;
+
+MADULI Domenico; Catanzaro (CZ); 18/08/1968; Via I Trav.olivarella, 10-89900Vibo Valentia (VV); 12672 del-of 19/07/2000;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+MAGNELLI Domenico; Cosenza (CS); 07/10/1975; Via Sibari, 18-87012Castrovillari (CS); 14020 del-of 08/04/2003;   ;  ISCRITTO ; CALABRIA;
+
+MAIO Marialucrezia; Catanzaro (CZ); 15/06/1967; Via Bambinello Gesu' 33 A-88100Catanzaro (CZ); 659 del-of 30/04/2015;   UNICREDIT SPA;  ISCRITTO ; CALABRIA;
+
+MAIOLO Angelica; Gioia Tauro (RC); 01/08/1979; Via Toscanini, 22-89013Gioia Tauro (RC); 13222 del-of 01/08/2001;   ;  ISCRITTO ; CALABRIA;
+
+MALASPINA Danila; Reggio Calabria (RC); 02/04/1977; Via Ravagnese Superiore 43/f-89131Reggio Calabria (RC); 331 del-of 28/07/2011;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+MALAVENDA Consolato Roberto; Reggio Calabria (RC); 17/06/1970; Ss. 106 Ii Tratto San Gregorio 30-89131Reggio Calabria (RC); 13096 del-of 24/04/2001;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+MALETTA Carlo Vincenzo; Catanzaro (CZ); 23/05/1960; Via Lidonnici, 7-88100Catanzaro (CZ); 13015 del-of 20/03/2001;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+MALITO Carmine; Belvedere Marittimo (CS); 15/10/1973; Via Calvario 19-87010Santa Maria Le Grotte (CS); 12 del-of 05/03/2009;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MALLAMACI Antonino; Motta San Giovanni (RC); 13/08/1961; Via Superstrada Ionica 106 155 - Pellaro-89134Reggio Calabria (RC); 16472 del-of 13/05/2008;   ;  ISCRITTO ; CALABRIA;
+
+MANCINI Massimo; Catanzaro (CZ); 08/05/1960; Via Strada 11 N. 26-88100Catanzaro (CZ); 12924 del-of 17/01/2001;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+MANCUSO Massimiliano; Catanzaro (CZ); 15/02/1976; Contrada Varrolate Snc-87040Rose (CS); 604 del-of 18/09/2014;   UNICREDIT SPA;  ISCRITTO ; CALABRIA;
+
+MANCUSO Teresa; Soveria Mannelli (CZ); 01/05/1990; Via Domenico Gaudio 44-87100Cosenza (CS); 323 del-of 18/07/2011;   ;  ISCRITTO ; CALABRIA;
+
+MANGANARO Alessia; Melito Di Porto Salvo (RC); 02/06/1983; Via Caprera 1-89063Melito Di Porto Salvo (RC); 670 del-of 28/05/2015;   ;  ISCRITTO ; CALABRIA;
+
+MANGIA Maria Immacolata; Cosenza (CS); 09/12/1975; Via Panebianco 343 Sc.1 P.15 I.44 Compl. Skyline-87100Cosenza (CS); 555 del-of 27/02/2014;   ;  ISCRITTO ; CALABRIA;
+
+MANIGRASSI Sabrina; Castrovillari (CS); 30/04/1981; Via Santa Lucia 292-87064Corigliano Calabro (CS); 211 del-of 15/09/2010;   ;  ISCRITTO ; CALABRIA;
+
+MANTUANO Carlo; Paola (CS); 01/04/1948; Via Della Resistenza 122-87040Castrolibero (CS); 604 del-of 18/09/2014;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+MAONE Maurizio; Catanzaro (CZ); 12/01/1965; Via Torino, 97-88900Crotone (KR); 12298 del-of 04/01/2000;   ;  ISCRITTO ; CALABRIA;
+
+MARANDO Celestina; Locri (RC); 13/09/1977; Via Poerio, 16-88100Catanzaro (CZ); 13953 del-of 25/02/2003;   ;  ISCRITTO ; CALABRIA;
+
+MARASCO Diego; Cosenza (CS); 12/11/1978; Via Panebianco 343 Sc.1 P.15 I.44 Compl. Skyline-87100Cosenza (CS); 16073 del-of 07/08/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MARCHESE Pasquale; Cassano All'ionio (CS); 16/06/1978; Via Giudo Rossa 25-87072Francavilla Marittima (CS); 15748 del-of 06/02/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MARCHESE Vincenzo; Cosenza (CS); 22/01/1972; Piazza Municipio 7-87010Lattarico (CS); 13257 del-of 11/09/2001;   ;  ISCRITTO ; CALABRIA;
+
+MARCHIO Santo; Cosenza (CS); 20/01/1986; Via Galileo Galilei 9-87040Castrolibero (CS); 489 del-of 04/06/2013;   ;  ISCRITTO ; CALABRIA;
+
+MARINCOLA Irene; Vibo Valentia (VV); 13/04/1978; Via Pescara 22-89900Vibo Valentia (VV); 691 del-of 21/09/2015;   ;  ISCRITTO ; CALABRIA;
+
+MARINO Immacolata; Soverato (CZ); 15/12/1989; Via Piave 111-88060Santa Caterina Dello Ionio (CZ); 779 del-of 25/10/2016;   ;  ISCRITTO ; CALABRIA;
+
+MARINO Massimiliano; Cassano All'ionio (CS); 19/12/1975; Viale Europa N.02-87075Trebisacce (CS); 14374 del-of 29/12/2003;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+MARRA Laura; Moncalieri (TO); 17/09/1970; Via Da Empoli 12-89018Villa San Giovanni (RC); 11169 del-of 27/01/1998;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; CALABRIA;
+
+MARRA Marco; Reggio Calabria (RC); 03/07/1978; Via Risorgimento, 3/b - Catona-89100Reggio Calabria (RC); 13292 del-of 09/10/2001;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+MARRA Salvatore; Catanzaro (CZ); 16/08/1985; Via Roma 64-88050Amaroni (CZ); 832 del-of 20/04/2017;   ;  ISCRITTO ; CALABRIA;
+
+MARTINO Francesco; Reggio Calabria (RC); 29/12/1950; Via Alessandro Manzoni 37-89046Marina Di Gioiosa Ionica (RC); 526 del-of 12/11/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MARTINO Giovanni; Cosenza (CS); 08/06/1972; Via Tintoretto 17-87036Rende (CS); 633 del-of 14/01/2015;   ;  ISCRITTO ; CALABRIA;
+
+MARTINO Rosario; Catanzaro (CZ); 09/09/1977; Via Cassiodoro 36-88100Catanzaro (CZ); 16252 del-of 11/12/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MARTIRE Pasquale; Castrovillari (CS); 13/11/1981; Via Ietticelli 62-87012Castrovillari (CS); 16584 del-of 05/08/2008;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+MARTORANO Giovanni; Melito Di Porto Salvo (RC); 07/07/1972; Via Pilati-89063Melito Di Porto Salvo (RC); 13643 del-of 02/07/2002;   ;  ISCRITTO ; CALABRIA;
+
+MARTORELLI Mauro; Napoli (NA); 15/02/1962; Via G.fortunato 87-87021Belvedere Marittimo (CS); 16073 del-of 07/08/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MARTUCCI Angelo; Fagnano Castello (CS); 02/05/1971; Via Roma, 160-87013Fagnano Castello (CS); 14602 del-of 15/06/2004;   ;  ISCRITTO ; CALABRIA;
+
+MARULLO Domenico; Reggio Calabria (RC); 19/10/1978; Via Sbarre Inferiori 435 B-89129Reggio Calabria (RC); 871 del-of 15/12/2017;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+MARZANO Giuseppe; Bergamo (BG); 12/10/1969; Via Ternicola, 30-89034Bovalino (RC); 12172 del-of 02/11/1999;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; CALABRIA;
+
+MASCARO Manuel; Crotone (KR); 20/06/1983; Localita' Colle Ciuccio Snc-87055San Giovanni In Fiore (CS); 497 del-of 09/07/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MASTRIOTA Giovanni; Praia A Mare (CS); 27/11/1973; Via Quasimodo 7-87023Diamante (CS); 16 del-of 24/03/2009;   ;  ISCRITTO ; CALABRIA;
+
+MASTROIENI Santa Salvatrice; San Pier Niceto (ME); 28/04/1961; Via Giuseppe Melacrino 80-89124Reggio Calabria (RC); 824 del-of 16/03/2017;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; CALABRIA;
+
+MASTRONARDI Gianluigi; Reggio Calabria (RC); 19/12/1976; Via G. Melacrino 76-89124Reggio Calabria (RC); 13222 del-of 01/08/2001;   ;  ISCRITTO ; CALABRIA;
+
+MAURO Antonino; Reggio Calabria (RC); 18/05/1963; Vico Bolani I - Pellaro 2-89100Reggio Calabria (RC); 12461 del-of 29/03/2000;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MAURO Franco; Cosenza (CS); 11/05/1973; Via F.lli Cuzzetto Snc-87034Grimaldi (CS); 181 del-of 03/06/2010;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MAURO Giuseppe; Grimaldi (CS); 24/09/1955; Via Felice Gennasio Snc-87050Figline Vegliaturo (CS); 8656 del-of 08/11/1994;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+MAZZEI Donatella; Cosenza (CS); 06/05/1959; Via Kennedy 105/bis-87036Rende (CS); 13292 del-of 09/10/2001;   ;  ISCRITTO ; CALABRIA;
+
+MAZZEI Maria Antonietta; Trebisacce (CS); 27/11/1969; Via Dublino 20-87075Trebisacce (CS); 15370 del-of 28/03/2006;   BANCA POPOLARE ETICA SOCIETA' COOPERATIVA PER AZIONI;  ISCRITTO ; CALABRIA;
+
+MAZZEI Sante; Cosenza (CS); 16/10/1958; Via Dogana 102-87032Amantea (CS); 735 del-of 25/02/2016;   ;  ISCRITTO ; CALABRIA;
+
+MAZZIOTTI Luca; Catanzaro (CZ); 07/02/1982; Via Antonino Scopelliti 1 A-88100Catanzaro (CZ); 846 del-of 06/07/2017;   ;  ISCRITTO ; CALABRIA;
+
+MAZZOCCA Carmelo; Catanzaro (CZ); 04/10/1973; Via Eremo Botte 13-89124Reggio Calabria (RC); 16393 del-of 18/03/2008;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+MAZZOTTA Renato; Lecce (LE); 24/03/1945; Via Francesco Perri, 13-87075Trebisacce (CS); 14562 del-of 25/05/2004;   ;  ISCRITTO ; CALABRIA;
+
+MELCHIONNA Salvatore; Reggio Calabria (RC); 21/05/1970; Via Gebbione 1 H-89129Reggio Calabria (RC); 16584 del-of 05/08/2008;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+MELIDONA Annunziato Alberto; Melito Di Porto Salvo (RC); 08/04/1969; Via Sottolume 28/a-89134Reggio Calabria (RC); 11992 del-of 01/06/1999;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+MELLO Mirco Massimiliano; Scilla (RC); 24/09/1986; Via Salita Melissari 24-89124Reggio Calabria (RC); 832 del-of 20/04/2017;   ;  ISCRITTO ; CALABRIA;
+
+MELUSO Giovanni Battista; San Giovanni In Fiore (CS); 05/09/1956; Loc. Iacoi-87055San Giovanni In Fiore (CS); 13839 del-of 27/11/2002;   ;  ISCRITTO ; CALABRIA;
+
+MERANTE CRITELLI Luigi Vincenzo; Gimigliano (CZ); 03/10/1961; Via Francesco Acri 46-88100Catanzaro (CZ); 10238 del-of 30/09/1996;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+MESIANI Tancredi; Cittanova (RC); 25/09/1960; Viale Merano 84-89022Cittanova (RC); 5972 del-of 12/02/1992;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+MICALIZZI Giuseppe; Reggio Calabria (RC); 24/02/1966; Via Vecchia Cimitero 20-89126Reggio Calabria (RC); 520 del-of 29/10/2013;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+MICELI Domenicantonio; Vibo Valentia (VV); 01/09/1970; Via S. Papandrea 15-89900Vibo Valentia (VV); 14870 del-of 18/01/2005;   ;  ISCRITTO ; CALABRIA;
+
+MICELI Giovanbattista; Cassano All'ionio (CS); 28/03/1969; Via Delle Vigne 1-87012Castrovillari (CS); 12982 del-of 21/02/2001;   ;  ISCRITTO ; CALABRIA;
+
+MICHIENZI Claudio; Lamezia Terme (CZ); 25/07/1976; Via Salvatore Quasimodo 12-89900Vibo Valentia (VV); 156 del-of 18/03/2010;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; CALABRIA;
+
+MIGLIACCIO Vincenzo; Catanzaro (CZ); 01/10/1953; Via Lenza 28 A-88100Catanzaro (CZ); 474 del-of 27/03/2013;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; CALABRIA;
+
+MIGLIAZZA Eleonora; Catanzaro (CZ); 28/05/1987; Corso Europa 60-88024Girifalco (CZ); 331 del-of 28/07/2011;   ;  ISCRITTO ; CALABRIA;
+
+MIGNINI Mariano; Cupra Marittima (AP); 25/03/1954; Via G. Matteotti 18-87040Castrolibero (CS); 9574 del-of 06/11/1995;   ;  ISCRITTO ; CALABRIA;
+
+MILETO Corrado Antonio; Taurianova (RC); 15/05/1963; Via Del Palatino 2-89029Taurianova (RC); 12377 del-of 16/02/2000;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+MILITANO Antonio; Bagnara Calabra (RC); 21/11/1966; Via Garibaldi 38-89011Bagnara Calabra (RC); 9513 del-of 16/10/1995;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MILITANO Francesca; Cinquefrondi (RC); 10/02/1978; Via Montevergine Traversa Privata 6/8-89122Reggio Calabria (RC); 13336 del-of 14/11/2001;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MILLONE Luigi; Reggio Calabria (RC); 05/10/1967; Via Vecchia Condera 3-89126Reggio Calabria (RC); 8418 del-of 20/09/1994;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+MINERVINO Giuseppe; Diamante (CS); 28/03/1961; Via Iv Novembre 33-87023Diamante (CS); 13839 del-of 27/11/2002;   ;  ISCRITTO ; CALABRIA;
+
+MINNICELLI Giuseppe; Catanzaro (CZ); 20/12/1967; Via Xx Settembre, 52-88100Catanzaro (CZ); 12150 del-of 13/10/1999;   ;  ISCRITTO ; CALABRIA;
+
+MINNITI Aldo; Reggio Calabria (RC); 13/11/1962; Via Ravagnese I Trav.scagliola,8-89100Reggio Calabria (RC); 7447 del-of 18/10/1993;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+MINNITI Carmelo; Melito Di Porto Salvo (RC); 23/10/1975; Contrada San Leonardo 48-89063Melito Di Porto Salvo (RC); 342 del-of 06/10/2011;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+MINO' Cataldo; Cariati (CS); 08/03/1965; Via Col Natale N.11-87062Cariati (CS); 8192 del-of 27/06/1994;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+MINUTO Marco Antonio; Oaxaca De Juarez (MESSICO); 01/03/1987; Via Botteghelle 13 Trav. Siclari-89132Reggio Calabria (RC); 713 del-of 18/12/2015;   ;  ISCRITTO ; CALABRIA;
+
+MINUTOLO Massimiliano; Reggio Calabria (RC); 15/11/1977; Via Amendola, 13-89100Reggio Calabria (RC); 14020 del-of 08/04/2003;   ;  ISCRITTO ; CALABRIA;
+
+MIRAGLIA Domenico Luigi; Castrovillari (CS); 27/09/1958; Via Alimena 25-87100Cosenza (CS); 7447 del-of 18/10/1993;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+MIRANTE MARINI Antonino; Catanzaro (CZ); 30/03/1963; Via Schipani 16/a-88100Catanzaro (CZ); 13434 del-of 05/02/2002;   ;  ISCRITTO ; CALABRIA;
+
+MISERRAFITI Giovanni Bruno; Reggio Calabria (RC); 26/03/1973; Via G.arcovito, 62-89100Reggio Calabria (RC); 13491 del-of 19/03/2002;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+MODAFFERI Giovanni Luca; Reggio Calabria (RC); 17/11/1971; V. Piersanti Mattarella Snc - Palazzo Rosada-89900Vibo Valentia (VV); 13162 del-of 06/06/2001;   UNIPOL BANCA SPA;  ISCRITTO ; CALABRIA;
+
+MODAFFERI Pasquale Alberto; Reggio Calabria (RC); 10/06/1973; Via Cappuccinelli Dir Labate 9-89126Reggio Calabria (RC); 633 del-of 14/01/2015;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+MODAFFERI Ulrica; Reggio Calabria (RC); 21/06/1976; Via Cardinale Tripepi, 7-89123Reggio Calabria (RC); 12646 del-of 04/07/2000;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+MONARDO Domenico; Soriano Calabro (VV); 01/09/1988; Via Indipendenza 165-89834Pizzoni (VV); 735 del-of 25/02/2016;   ;  ISCRITTO ; CALABRIA;
+
+MONTALTO Giuseppe; Cosenza (CS); 17/06/1975; Via Ginestreto 38-87040Luzzi (CS); 604 del-of 18/09/2014;   ;  ISCRITTO ; CALABRIA;
+
+MONTANINI Giuseppe; Cosenza (CS); 23/12/1969; Piazza Duomo 5-87100Cosenza (CS); 16252 del-of 11/12/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MONTESANI Gianluca; Paola (CS); 06/04/1971; Via Crotone 6-87027Paola (CS); 14510 del-of 06/04/2004;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MORABITO Ferdinando; Gioia Tauro (RC); 12/03/1977; Via Arimondi 9-89023Laureana Di Borrello (RC); 16365 del-of 04/03/2008;   ;  ISCRITTO ; CALABRIA;
+
+MORABITO Giuseppe; Reggio Calabria (RC); 16/04/1968; Via Pio Xi Dir Priv 29-89100Reggio Calabria (RC); 11261 del-of 03/03/1998;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+MORACA Antonio Giacinto; Nicastro (CZ); 29/08/1959; Via Santa Maria Maggiore 57-88046Lamezia Terme (CZ); 596 del-of 17/07/2014;   Banca Prossima Spa;  ISCRITTO ; CALABRIA;
+
+MORELLO Francesco; Tropea (VV); 06/10/1978; Via Degli Orti Tr.ii-89861Tropea (VV); 13560 del-of 15/05/2002;   ;  ISCRITTO ; CALABRIA;
+
+MORRONE Vincenzo; San Lorenzo Del Vallo (CS); 12/01/1972; Via Della Repubblica, 14-87040San Lorenzo Del Vallo (CS); 13417 del-of 15/01/2002;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+MORTORO Monia; Catanzaro (CZ); 11/06/1976; Via C.sinopoli 101-88100Catanzaro (CZ); 12172 del-of 02/11/1999;   ;  ISCRITTO ; CALABRIA;
+
+MOSAICO Cosimo; Corigliano Calabro (CS); 11/02/1955; Via John Kennedy 6-87064Corigliano Calabro (CS); 148 del-of 19/02/2010;   ;  ISCRITTO ; CALABRIA;
+
+MULTARI Carmelo; Reggio Calabria (RC); 21/03/1965; Via Gaspare Del Fosso 4-89127Reggio Calabria (RC); 933 del-of 12/09/2018;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; CALABRIA;
+
+MUNDO Vincenzo; Reggio Calabria (RC); 07/02/1968; Via Messina N 6-89100Reggio Calabria (RC); 11261 del-of 03/03/1998;   ;  ISCRITTO ; CALABRIA;
+
+MURACA Iole; Cosenza (CS); 29/10/1984; Corso Umberto 28/a-87050Trenta (CS); 14510 del-of 06/04/2004;   ;  ISCRITTO ; CALABRIA;
+
+MURACA Pierpaolo; Lamezia Terme (CZ); 05/04/1970; Via Dei Mille Calatafimi 91-88046Lamezia Terme (CZ); 15908 del-of 02/05/2007;   ;  ISCRITTO ; CALABRIA;
+
+MURDOCCA Francesco; Messina (ME); 11/08/1955; Via Prolungamento Aschenez 11-89123Reggio Calabria (RC); 8478 del-of 04/10/1994;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+MUSACCHIO Gabrielina; Cosenza (CS); 27/04/1980; Prato Calvario, 8-87040San Benedetto Ullano (CS); 16162 del-of 16/10/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+MUTO Salvatore; San Fili (CS); 13/09/1960; Via Galileo Galilei 10-87040Castrolibero (CS); 637 del-of 27/01/2015;   ;  ISCRITTO ; CALABRIA;
+
+NANIA Giuseppe; Taurianova (RC); 26/12/1972; Via S.marina, 198-89024Polistena (RC); 13560 del-of 15/05/2002;   ;  ISCRITTO ; CALABRIA;
+
+NAPOLI Rocco Cosmaria Damiano; Cassano All'ionio (CS); 03/08/1971; Contrada Ruvolosa Snc-87071Amendolara (CS); 759 del-of 16/06/2016;   ;  ISCRITTO ; CALABRIA;
+
+NAPOLI Silvia; Catanzaro (CZ); 20/02/1981; Via Sila 19-88054Sersale (CZ); 16073 del-of 07/08/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+NASO NACCARI CARLIZZI Roberto Maria; Lamezia Terme (CZ); 22/04/1974; Via Longobardi 60-89811Vibo Valentia Marina (VV); 16584 del-of 05/08/2008;   ;  ISCRITTO ; CALABRIA;
+
+NAVA Emilio; Reggio Calabria (RC); 22/09/1976; Via Griso Snc Traversa Privata-89018Acciarello (RC); 706 del-of 12/11/2015;   ;  ISCRITTO ; CALABRIA;
+
+NICEFORO Nicola; Reggio Calabria (RC); 03/01/1976; Via Carrera 4-c-89048Siderno (RC); 15543 del-of 29/08/2006;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+NICOLAZZO Davide; Lamezia Terme (CZ); 09/11/1978; Via Aurelio Cassiodoro 23-88046Lamezia Terme (CZ); 832 del-of 20/04/2017;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+NICOLO' Anna Lise; Reggio Calabria (RC); 16/06/1982; Via Crocevia Vico I 10-89100Reggio Calabria (RC); 16252 del-of 11/12/2007;   ;  ISCRITTO ; CALABRIA;
+
+NOCERA Antonino; Brescia (BS); 08/01/1964; Viale Emilia 116-88100Catanzaro (CZ); 13953 del-of 25/02/2003;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+NOSTRO Santo Antonio; Campo Calabro (RC); 13/06/1961; Via Risorgimento 24/a-89052Campo Calabro (RC); 16119 del-of 25/09/2007;   ;  ISCRITTO ; CALABRIA;
+
+NUCERA Francesco Domenico Bruno; Reggio Calabria (RC); 06/09/1978; Via Caulonia 5 C-89128Reggio Calabria (RC); 317 del-of 24/06/2011;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+NUCERA Paolo Massimo; Reggio Calabria (RC); 01/01/1975; Via Tremulini 20/d-89124Reggio Calabria (RC); 13434 del-of 05/02/2002;   ;  ISCRITTO ; CALABRIA;
+
+OCCHIUTO Gianluca; Reggio Calabria (RC); 20/01/1993; Via Aldo Moro 11-89129Reggio Calabria (RC); 945 del-of 30/10/2018;   ;  ISCRITTO ; CALABRIA;
+
+OCCHIUTO Umberto; Reggio Calabria (RC); 18/10/1948; Via Orange, 18-89125Reggio Calabria (RC); 6622 del-of 24/11/1992;   ;  ISCRITTO ; CALABRIA;
+
+OLIVERIO Antonio; Crotone (KR); 23/12/1979; Via Firenze 155-88900Crotone (KR); 10 del-of 23/02/2009;   ;  ISCRITTO ; CALABRIA;
+
+OMBRES Filippo; Amantea (CS); 03/08/1967; Via Dei Tigli 18-87032Amantea (CS); 10173 del-of 08/08/1996;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+ORIOLO Carmen; Cosenza (CS); 29/08/1971; Via Ferrari 29-87040Castrolibero (CS); 12492 del-of 18/04/2000;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+ORSINO Francesco; Palermo (PA); 09/08/1966; Via Nazionale 18 N.43-89013Gioia Tauro (RC); 13491 del-of 19/03/2002;   ;  ISCRITTO ; CALABRIA;
+
+OTTAVIO Filippo; Vibo Valentia (VV); 06/05/1991; Via Dante 8-89817Paradisoni (VV); 926 del-of 11/07/2018;   ;  ISCRITTO ; CALABRIA;
+
+PAGLIANITI Domenico; Vibo Valentia (VV); 16/06/1960; Via Domenicantonio Basile Iii Traversa 11-89900Vibo Valentia (VV); 12982 del-of 21/02/2001;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PAGLIUSO Maria Sabrina; Cosenza (CS); 04/05/1986; Viale Marconi 34-87100Cosenza (CS); 852 del-of 11/09/2017;   ;  ISCRITTO ; CALABRIA;
+
+PALAIA Fabio; Catanzaro (CZ); 17/01/1975; Viale De Filippis, 100-88100Catanzaro (CZ); 13953 del-of 25/02/2003;   ;  ISCRITTO ; CALABRIA;
+
+PALAIA Salvatore; Squillace (CZ); 25/04/1970; Via Scylletion Snc-88021Roccelletta (CZ); 11548 del-of 21/07/1998;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; CALABRIA;
+
+PALDINO Francesco; Corigliano Calabro (CS); 29/04/1964; Via F. Bruno 23-87064Corigliano Calabro (CS); 7549 del-of 30/11/1993;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+PALERMITI Salvatore; Palizzi (RC); 19/10/1956; Via Nazionale Spropoli, 35-89038Palizzi (RC); 13417 del-of 15/01/2002;   ;  ISCRITTO ; CALABRIA;
+
+PALERMO Loredana; Cosenza (CS); 04/12/1979; Via Cesare Battisti 10-87013Fagnano Castello (CS); 15109 del-of 12/07/2005;   ;  ISCRITTO ; CALABRIA;
+
+PALETTA Federico; Soveria Mannelli (CZ); 28/03/1983; Via Monsignor Armando Fares 20 B-88100Catanzaro (CZ); 483 del-of 21/05/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PALLONE Francesco; Cosenza (CS); 11/10/1966; Via Giardino 16-88061Badolato (CZ); 276 del-of 13/01/2011;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PALMA Antonio; Giugliano In Campania (NA); 01/01/1954; Via San Pietro 15-89129Reggio Calabria (RC); 15748 del-of 06/02/2007;   ;  ISCRITTO ; CALABRIA;
+
+PALMIERI Cataldo; Ciro' Marina (KR); 30/06/1957; Via Sant'antonio-88811Ciro' Marina (KR); 13764 del-of 01/10/2002;   ;  ISCRITTO ; CALABRIA;
+
+PALMIERI Salvatore; Ciro' Marina (KR); 05/09/1954; Via S. Antonio-88811Ciro' Marina (KR); 11267 del-of 10/03/1998;   ;  ISCRITTO ; CALABRIA;
+
+PALOMBO Daniela; Catanzaro (CZ); 21/06/1967; Viale Isonzo 414-88100Catanzaro (CZ); 334 del-of 15/09/2011;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; CALABRIA;
+
+PALUMBO Luigi; Cosenza (CS); 27/07/1994; Via Vignale 2-87019Spezzano Albanese (CS); 926 del-of 11/07/2018;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PALUMBO Olga; Napoli (NA); 05/05/1963; Via Ignazio Silone 10-87023Diamante (CS); 10238 del-of 30/09/1996;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+PALUMBO Virginia; Salerno (SA); 01/01/1978; Via Leonardo Da Vinci 14/g-87036Rende (CS); 13257 del-of 11/09/2001;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+PANETTA Giuseppe; Locri (RC); 18/03/1975; Via Mimosa, 4-89048Siderno (RC); 13162 del-of 06/06/2001;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+PANSERA Alessandro; Cosenza (CS); 11/11/1977; Viale Deglli Alimena 95/e-87100Cosenza (CS); 16365 del-of 04/03/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PANSERA Tiziana Silvia; Reggio Calabria (RC); 05/02/1967; Via Fiumarine 22/a-89135Reggio Calabria (RC); 14204 del-of 26/08/2003;   ;  ISCRITTO ; CALABRIA;
+
+PAOLILLO Cristian; Napoli (NA); 19/06/1976; Via Comm. Doria 91-88067San Vito Sullo Ionio (CZ); 15462 del-of 15/06/2006;   ;  ISCRITTO ; CALABRIA;
+
+PAONE Francesco Rosario; Lamezia Terme (CZ); 14/01/1980; C.da Casetta Postale, 1-88025Maida (CZ); 12721 del-of 12/09/2000;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+PAPALEO Danilo Walter; Lamezia Terme (CZ); 21/04/1975; Via Pitagora C.da Chianta-88046Lamezia Terme (CZ); 13257 del-of 11/09/2001;   ;  ISCRITTO ; CALABRIA;
+
+PARADISO Roberto; Lamezia Terme (CZ); 08/09/1980; Via Crati 22-88046Lamezia Terme (CZ); 13491 del-of 19/03/2002;   ;  ISCRITTO ; CALABRIA;
+
+PARISI Carmine Giovanni; Castrovillari (CS); 22/05/1969; Corso Garibaldi 2 A-87012Castrovillari (CS); 11548 del-of 21/07/1998;   DEUTSCHE BANK SPA;  ISCRITTO ; CALABRIA;
+
+PARRILLA Eugenio Antonio; Longobucco (CS); 12/03/1971; Via Maria Montessori Snc-87064Corigliano Calabro (CS); 633 del-of 14/01/2015;   ;  ISCRITTO ; CALABRIA;
+
+PARRILLA Francesco; Cosenza (CS); 25/12/1971; Via Michele Pane 16-87040Mendicino (CS); 898 del-of 27/03/2018;   ;  ISCRITTO ; CALABRIA;
+
+PARRILLA Roberto; Lamezia Terme (CZ); 13/02/1971; Via S. Guzzi 1-88046Lamezia Terme (CZ); 13015 del-of 20/03/2001;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+PARRINO Vittorio; Reggio Calabria (RC); 06/09/1972; Via Pio Xi Trav. De Blasio 46-89133Reggio Calabria (RC); 10809 del-of 16/07/1997;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+PARTIPILO Michele Antonio; Sambiase (CZ); 22/07/1961; Via Francesco Cilea 26-88046Lamezia Terme (CZ); 766 del-of 28/07/2016;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+PASCUZZI Mario; Catanzaro (CZ); 28/08/1951; Via Xx Settembre, 110-88046Lamezia Terme (CZ); 12721 del-of 12/09/2000;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+PASSANTI Domenico; Catanzaro (CZ); 12/11/1982; Traversa Barlaam Da Seminara 53-88100Catanzaro (CZ); 866 del-of 21/11/2017;   ;  ISCRITTO ; CALABRIA;
+
+PASTORE Emilio; Carentino (AL); 06/06/1969; Via S.rocco Strada R N. 13-87027Paola (CS); 12127 del-of 15/09/1999;   ;  ISCRITTO ; CALABRIA;
+
+PATANE' Luca; Reggio Calabria (RC); 28/02/1976; Via S.caterina Trav.priv 14-89100Reggio Calabria (RC); 14562 del-of 25/05/2004;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+PECORARO Tony; Castrovillari (CS); 12/07/1976; Via Delle Primule 3-87012Castrovillari (CS); 747 del-of 28/04/2016;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+PEDACE Maria Cristina; Corigliano Calabro (CS); 05/04/1969; C.da Giannone, 195 --87064Corigliano Calabro (CS); 12646 del-of 04/07/2000;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+PELLE Francesco; Locri (RC); 11/10/1981; Via Sidney 26-89048Siderno (RC); 15543 del-of 29/08/2006;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PELLE Stefania; Nicastro (CZ); 13/05/1968; Via Trento 48-88046Lamezia Terme (CZ); 686 del-of 30/07/2015;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+PELLEGRINO Giuseppe Carmine; Cosenza (CS); 17/07/1968; Via Pozzillo 1-87047San Pietro In Guarano (CS); 13336 del-of 14/11/2001;   ;  ISCRITTO ; CALABRIA;
+
+PELUSO Roberto; Reggio Calabria (RC); 29/01/1984; Via A. Moro 2 Trav. Nicolo' 22-89100Reggio Calabria (RC); 15337 del-of 28/02/2006;   ;  ISCRITTO ; CALABRIA;
+
+PERRI Angela; Taurianova (RC); 14/03/1971; Via Dante Alighieri 17/sb P.2-89029Taurianova (RC); 12298 del-of 04/01/2000;   ;  ISCRITTO ; CALABRIA;
+
+PERRI Fabio; Cosenza (CS); 22/06/1979; Corso Umberto 125-87040Parenti (CS); 16162 del-of 16/10/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PERRI Ferdinando; Catanzaro (CZ); 23/05/1992; Via Vittorio Veneto 7 A-88100Catanzaro (CZ); 891 del-of 22/02/2018;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PERRI Francesco; Lamezia Terme (CZ); 11/11/1972; Via Dei Bizantini 18-88046Lamezia Terme (CZ); 747 del-of 28/04/2016;   BANCA MONTE DEI PASCHI DI SIENA SPA;  ISCRITTO ; CALABRIA;
+
+PERRI Giuseppe; Catanzaro (CZ); 16/06/1976; Via Monte Crozze 31-88054Sersale (CZ); 686 del-of 30/07/2015;   ;  ISCRITTO ; CALABRIA;
+
+PERRI Stefania; Cosenza (CS); 31/01/1972; Via Giacomo Puccini 36-87040Castrolibero (CS); 13560 del-of 15/05/2002;   ;  ISCRITTO ; CALABRIA;
+
+PERRI Vito; Catanzaro (CZ); 14/12/1978; Via Dei Carri Sud 63-88054Sersale (CZ); 13521 del-of 16/04/2002;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+PERRONE Francesco; Bovalino (RC); 08/05/1964; Via Taranto 9-89034Bovalino (RC); 7549 del-of 30/11/1993;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; CALABRIA;
+
+PERTICONE Mario Francesco; Catania (CT); 12/10/1961; Via Unione Europea 1-88900Crotone (KR); 13015 del-of 20/03/2001;   ;  ISCRITTO ; CALABRIA;
+
+PETEA Cristina; Taurianova (RC); 11/02/1978; Via Toscanini-89013Gioia Tauro (RC); 14550 del-of 11/05/2004;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PETRISANO Piero; Scigliano (CS); 09/06/1953; Via Talete 5-87010Frascineto (CS); 5913 del-of 08/01/1992;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+PETTINATO Giuseppe; Bianchi (CS); 21/06/1968; Via F.lli Bandiera, 25-87036Rende (CS); 11963 del-of 11/05/1999;   ;  ISCRITTO ; CALABRIA;
+
+PETULLA' Michele; Feroleto Della Chiesa (RC); 20/06/1960; Via Bitonto 5-89900Vibo Valentia (VV); 11819 del-of 03/02/1999;   ;  ISCRITTO ; CALABRIA;
+
+PEZZANO Adele; Cosenza (CS); 30/03/1973; Via Ciperto 7-87040Castrolibero (CS); 13096 del-of 24/04/2001;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+PEZZULLA Eugenio; Cosenza (CS); 22/06/1973; Via B.croce, 32-87046Montalto Uffugo (CS); 13417 del-of 15/01/2002;   IW BANK SPA;  ISCRITTO ; CALABRIA;
+
+PIACENTE Antonio; Nicastro (CZ); 08/04/1956; Via Benevento 2-88046Lamezia Terme (CZ); 16139 del-of 09/10/2007;   ;  ISCRITTO ; CALABRIA;
+
+PIGNOLO Stefania; Crotone (KR); 12/05/1977; Viale Giacomo Mancini 22-87100Cosenza (CS); 13096 del-of 24/04/2001;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PILEGGI Claudio; San Nicola Da Crissa (VV); 02/08/1961; Via Belvedere, 18-89821San Nicola Da Crissa (VV); 16608 del-of 02/09/2008;   ;  ISCRITTO ; CALABRIA;
+
+PINO Carlo; Reggio Calabria (RC); 16/06/1965; Viale Dei Bizantini, 75/2-88100Catanzaro (CZ); 11992 del-of 01/06/1999;   ;  ISCRITTO ; CALABRIA;
+
+PIRAGINO Giuseppe; Castrovillari (CS); 27/09/1957; Via M. La Scala 13-87012Castrovillari (CS); 9297 del-of 19/06/1995;   ;  ISCRITTO ; CALABRIA;
+
+PIRAINO Francesco Maria; Cosenza (CS); 13/01/1968; Contrada S. Stefano-87036Santo Stefano (CS); 9513 del-of 16/10/1995;   SOLIDARIETA' & FINANZA SIM SPA;  ISCRITTO ; CALABRIA;
+
+PIRILLO Gianni; Napoli (NA); 27/01/1967; Via Fratelli Cervi 27-87100Cosenza (CS); 753 del-of 26/05/2016;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+PITARO Giuseppe; Caccuri (KR); 02/05/1958; Via Xxiv Maggio, 32-88833Caccuri (KR); 13162 del-of 06/06/2001;   ;  ISCRITTO ; CALABRIA;
+
+PITITTO Antonino; Mileto (VV); 15/02/1951; Via Adige Snc-87012Castrovillari (CS); 13257 del-of 11/09/2001;   ;  ISCRITTO ; CALABRIA;
+
+PIZZI Francesca; Melito Di Porto Salvo (RC); 03/05/1971; Via Mortara-pellaro 50-89134Reggio Calabria (RC); 13096 del-of 24/04/2001;   ;  ISCRITTO ; CALABRIA;
+
+PIZZINI Pompeo; Cosenza (CS); 05/02/1952; Via Londra Snc-87075Trebisacce (CS); 13222 del-of 01/08/2001;   ;  ISCRITTO ; CALABRIA;
+
+PIZZONIA Giuseppina; Vibo Valentia (VV); 01/12/1973; Via Eduardo De Filippo-89864Spilinga (VV); 13096 del-of 24/04/2001;   DEUTSCHE BANK SPA;  ISCRITTO ; CALABRIA;
+
+PLUTINO Monica Anna; Reggio Calabria (RC); 15/06/1966; Via Quarnaro I 41 Sc.b-89135Reggio Calabria (RC); 649 del-of 19/03/2015;   UNICREDIT SPA;  ISCRITTO ; CALABRIA;
+
+POLICASTRI Luigi Maurizio; Genova (GE); 15/07/1957; Via Dell'ibiscus Snc-87064Corigliano Calabro (CS); 12982 del-of 21/02/2001;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+POLIMENI Carmelo; Oppido Mamertina (RC); 01/04/1982; Via Savoia 28-89011Bagnara Calabra (RC); 666 del-of 14/05/2015;   ;  ISCRITTO ; CALABRIA;
+
+POLINO Aldo Francesco; Corigliano Calabro (CS); 02/10/1965; Via Fontanelle, 114-87064Corigliano Calabro (CS); 12603 del-of 13/06/2000;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+POLIO Roberto; Cosenza (CS); 24/04/1974; Via S. Antonello Snc-87046Montalto Uffugo (CS); 15024 del-of 10/05/2005;   IW BANK SPA;  ISCRITTO ; CALABRIA;
+
+PONZO Antonio; Cassano All'ionio (CS); 06/10/1975; Via Duca Degli Abbruzzi 12-87010Civita (CS); 16572 del-of 29/07/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PORCO Carmine; Cosenza (CS); 18/05/1965; Via Ludovico Ariosto 17-87100Cosenza (CS); 950 del-of 08/11/2018;   ;  ISCRITTO ; CALABRIA;
+
+PORCO Stefania; Cosenza (CS); 02/07/1971; Via Crati 2-87036Rende (CS); 747 del-of 28/04/2016;   ;  ISCRITTO ; CALABRIA;
+
+PORTARO Giuseppe; Dasa' (VV); 25/04/1966; Via Don Sturzo 3-88046Lamezia Terme (CZ); 11083 del-of 09/12/1997;   ;  ISCRITTO ; CALABRIA;
+
+POSTORINO Giuseppe; Reggio Calabria (RC); 03/05/1964; Via Lupardini 2-89100Reggio Calabria (RC); 8093 del-of 01/06/1994;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+POSTORINO Pasquale; Reggio Calabria (RC); 04/04/1937; Via Lagana' Privata Tr.i N.14-89100Reggio Calabria (RC); 11992 del-of 01/06/1999;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+PRESTA Michele; Cosenza (CS); 26/03/1977; Via Tarsitano Snc-87040Castrolibero (CS); 14980 del-of 12/04/2005;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PRESTA Raffaele; Lattarico (CS); 24/07/1972; Via Contessa Sottana, 38-87010Lattarico (CS); 14204 del-of 26/08/2003;   BANCA POPOLARE DI BARI SOCIETA' COOPERATIVA PER AZIONI;  ISCRITTO ; CALABRIA;
+
+PRINCI Domenico; Cosenza (CS); 15/06/1954; Via G. Marconi, 43-89044Locri (RC); 9574 del-of 06/11/1995;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; CALABRIA;
+
+PRINCI Giuseppe; Calanna (RC); 23/02/1959; Via S. Martino 45-89132Reggio Calabria (RC); 549 del-of 16/01/2014;   ;  ISCRITTO ; CALABRIA;
+
+PRINCIPE Angelo; Cosenza (CS); 31/01/1979; Via Brunelleschi, 27-87036Rende (CS); 13222 del-of 01/08/2001;   IW BANK SPA;  ISCRITTO ; CALABRIA;
+
+PRINCIPE Rocco; Cosenza (CS); 16/02/1950; Via Brenta 41-87100Cosenza (CS); 11310 del-of 31/03/1998;   ;  ISCRITTO ; CALABRIA;
+
+PROCOPIO Pietro; Satriano (CZ); 07/08/1976; Viale Europa 174-88060Satriano (CZ); 103 del-of 20/11/2009;   ;  ISCRITTO ; CALABRIA;
+
+PROCOPIO Romeo; Montepaone (CZ); 24/11/1967; Via S.francesco Da Paola, 14-88060Montepaone (CZ); 13953 del-of 25/02/2003;   ;  ISCRITTO ; CALABRIA;
+
+PROTO Antonio; Atrani (SA); 14/12/1954; Via Sebastiano Guzzi 3-88046Lamezia Terme (CZ); 649 del-of 19/03/2015;   ;  ISCRITTO ; CALABRIA;
+
+PRUDENTE Anna; Lamezia Terme (CZ); 10/01/1972; Via Primo Maggio 60-88900Crotone (KR); 852 del-of 11/09/2017;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+PRUDENTE Massimo; Cosenza (CS); 28/05/1971; Vico Ii Giostra Vecchia 3-87100Cosenza (CS); 16073 del-of 07/08/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PUGLIESE Antonio; Reggio Calabria (RC); 07/01/1981; Via Sabauda 3-89135Reggio Calabria (RC); 759 del-of 16/06/2016;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+PUGLIESE Gregorio; San Gregorio D'ippona (VV); 03/01/1949; Via Milite Ignoto 64-89853San Gregorio D'ippona (VV); 19 del-of 08/04/2009;   ;  ISCRITTO ; CALABRIA;
+
+PUGLIESE Massimiliano; Castrovillari (CS); 13/04/1981; Via Diaz 21-87010Frascineto (CS); 442 del-of 29/11/2012;   ;  ISCRITTO ; CALABRIA;
+
+PULICE Paolo; Lamezia Terme (CZ); 22/07/1981; Via Trento 26-88046Lamezia Terme (CZ); 379 del-of 08/02/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+PUPO Francesco; Cosenza (CS); 27/09/1968; Via Panebianco Scala B Int 7-87100Cosenza (CS); 13222 del-of 01/08/2001;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+PUSTORINO Renato; Reggio Calabria (RC); 02/11/1967; Via Boschicello San Sperato 135-89133Reggio Calabria (RC); 11062 del-of 02/12/1997;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+QUATTRONE Alessandro; Reggio Calabria (RC); 01/09/1965; Via Loreto Trav. Viii, 45-89100Reggio Calabria (RC); 11169 del-of 27/01/1998;   ;  ISCRITTO ; CALABRIA;
+
+QUERCIA Pina; Belvedere Marittimo (CS); 23/07/1965; Via Gardo 5-87022Cetraro (CS); 564 del-of 20/03/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+QUINTIERI Valeria; Cosenza (CS); 25/04/1982; Viale Delle Medaglie D'oro 10-87100Cosenza (CS); 189 del-of 23/06/2010;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+RACCO Caterina; Rionero In Vulture (PZ); 15/08/1969; Via Berna 4/b-89048Siderno (RC); 16073 del-of 07/08/2007;   ;  ISCRITTO ; CALABRIA;
+
+RACO Emanuele; Polistena (RC); 01/05/1970; Via L.pirandello 2-87012Castrovillari (CS); 13560 del-of 15/05/2002;   ;  ISCRITTO ; CALABRIA;
+
+RAFFA Daniele Fortunato; Reggio Calabria (RC); 03/09/1978; V. Carrera Ii Trav. Costantino 13-89122Reggio Calabria (RC); 16365 del-of 04/03/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+RAFFA Fortunata; Reggio Calabria (RC); 18/01/1974; Via Vito Inferiore 82-89122Reggio Calabria (RC); 308 del-of 11/05/2011;   ;  ISCRITTO ; CALABRIA;
+
+RAGOZZO Massimo; Roma (RM); 04/02/1968; Via Santa Liberata 6-87046Montalto Uffugo (CS); 846 del-of 06/07/2017;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+RAMUNDO Giuseppe; Fuscaldo (CS); 12/02/1967; Santo Iannello 1-87020Cariglio (CS); 9574 del-of 06/11/1995;   ;  ISCRITTO ; CALABRIA;
+
+RAMUNDO Luigi; Cassano All'ionio (CS); 02/06/1973; Via Carlo Pisacane 45-87075Trebisacce (CS); 12837 del-of 28/11/2000;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+RANDAZZO Luciano; Caltagirone (CT); 02/10/1957; Via Guido Parentela 9-88100Catanzaro (CZ); 16252 del-of 11/12/2007;   ;  ISCRITTO ; CALABRIA;
+
+RANIERI Gaetano; Crotone (KR); 24/12/1960; Via Makalla 26-88900Crotone (KR); 824 del-of 16/03/2017;   BPER BANCA SPA;  ISCRITTO ; CALABRIA;
+
+RANIERI Mariano; Catanzaro (CZ); 25/04/1967; Via Raffaele Carbonari 2-88100Catanzaro (CZ); 697 del-of 06/10/2015;   ;  ISCRITTO ; CALABRIA;
+
+RASCHELLA' Giuseppe; Sant'agata Del Bianco (RC); 13/01/1959; Via Barone Franco N. 45-89030Sant'agata Del Bianco (RC); 5913 del-of 08/01/1992;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+RATUIS Santo; Gerace (RC); 12/07/1962; Via D.vittorio Ii Trav., 67-89044Locri (RC); 12492 del-of 18/04/2000;   ;  ISCRITTO ; CALABRIA;
+
+REDAVIDE Fabio; Cosenza (CS); 12/05/1965; Via Dogana 9/b-87032Amantea (CS); 15908 del-of 02/05/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+RENZO Luigi; Bocchigliero (CS); 19/06/1968; Via Ofanto 14-87055San Giovanni In Fiore (CS); 8656 del-of 08/11/1994;   ;  ISCRITTO ; CALABRIA;
+
+RETEZ Carlo Maria; Palizzi (RC); 28/03/1966; Via S. Marco 12-89125Reggio Calabria (RC); 6254 del-of 10/06/1992;   ;  ISCRITTO ; CALABRIA;
+
+RICCA Giancarlo; Cosenza (CS); 03/11/1969; Piazza Caduti Via D'amelio 11-87100Cosenza (CS); 13257 del-of 11/09/2001;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+RICHICHI Francesco; Lamezia Terme (CZ); 04/10/1975; Via Piersanti Mattarella, 65-88046Lamezia Terme (CZ); 12461 del-of 29/03/2000;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+RIJLI Maurizio Antonio; Reggio Calabria (RC); 15/07/1973; Via Santa Caterina 10 Scala B-89122Reggio Calabria (RC); 642 del-of 12/02/2015;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; CALABRIA;
+
+RIPEPI Antonino Angelo; Reggio Calabria (RC); 19/04/1969; Via S. Caterina 107/d-89122Reggio Calabria (RC); 842 del-of 15/06/2017;   ;  ISCRITTO ; CALABRIA;
+
+RIPEPI Giuseppe; Reggio Calabria (RC); 01/08/1973; Via Argine Dx Annunziata, 43-89100Reggio Calabria (RC); 12646 del-of 04/07/2000;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+RITACCO Raffaele; Corigliano Calabro (CS); 17/11/1986; Via Nizza 64-87064Schiavonea (CS); 507 del-of 12/09/2013;   ;  ISCRITTO ; CALABRIA;
+
+RIZZO Daniela; Cosenza (CS); 05/11/1970; Via Vigna Della Signora 4-87016Morano Calabro (CS); 16472 del-of 13/05/2008;   ;  ISCRITTO ; CALABRIA;
+
+RIZZO Francesco; Cosenza (CS); 17/11/1988; Via Colongi 23-87032Amantea (CS); 779 del-of 25/10/2016;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+RODIGHIERO Maurizio; Cosenza (CS); 20/02/1961; Via Luigi De Franco 19-87100Cosenza (CS); 852 del-of 11/09/2017;   ;  ISCRITTO ; CALABRIA;
+
+ROMANELLI Gianfranco; Corigliano Calabro (CS); 01/07/1949; Via Nazionale 261-87064Corigliano Calabro (CS); 16055 del-of 25/07/2007;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+ROMANIA Ivan; Chiaromonte (PZ); 20/10/1971; Via Levantina 43-87010Cervicati (CS); 12721 del-of 12/09/2000;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+ROMANO Filippo; Catanzaro (CZ); 29/01/1973; Via Borelli 7-88100Catanzaro (CZ); 11879 del-of 17/03/1999;   ;  ISCRITTO ; CALABRIA;
+
+ROMANO Giuseppe; Reggio Calabria (RC); 12/09/1953; Via Sbarre Inferiori 155-89129Reggio Calabria (RC); 13521 del-of 16/04/2002;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+ROMANO Luigi; Reggio Calabria (RC); 10/09/1981; Via S.francesco Da Paola, 51-89100Reggio Calabria (RC); 13887 del-of 14/01/2003;   ;  ISCRITTO ; CALABRIA;
+
+ROMANO' Igor; Palmi (RC); 20/09/1971; Via Nazionale 18 20-89015Palmi (RC); 730 del-of 11/02/2016;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+ROMEO Domenico; Reggio Calabria (RC); 18/01/1968; Via Ss 18 I Tratto N 177h-89121Reggio Calabria (RC); 13887 del-of 14/01/2003;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+ROMEO Francesco; Messina (ME); 03/04/1963; Via Dei Ciliegi, 6-89048Siderno (RC); 13521 del-of 16/04/2002;   ;  ISCRITTO ; CALABRIA;
+
+ROMEO Francesco; Locri (RC); 08/10/1986; Via Delle Fornaci 39-89048Siderno (RC); 507 del-of 12/09/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+ROMEO Francesco; Melito Di Porto Salvo (RC); 30/06/1969; Via S. Caterina 64-89040Siderno Superiore (RC); 7900 del-of 22/03/1994;   CHEBANCA! SPA;  ISCRITTO ; CALABRIA;
+
+ROMEO Girolamo; Reggio Calabria (RC); 26/03/1953; Via Stadio A Monte, 19-89100Reggio Calabria (RC); 12377 del-of 16/02/2000;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+ROMEO Maria; Melito Di Porto Salvo (RC); 22/06/1986; Via Giacomo Matteotti 9 B-89030Bruzzano Zeffirio (RC); 666 del-of 14/05/2015;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+ROSE Emilia; Cosenza (CS); 27/10/1986; Via Kennedy 33/e-87036Rende (CS); 747 del-of 28/04/2016;   ;  ISCRITTO ; CALABRIA;
+
+ROSETI Andrea; Cassano All'ionio (CS); 23/09/1953; Via Sicilia-87075Trebisacce (CS); 13839 del-of 27/11/2002;   ;  ISCRITTO ; CALABRIA;
+
+ROSITO Pasquale; Morano Calabro (CS); 18/03/1963; Cda Piana-87016Morano Calabro (CS); 13162 del-of 06/06/2001;   ;  ISCRITTO ; CALABRIA;
+
+ROSSI Gianfranco; Siderno (RC); 12/08/1976; Via Domenico Salvadori 17-89032Bianco (RC); 354 del-of 11/11/2011;   ;  ISCRITTO ; CALABRIA;
+
+ROTELLA Francesco; Catanzaro (CZ); 13/03/1971; Viale Dei Normanni 47-88100Catanzaro (CZ); 654 del-of 01/04/2015;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; CALABRIA;
+
+ROTILIO Saverio; Melito Di Porto Salvo (RC); 21/05/1960; Via Leonardo Da Vinci Snc-89013Gioia Tauro (RC); 12492 del-of 18/04/2000;   ;  ISCRITTO ; CALABRIA;
+
+ROTUNDO Marcello; Catanzaro (CZ); 18/03/1964; Traversa Viii Crotone 34-88100Catanzaro (CZ); 9746 del-of 29/01/1996;   ;  ISCRITTO ; CALABRIA;
+
+RUBINO Alessandra; Catanzaro (CZ); 29/07/1987; Via Dei Garofani 38-88100Catanzaro (CZ); 837 del-of 23/05/2017;   ;  ISCRITTO ; CALABRIA;
+
+RUGGIERI Francesco; Cosenza (CS); 13/08/1964; Via Silvio Pellico, 6-87036Rende (CS); 12721 del-of 12/09/2000;   IW BANK SPA;  ISCRITTO ; CALABRIA;
+
+RUSCELLI Antonio Vito; Cassano All'ionio (CS); 15/06/1979; Via Esaro 6-87012Castrovillari (CS); 15925 del-of 15/05/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+RUSCIO Francesco; Vibo Valentia (VV); 19/02/1982; Via Negroni 99-87018San Marco Argentano (CS); 586 del-of 29/05/2014;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+RUSSO Filomena Maria; Lamezia Terme (CZ); 28/01/1970; Via Madonna Della Spina 65-88046Lamezia Terme (CZ); 607 del-of 16/10/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+RUSSO Luciana; Aiello Calabro (CS); 31/10/1968; Via Lava Gaenza 71-87032Amantea (CS); 675 del-of 11/06/2015;   ;  ISCRITTO ; CALABRIA;
+
+RUSSO Nadia; Reggio Calabria (RC); 31/03/1972; Vico Vitetta 26-89133Reggio Calabria (RC); 474 del-of 27/03/2013;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+SALADINO Antonio; Lamezia Terme (CZ); 05/11/1973; Via Leonardo Da Vinci 5-88046Lamezia Terme (CZ); 397 del-of 24/04/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+SALERNO Francesco; Reggio Calabria (RC); 17/02/1971; Via Xxv Luglio 1943 N. 1-89100Reggio Calabria (RC); 11267 del-of 10/03/1998;   ;  ISCRITTO ; CALABRIA;
+
+SAMUELI Valter; Cosenza (CS); 26/04/1961; Via Francesco Corsonello 78-87100Cosenza (CS); 480 del-of 23/04/2013;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; CALABRIA;
+
+SANTACROCE Riccardo Valerio; Reggio Calabria (RC); 20/03/1961; Via Torrione 7-89125Reggio Calabria (RC); 5972 del-of 12/02/1992;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+SANTALUCIA Leonardo; Cassano All'ionio (CS); 31/10/1978; Via Roma 67-87071Amendolara (CS); 535 del-of 29/11/2013;   ;  ISCRITTO ; CALABRIA;
+
+SANTELLI Laura; Cosenza (CS); 13/06/1973; Via Colombo 128-87046Montalto Uffugo (CS); 465 del-of 12/02/2013;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+SANTORO Giovanni; Reggio Calabria (RC); 03/07/1965; Via Re Ruggero 4-89127Reggio Calabria (RC); 13736 del-of 10/09/2002;   UNIPOL BANCA SPA;  ISCRITTO ; CALABRIA;
+
+SANTORO Rocco; Cosenza (CS); 30/10/1955; Via Papa Giovanni Xxiii 11-87036Rende (CS); 564 del-of 20/03/2014;   ;  ISCRITTO ; CALABRIA;
+
+SAPONE Fabio; Reggio Calabria (RC); 15/10/1977; Vico Ferruccio 148-89132Reggio Calabria (RC); 14020 del-of 08/04/2003;   VALORI & FINANZA INVESTIMENTI SIM S.p.A.;  ISCRITTO ; CALABRIA;
+
+SARACENI Francesco; Castrovillari (CS); 14/10/1965; Contrada Lacco 118-87012Castrovillari (CS); 7447 del-of 18/10/1993;   DEUTSCHE BANK SPA;  ISCRITTO ; CALABRIA;
+
+SARAGO' Pasqualino; Vibo Valentia (VV); 10/03/1968; Via Madonna Delle Grazie, 114-87027Paola (CS); 13096 del-of 24/04/2001;   ;  ISCRITTO ; CALABRIA;
+
+SARLO Vincenzo Antonio; Palmi (RC); 12/06/1962; Via Dante, 51-89015Palmi (RC); 13096 del-of 24/04/2001;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+SARUBBI Loretta; Cosenza (CS); 12/01/1990; Via Filippo Turati 29-87026Mormanno (CS); 846 del-of 06/07/2017;   ;  ISCRITTO ; CALABRIA;
+
+SAVERINO Roberto; Catanzaro (CZ); 29/04/1966; Via Ravenna, 20-88100Catanzaro (CZ); 13162 del-of 06/06/2001;   ;  ISCRITTO ; CALABRIA;
+
+SCALISE Salvatore; Casabona (KR); 04/12/1956; Traversa Iii Di Via Liberta' 33-88900Crotone (KR); 12721 del-of 12/09/2000;   SOLIDARIETA' & FINANZA SIM SPA;  ISCRITTO ; CALABRIA;
+
+SCALZO Carlo; Cosenza (CS); 14/05/1971; C.da Petroni, 134-87036Rende (CS); 12172 del-of 02/11/1999;   ;  ISCRITTO ; CALABRIA;
+
+SCALZO Giuseppe; Cosenza (CS); 11/05/1966; Via Reggio Calabria 12-87100Cosenza (CS); 11992 del-of 01/06/1999;   ;  ISCRITTO ; CALABRIA;
+
+SCARFO' Silvio; Belvedere Marittimo (CS); 02/01/1971; Viale Dei Giardini 1/h-87036Rende (CS); 9297 del-of 19/06/1995;   DEUTSCHE BANK SPA;  ISCRITTO ; CALABRIA;
+
+SCARFONE Annamaria Rita; Reggio Calabria (RC); 05/03/1968; Via A.frangipane,i Traversa,22-89100Reggio Calabria (RC); 16393 del-of 18/03/2008;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+SCARPINO Mattia; Cosenza (CS); 29/04/1983; Via F.gullo, 11-87040Castrolibero (CS); 14020 del-of 08/04/2003;   ;  ISCRITTO ; CALABRIA;
+
+SCERVINO Filippo; Cosenza (CS); 20/09/1968; Piazza Zumbini 53-87100Cosenza (CS); 173 del-of 13/05/2010;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+SCHIPANI Fabio; Catanzaro (CZ); 16/05/1970; Via E. Buccarelli 27-88100Catanzaro (CZ); 666 del-of 14/05/2015;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+SCICCHITANO Rita; Satriano (CZ); 25/11/1971; Via I Maggio 25-88060Davoli (CZ); 16073 del-of 07/08/2007;   ;  ISCRITTO ; CALABRIA;
+
+SCIDA Fabrizio; Isola Di Capo Rizzuto (KR); 22/01/1966; Via Firenze 65-88900Crotone (KR); 9574 del-of 06/11/1995;   ALTO ADIGE BANCA SPA;  ISCRITTO ; CALABRIA;
+
+SCIGLIANO Pierluigi; Cosenza (CS); 28/09/1976; Via Destre, 6-87030Belsito (CS); 12731 del-of 26/09/2000;   ;  ISCRITTO ; CALABRIA;
+
+SCODITTI Antonio; Castrovillari (CS); 18/12/1954; Via Dei Platani 5-87012Castrovillari (CS); 16665 del-of 28/10/2008;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+SCOPELLITI Massimo; Reggio Calabria (RC); 17/09/1970; Via L. Repaci N. 19-89052Campo Calabro (RC); 11169 del-of 27/01/1998;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+SCORDAMAGLIA Severino; Taranto (TA); 10/08/1955; Via Cristoforo Colombo 21-89900Vibo Valentia (VV); 571 del-of 08/04/2014;   ;  ISCRITTO ; CALABRIA;
+
+SCOTTO Anna Maria; Reggio Calabria (RC); 04/02/1966; Via Sbarre Inferiori 312 Zona Industriale-89129Reggio Calabria (RC); 12068 del-of 21/07/1999;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+SCOZIA Alessandro; Catanzaro (CZ); 15/12/1969; Via Schipani 110-88100Catanzaro (CZ); 11685 del-of 11/11/1998;   ;  ISCRITTO ; CALABRIA;
+
+SCOZZAFAVA Paolo; Catanzaro (CZ); 31/07/1975; Contrada Murro Snc-88044Marcellinara (CZ); 824 del-of 16/03/2017;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+SCUDERI Sebastiano; Roma (RM); 23/10/1943; Via D. Marvasi N. 37-89128Reggio Calabria (RC); 5913 del-of 08/01/1992;   ;  ISCRITTO ; CALABRIA;
+
+SCUGLIA Francesco; Vibo Valentia (VV); 22/09/1977; Via Accademie Vibonesi 3 Trav., 4-89900Vibo Valentia (VV); 13222 del-of 01/08/2001;   ;  ISCRITTO ; CALABRIA;
+
+SCULCO Gianfranco; Catanzaro (CZ); 20/07/1957; Viale Dei Normanni 45-88100Catanzaro (CZ); 580 del-of 13/05/2014;   ;  ISCRITTO ; CALABRIA;
+
+SENATORE Massimiliano; Martirano Lombardo (CZ); 24/03/1964; Via Gaspare Colosimo 26-88040Martirano Lombardo (CZ); 9297 del-of 19/06/1995;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+SERGI Rosario; Plati' (RC); 10/06/1970; Vico Ii G.mazzini 1/p2-89039Plati' (RC); 415 del-of 23/07/2012;   ;  ISCRITTO ; CALABRIA;
+
+SERIO Francesco; Policoro (MT); 05/03/1987; Via Milite Ignoto 4-87076Villapiana (CS); 766 del-of 28/07/2016;   ;  ISCRITTO ; CALABRIA;
+
+SERRA Giuseppe; Bianco (RC); 19/07/1957; Via Umberto I 97-89032Bianco (RC); 16307 del-of 22/01/2008;   ;  ISCRITTO ; CALABRIA;
+
+SERTO Francesco; San Lucido (CS); 05/07/1958; Via Marina, 18-87038San Lucido (CS); 9975 del-of 20/05/1996;   ;  ISCRITTO ; CALABRIA;
+
+SERVINO Andrea; Cropani (CZ); 27/09/1962; Via Gaccia 12-88046Lamezia Terme (CZ); 7549 del-of 30/11/1993;   SOLIDARIETA' & FINANZA SIM SPA;  ISCRITTO ; CALABRIA;
+
+SETA Mariateresa; Cosenza (CS); 09/09/1965; Corso Luigi Fera 63-87100Cosenza (CS); 13015 del-of 20/03/2001;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+SETTEMBRINI Flavio; Reggio Calabria (RC); 19/07/1972; Via Sbarre Centrali 516 Edificio 2-89132Reggio Calabria (RC); 837 del-of 23/05/2017;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+SEVERINO Camilla; Catanzaro (CZ); 23/02/1965; Via Giuseppe Verdi 24-87036Rende (CS); 16393 del-of 18/03/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+SGRO' Domenico Antonino; Melito Di Porto Salvo (RC); 28/12/1990; Via La Croce 2 B-89060Bagaladi (RC); 926 del-of 11/07/2018;   ;  ISCRITTO ; CALABRIA;
+
+SICA Vincenzo; Rossano (CS); 25/10/1961; Via Taranto, 4-87067Rossano (CS); 12018 del-of 16/06/1999;   ;  ISCRITTO ; CALABRIA;
+
+SICALI Vincenza Michela; Reggio Calabria (RC); 26/01/1974; Via Lupardini 1 C-89121Reggio Calabria (RC); 832 del-of 20/04/2017;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+SICILIA Giuseppe; Cosenza (CS); 09/12/1993; Via Leonardo Da Vinci 10 /18-87040Mendicino (CS); 691 del-of 21/09/2015;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+SICILIANO Carmelo; Reggio Calabria (RC); 17/06/1967; Via Cerasari, 55-89010Molochio (RC); 9574 del-of 06/11/1995;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+SICLARI Monica; Reggio Calabria (RC); 14/10/1973; Via Eremo Botte 4-89127Reggio Calabria (RC); 12721 del-of 12/09/2000;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+SIGLIOCCOLO Mario; Torre Del Greco (NA); 14/03/1981; Via Armando Diaz 103-87028Praia A Mare (CS); 540 del-of 19/12/2013;   COPERNICO SIM SPA;  ISCRITTO ; CALABRIA;
+
+SIGNORETTA Saverio; Vibo Valentia (VV); 02/02/1975; Via Santa Ruba 23-89900Vibo Valentia (VV); 12461 del-of 29/03/2000;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+SILIPIGNI Carmelina; Messina (ME); 07/08/1973; Via Romana Catona 7-89053Reggio Calabria (RC); 13521 del-of 16/04/2002;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+SILVAGNI Francesco; Cosenza (CS); 21/06/1960; Via G. Deledda N. 3-87040Mendicino (CS); 14638 del-of 06/07/2004;   ;  ISCRITTO ; CALABRIA;
+
+SILVESTRI Salvatore; Verbicaro (CS); 23/07/1949; Via Del Mulino 7-87029Scalea (CS); 16073 del-of 07/08/2007;   ;  ISCRITTO ; CALABRIA;
+
+SOFIA Arturo; Taurianova (RC); 05/08/1965; Via Dante Alighieri 17/sb P.2-89029Taurianova (RC); 11992 del-of 01/06/1999;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+SOLLAZZO Donato; Locri (RC); 03/02/1971; Piazza Terrana 4-89031Ardore (RC); 15560 del-of 19/09/2006;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+SORACE Domenico; Siderno (RC); 05/02/1961; Corso Garibaldi 49-89048Siderno (RC); 13887 del-of 14/01/2003;   ;  ISCRITTO ; CALABRIA;
+
+SORRENTI Paolo; Reggio Calabria (RC); 16/02/1966; Via Sbarre Centrali, 715/a-89132Reggio Calabria (RC); 13491 del-of 19/03/2002;   ;  ISCRITTO ; CALABRIA;
+
+SOTTILE Pierluigi; Cosenza (CS); 06/02/1963; Via Della Resistenza 54/c-87036Rende (CS); 13162 del-of 06/06/2001;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+SPADA Massimiliano; Catanzaro (CZ); 03/12/1970; Via Vieste 85 Villaggio Carrao-88050Cropani Marina (CZ); 9975 del-of 20/05/1996;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; CALABRIA;
+
+SPADAFORA Antonio; Cosenza (CS); 23/04/1957; Via Principe Francesco 29-87100Cosenza (CS); 511 del-of 02/10/2013;   ;  ISCRITTO ; CALABRIA;
+
+SPADAFORA Luigi; Cosenza (CS); 25/09/1963; Via Mazzini 38-87011Cassano All'ionio (CS); 7549 del-of 30/11/1993;   ;  ISCRITTO ; CALABRIA;
+
+SPADARO Sebastian; Reggio Calabria (RC); 16/04/1985; Via Sbarre Sup. Diramazione La Boccetta 51-89132Reggio Calabria (RC); 15187 del-of 11/10/2005;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; CALABRIA;
+
+SPAGNA Simona; Reggio Calabria (RC); 11/01/1978; Via Crimameno 25-89063Melito Di Porto Salvo (RC); 16365 del-of 04/03/2008;   BANCA POPOLARE ETICA SOCIETA' COOPERATIVA PER AZIONI;  ISCRITTO ; CALABRIA;
+
+SPAGNOLO Fabrizio; Melito Di Porto Salvo (RC); 17/09/1988; Via Marina,17-89063Melito Di Porto Salvo (RC); 16393 del-of 18/03/2008;   ;  ISCRITTO ; CALABRIA;
+
+SPAGNOLO Giovanna; Siderno (RC); 14/03/1976; Via Della Galleria 34-88068Soverato (CZ); 16252 del-of 11/12/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+SPANO' Debora; Reggio Calabria (RC); 28/04/1979; Vico Ferruccio 24-89132Reggio Calabria (RC); 871 del-of 15/12/2017;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+SPARTA Claudio; Reggio Calabria (RC); 06/08/1982; Via Milio Trizzino 41-89100Reggio Calabria (RC); 16252 del-of 11/12/2007;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+SPASARI Maria Pia; Catanzaro (CZ); 30/06/1979; Via M.colonna, 10-88100Catanzaro (CZ); 13175 del-of 26/06/2001;   ;  ISCRITTO ; CALABRIA;
+
+SPINA Anna; Rossano (CS); 22/09/1981; Via Arno 50-87067Rossano (CS); 465 del-of 12/02/2013;   ;  ISCRITTO ; CALABRIA;
+
+SPIZZIRRI Roberta; Cosenza (CS); 09/06/1967; Via Carlo Carra' 10-87036Rende (CS); 425 del-of 27/09/2012;   ;  ISCRITTO ; CALABRIA;
+
+STALTARI Vincenzo; Locri (RC); 27/12/1969; C.da Riposo, 12-89044Locri (RC); 13292 del-of 09/10/2001;   ;  ISCRITTO ; CALABRIA;
+
+STASI Amedeo; Gioia Del Colle (BA); 05/06/1980; Contrada Palombari 148-87012Vigne Di Castrovillari (CS); 564 del-of 20/03/2014;   ;  ISCRITTO ; CALABRIA;
+
+STASI Cataldo; Carosino (TA); 26/02/1960; Via A. Vespucci 69-87067Rossano (CS); 7297 del-of 03/08/1993;   IW BANK SPA;  ISCRITTO ; CALABRIA;
+
+STATTI Giuseppe Primo; Catanzaro (CZ); 25/09/1965; Via Fata Morgana 52-89125Reggio Calabria (RC); 604 del-of 18/09/2014;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+STILO Domenicantonio; Reggio Calabria (RC); 13/04/1984; Viale Amendola 11 Isolato 89-89100Reggio Calabria (RC); 532 del-of 20/11/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+STILO Domenico; Roma (RM); 12/03/1982; Via Cusmano Snc-89044Locri (RC); 12 del-of 05/03/2009;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+STILO Maria Teresa; Nicotera (VV); 08/10/1973; Via Foschea, 14-89844Nicotera (VV); 12298 del-of 04/01/2000;   ;  ISCRITTO ; CALABRIA;
+
+STRACUZZI Giuseppe; Reggio Calabria (RC); 07/03/1989; Via Reggio Campi Ii Tronco 109 A-89126Reggio Calabria (RC); 852 del-of 11/09/2017;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+STRANO Danilo; Catanzaro (CZ); 30/07/1987; Strada Provinciale 172 53-88024Girifalco (CZ); 950 del-of 08/11/2018;   ;  ISCRITTO ; CALABRIA;
+
+STRATI Agata; Reggio Calabria (RC); 12/10/1959; Via Caserta Crocevia 25 B-89124Reggio Calabria (RC); 740 del-of 23/03/2016;   ;  ISCRITTO ; CALABRIA;
+
+SUMMARIA Luca; Cosenza (CS); 15/03/1967; Via G.sambiase 46/b-87100Cosenza (CS); 13887 del-of 14/01/2003;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+SURACE Fortunato Dario; Reggio Calabria (RC); 10/08/1981; Via N.bixio, 45-89127Reggio Calabria (RC); 13491 del-of 19/03/2002;   ;  ISCRITTO ; CALABRIA;
+
+SURACE Michele Antonino; Reggio Calabria (RC); 16/05/1967; Via Galileo Galilei 10-89129Reggio Calabria (RC); 403 del-of 31/05/2012;   Banca Prossima Spa;  ISCRITTO ; CALABRIA;
+
+TALARICO Fedele; Catanzaro (CZ); 07/04/1961; Via Antonio Daniele 6-88100Catanzaro (CZ); 12646 del-of 04/07/2000;   ;  ISCRITTO ; CALABRIA;
+
+TALARICO Leonardo; Cosenza (CS); 29/07/1975; Via Giovanni Il Rossanese 8-87067Rossano (CS); 14550 del-of 11/05/2004;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+TARANTO Giuseppe; Bisignano (CS); 23/11/1971; C.da Canale, 4-87043Bisignano (CS); 13162 del-of 06/06/2001;   ;  ISCRITTO ; CALABRIA;
+
+TASSONE Alessandra; Milano (MI); 07/03/1966; Via Lemos 9/b-89127Reggio Calabria (RC); 10308 del-of 11/11/1996;   ;  ISCRITTO ; CALABRIA;
+
+TASSONE Luca; Catanzaro (CZ); 09/10/1974; Via Circhetto 8-89048Siderno (RC); 15370 del-of 28/03/2006;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+TASSONE Vito; Simbario (VV); 01/09/1933; Via Lemos N. 9/b-89127Reggio Calabria (RC); 5913 del-of 08/01/1992;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; CALABRIA;
+
+TAVELLA Alessandra; Reggio Calabria (RC); 24/05/1984; Via Pio Xi 221-89133Reggio Calabria (RC); 691 del-of 21/09/2015;   ;  ISCRITTO ; CALABRIA;
+
+TAVERNISE Giovanna Sigismina; Rossano (CS); 05/07/1975; Via Palatino 8-87067Rossano (CS); 16493 del-of 27/05/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+TAVIANI Cristina; Vinci (FI); 07/05/1970; Via L.m.greco, 2-87100Cosenza (CS); 13887 del-of 14/01/2003;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+TERRANA Giuseppe; Agrigento (AG); 27/05/1969; Via Vicenza 4-89125Reggio Calabria (RC); 9574 del-of 06/11/1995;   ;  ISCRITTO ; CALABRIA;
+
+TERZI Massimiliano; Cosenza (CS); 02/03/1971; Via Sandro Botticelli Snc-87036Rende (CS); 611 del-of 28/10/2014;   ;  ISCRITTO ; CALABRIA;
+
+TETI Rodolfo; Vibo Valentia (VV); 22/03/1970; Via Lacquari Snc-89900Vibo Valentia (VV); 933 del-of 12/09/2018;   UNIONE DI BANCHE ITALIANE SPA;  ISCRITTO ; CALABRIA;
+
+TETRO Angelo; Lungro (CS); 15/12/1940; Via Galeno 8-87012Castrovillari (CS); 5972 del-of 12/02/1992;   ;  ISCRITTO ; CALABRIA;
+
+TIMPANO Angelo; Reggio Calabria (RC); 13/10/1955; Via Pio Xi Traversa Putorti' 36-89133Reggio Calabria (RC); 549 del-of 16/01/2014;   ;  ISCRITTO ; CALABRIA;
+
+TOMAINO Ivan; Decollatura (CZ); 11/02/1953; Piazza Della Vittoria 30-88041Decollatura (CZ); 14707 del-of 21/09/2004;   ;  ISCRITTO ; CALABRIA;
+
+TOMASELLI Antonio; Catanzaro (CZ); 26/04/1975; Via Antonio Izzi De Falenta 296-88100Catanzaro (CZ); 16252 del-of 11/12/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+TORCHIA Angelo; Bari (BA); 07/03/1972; Via A.pepe 219-87021Belvedere Marittimo (CS); 13222 del-of 01/08/2001;   ;  ISCRITTO ; CALABRIA;
+
+TORCHIA Fabrizio; Winterthur (SVIZZERA); 25/11/1971; Via Piersanti Mattarella 2-89900Vibo Valentia (VV); 945 del-of 30/10/2018;   ;  ISCRITTO ; CALABRIA;
+
+TORSELLO Cosimo; Castrovillari (CS); 18/05/1945; Viale Agricoltura 68-87012Castrovillari (CS); 7119 del-of 09/06/1993;   ;  ISCRITTO ; CALABRIA;
+
+TORTORELLA Marialaura; Catanzaro (CZ); 15/03/1973; Via A. Daniele-88100Catanzaro (CZ); 15748 del-of 06/02/2007;   ;  ISCRITTO ; CALABRIA;
+
+TOSCANO Annunziato Vittorio; Melito Di Porto Salvo (RC); 14/03/1974; Via Salvo D'acquisto 2-89063Melito Di Porto Salvo (RC); 12298 del-of 04/01/2000;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+TOSCANO Pasquale Roberto; Milano (MI); 06/04/1973; Via Lungomare,122-89036Brancaleone (RC); 11923 del-of 14/04/1999;   ;  ISCRITTO ; CALABRIA;
+
+TOSTI Giuseppina; Cosenza (CS); 19/03/1975; Via Terravecchia 38-87056Santo Stefano Di Rogliano (CS); 950 del-of 08/11/2018;   ;  ISCRITTO ; CALABRIA;
+
+TRICHILO Antonio; Siderno (RC); 02/03/1964; Via Gramsci, 46-89048Siderno (RC); 13643 del-of 02/07/2002;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+TRICO' Francesco; Cosenza (CS); 18/09/1963; Viale Della Repubblica 154-87100Cosenza (CS); 13973 del-of 11/03/2003;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+TRIFILIO Brunella; Belvedere Marittimo (CS); 02/08/1966; Via Popilia Pal. Bilotti 6-87100Cosenza (CS); 14020 del-of 08/04/2003;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+TRIPEPI Antonino; Reggio Calabria (RC); 03/10/1968; Via Abate S. Elia 16-89134Reggio Calabria (RC); 697 del-of 06/10/2015;   BANCO DI NAPOLI SPA;  ISCRITTO ; CALABRIA;
+
+TRIPEPI Ettore Maria; Reggio Calabria (RC); 07/03/1964; Via Ravagnese Sup. 163/a-89100Reggio Calabria (RC); 10911 del-of 02/09/1997;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; CALABRIA;
+
+TRIPODI Costantino; Reggio Calabria (RC); 02/07/1962; Via Poso-89100Reggio Calabria (RC); 10308 del-of 11/11/1996;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+TRIPODI Ermete; Cinquefrondi (RC); 30/08/1988; Rione Poso 8-89012Delianuova (RC); 535 del-of 29/11/2013;   ;  ISCRITTO ; CALABRIA;
+
+TRIPODI Pasquale; Reggio Calabria (RC); 03/06/1979; Via Calamizzi, 4-89129Reggio Calabria (RC); 12721 del-of 12/09/2000;   ;  ISCRITTO ; CALABRIA;
+
+TROPEA Delfino; Cosenza (CS); 10/07/1959; Via Enrico Berlinguer 21-87040Castrolibero (CS); 6622 del-of 24/11/1992;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+TROVATO Luigi; Castrovillari (CS); 05/08/1979; Via San Leonardo 18-87010Lungro (CS); 280 del-of 28/01/2011;   ;  ISCRITTO ; CALABRIA;
+
+TRUNFIO Francesco; Reggio Calabria (RC); 06/09/1969; C.da Lagani Croce Valanidi, 71-89100Reggio Calabria (RC); 13096 del-of 24/04/2001;   ;  ISCRITTO ; CALABRIA;
+
+TULINO Michela; Mileto (VV); 26/11/1968; Via N.lombardi, 20-89852Mileto (VV); 12095 del-of 11/08/1999;   ;  ISCRITTO ; CALABRIA;
+
+TURANO Gianfranco; Vallecrosia (IM); 24/08/1964; Via Antonio Gramsci 12-87030San Vincenzo La Costa (CS); 480 del-of 23/04/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+TURANO Luca; Crotone (KR); 02/01/1975; Via Santa Croce, 49-88900Crotone (KR); 13491 del-of 19/03/2002;   ;  ISCRITTO ; CALABRIA;
+
+TURANO Maria Cristina; Reggio Calabria (RC); 17/02/1976; Via Trento 2-89100Reggio Calabria (RC); 14956 del-of 29/03/2005;   ;  ISCRITTO ; CALABRIA;
+
+TURCO Andrea; Spezzano Della Sila (CS); 01/01/1962; Via Roma 293-87058Spezzano Della Sila (CS); 9895 del-of 11/04/1996;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+UCCELLA Flavio; Messina (ME); 03/04/1968; Via Po 44-87036Rende (CS); 13096 del-of 24/04/2001;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+URSO Giuseppe; Cotronei (KR); 24/03/1960; Viale Leonardo Gallucci 55-88900Crotone (KR); 8418 del-of 20/09/1994;   ;  ISCRITTO ; CALABRIA;
+
+URSO Vittorio; Lecce (LE); 11/10/1972; Via Dei Mille 120-88046Lamezia Terme (CZ); 16665 del-of 28/10/2008;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+VALASTRO Gianluca; Catanzaro (CZ); 27/06/1975; Via Formia 20/4-88100Catanzaro (CZ); 40 del-of 25/06/2009;   ;  ISCRITTO ; CALABRIA;
+
+VALASTRO Marco; Catanzaro (CZ); 22/07/1982; Via Traversa Stretto Antico 11-88100Catanzaro (CZ); 933 del-of 12/09/2018;   ;  ISCRITTO ; CALABRIA;
+
+VALENTE Antonio; Cosenza (CS); 22/03/1967; Via Panebianco 229-87100Cosenza (CS); 16696 del-of 25/11/2008;   CREDITO EMILIANO SPA;  ISCRITTO ; CALABRIA;
+
+VALENTE Francesco; Corigliano Calabro (CS); 19/04/1969; Via Mosca 142-87064Corigliano Calabro (CS); 535 del-of 29/11/2013;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+VALENTI Alfonso; Catanzaro (CZ); 16/09/1963; Via Gramsci 10-88060Sant'andrea Apostolo Dello Ionio (CZ); 8478 del-of 04/10/1994;   ;  ISCRITTO ; CALABRIA;
+
+VALENTINO Simone; Vibo Valentia (VV); 08/07/1986; Corso Italia 75-89853San Gregorio D'ippona (VV); 425 del-of 27/09/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+VARONE Maurizio; Vibo Valentia (VV); 19/12/1967; Piazzetta S. Francesco 11-88046Lamezia Terme (CZ); 8093 del-of 01/06/1994;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+VERCILLO Giovanni; Cosenza (CS); 01/09/1976; Via Unita' D'italia 6-87050Rovito (CS); 14980 del-of 12/04/2005;   ;  ISCRITTO ; CALABRIA;
+
+VERRO Alberto; Polia (VV); 25/11/1965; Via Gioacchino Da Fiore 23-88040Settingiano (CZ); 12 del-of 05/03/2009;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+VERSACE Giovanni; Melito Di Porto Salvo (RC); 22/04/1973; Cda Reale-89032Bianco (RC); 11992 del-of 01/06/1999;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+VIGILANTE Pasquale; Reggio Calabria (RC); 26/05/1970; Via Del Gelsomino 20-89128Reggio Calabria (RC); 706 del-of 12/11/2015;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+VIGLIANISI Giovanni; Reggio Calabria (RC); 08/11/1974; Via Cantaffio 11-89100Reggio Calabria (RC); 12298 del-of 04/01/2000;   ;  ISCRITTO ; CALABRIA;
+
+VILLELLA Giovanna; Rossano (CS); 24/06/1964; Via Normanni, 96-87067Rossano (CS); 12603 del-of 13/06/2000;   BANCA REALE SPA;  ISCRITTO ; CALABRIA;
+
+VIOLA Concetta; Reggio Calabria (RC); 22/07/1959; Via Modena 46-89132Reggio Calabria (RC); 607 del-of 16/10/2014;   ;  ISCRITTO ; CALABRIA;
+
+VIOLA Leo; Castrovillari (CS); 26/12/1981; Via Giorgio La Pira 163-87010Saracena (CS); 16296 del-of 15/01/2008;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+VITA Leonardo; Corigliano Calabro (CS); 06/12/1978; Via Provinciale,185-87064Corigliano Calabro (CS); 16608 del-of 02/09/2008;   ;  ISCRITTO ; CALABRIA;
+
+VITARESI Roberto; Reggio Calabria (RC); 30/09/1964; Via Schiavone Mati 30/l-89126Reggio Calabria (RC); 15638 del-of 28/11/2006;   BANCA MEDIOLANUM SPA;  ISCRITTO ; CALABRIA;
+
+VOLPE Francesco; Castrovillari (CS); 15/12/1976; Via Virtu' 2-87012Castrovillari (CS); 15462 del-of 15/06/2006;   ;  ISCRITTO ; CALABRIA;
+
+VUMBACA Gianluca; Siderno (RC); 07/12/1977; Via Libero Grassi 4-88040Pianopoli (CZ); 580 del-of 13/05/2014;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; CALABRIA;
+
+ZACCO Domenico; Reggio Calabria (RC); 18/06/1952; Via Vecchia S.sperato 4/c-89133Reggio Calabria (RC); 13125 del-of 15/05/2001;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; CALABRIA;
+
+ZAGARI Gianluca; Catanzaro (CZ); 01/07/1970; Via Antonio Manganelli 32-88100Catanzaro (CZ); 12502 del-of 27/04/2000;   ;  ISCRITTO ; CALABRIA;
+
+ZAMPAGLIONE Francesco; Montebello Jonico (RC); 27/09/1965; Via Nazionale 8-89064Saline Ioniche (RC); 9513 del-of 16/10/1995;   BANCA GENERALI SPA;  ISCRITTO ; CALABRIA;
+
+ZAMPOGNA Stefano; Palmi (RC); 07/03/1981; Via S.s. 18 I Tratto 87-89122Reggio Calabria (RC); 308 del-of 11/05/2011;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; CALABRIA;
+
+ZANFINO Francesco Angelo; Acri (CS); 22/10/1965; Via Enrico Berlinguer 73/4-87041Acri (CS); 334 del-of 15/09/2011;   ;  ISCRITTO ; CALABRIA;
+
+ZANGARI Giuseppe; Catanzaro (CZ); 09/02/1971; Via Filardo 2-89822Spadola (VV); 13125 del-of 15/05/2001;   ;  ISCRITTO ; CALABRIA;
+
+ZICCARELLI Franco; Carolei (CS); 31/01/1962; Via Fratelli Cervi 20-87100Cosenza (CS); 11379 del-of 12/05/1998;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; CALABRIA;
+
+ZINDATO Salvatore; Gioia Tauro (RC); 26/10/1975; Via Tuba 38-89014Oppido Mamertina (RC); 14020 del-of 08/04/2003;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; CALABRIA;
+
+ZIRILLO Andrea Rosario; Melito Di Porto Salvo (RC); 24/04/1973; Via Salinella 40-89030Condofuri (RC); 13973 del-of 11/03/2003;   ;  ISCRITTO ; CALABRIA;
+
+ZITO Giuseppe; Lamezia Terme (CZ); 11/12/1981; Via Tommaso Maria Fusco 139-88046Lamezia Terme (CZ); 163 del-of 08/04/2010;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; CALABRIA;
+
+ZIZZA Giuseppe; Crotone (KR); 08/06/1976; Via Russia 13-88900Crotone (KR); 691 del-of 21/09/2015;   BPER BANCA SPA;  ISCRITTO ; CALABRIA;
+

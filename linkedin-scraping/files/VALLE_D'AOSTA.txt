@@ -1,0 +1,280 @@
+
+Cognome-Surname;Luogo di nascita-Place of birth;Data di nascita-Date of birth;Indirizzo-Address;Delibera d'iscrizione-Subscrition resolution;Intermediario-Intermediary;Sospensione cautelare/sanzionatoria  di-Protective/penalty suspension of;Regione di residenza-Residence;;
+AGUETTAZ Flavio; Aosta (AO); 03/06/1962; Frazione Montan 45-11010Sarre (AO); 6598 del-of 11/11/1992;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+AGUETTAZ Stefano; Aosta (AO); 05/05/1973; Frazione Paye' 33/b-11020Verrayes (AO); 173 del-of 13/05/2010;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+AMBROSI Elisa; Aosta (AO); 17/12/1977; Via Emilio Chanoux 38-11020Hone (AO); 596 del-of 17/07/2014;   UNICREDIT SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+APREA Angelo; Aosta (AO); 08/11/1976; Via De Tillier 53-11100Aosta (AO); 483 del-of 21/05/2013;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+ARMARI Andrea; Carmagnola (TO); 21/07/1972; Frazione Poinsod 100-11010Sarre (AO); 16517 del-of 24/06/2008;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+ARTAZ Lorena; Aosta (AO); 29/01/1972; Frazione Artaz 30-11020La Magdeleine (AO); 842 del-of 15/06/2017;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+BAGGIO Paola; Aosta (AO); 06/04/1960; Via Petigat 5-11100Aosta (AO); 280 del-of 28/01/2011;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+BALBIS Roberta Carla; Aosta (AO); 21/04/1964; Frazione Truchod Porossan 179/a-11100Aosta (AO); 532 del-of 20/11/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+BARBERO Maurizio; Aosta (AO); 19/11/1970; Via Chambery N. 100-11100Aosta (AO); 12461 del-of 29/03/2000;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+BENEDETTO Nicola; Aosta (AO); 20/01/1962; Frazione Fochat 18-11010Sarre (AO); 586 del-of 29/05/2014;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+BIAGIONI Danilo; Torino (TO); 03/05/1965; Loc. Cognein 29-11010Saint-pierre (AO); 9690 del-of 27/12/1995;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+BIONAZ Jean Paul; Aosta (AO); 05/10/1981; Frazione Entrebin 21/d-11100Aosta (AO); 15215 del-of 15/11/2005;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+BISAZZA Enrico; Aosta (AO); 07/04/1973; Frazione Canoz 2-11024Chatillon (AO); 14388 del-of 21/01/2004;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+BLANC Rosella; Aosta (AO); 14/08/1967; Frazione Degioz 138/a-11010Valsavarenche (AO); 16365 del-of 04/03/2008;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+BOCCATO Davide; Torino (TO); 29/10/1967; Frazione Resselin 2/d-11020Gressan (AO); 16517 del-of 24/06/2008;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+BORELLO Paola; Torino (TO); 24/06/1971; Frazione Poinsod 82-11010Sarre (AO); 15438 del-of 23/05/2006;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+BORETTAZ Anna Maria; Aosta (AO); 24/06/1953; Via A. Cretier 22-11029Verres (AO); 11905 del-of 06/04/1999;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+BRERO Sergio; Aosta (AO); 14/08/1949; Reg. Pallin 11-11100Aosta (AO); 14043 del-of 23/04/2003;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+BRUCATO Giuseppe; Caltanissetta (CL); 23/03/1960; Località Chez Buillet 4-11020Pollein (AO); 14728 del-of 05/10/2004;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+BUSCAGLIONE Brunetto; Biella (BI); 21/03/1955; Villaggio Eclou 41/5-11020Quart (AO); 6598 del-of 11/11/1992;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CAMINOTTO Michael; Torino (TO); 27/06/1970; Localita' Le Gran Pre' 36-11027Saint-vincent (AO); 13310 del-of 23/10/2001;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CAMPIGOTTO Loris; Aosta (AO); 15/07/1961; Frazione Ciseran 38-11020Montjovet (AO); 8777 del-of 22/11/1994;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CAMPIGOTTO Valeria; Aosta (AO); 20/11/1993; Frazione Ciseran 38-11020Montjovet (AO); 852 del-of 11/09/2017;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CANEPARO Lorenzo; Aosta (AO); 14/01/1964; Frazione Lalex 57-11010Sarre (AO); 730 del-of 11/02/2016;   UNICREDIT SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CAPITONI Daniele Andrea; Dornach (SVIZZERA); 30/01/1969; Villaggio Combe 8-11020Quart (AO); 11905 del-of 06/04/1999;   BANCA GENERALI SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CAPITONI Matteo; Perugia (PG); 25/09/1988; Frazione Urbains 21-11010Aymavilles (AO); 502 del-of 23/07/2013;   BANCA GENERALI SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CAPONETTI Angela; Aosta (AO); 02/11/1970; Via Prebenda N. 4-11020Quart (AO); 12990 del-of 27/02/2001;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CAPPA Fabio; Napoli (NA); 24/03/1967; Frazione Echarlod 213-11015La Salle (AO); 816 del-of 22/02/2017;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+CARBONE Roberto; Aglie' (TO); 20/11/1956; Via Binel 23-11100Aosta (AO); 691 del-of 21/09/2015;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CARPINELLO Carola; Aosta (AO); 24/09/1966; Via Dora 10/b-11020Nus (AO); 383 del-of 28/02/2012;   COPERNICO SIM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CASTRO Paola; Torino (TO); 17/11/1969; Localita' Chopine 18-11029Verres (AO); 827 del-of 05/04/2017;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+CHABOD Loris; Aosta (AO); 21/09/1958; F.ne Chante' Inf. 1-11020Gressan (AO); 12502 del-of 27/04/2000;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+COLLA Corrado; Aosta (AO); 22/11/1958; Via S. Anselmo, 4-11100Aosta (AO); 10238 del-of 30/09/1996;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CONCOLATO Alex; Aosta (AO); 12/04/1984; Frazione Emarese 59-11020Emarese (AO); 16752 del-of 29/12/2008;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+CONCOLATO Athos; Saint-vincent (AO); 31/03/1953; Frazione Emarese 59-11020Emarese (AO); 12721 del-of 12/09/2000;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CONVERSANO Giorgio; Genova (GE); 24/07/1955; Loc. Pommier N. 17-11010Saint-pierre (AO); 12243 del-of 09/12/1999;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+COSTABLOZ Lea; Ivrea (TO); 05/03/1966; Via Grand Vert N. 1-11020Donnas (AO); 12461 del-of 29/03/2000;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+COURT Sahra Roberta; Ivrea (TO); 13/08/1974; Via Cretier 80-11029Verres (AO); 898 del-of 27/03/2018;   BANCA SELLA - SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CRISTOFERI Davide; Torino (TO); 28/03/1977; Corso Battaglione Aosta 53-11100Aosta (AO); 14980 del-of 12/04/2005;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+CUIGNON Anna; Aosta (AO); 07/05/1968; Frazione Pommier 20-11020Fenis (AO); 675 del-of 11/06/2015;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+CUNEAZ Nicole; Aosta (AO); 17/06/1978; Frazione Resselin 2/f-11020Gressan (AO); 549 del-of 16/01/2014;   UNICREDIT SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+DAL MOLIN Claudia; Aosta (AO); 01/05/1967; Via G. Mazzini, 30-11100Aosta (AO); 9623 del-of 04/12/1995;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+DEANDREA Stefano; Solonghello (AL); 07/01/1955; Via Festaz 10-11100Aosta (AO); 5949 del-of 28/01/1992;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+DEANOZ Claudia; Aosta (AO); 17/05/1966; Regione Tzamberlet 9/2-11020Charvensod (AO); 489 del-of 04/06/2013;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+DELLA SCHIAVA Eloise; Aosta (AO); 25/10/1969; Loc La Plantaz 17-11020Quart (AO); 633 del-of 14/01/2015;   UNICREDIT SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+DEREGIBUS Pier Carlo; Aosta (AO); 21/07/1956; Frazione Arensod 96-11010Sarre (AO); 10656 del-of 29/04/1997;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+DESANDRE' Rosy; Aosta (AO); 08/04/1977; Frazione Ruelle 12-11020Montjovet (AO); 14650 del-of 20/07/2004;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+DESAYMONET Michele; Aosta (AO); 29/08/1970; Frazione Excenex 80-11100Aosta (AO); 7900 del-of 22/03/1994;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+DI VAL Silvia; Aosta (AO); 17/07/1969; Villaggio La Plantaz 10-11020Quart (AO); 842 del-of 15/06/2017;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+DIBELLO Stefano; Aosta (AO); 03/03/1967; Reg. La Rochere 1-11100Aosta (AO); 11598 del-of 15/09/1998;   BANCA GENERALI SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+DIEMOZ Ferruccio; Aosta (AO); 30/12/1970; Vicolo Des Fermes 7-11100Aosta (AO); 607 del-of 16/10/2014;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+ENRIETTI BERTOLOTTO Davide; Aosta (AO); 03/07/1980; Via Piccolo San Bernardo 13-11100Aosta (AO); 849 del-of 27/07/2017;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+FALCONIERI Paolo; Aosta (AO); 12/09/1970; Via Pellissier 15-11024Chatillon (AO); 480 del-of 23/04/2013;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+FANTONE Ivo; Saluzzo (CN); 19/10/1978; Reg. Champailler 35-11100Aosta (AO); 730 del-of 11/02/2016;   UNICREDIT SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+FAZARI Roberto; Olten (SVIZZERA); 04/05/1967; Frazione Porossan Arsin 101/a-11100Aosta (AO); 11905 del-of 06/04/1999;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+FERRARIS Daniela; Asti (AT); 25/08/1972; Villaggio Vianoz 4/a-11020Quart (AO); 11357 del-of 28/04/1998;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+FILIPPONE Patrizia; Chivasso (TO); 09/02/1962; Fr.excenex 66/a-11100Aosta (AO); 6481 del-of 29/09/1992;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+FIORE Rita Milena; Premosello-chiovenda (VB); 03/10/1956; Localita' Tache 16-11020Gressoney La Trinite' (AO); 12283 del-of 22/12/1999;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+FORA Myriam Giovanna Teresa; Aosta (AO); 03/07/1959; Frazione Thuvex 21-11020Saint Christophe (AO); 12886 del-of 02/01/2001;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+FUCINI Andrea; Aosta (AO); 14/05/1959; Fraz.porossan La Chapelle 144/g-11100Aosta (AO); 474 del-of 27/03/2013;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+FUSINAZ Marta; Aosta (AO); 04/06/1984; Localita' Plan D'introd 8-11010Introd (AO); 440 del-of 08/11/2012;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+GALLIZIOLI Giampiero; Aosta (AO); 28/04/1955; Via Parigi 156-11100Aosta (AO); 12502 del-of 27/04/2000;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+GALLIZIOLI Gianluca; Aosta (AO); 20/11/1986; La Cote Du Planet 1-11010Gignod (AO); 747 del-of 28/04/2016;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+GANDOLFO Sandro Maria; Biella (BI); 09/01/1969; Via Xvi Luglio 1/a-11013Courmayeur (AO); 15792 del-of 28/02/2007;   BANCA SELLA - SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+GASSINO Elis; Ivrea (TO); 22/02/1973; Via Resistenza 28-11026Pont Saint Martin (AO); 13653 del-of 09/07/2002;   ALTO ADIGE BANCA SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+GAUDENZI Andrea; Milano (MI); 19/12/1953; Strada Del Villair 22-11013Courmayeur (AO); 6909 del-of 09/03/1993;   Kairos Partners SGR Spa;  ISCRITTO ; VALLE D'AOSTA;
+
+GENTILE Francesco; Palermo (PA); 09/10/1957; Corso Lancieri Di Aosta 13/l-11100Aosta (AO); 5949 del-of 28/01/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+GENTILI Michelino; Aosta (AO); 13/07/1970; Villaggio Prebenda 13-11020Quart (AO); 842 del-of 15/06/2017;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+GRANGE Fabio; Aosta (AO); 09/06/1966; Frazione Plan Felinaz 74/a-11020Charvensod (AO); 599 del-of 30/07/2014;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+HERBET Paolo; Aosta (AO); 21/05/1961; Via Monte Pasubio 10-11100Aosta (AO); 14326 del-of 25/11/2003;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+HYVOZ Piera; Aosta (AO); 16/05/1981; Frazione Poinsod 42-11010Sarre (AO); 474 del-of 27/03/2013;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+JANIN Sabrina; Aosta (AO); 12/03/1969; Via Croix De Ville 91-11100Aosta (AO); 10705 del-of 10/06/1997;   ALTO ADIGE BANCA SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+JANS Lucia; Ivrea (TO); 09/07/1970; F.ne Chichal N. 8-11020Lillianes (AO); 12792 del-of 02/11/2000;   BANCA SELLA - SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+LANTERMO Cristiana; Ivrea (TO); 12/04/1960; Via Della Stazione 14-11027Saint-vincent (AO); 15109 del-of 12/07/2005;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+LATTANZI Massimo; Aosta (AO); 23/09/1958; Fraz. La Crete 272-11018Villeneuve (AO); 5949 del-of 28/01/1992;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+LAVOYER Annamaria; Aosta (AO); 09/01/1971; Via Rossignod 35-11020Donnas (AO); 633 del-of 14/01/2015;   UNICREDIT SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+LEIDUAN Ettore; Cirie' (TO); 31/07/1972; Loc. Enchasaz 11-11020Saint Marcel (AO); 16572 del-of 29/07/2008;   DEUTSCHE BANK SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+LIPORACE Anna Maria; Aosta (AO); 24/10/1967; Via Volontari Del Sangue 4-11100Aosta (AO); 474 del-of 27/03/2013;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+LIVRAGHI Claudio Aurelio; Luino (VA); 25/03/1965; Localita' Ondre Biel Waeg 23 Sub. 11-11025Gressoney-saint-jean (AO); 16178 del-of 23/10/2007;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; VALLE D'AOSTA;
+
+MAGLIONE Andrea; Ivrea (TO); 03/10/1969; Via Extrepieraz 125-11022Brusson (AO); 13653 del-of 09/07/2002;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+MALPENGA Pierfranco; Milano (MI); 26/12/1972; Via Dei Giardini 8-11013Courmayeur (AO); 759 del-of 16/06/2016;   Open Capital Partners SGR SpA;  ISCRITTO ; VALLE D'AOSTA;
+
+MANINO Marco; Torino (TO); 19/01/1950; Frazione Emarese 68-11020Emarese (AO); 5913 del-of 08/01/1992;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+MARPEGAN Massimo; Aosta (AO); 24/07/1959; Villaggio Vianoz 4/a-11020Quart (AO); 6598 del-of 11/11/1992;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+MARTA Giovanni; Aosta (AO); 11/07/1954; Fraz. Poinsod 107-11010Sarre (AO); 11357 del-of 28/04/1998;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+MASSOCCO Andrea; Torino (TO); 07/07/1967; Strada Gran Ru 13-11013Courmayeur (AO); 7415 del-of 28/09/1993;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+MASTROIANNI Brigida; Savona (SV); 01/07/1964; Via Porta Pretoria 18-11100Aosta (AO); 5949 del-of 28/01/1992;   UNIPOL BANCA SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+MATERA Valerio; Aosta (AO); 05/04/1956; Trois Villages 21-11022Brusson (AO); 94 del-of 12/11/2009;   BANCA REALE SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+MEYNARDI Stefania; Aosta (AO); 31/01/1972; Via Abbe' Petigat 10-11100Aosta (AO); 730 del-of 11/02/2016;   UNICREDIT SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+MILANACCIO Roberto; Ivrea (TO); 01/03/1966; Via Della Resistenza N. 14-11026Pont Saint Martin (AO); 12721 del-of 12/09/2000;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+MONDARDINI Giorgio; Aosta (AO); 05/04/1960; Loc. Entrebin, 25-11100Aosta (AO); 13593 del-of 04/06/2002;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+MONTINI Alessia; Aosta (AO); 24/05/1972; Via Grand Eyvia 31-11100Aosta (AO); 549 del-of 16/01/2014;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+MORET Riccardo; Valgrisenche (AO); 01/03/1956; Fraz. Mondanges 4-11010Valgrisenche (AO); 10173 del-of 08/08/1996;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+MORONI Cristina; Lodi (LO); 13/08/1983; Frazione Rosselin 18-11020Gressan (AO); 766 del-of 28/07/2016;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+NARETTO Vanna; Romano Canavese (TO); 18/09/1950; Via Parigi 4-11100Aosta (AO); 13643 del-of 02/07/2002;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+NEGRETTO Marco; Aosta (AO); 05/06/1971; Localita' Les Condemines 129-11010Sarre (AO); 774 del-of 11/10/2016;   UNICREDIT SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+NEYROZ Monica; Aosta (AO); 13/03/1976; Via Menabreaz N. 74-11024Chatillon (AO); 12990 del-of 27/02/2001;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+NIGRA Costantino; Torino (TO); 17/01/1973; Via Malherbes 22-11100Aosta (AO); 15987 del-of 19/06/2007;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+NOVEMBRE Emanuele; Aosta (AO); 30/04/1976; Villaggio Villetos 18-11010Aymavilles (AO); 586 del-of 29/05/2014;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+PALLAIS Emilio; Courmayeur (AO); 05/05/1940; Via Roma 115-11013Courmayeur (AO); 11802 del-of 26/01/1999;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+PALLAVICINI Giorgio; Serravalle Scrivia (AL); 16/04/1965; Via Jean Baptiste Barrel 21-11029Verres (AO); 633 del-of 14/01/2015;   UNICREDIT SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+PAPAGNA Carmine; Torino (TO); 05/03/1963; Villaggio Bas Villair 15-11020Quart (AO); 6598 del-of 11/11/1992;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+PASQUALI Corrado; Aosta (AO); 02/02/1971; Fraz. Praximod 117-11010Saint-pierre (AO); 13851 del-of 03/12/2002;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+PELLONI Luciano; Sassuolo (MO); 20/02/1950; Via Xavier De Maistre 24-11100Aosta (AO); 9348 del-of 17/07/1995;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+PERUCCA Marco; Saint-vincent (AO); 09/06/1958; Frazione Petit Antey 21-11020Antey Saint Andre' (AO); 113 del-of 21/12/2009;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+PESSION Giorgio; Aosta (AO); 06/06/1965; Localita' Rouye 27-11020Saint Christophe (AO); 596 del-of 17/07/2014;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+PESSION Gualtiero; Aosta (AO); 03/06/1972; Frazione Oley Dessus 25-11020Verrayes (AO); 12886 del-of 02/01/2001;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+PETTENON Andrea; Ivrea (TO); 12/03/1982; Frazione Ciseran 124/c-11020Montjovet (AO); 915 del-of 28/05/2018;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+PIUMATTI Nicoletta; Fossano (CN); 12/06/1966; Viale Conseil Des Commis 14-11100Aosta (AO); 12189 del-of 10/11/1999;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+PLONER Roberto; Aosta (AO); 01/04/1964; Loc. Fabbrica, 143-11020Champdepraz (AO); 12172 del-of 02/11/1999;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+POMELLA Annamaria; Aosta (AO); 06/11/1965; Corso Ivrea 60-11100Aosta (AO); 15533 del-of 08/08/2006;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+POSER Alessandro; Aosta (AO); 25/06/1983; Via Torre Del Lebbroso 41-11100Aosta (AO); 666 del-of 14/05/2015;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+PRONTERA Davide; Novara (NO); 07/05/1981; Via Vection 48-11011Arvier (AO); 616 del-of 13/11/2014;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+PROT Diego; Aosta (AO); 10/09/1970; Frazione Sale' 6-11010Roisan (AO); 11598 del-of 15/09/1998;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+PUPPI Andrea; Aosta (AO); 18/11/1964; Via Vuillerminaz, 36-11027Saint-vincent (AO); 6598 del-of 11/11/1992;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+QUENDOZ Claudia; Aosta (AO); 05/06/1969; Frazione Taxel 79-11020Gressan (AO); 686 del-of 30/07/2015;   UNICREDIT SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+RAGO Enrico; Milano (MI); 08/12/1957; Via Vuillerminaz 28-11027Saint-vincent (AO); 5844 del-of 18/12/1991;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+RATTI Alessandro; Aosta (AO); 30/03/1992; Via Parigi 140-11100Aosta (AO); 929 del-of 25/07/2018;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+ROMANI Antonio; San Secondo Parmense (PR); 07/02/1965; Frazione Corgnolaz 59-11020Chamois (AO); 16407 del-of 26/03/2008;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+ROSSI Genni; Popoli (PE); 17/06/1969; Fraz. Capoluogo 82/i-11100Arpuilles (AO); 691 del-of 21/09/2015;   UNICREDIT SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+SALVI Gianfranco; Genova (GE); 24/04/1954; Strada Dolonne 6-11013Courmayeur (AO); 15598 del-of 02/11/2006;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; VALLE D'AOSTA;
+
+SAVIOZ Claudia; Aosta (AO); 09/04/1974; Frazione Turlin 19-11010Aymavilles (AO); 14163 del-of 09/07/2003;   BANCA REALE SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+SCHENA Andrea; Aosta (AO); 13/11/1965; Passaggio Folliez 11-11100Aosta (AO); 6598 del-of 11/11/1992;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+SERGI Mirko; Aosta (AO); 29/10/1972; Viale Europa 16-11100Aosta (AO); 709 del-of 25/11/2015;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+SERRAJOTTO Marino; Torino (TO); 20/02/1959; Via Charriere 4-11027Saint-vincent (AO); 633 del-of 14/01/2015;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+SOLINAS Marta; Sassari (SS); 01/09/1959; Frazione Champsavinal 4-11010Doues (AO); 12461 del-of 29/03/2000;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+STOCCHERO Ezio; Aosta (AO); 01/10/1963; Regione Saraillon 14-11100Aosta (AO); 16139 del-of 09/10/2007;   BANCA MONTE DEI PASCHI DI SIENA SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+SUPPO Mauro; Genova (GE); 09/02/1944; Via Abbe' Petigat A. 8-11100Aosta (AO); 5949 del-of 28/01/1992;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+TORRETTA Paolo; Torino (TO); 05/11/1987; Localita' Challancin 130-11015La Salle (AO); 788 del-of 30/11/2016;   CREDIT SUISSE (ITALY) SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+VAIRETTO Ermanno; Ivrea (TO); 15/12/1972; Via Emile Chanoux 25-11020Hone (AO); 824 del-of 16/03/2017;   BANCA ALETTI & C. S.P.A.;  ISCRITTO ; VALLE D'AOSTA;
+
+VALENTINI Luigina; Torino (TO); 21/06/1953; Via Parigi 224-11100Aosta (AO); 431 del-of 16/10/2012;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+VALLET Vilmo; Aosta (AO); 24/01/1972; Loc. Capoluogo 47-11010Avise (AO); 728 del-of 27/01/2016;   BANCA MEDIOLANUM SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+VICARI Pierre Joseph; Aosta (AO); 17/04/1962; Via Parigi 8/2-11100Aosta (AO); 5949 del-of 28/01/1992;   BANCA GENERALI SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+VIETRI Roberto; Asti (AT); 11/11/1969; Via Chanoux, 88-11027Saint-vincent (AO); 13567 del-of 22/05/2002;   BANCA SELLA - SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+VINCI Pasquale; Aosta (AO); 03/08/1956; Via Edelweiss 18/d-11100Aosta (AO); 5949 del-of 28/01/1992;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+VISIOLI Maurizio; Novara (NO); 07/10/1956; Via Monte Vodice, 30-11100Aosta (AO); 12792 del-of 02/11/2000;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+VUILLERMOZ Franco; Aosta (AO); 08/09/1953; Fraz. Poinsod, 112-11010Sarre (AO); 13593 del-of 04/06/2002;   ;  ISCRITTO ; VALLE D'AOSTA;
+
+VUILLERMOZ Rita; Aosta (AO); 21/07/1967; Frazione Variney 41-11010Gignod (AO); 604 del-of 18/09/2014;   Intesa Sanpaolo spa;  ISCRITTO ; VALLE D'AOSTA;
+
+ZANI Lorella; Aosta (AO); 24/10/1959; Localita' Entrebin 17/c-11100Aosta (AO); 15792 del-of 28/02/2007;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; VALLE D'AOSTA;
+
+ZUCCHI Alberto; Aosta (AO); 12/09/1960; Frazione Saint-maurice 209-11010Sarre (AO); 7340 del-of 01/09/1993;   ;  ISCRITTO ; VALLE D'AOSTA;
+

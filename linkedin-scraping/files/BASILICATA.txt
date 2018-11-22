@@ -1,0 +1,454 @@
+
+Cognome-Surname;Luogo di nascita-Place of birth;Data di nascita-Date of birth;Indirizzo-Address;Delibera d'iscrizione-Subscrition resolution;Intermediario-Intermediary;Sospensione cautelare/sanzionatoria  di-Protective/penalty suspension of;Regione di residenza-Residence;;
+ABBATTISTA Michele; Lavello (PZ); 10/11/1953; Via Pescara, 19-85024Lavello (PZ); 11753 del-of 21/12/1998;   ;  ISCRITTO ; BASILICATA;
+
+ALA Pietro; Bari (BA); 15/08/1961; Via F.lli Cervi,8-85024Lavello (PZ); 5913 del-of 08/01/1992;   ;  ISCRITTO ; BASILICATA;
+
+ALBA Pierpaolo; Brindisi (BR); 31/03/1970; Via Londra 87-85100Potenza (PZ); 849 del-of 27/07/2017;   ;  ISCRITTO ; BASILICATA;
+
+ALBERGO Alfonso; Venosa (PZ); 17/07/1969; Contrada Boscomonte Snc Sp.10-85029Venosa (PZ); 16178 del-of 23/10/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+ALFANO Elena; Castellammare Di Stabia (NA); 07/01/1963; Via Nicola Melfi Snc-85038Senise (PZ); 604 del-of 18/09/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+ALOISI Osvaldo; Potenza (PZ); 13/02/1971; Via Aldo Moro 77/b-85010Pignola (PZ); 13354 del-of 27/11/2001;   CREDITO EMILIANO SPA;  ISCRITTO ; BASILICATA;
+
+ANTODARO Alberto Maria; Matera (MT); 30/06/1959; Via Sibari, 11-75100Matera (MT); 13103 del-of 02/05/2001;   ;  ISCRITTO ; BASILICATA;
+
+APREA Pasquale; Potenza (PZ); 05/07/1969; Via Francesco Baracca 61-85100Potenza (PZ); 735 del-of 25/02/2016;   ;  ISCRITTO ; BASILICATA;
+
+AZZANESE Monica; Melfi (PZ); 27/11/1977; Via Acqua Del Salice 4-85022Barile (PZ); 706 del-of 12/11/2015;   ;  ISCRITTO ; BASILICATA;
+
+BARBATO Filomena; Potenza (PZ); 10/04/1943; Via Appia,2/c-85100Potenza (PZ); 5913 del-of 08/01/1992;   ;  ISCRITTO ; BASILICATA;
+
+BARBATO Giuseppe; Maratea (PZ); 24/06/1969; Largo Plebiscito 72-85044Lauria Superiore (PZ); 12492 del-of 18/04/2000;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; BASILICATA;
+
+BARILE Luca Giuseppe; Policoro (MT); 20/10/1984; Via Montebianco 11-75023Montalbano Jonico (MT); 697 del-of 06/10/2015;   ;  ISCRITTO ; BASILICATA;
+
+BASSO Antonio; Roma (RM); 03/01/1967; Via Dei Frassini 108-85100Potenza (PZ); 549 del-of 16/01/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+BASTIANO Giuseppe; Matera (MT); 15/04/1957; Largo Eraclea 11-75023Montalbano Jonico (MT); 604 del-of 18/09/2014;   ;  ISCRITTO ; BASILICATA;
+
+BAVUSO Pietro; Lavello (PZ); 01/07/1968; Via Della Vittoria 23-85024Lavello (PZ); 366 del-of 21/12/2011;   ;  ISCRITTO ; BASILICATA;
+
+BEISO Daniele; Torino (TO); 14/06/1957; Piazza Della Costituzione Italiana 81-85100Potenza (PZ); 555 del-of 27/02/2014;   ;  ISCRITTO ; BASILICATA;
+
+BELSANTI Domenico; Bari (BA); 22/08/1964; Viale Kennedy 38/1-85026Palazzo San Gervasio (PZ); 604 del-of 18/09/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+BERARDI Marinella; Avigliano (PZ); 03/02/1972; Localita' Valle Bona Snc-85021Avigliano (PZ); 14137 del-of 24/06/2003;   ;  ISCRITTO ; BASILICATA;
+
+BERARDONE Antonio; San Chirico Raparo (PZ); 07/08/1954; Via Chiancalata, 13-75100Matera (MT); 13115 del-of 08/05/2001;   ;  ISCRITTO ; BASILICATA;
+
+BIANCHI Salvatore; Matera (MT); 03/11/1962; Via Ovidio 4-75100Matera (MT); 14340 del-of 09/12/2003;   ;  ISCRITTO ; BASILICATA;
+
+BONACARO Marco Aurelio; Melfi (PZ); 07/12/1971; Via Vittorio Emanuele N. 18-85025Melfi (PZ); 13115 del-of 08/05/2001;   ;  ISCRITTO ; BASILICATA;
+
+BORRINO Rocco Salvatore; Pisticci (MT); 22/01/1964; Via Benedetto Croce 4 - Marconia-75015Pisticci (MT); 16365 del-of 04/03/2008;   ;  ISCRITTO ; BASILICATA;
+
+BRUNEO Domenico; Policoro (MT); 01/06/1978; Via Monti 20-75023Montalbano Jonico (MT); 16178 del-of 23/10/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+BRUNO Francescantonio; Palazzo San Gervasio (PZ); 06/01/1953; Via Vittorio Veneto 25 A-85026Palazzo San Gervasio (PZ); 308 del-of 11/05/2011;   ;  ISCRITTO ; BASILICATA;
+
+BRUNO Rosa; Avigliano (PZ); 03/10/1971; Via Francesco Petrarca 1-85100Potenza (PZ); 10533 del-of 24/02/1997;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+BUCCI Michele; Matera (MT); 17/09/1980; Via Trieste 6-75100Matera (MT); 383 del-of 28/02/2012;   ;  ISCRITTO ; BASILICATA;
+
+CALABRESE Fernando; Melfi (PZ); 18/07/1961; Via S. Pertini 5-85025Melfi (PZ); 11283 del-of 17/03/1998;   ;  ISCRITTO ; BASILICATA;
+
+CALABRESE Maria Incoronata; Rivoli (TO); 25/03/1964; Corso Cavour 224-85020Montemilone (PZ); 860 del-of 26/10/2017;   ;  ISCRITTO ; BASILICATA;
+
+CALO' Michele; Matera (MT); 01/03/1970; Via L. Einaudi 93-75100Matera (MT); 14956 del-of 29/03/2005;   ;  ISCRITTO ; BASILICATA;
+
+CANADEO Michele; Potenza (PZ); 19/08/1966; Via Pertini 55-85100Potenza (PZ); 13643 del-of 02/07/2002;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; BASILICATA;
+
+CANCELLIERE Giacinta; Matera (MT); 06/09/1967; Largo De Gasperi 5-75100Matera (MT); 13514 del-of 08/04/2002;   BANCA MONTE DEI PASCHI DI SIENA SPA;  ISCRITTO ; BASILICATA;
+
+CANDELA Giuseppe; Bari (BA); 26/10/1973; Via Tolstoj N.5-75022Irsina (MT); 13643 del-of 02/07/2002;   BANCA POPOLARE DI PUGLIA E BASILICATA SOCIETA' COOPERATIVA PER AZIONI;  ISCRITTO ; BASILICATA;
+
+CAPALDO Mario; Potenza (PZ); 16/01/1970; Via Santa Croce 24-85047Moliterno (PZ); 599 del-of 30/07/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+CAPOBIANCO Salvatore; Melfi (PZ); 26/07/1964; Via G. D'annunzio 94-85025Melfi (PZ); 10326 del-of 25/11/1996;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+CARILLO Luigi; Pompei (NA); 31/07/1966; Via Pretoria 118-85100Potenza (PZ); 12492 del-of 18/04/2000;   BANCA GENERALI SPA;  ISCRITTO ; BASILICATA;
+
+CARNEVALE Umberto; Taranto (TA); 11/09/1984; Viale B. De Bernaudo 15-75012Bernalda (MT); 555 del-of 27/02/2014;   ;  ISCRITTO ; BASILICATA;
+
+CARRIERO Annarita; Melfi (PZ); 11/06/1981; Via Luigi La Vista 3-85020Scalera (PZ); 730 del-of 11/02/2016;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+CASERTA Francesco Paolo; Matera (MT); 22/10/1960; Contrada Chiancalata Snc-75100Matera (MT); 637 del-of 27/01/2015;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; BASILICATA;
+
+CASERTA Gionatan; Matera (MT); 22/04/1985; Contrada Chiancalata Snc-75100Matera (MT); 852 del-of 11/09/2017;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; BASILICATA;
+
+CASSOTTA Maria Antonietta; Napoli (NA); 09/08/1963; Contrada Ferrara Snc-85025Melfi (PZ); 358 del-of 28/11/2011;   BANCA REALE SPA;  ISCRITTO ; BASILICATA;
+
+CAVALLO Rocco Gennaro; Potenza (PZ); 01/05/1989; Vico I Via Vittorio Emanuele 8-85050Savoia Di Lucania (PZ); 774 del-of 11/10/2016;   ;  ISCRITTO ; BASILICATA;
+
+CECERE Felice; Vietri Di Potenza (PZ); 11/12/1963; Via Vittorio Emanuele Snc-85058Vietri Di Potenza (PZ); 15580 del-of 10/10/2006;   ;  ISCRITTO ; BASILICATA;
+
+CESTARI Valentino; Marsico Nuovo (PZ); 18/05/1953; Via Vittorio Emanuele 53-85052Marsico Nuovo (PZ); 14510 del-of 06/04/2004;   ;  ISCRITTO ; BASILICATA;
+
+CHISENA Walter Luciano; Matera (MT); 20/02/1956; Via Nazionale 49-75100Matera (MT); 7544 del-of 23/11/1993;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+CIARAVOLA Fulvia; Pompei (NA); 27/09/1976; Via Cardinale De Luca 6-85024Lavello (PZ); 383 del-of 28/02/2012;   ;  ISCRITTO ; BASILICATA;
+
+CICALE Piero; Chiaromonte (PZ); 10/03/1971; Via Calvario Snc-85032Chiaromonte (PZ); 16723 del-of 16/12/2008;   ;  ISCRITTO ; BASILICATA;
+
+CICCHETTI Nunzio Michele; Matera (MT); 18/06/1954; Via Terenzio 1-75100Matera (MT); 14137 del-of 24/06/2003;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; BASILICATA;
+
+CIMARRUSTI Cosimo Damiano; Matera (MT); 15/09/1962; Via Lucana 293-75100Matera (MT); 15143 del-of 23/08/2005;   ;  ISCRITTO ; BASILICATA;
+
+CIRINCIONE Ettore; Erice (TP); 11/06/1965; Via Aldo Moro 17-75020Nova Siri (MT); 649 del-of 19/03/2015;   ;  ISCRITTO ; BASILICATA;
+
+COLONNA Giovanni; Matera (MT); 05/12/1970; Via Gaetano Donizetti 46-75100Matera (MT); 218 del-of 22/09/2010;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+CONTE Giovanni Egidio; Episcopia (PZ); 02/01/1965; Via Ing. Bruno, 8-85033Episcopia (PZ); 9076 del-of 21/02/1995;   ;  ISCRITTO ; BASILICATA;
+
+COSOLA Nicola Domenico; Matera (MT); 03/10/1959; Via Cosenza 55-75100Matera (MT); 366 del-of 21/12/2011;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+COSTA Giuseppe; Potenza (PZ); 14/10/1960; Via Gandhi 61-85100Potenza (PZ); 14870 del-of 18/01/2005;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; BASILICATA;
+
+COVIELLO Giovanna; Schorndorf (GERMANIA); 18/09/1970; Via Guido Rossa 23-85021Avigliano (PZ); 591 del-of 23/06/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+CRECCA Lucio; Melfi (PZ); 24/11/1986; Via Dante Alighieri 26-85020San Fele (PZ); 753 del-of 26/05/2016;   ;  ISCRITTO ; BASILICATA;
+
+CUTOLO Costantino; Padova (PD); 14/04/1989; Via Piave 35-85022Barile (PZ); 723 del-of 19/01/2016;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; BASILICATA;
+
+D'ACUNTO Vincenzo; Calvello (PZ); 13/11/1970; Vico D'acunto, 1-85010Calvello (PZ); 10326 del-of 25/11/1996;   ;  ISCRITTO ; BASILICATA;
+
+D'ALASCIO Francesco; Maratea (PZ); 23/11/1974; Via Prazza Inferiore 14-85046Maratea (PZ); 735 del-of 25/02/2016;   UNIPOL BANCA SPA;  ISCRITTO ; BASILICATA;
+
+D'AMBROSIO Vincenzo; Vibonati (SA); 28/07/1981; Via Ercole Schettini 22-85049Trecchina (PZ); 16517 del-of 24/06/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+D'ANDREA Barbara; Potenza (PZ); 23/05/1973; Via Angilla Vecchia 21-85100Potenza (PZ); 11905 del-of 06/04/1999;   ;  ISCRITTO ; BASILICATA;
+
+D'ANGELO Massimo Donato; Rionero In Vulture (PZ); 06/08/1959; Via Spirito Santo, 11-85025Melfi (PZ); 11283 del-of 17/03/1998;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+D'ELENA Francesca; Potenza (PZ); 12/05/1971; Via Delle Querce 2-85100Potenza (PZ); 189 del-of 23/06/2010;   ;  ISCRITTO ; BASILICATA;
+
+D'ELIA Alfonso; Potenza (PZ); 20/07/1969; Via Leonardo Da Vinci N.53-85100Potenza (PZ); 13643 del-of 02/07/2002;   ;  ISCRITTO ; BASILICATA;
+
+D'ERRICO Maria; Venosa (PZ); 02/12/1972; Via F. Baracca, 49-85029Venosa (PZ); 11905 del-of 06/04/1999;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; BASILICATA;
+
+D'ORLANDO MANDOLINI Egon; Roma (RM); 04/01/1968; Via A. Mandarini 16-85046Maratea (PZ); 14340 del-of 09/12/2003;   BANCA GENERALI SPA;  ISCRITTO ; BASILICATA;
+
+DARAIO Innocenzo; Matera (MT); 28/07/1979; Via Paolo Borsellino 20-75100Matera (MT); 13998 del-of 25/03/2003;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; BASILICATA;
+
+DARRETTA Giovanni Carlo; Matera (MT); 04/11/1967; Via Cilea 13-75100Matera (MT); 706 del-of 12/11/2015;   BPER BANCA SPA;  ISCRITTO ; BASILICATA;
+
+DE DONATO Vincenzo; Senise (PZ); 30/05/1959; Via Siris 48-85033Episcopia (PZ); 11929 del-of 20/04/1999;   ;  ISCRITTO ; BASILICATA;
+
+DE FEUDIS Nicola; Bari (BA); 23/07/1962; Via E. Salgari, 29-75100Matera (MT); 13115 del-of 08/05/2001;   ;  ISCRITTO ; BASILICATA;
+
+DE LIO Christian; Maratea (PZ); 12/05/1977; Contrada Carito 18-85040Nemoli (PZ); 14638 del-of 06/07/2004;   ;  ISCRITTO ; BASILICATA;
+
+DE PAOLA Domenico; Lagonegro (PZ); 01/08/1975; Via Piagge 24-85047Moliterno (PZ); 16493 del-of 27/05/2008;   ;  ISCRITTO ; BASILICATA;
+
+DE ROSA Gerardo Giovanni; Stigliano (MT); 06/10/1961; Via Agri N.10-75100Matera (MT); 13559 del-of 15/05/2002;   ;  ISCRITTO ; BASILICATA;
+
+DE SANTIS Silvio; Cersosimo (PZ); 14/02/1970; Via V. Emanuele, 14-85030Cersosimo (PZ); 13115 del-of 08/05/2001;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+DE SILVA Luigi; Avellino (AV); 14/02/1960; Via Veneto 6-85029Venosa (PZ); 15431 del-of 09/05/2006;   ;  ISCRITTO ; BASILICATA;
+
+DE SIO Ilaria; Cassano All'ionio (CS); 18/05/1974; Viale Marconi 113-85100Potenza (PZ); 735 del-of 25/02/2016;   UNICREDIT SPA;  ISCRITTO ; BASILICATA;
+
+DE VIVO Giuseppina; Avellino (AV); 09/02/1967; Piazzale Luigi Rizzo 12-85100Potenza (PZ); 604 del-of 18/09/2014;   Banca Prossima Spa;  ISCRITTO ; BASILICATA;
+
+DEL BALZO Antonia; Palazzo San Gervasio (PZ); 23/07/1965; Vico Crocifisso 3-85026Palazzo San Gervasio (PZ); 604 del-of 18/09/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+DESINA Pierluigi; Melfi (PZ); 18/09/1965; Via Sandro Pertini 37-85025Melfi (PZ); 6641 del-of 01/12/1992;   ;  ISCRITTO ; BASILICATA;
+
+DI CHIO Leonardo Maria; Melfi (PZ); 14/03/1957; Via Venezia 8-85025Melfi (PZ); 553 del-of 05/02/2014;   ;  ISCRITTO ; BASILICATA;
+
+DI GIOIA Antonello; Matera (MT); 04/02/1970; Viale Italia 1/b-75100Matera (MT); 15431 del-of 09/05/2006;   ;  ISCRITTO ; BASILICATA;
+
+DI MASE Egidio; Roma (RM); 27/01/1969; Via Mazzini 23 E-85100Potenza (PZ); 796 del-of 14/12/2016;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+DI MATTEO Vincenzo; Aversa (CE); 08/02/1957; Viale Italia N.45-75100Matera (MT); 13643 del-of 02/07/2002;   ;  ISCRITTO ; BASILICATA;
+
+DI SERIO Gaetano; Palazzo San Gervasio (PZ); 31/05/1965; Via Villa, 116-85026Palazzo San Gervasio (PZ); 7544 del-of 23/11/1993;   ;  ISCRITTO ; BASILICATA;
+
+DI STASI Carlo Mauro; Barletta (BT); 21/11/1967; Via Alessandro Volta 55-85024Lavello (PZ); 11753 del-of 21/12/1998;   ;  ISCRITTO ; BASILICATA;
+
+DONOFRIO Antonello; Potenza (PZ); 14/02/1966; Via Franco Pinna-85028Rionero In Vulture (PZ); 12243 del-of 09/12/1999;   BANCA GENERALI SPA;  ISCRITTO ; BASILICATA;
+
+FABRIZIO Nicola; Matera (MT); 30/11/1960; Via Dante N.60-75100Matera (MT); 13643 del-of 02/07/2002;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+FATICATO Camillo; Potenza (PZ); 24/01/1961; Viale Mediterraneo 14-85100Potenza (PZ); 11028 del-of 17/11/1997;   ;  ISCRITTO ; BASILICATA;
+
+FAZIO Vincenzo; Matera (MT); 17/04/1974; Via Lucania 1-75023Montalbano Jonico (MT); 16331 del-of 05/02/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+FELITTI Vincenzo; Vietri Di Potenza (PZ); 02/11/1959; Via Einaudi 12-85058Vietri Di Potenza (PZ); 15684 del-of 19/12/2006;   ;  ISCRITTO ; BASILICATA;
+
+FERRI Sergio; Tricarico (MT); 01/04/1979; Via Chiancalata 7 C-75100Matera (MT); 697 del-of 06/10/2015;   UNICREDIT SPA;  ISCRITTO ; BASILICATA;
+
+FOSSANOVA Corrado; Matera (MT); 09/09/1966; Via Lucana, 38/5-75100Matera (MT); 13514 del-of 08/04/2002;   ;  ISCRITTO ; BASILICATA;
+
+FRANCIOSA Antonio; Melfi (PZ); 28/07/1956; Traversa Michelangelo Buonarroti 6-85025Melfi (PZ); 470 del-of 07/03/2013;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; BASILICATA;
+
+GENOVESE Carmine; Winterthur (SVIZZERA); 12/12/1968; C.da Valle Bona-85021Avigliano (PZ); 13593 del-of 04/06/2002;   ;  ISCRITTO ; BASILICATA;
+
+GERARDI Donatello; Potenza (PZ); 16/05/1984; Via Rupe Tarpea 41-85020Avigliano (PZ); 14759 del-of 26/10/2004;   ;  ISCRITTO ; BASILICATA;
+
+GIANGRIECO Alessandro; Carife (AV); 14/11/1949; Via Tirreno 13-85100Potenza (PZ); 13422 del-of 22/01/2002;   ;  ISCRITTO ; BASILICATA;
+
+GIANNINI Giuseppe; Venosa (PZ); 08/10/1972; Via G. Crudo N.21-85029Venosa (PZ); 13559 del-of 15/05/2002;   ;  ISCRITTO ; BASILICATA;
+
+GIANNOTTI Salvatore; Potenza (PZ); 16/01/1966; Via Mazzini 255-85100Potenza (PZ); 13593 del-of 04/06/2002;   BANCA POPOLARE DI PUGLIA E BASILICATA SOCIETA' COOPERATIVA PER AZIONI;  ISCRITTO ; BASILICATA;
+
+GIUZIO Vincenza; Picerno (PZ); 13/09/1961; Vico Luigi La Vista 13-85100Potenza (PZ); 13204 del-of 18/07/2001;   ;  ISCRITTO ; BASILICATA;
+
+GRISOLIA Giuseppe; Lagonegro (PZ); 28/03/1980; Via Caini Snc-85046Maratea (PZ); 16 del-of 24/03/2009;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+GUADAGNO Francesco; Karlsruhe (GERMANIA); 16/01/1975; Via Saragat 27-85100Potenza (PZ); 16139 del-of 09/10/2007;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+GUANTARIO Antonio; Melfi (PZ); 11/03/1967; Via Ronca Battista, 10-85025Melfi (PZ); 12323 del-of 19/01/2000;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+GUIDA Gerardo; Salerno (SA); 21/05/1965; Via San Giusto 5 A-75025Policoro (MT); 555 del-of 27/02/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+IACOBUZIO Giuseppe; Trani (BT); 08/01/1984; Via Carmelo Azzara' 4-85016Pietragalla (PZ); 616 del-of 13/11/2014;   ;  ISCRITTO ; BASILICATA;
+
+IACOVINO Filomena Ernesta; Castelsaraceno (PZ); 07/11/1956; Via Amendola 214-85047Moliterno (PZ); 549 del-of 16/01/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+IMPERIALE Maurilio; Matera (MT); 09/09/1966; Via Nazionale, 22-75100Matera (MT); 11283 del-of 17/03/1998;   ;  ISCRITTO ; BASILICATA;
+
+LABRIOLA Salvatore; Tricarico (MT); 26/09/1976; Contrada Botte N. 62-85100Potenza (PZ); 12492 del-of 18/04/2000;   ;  ISCRITTO ; BASILICATA;
+
+LACOPETA Vincenzo Rosario; Matera (MT); 16/04/1967; Via Rosario Livatino 61-75100Matera (MT); 633 del-of 14/01/2015;   ;  ISCRITTO ; BASILICATA;
+
+LANCIERI Saverio; Pietragalla (PZ); 21/01/1973; Viale Europa 37-85016Pietragalla (PZ); 14638 del-of 06/07/2004;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+LATORRACA Michele; Polla (SA); 11/12/1969; Via Pecci 46-85050Paterno (PZ); 12492 del-of 18/04/2000;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; BASILICATA;
+
+LEGGIERI Antonella; Venosa (PZ); 06/10/1983; Via Xx Settembre 23-85029Venosa (PZ); 16517 del-of 24/06/2008;   ;  ISCRITTO ; BASILICATA;
+
+LEONE Marco; Castellaneta (TA); 22/09/1994; Via Cammarelle 19-75015Pisticci (MT); 898 del-of 27/03/2018;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+LIBERATORE Domenico; Venosa (PZ); 01/04/1954; Via Toscana,13-85029Venosa (PZ); 5913 del-of 08/01/1992;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; BASILICATA;
+
+LIGUORI Francesco; Potenza (PZ); 03/02/1955; Vico De Rosa N. 21-85100Potenza (PZ); 12559 del-of 16/05/2000;   ;  ISCRITTO ; BASILICATA;
+
+LIGUORI Nicola Domenico; Valsinni (MT); 04/08/1968; Via Carmine, 61-75029Valsinni (MT); 10043 del-of 10/06/1996;   ;  ISCRITTO ; BASILICATA;
+
+LIMONGI Giovanni; Lauria (PZ); 14/10/1965; Via C.alberto,158-85044Lauria (PZ); 7171 del-of 22/06/1993;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; BASILICATA;
+
+LIMONGI Monica; Maratea (PZ); 16/07/1974; Via Santavenere N.75-85046Maratea (PZ); 13514 del-of 08/04/2002;   ;  ISCRITTO ; BASILICATA;
+
+LIPPOLIS Giuseppe; Putignano (BA); 19/04/1964; Via San Giusti 23 Loc. Torre Mozza-75025Policoro (MT); 9895 del-of 11/04/1996;   DEUTSCHE BANK SPA;  ISCRITTO ; BASILICATA;
+
+LO FRANCO Fabio; Pisticci (MT); 23/08/1972; Via Rocco Scotellaro 6-75020Marconia (MT); 12886 del-of 02/01/2001;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; BASILICATA;
+
+LOCASO Anna; Taranto (TA); 26/10/1978; Via Liguria, 13-75020Marconia (MT); 14436 del-of 24/02/2004;   ;  ISCRITTO ; BASILICATA;
+
+LOLIVA Nadia; Bari (BA); 03/01/1990; Corso 18 Agosto 103-85100Potenza (PZ); 713 del-of 18/12/2015;   ;  ISCRITTO ; BASILICATA;
+
+LOMBARDI Giulio Cesare; Taranto (TA); 15/02/1972; Via Gemelli, 8-75012Bernalda (MT); 11721 del-of 01/12/1998;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; BASILICATA;
+
+LUCCIONI Consuelo Walter Roberto; Potenza (PZ); 14/08/1963; Via Mazzini 51-85100Potenza (PZ); 9320 del-of 03/07/1995;   CHEBANCA! SPA;  ISCRITTO ; BASILICATA;
+
+LUDOVICO Luigi; Bari (BA); 10/08/1964; Corso Giuseppe Garibaldi 32-85100Potenza (PZ); 440 del-of 08/11/2012;   ;  ISCRITTO ; BASILICATA;
+
+MADARO Emilio Gervasio; Palazzo San Gervasio (PZ); 17/10/1960; Via Nazionale 93/g-75100Matera (MT); 15580 del-of 10/10/2006;   ;  ISCRITTO ; BASILICATA;
+
+MAGNO Giuseppe; Putignano (BA); 03/07/1950; Via Ferruccio Parri 46-75100Matera (MT); 6641 del-of 01/12/1992;   ;  ISCRITTO ; BASILICATA;
+
+MAMONE Massimo; Palermo (PA); 04/07/1967; Via Vasto, 13-75010Pisticci (MT); 11283 del-of 17/03/1998;   ;  ISCRITTO ; BASILICATA;
+
+MANCINO Romano; Potenza (PZ); 12/06/1957; Via Manhes, 2-85100Potenza (PZ); 13115 del-of 08/05/2001;   CHEBANCA! SPA;  ISCRITTO ; BASILICATA;
+
+MANIERI Luigi; Venosa (PZ); 21/05/1971; Via Xx Settembre 30-85029Venosa (PZ); 10152 del-of 22/07/1996;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; BASILICATA;
+
+MANTEGAZZA Gianfranco; Potenza (PZ); 02/10/1969; Via Lisbona 23-85100Potenza (PZ); 686 del-of 30/07/2015;   BPER BANCA SPA;  ISCRITTO ; BASILICATA;
+
+MANTELLI Ernesto; Potenza (PZ); 17/07/1964; C.da Botte N.130/b-85100Potenza (PZ); 13643 del-of 02/07/2002;   ;  ISCRITTO ; BASILICATA;
+
+MARADEI Gabriele; Maratea (PZ); 16/01/1992; Via Vico Viii Provinciale 47 A-85043Latronico (PZ); 887 del-of 31/01/2018;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+MARCHESE Michele Maria; Potenza (PZ); 14/12/1962; Contrada Sciffra, 22-85010Pignola (PZ); 11549 del-of 22/07/1998;   CREDITO EMILIANO SPA;  ISCRITTO ; BASILICATA;
+
+MAROLDA Pompea; Muro Lucano (PZ); 15/11/1958; Via San Biagio Snc-85054Muro Lucano (PZ); 604 del-of 18/09/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+MARONE Antonia; Policoro (MT); 02/09/1985; Via Lombardia 13-75020Scanzano Jonico (MT); 735 del-of 25/02/2016;   ;  ISCRITTO ; BASILICATA;
+
+MARRA Giuseppe; Florsheim (GERMANIA); 25/03/1971; Via S. Anna N.109-85020Ruvo Del Monte (PZ); 13559 del-of 15/05/2002;   ;  ISCRITTO ; BASILICATA;
+
+MARTINA Antonio; San Giorgio Lucano (MT); 30/10/1962; Via Napoli,4/a-75027San Giorgio Lucano (MT); 12089 del-of 04/08/1999;   ;  ISCRITTO ; BASILICATA;
+
+MARTORELLA Lucia; Policoro (MT); 09/03/1985; Viale Della Pineta 7-75029Valsinni (MT); 936 del-of 27/09/2018;   ;  ISCRITTO ; BASILICATA;
+
+MASTRANDREA Francesco; Forenza (PZ); 29/11/1956; Via San Pietro 8-85023Forenza (PZ); 8093 del-of 01/06/1994;   ;  ISCRITTO ; BASILICATA;
+
+MASTROMARTINO Antonio Pasquale; Melfi (PZ); 06/01/1955; Via Santa Sofia 47-85025Melfi (PZ); 5913 del-of 08/01/1992;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; BASILICATA;
+
+MASTROSIMONE Nicola; Sant'arcangelo (PZ); 01/01/1969; Via Maggior De Rosa 17-85037Sant'arcangelo (PZ); 13712 del-of 14/08/2002;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+MATARAZZO Emanuele Ugo; Matera (MT); 17/03/1964; Via Castello, 16 Bis-75100Matera (MT); 12283 del-of 22/12/1999;   ;  ISCRITTO ; BASILICATA;
+
+MAZZEI Pasquale; Stigliano (MT); 17/07/1969; Via Berardi 4/3-75018Stigliano (MT); 11549 del-of 22/07/1998;   ;  ISCRITTO ; BASILICATA;
+
+MAZZITELLI Pasquale; Potenza (PZ); 15/05/1949; Via N.sauro 5 Iii Traversa-85100Potenza (PZ); 571 del-of 08/04/2014;   ;  ISCRITTO ; BASILICATA;
+
+MECCA Caterina; Atella (PZ); 04/04/1967; Contrada Giulia 10-85020Atella (PZ); 549 del-of 16/01/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+MELE Rosa; Valsinni (MT); 03/10/1957; Via Santa Croce 4-75021Colobraro (MT); 788 del-of 30/11/2016;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+MESSINA Fabio; Potenza (PZ); 27/03/1962; Contrada Dragonara 38/a-85100Potenza (PZ); 163 del-of 08/04/2010;   ;  ISCRITTO ; BASILICATA;
+
+MILANO Emilia; Potenza (PZ); 07/04/1973; Via Roma 101/a-85010Vaglio Basilicata (PZ); 926 del-of 11/07/2018;   ;  ISCRITTO ; BASILICATA;
+
+MITIDIERI Gianluca; Napoli (NA); 05/01/1988; Via Roma 64-85043Latronico (PZ); 16139 del-of 09/10/2007;   ;  ISCRITTO ; BASILICATA;
+
+MOLFESE Michele; Ciudad Bolivar (VENEZUELA); 27/01/1976; Via Roma Snc-85018Trivigno (PZ); 15370 del-of 28/03/2006;   ;  ISCRITTO ; BASILICATA;
+
+MOLINARI Graziano; Potenza (PZ); 09/05/1963; Contrada Verderuolo 94/e-85100Potenza (PZ); 16393 del-of 18/03/2008;   ;  ISCRITTO ; BASILICATA;
+
+MONETTA Domenico Antonio; Pietragalla (PZ); 13/05/1956; Via Sen. Mario Zotta, 55-85016Pietragalla (PZ); 12089 del-of 04/08/1999;   CREDITO EMILIANO SPA;  ISCRITTO ; BASILICATA;
+
+MORELLI Roberto Antonio; Matera (MT); 06/06/1968; Piazzetta E. Bracco, 11-75100Matera (MT); 10152 del-of 22/07/1996;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+MOTTA Giovanni Salvatore; Corleto Perticara (PZ); 15/04/1961; C.da Braida Snc-85014Laurenzana (PZ); 12694 del-of 02/08/2000;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+NAVIGATO Nino; Mainz (GERMANIA); 21/05/1973; Contrada Pratilamia Zona 167 Lotto 141-85025Melfi (PZ); 9320 del-of 03/07/1995;   BANCA GENERALI SPA;  ISCRITTO ; BASILICATA;
+
+NAVOLIO Giovanni; Policoro (MT); 29/10/1977; Via Machiavelli 40-75012Bernalda (MT); 470 del-of 07/03/2013;   ;  ISCRITTO ; BASILICATA;
+
+NICOLETTI Gianluca; Matera (MT); 13/11/1978; Via G. Donizetti 22-75100Matera (MT); 107 del-of 10/12/2009;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+NIGRO Raffaele; Melfi (PZ); 03/08/1953; Via Rapolla 18-85025Melfi (PZ); 740 del-of 23/03/2016;   ;  ISCRITTO ; BASILICATA;
+
+NOIA Vincenzo; Matera (MT); 23/05/1964; Via Bernalda 23-75024Montescaglioso (MT); 10638 del-of 16/04/1997;   BANCA POPOLARE ETICA SOCIETA' COOPERATIVA PER AZIONI;  ISCRITTO ; BASILICATA;
+
+OCCHIUTO Andrea Giuseppe Rosario; Reggio Calabria (RC); 31/05/1975; Via Delle Medaglie Olimpiche 44-85100Potenza (PZ); 14264 del-of 07/10/2003;   ;  ISCRITTO ; BASILICATA;
+
+ORIENTE Sergio; Potenza (PZ); 04/07/1971; Via Giosue' Carducci 12-85100Potenza (PZ); 12886 del-of 02/01/2001;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; BASILICATA;
+
+OTTAVIO Rodrigo Carlo; Potenza (PZ); 15/05/1950; Via Pienza, 60-85100Potenza (PZ); 6641 del-of 01/12/1992;   DEUTSCHE BANK SPA;  ISCRITTO ; BASILICATA;
+
+PACE Enrico; Matera (MT); 07/05/1962; Via Rocco Scotellaro 7-85100Potenza (PZ); 12886 del-of 02/01/2001;   ;  ISCRITTO ; BASILICATA;
+
+PAESANO Antonella; Potenza (PZ); 03/05/1970; Via Anzio,39-85100Potenza (PZ); 8418 del-of 20/09/1994;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+PAGGI Saverio; Potenza (PZ); 18/06/1987; Contrada Cupone Bandito 17 E-85100Potenza (PZ); 796 del-of 14/12/2016;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+PAOLUCCI Michele; Oppido Lucano (PZ); 08/11/1974; Via Pioix 35-85015Oppido Lucano (PZ); 16493 del-of 27/05/2008;   ;  ISCRITTO ; BASILICATA;
+
+PARADISO Antonio; Palazzo San Gervasio (PZ); 31/08/1957; Via Monfalcone 5 Int. 2-85026Palazzo San Gervasio (PZ); 626 del-of 18/12/2014;   ;  ISCRITTO ; BASILICATA;
+
+PARZIALE Gianluca; Castellana Grotte (BA); 22/12/1977; Via M. Antonia Grimaldi 64 (ex Quart. Porcilotto)-75025Policoro (MT); 15489 del-of 04/07/2006;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; BASILICATA;
+
+PASCARELLI Michele; Monza (MB); 26/01/1963; Via Luigi Einaudi N. 61 Int. 15-75100Matera (MT); 12172 del-of 02/11/1999;   ;  ISCRITTO ; BASILICATA;
+
+PASCARELLI Michele; Montalbano Jonico (MT); 10/09/1953; Via Martiri Di Belfiore 6-75023Montalbano Jonico (MT); 5913 del-of 08/01/1992;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; BASILICATA;
+
+PELAZZI Paolo Francesco; Bitonto (BA); 03/02/1979; Recinto Privato Manzoni 15-75100Matera (MT); 13643 del-of 02/07/2002;   ;  ISCRITTO ; BASILICATA;
+
+PESARINI Luigi; Potenza (PZ); 27/04/1969; Via Nicola Sole 143-85100Potenza (PZ); 13998 del-of 25/03/2003;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; BASILICATA;
+
+PETRACCA Alberto; Potenza (PZ); 31/05/1965; Piazzale Praga 2-85100Potenza (PZ); 15950 del-of 29/05/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+PETRARULO Raffaele; Lavello (PZ); 19/02/1965; Via Bologna 10-85024Lavello (PZ); 747 del-of 28/04/2016;   ;  ISCRITTO ; BASILICATA;
+
+PICCOLO Nicola; Venosa (PZ); 14/02/1974; Via Taranto 35-85028Rionero In Vulture (PZ); 13422 del-of 22/01/2002;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+PIRO Anna; Potenza (PZ); 31/01/1977; Via Umberto I 40-85010Pignola (PZ); 703 del-of 20/10/2015;   UNICREDIT SPA;  ISCRITTO ; BASILICATA;
+
+PITTA Angela; Bellinzona (SVIZZERA); 26/07/1988; Via San Gerardo 7/1-85058Vietri Di Potenza (PZ); 783 del-of 10/11/2016;   ;  ISCRITTO ; BASILICATA;
+
+PONTILLO Francesco; Tricarico (MT); 14/08/1989; Via Cesare Battisti 6-75014Grassano (MT); 796 del-of 14/12/2016;   ;  ISCRITTO ; BASILICATA;
+
+PRISCO Michele; Tricarico (MT); 18/10/1988; Via G. Briganti 7-75014Grassano (MT); 882 del-of 18/01/2018;   CHEBANCA! SPA;  ISCRITTO ; BASILICATA;
+
+RAGO Antonio; Bari (BA); 24/06/1972; Via Crocifisso 62-85026Palazzo San Gervasio (PZ); 10076 del-of 24/06/1996;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; BASILICATA;
+
+RINALDI Giuseppe; Potenza (PZ); 13/07/1953; Via B.bonaventura,21-85100Potenza (PZ); 5913 del-of 08/01/1992;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; BASILICATA;
+
+ROMANIELLO Vito; Potenza (PZ); 29/04/1969; C.da Costa Della Gaveta, 115-85100Potenza (PZ); 12323 del-of 19/01/2000;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; BASILICATA;
+
+ROMANO Domenico; Rio De Janeiro (BRASILE); 23/02/1958; Via Del Mandorlo, 6-85100Potenza (PZ); 6641 del-of 01/12/1992;   COPERNICO SIM SPA;  ISCRITTO ; BASILICATA;
+
+ROMANO Giuseppe; Matera (MT); 30/10/1973; Via Adriano Olivetti 151-75100Matera (MT); 13354 del-of 27/11/2001;   ;  ISCRITTO ; BASILICATA;
+
+ROMANO Prospero; Matera (MT); 14/07/1967; Via Gramsci 25/bis-75100Matera (MT); 11283 del-of 17/03/1998;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; BASILICATA;
+
+ROSSI Giuseppe; Potenza (PZ); 27/08/1960; Via Dei Tamarindi N.9-85042Lagonegro (PZ); 13712 del-of 14/08/2002;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; BASILICATA;
+
+RUBOLINO Giuseppe; Policoro (MT); 04/10/1984; Via San Gottardo Snc-75025Policoro (MT); 12 del-of 05/03/2009;   COPERNICO SIM SPA;  ISCRITTO ; BASILICATA;
+
+RUSSO Maurizio; Taranto (TA); 04/06/1981; Via Fratelli Zanfrino, 16-75028Tursi (MT); 13115 del-of 08/05/2001;   ;  ISCRITTO ; BASILICATA;
+
+RUSSO Sara; Melfi (PZ); 20/03/1986; Via Monticchio 42-85028Rionero In Vulture (PZ); 783 del-of 10/11/2016;   ;  ISCRITTO ; BASILICATA;
+
+SABIA Salvatore; Potenza (PZ); 21/05/1987; Frazione Frusci 5-85021Avigliano (PZ); 771 del-of 13/09/2016;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; BASILICATA;
+
+SALERNO Andrea Rosario; Matera (MT); 31/10/1957; Via E. De Amicis 5-75100Matera (MT); 13115 del-of 08/05/2001;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; BASILICATA;
+
+SALERNO Nicola; Matera (MT); 04/05/1970; Via Protospata, 37-75025Matera (MT); 13115 del-of 08/05/2001;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; BASILICATA;
+
+SALOMONE Alberto; Taranto (TA); 08/07/1965; Via Ugo La Malfa 76-75100Matera (MT); 460 del-of 22/01/2013;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+SANTARCANGELO Giacinto; Potenza (PZ); 20/07/1969; Via Giovanni Xxxiii 22-85100Potenza (PZ); 11028 del-of 17/11/1997;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; BASILICATA;
+
+SANTARCANGELO Giuseppe; Matera (MT); 11/06/1976; Via Giolitti 25-75100Matera (MT); 13514 del-of 08/04/2002;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; BASILICATA;
+
+SANTORO Mauro Antonio; Lavello (PZ); 12/01/1962; Via Roma, 54-85024Lavello (PZ); 6641 del-of 01/12/1992;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; BASILICATA;
+
+SANTORO Vincenzo; Lavello (PZ); 15/10/1965; Via Roma, 54-85024Lavello (PZ); 10043 del-of 10/06/1996;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; BASILICATA;
+
+SAVINO Eraldo; Lagonegro (PZ); 15/11/1969; Contrada Ruovolo, 5-85010Pignola (PZ); 11549 del-of 22/07/1998;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; BASILICATA;
+
+SCALDAFERRI Elia; Lauria (PZ); 29/08/1952; Via Xxv Aprile, 67-85044Lauria (PZ); 6641 del-of 01/12/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; BASILICATA;
+
+SCARANO Renato; Napoli (NA); 13/01/1960; Vico Viii G. Marconi, 3-85054Muro Lucano (PZ); 13310 del-of 23/10/2001;   ;  ISCRITTO ; BASILICATA;
+
+SCAVONE Chiara; Tricarico (MT); 17/04/1992; Via Anzio 61-85100Potenza (PZ); 922 del-of 18/06/2018;   ;  ISCRITTO ; BASILICATA;
+
+SERGIO Luigi; Napoli (NA); 28/11/1967; Viale Principe Umberto 57-85057Tramutola (PZ); 621 del-of 27/11/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+SIERVO Antonio; Lagonegro (PZ); 08/02/1960; Via Delle Gardenie 6-85042Lagonegro (PZ); 599 del-of 30/07/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+SIERVO Nicola Giuseppe Amedeo; Lagonegro (PZ); 09/09/1963; Via Degli Eucalipti 115-85042Lagonegro (PZ); 599 del-of 30/07/2014;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+SILEO Mario; Avigliano (PZ); 20/08/1969; Via Don Luigi Sturzo, 6/14-85021Avigliano (PZ); 11905 del-of 06/04/1999;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+SILVANO Sandro; Matera (MT); 11/10/1961; Via Saragat, 42-75100Matera (MT); 12172 del-of 02/11/1999;   ;  ISCRITTO ; BASILICATA;
+
+SIMUNNO Giovanna Palmina; Matera (MT); 04/04/1971; Via Enrico Mattei, 15-75013Ferrandina (MT); 12777 del-of 24/10/2000;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; BASILICATA;
+
+SIRACUSA Michele; Ferrandina (MT); 13/10/1963; Viale Mazzini 191-75013Ferrandina (MT); 904 del-of 16/04/2018;   ;  ISCRITTO ; BASILICATA;
+
+SPARVIERO Adolfo; Potenza (PZ); 02/10/1970; Contrada Campo Di Giorgio 37 A-85010Pignola (PZ); 804 del-of 18/01/2017;   ;  ISCRITTO ; BASILICATA;
+
+SPARVIERO Giulio; Potenza (PZ); 05/06/1967; Contrada Molino Di Capo-85010Pignola (PZ); 16206 del-of 06/11/2007;   ;  ISCRITTO ; BASILICATA;
+
+SPERDUTO Nicola; Potenza (PZ); 02/09/1968; Via G. Pennella, 34-85028Rionero In Vulture (PZ); 11283 del-of 17/03/1998;   ;  ISCRITTO ; BASILICATA;
+
+STELLA Rocco; Matera (MT); 04/04/1952; Via Brancaccio, 3 Ter-75100Matera (MT); 12283 del-of 22/12/1999;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; BASILICATA;
+
+SUMMA Emanuela; Venosa (PZ); 16/07/1974; Via Del Bimill. Oraziano N.4-85029Venosa (PZ); 13514 del-of 08/04/2002;   ;  ISCRITTO ; BASILICATA;
+
+TANCREDI Simona; Potenza (PZ); 05/03/1981; Via Cerreta 22-85100Potenza (PZ); 532 del-of 20/11/2013;   BANCA REALE SPA;  ISCRITTO ; BASILICATA;
+
+TARANTO Luciano; Montalbano Jonico (MT); 27/10/1972; Via Campobasso 5-75023Montalbano Jonico (MT); 383 del-of 28/02/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; BASILICATA;
+
+TEDONE Mariastella; Potenza (PZ); 02/04/1991; Via Dei Molinari 36-85100Potenza (PZ); 852 del-of 11/09/2017;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+TOSCO Nicoletta; Marsico Nuovo (PZ); 30/06/1960; Via S. Marco 6-85052Marsico Nuovo (PZ); 681 del-of 22/06/2015;   ;  ISCRITTO ; BASILICATA;
+
+TRAFICANTE Pasquale; Melfi (PZ); 26/05/1968; Via Roma 210-85028Rionero In Vulture (PZ); 256 del-of 26/11/2010;   ;  ISCRITTO ; BASILICATA;
+
+UGLIANO Enrico; Napoli (NA); 18/11/1945; Piazza Alcide De Gasperi 7-85100Potenza (PZ); 6641 del-of 01/12/1992;   DEUTSCHE BANK SPA;  ISCRITTO ; BASILICATA;
+
+UGLIANO Simona; Potenza (PZ); 26/04/1971; Via San Remo Snc-85100Potenza (PZ); 11333 del-of 14/04/1998;   ;  ISCRITTO ; BASILICATA;
+
+VENEZIANO Marianna; Nocera Inferiore (SA); 04/03/1968; Via Rainaldo N. 1-85024Lavello (PZ); 11296 del-of 24/03/1998;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; BASILICATA;
+
+VIGNOLA Nicola; Potenza (PZ); 01/06/1972; Via Mazzini 69-85100Potenza (PZ); 11598 del-of 15/09/1998;   ;  ISCRITTO ; BASILICATA;
+
+VILLANI Rosa; Potenza (PZ); 10/10/1991; Via Cosenza 4-85100Potenza (PZ); 887 del-of 31/01/2018;   ;  ISCRITTO ; BASILICATA;
+
+VIOLANTE Francesco; Nova Siri (MT); 26/05/1966; Via Iv Novembre N.18-75020Nova Siri (MT); 13593 del-of 04/06/2002;   ;  ISCRITTO ; BASILICATA;
+
+VODOLA Antonio; Rionero In Vulture (PZ); 22/10/1973; Viale Delle Rose 87-85020Atella (PZ); 686 del-of 30/07/2015;   BANCO DI NAPOLI SPA;  ISCRITTO ; BASILICATA;
+
+WILLIAM Vito Liccione; San Fele (PZ); 02/11/1943; Via Messina,192-85100Potenza (PZ); 5913 del-of 08/01/1992;   ;  ISCRITTO ; BASILICATA;
+
+ZONNI Salvatore; Potenza (PZ); 27/03/1964; Via Adratico 1-85100Potenza (PZ); 10043 del-of 10/06/1996;   DEUTSCHE BANK SPA;  ISCRITTO ; BASILICATA;
+

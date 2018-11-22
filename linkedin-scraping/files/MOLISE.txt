@@ -1,0 +1,392 @@
+
+Cognome-Surname;Luogo di nascita-Place of birth;Data di nascita-Date of birth;Indirizzo-Address;Delibera d'iscrizione-Subscrition resolution;Intermediario-Intermediary;Sospensione cautelare/sanzionatoria  di-Protective/penalty suspension of;Regione di residenza-Residence;;
+ANTONECCHIA Giovanna; Campobasso (CB); 18/04/1971; Via Fontana 26-86010Casalciprano (CB); 12209 del-of 24/11/1999;   IW BANK SPA;  ISCRITTO ; MOLISE;
+
+ARCOLESSE Francesco; Campobasso (CB); 24/03/1948; Via Gabriele Pepe 63-86039Termoli (CB); 11376 del-of 05/05/1998;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+ARCOLESSE Giorgio; Campobasso (CB); 18/10/1966; Viale Elena 28-86100Campobasso (CB); 7280 del-of 28/07/1993;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; MOLISE;
+
+ARMANETTI Ilaria; Campobasso (CB); 23/07/1979; Contrada Cataniello, S.n.c.-86010Campodipietra (CB); 14264 del-of 07/10/2003;   ;  ISCRITTO ; MOLISE;
+
+ARMANETTI Mario; Campobasso (CB); 19/06/1973; Via G. Ungaretti, 28-86100Campobasso (CB); 12461 del-of 29/03/2000;   ;  ISCRITTO ; MOLISE;
+
+ASSENTE Alfredo; Larino (CB); 09/06/1992; Viale Giulio Cesare 99-86035Larino (CB); 832 del-of 20/04/2017;   ;  ISCRITTO ; MOLISE;
+
+AUCIELLO Nicola Michele; Duronia (CB); 11/08/1961; Localita' Cappiello, N. 1-86020Duronia (CB); 12150 del-of 13/10/1999;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; MOLISE;
+
+BALICE Luigi; Serracapriola (FG); 15/03/1956; Via San Marino, N. 101-86039Termoli (CB); 12990 del-of 27/02/2001;   ;  ISCRITTO ; MOLISE;
+
+BALLONE Alfredo; Termoli (CB); 18/05/1979; Via Giappone, N. 77-86039Termoli (CB); 13450 del-of 19/02/2002;   ;  ISCRITTO ; MOLISE;
+
+BARONE Emilio; Campobasso (CB); 18/09/1955; Via L. D'amato, N. 11-86100Campobasso (CB); 11559 del-of 28/07/1998;   ;  ISCRITTO ; MOLISE;
+
+BAX Bianca; Campobasso (CB); 16/12/1967; Contrada Cese 26/a-86100Campobasso (CB); 16252 del-of 11/12/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+BELFONTE Massimiliano; Isernia (IS); 08/12/1975; Via Xxiv Maggio 86-86170Isernia (IS); 397 del-of 24/04/2012;   ;  ISCRITTO ; MOLISE;
+
+BERNARDO Paolo; Bojano (CB); 13/06/1969; Contrada Colle Dell'orso 55/n-86100Campobasso (CB); 11527 del-of 07/07/1998;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+BERZO Eugenio; Campobasso (CB); 15/07/1962; Contrada Cese 26/a-86100Campobasso (CB); 8110 del-of 06/06/1994;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+BEVILACQUA Marco Rosario; Campobasso (CB); 07/10/1982; Via F. Jovine 30-86035Larino (CB); 15462 del-of 15/06/2006;   ;  ISCRITTO ; MOLISE;
+
+BITRI Francesco; Gummersbach (GERMANIA); 18/05/1967; Largo Belvedere, 2/a-86042Campomarino (CB); 12172 del-of 02/11/1999;   ;  ISCRITTO ; MOLISE;
+
+BOTTIGLIERI Cosmo; Isernia (IS); 27/09/1974; Via Leonardo Da Vinci, N. 7-86170Isernia (IS); 13921 del-of 04/02/2003;   ;  ISCRITTO ; MOLISE;
+
+CACACE Vincenzo; Roma (RM); 26/07/1957; Via Santa Teresa Snc-86080Montenero Valcocchiara (IS); 9777 del-of 12/02/1996;   DEUTSCHE BANK SPA;  ISCRITTO ; MOLISE;
+
+CAMMISA Giovanni; Napoli (NA); 27/02/1966; Via Santa Maria Di Loreto 109-86082Capracotta (IS); 6728 del-of 22/12/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+CANCELLARIO Lorenzo; Campobasso (CB); 31/05/1952; Contrada San Giovanni, N. 48/b-86100Campobasso (CB); 13015 del-of 20/03/2001;   ;  ISCRITTO ; MOLISE;
+
+CAPUANO Antonio; Campobasso (CB); 11/07/1948; Via Conte Rosso, N. 1/a-86100Campobasso (CB); 11559 del-of 28/07/1998;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+CARLONE Nicola; Campobasso (CB); 01/06/1956; Via Pisa 6-86100Campobasso (CB); 16696 del-of 25/11/2008;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+CARLOZZI Luigi; Campobasso (CB); 24/01/1963; Via N. De Luca 9 B-86100Campobasso (CB); 637 del-of 27/01/2015;   ;  ISCRITTO ; MOLISE;
+
+CARRATELLI Sabrina; Castel Di Sangro (AQ); 07/08/1989; Via Trieste 14-86088San Pietro Avellana (IS); 779 del-of 25/10/2016;   ;  ISCRITTO ; MOLISE;
+
+CASOLINO Andrea; Termoli (CB); 28/02/1978; Via Ragusa 5-86039Termoli (CB); 312 del-of 01/06/2011;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+CERIO Antonio Luca; Larino (CB); 02/12/1974; Via Altilia 12-86035Larino (CB); 10 del-of 23/02/2009;   ;  ISCRITTO ; MOLISE;
+
+CHIACCHIARI Franco; Isernia (IS); 09/06/1958; Via Conocchia, N. 52-86170Isernia (IS); 11559 del-of 28/07/1998;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+CHIACCHIARI Serena; Isernia (IS); 26/08/1981; Via Fontana 7 Contrada Conocchia-86170Isernia (IS); 13921 del-of 04/02/2003;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+CHIACCHIARI Tullia; Isernia (IS); 30/06/1984; Via Conocchia 8-86170Isernia (IS); 832 del-of 20/04/2017;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+CICCAGLIONE Patrizio; Sessano Del Molise (IS); 12/08/1959; Via Pescole 252-86097Sessano Del Molise (IS); 5993 del-of 18/02/1992;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; MOLISE;
+
+COCCO Angelo; Agnone (IS); 05/09/1963; Via A. Moro, N. 4-86035Larino (CB); 11682 del-of 03/11/1998;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; MOLISE;
+
+COCCO Luigi; Cassino (FR); 28/09/1975; Piazza Aldo Moro, N. 13-86077Pozzilli (IS); 14264 del-of 07/10/2003;   ;  ISCRITTO ; MOLISE;
+
+COIA Ornella; Venafro (IS); 24/12/1964; Viale Caio Giulio Cesare 12-86079Venafro (IS); 8275 del-of 25/07/1994;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; MOLISE;
+
+COLACCI Domenico; Napoli (NA); 30/10/1972; Via Barcellona 96-86021Bojano (CB); 12982 del-of 21/02/2001;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; MOLISE;
+
+COLAGIOVANNI Fabio; Campobasso (CB); 10/07/1983; Via Conte Verde 43-86100Campobasso (CB); 929 del-of 25/07/2018;   BPER BANCA SPA;  ISCRITTO ; MOLISE;
+
+CORRADO Antonio; Isernia (IS); 24/03/1978; Via Fontana 20-86170Isernia (IS); 15533 del-of 08/08/2006;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; MOLISE;
+
+CORRADO Pasquale; Baden (SVIZZERA); 21/02/1968; Piazza Annunziata 14-86170Isernia (IS); 13354 del-of 27/11/2001;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; MOLISE;
+
+COTUGNO Maria; Venafro (IS); 10/05/1980; Via Case Petescia Sc-86077Pozzilli (IS); 15109 del-of 12/07/2005;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+CRAVERO Bruno; Termoli (CB); 27/07/1958; Via Giacomo Leopardi 4-86039Termoli (CB); 497 del-of 09/07/2013;   ;  ISCRITTO ; MOLISE;
+
+CUCCINIELLO Eugenio; Campobasso (CB); 17/12/1957; Via M. Pietravalle 5-86100Campobasso (CB); 12924 del-of 17/01/2001;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+CUCCINIELLO Letizia; Bucarest (ROMANIA); 30/12/1990; Via M.pietravalle 5-86100Campobasso (CB); 891 del-of 22/02/2018;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+D'AGOSTINO Annarita; Cassino (FR); 23/06/1974; Corso Campano, N. 178-86079Venafro (IS); 13514 del-of 08/04/2002;   ;  ISCRITTO ; MOLISE;
+
+D'ALOISE Francesco; Agnone (IS); 12/07/1952; Via Puglia 34-86100Campobasso (CB); 15792 del-of 28/02/2007;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+D'ALONZO Luigi; Bojano (CB); 30/03/1969; Via Roma, N. 14-86170Isernia (IS); 13713 del-of 14/08/2002;   BANCA GENERALI SPA;  ISCRITTO ; MOLISE;
+
+D'ALONZO Pietro; Venafro (IS); 13/12/1972; Viale Ippocrate 6-86090Pesche (IS); 13973 del-of 11/03/2003;   ;  ISCRITTO ; MOLISE;
+
+D'AMICO Santina; Duronia (CB); 22/08/1969; Via Rione Del Pozzo 30-86020Duronia (CB); 15984 del-of 13/06/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+D'ANDREA Christian; San Giovanni Rotondo (FG); 15/09/1973; Contrada Fossato Cupo 26/c-86100Campobasso (CB); 11267 del-of 10/03/1998;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; MOLISE;
+
+D'ANGHERA Massimo; Campobasso (CB); 12/12/1959; Via Giuseppe Di Vittorio 13-86100Campobasso (CB); 753 del-of 26/05/2016;   UNICREDIT SPA;  ISCRITTO ; MOLISE;
+
+D'ELIA Daniele; Campobasso (CB); 05/06/1970; Via Ungaretti, N. 3-86100Campobasso (CB); 13450 del-of 19/02/2002;   CREDITO EMILIANO SPA;  ISCRITTO ; MOLISE;
+
+D'ERRICO Guglielmo; Ripalimosani (CB); 01/10/1956; Via Ugo Foscolo 16-86100Campobasso (CB); 5993 del-of 18/02/1992;   BANCA GENERALI SPA;  ISCRITTO ; MOLISE;
+
+DAZZETTI Sergio; Campobasso (CB); 11/01/1963; Via Monfalcone, N. 11-86100Campobasso (CB); 12150 del-of 13/10/1999;   ;  ISCRITTO ; MOLISE;
+
+DE FENZA Primiano; Larino (CB); 30/07/1979; Via Sandro Pertini 10-86035Larino (CB); 637 del-of 27/01/2015;   ;  ISCRITTO ; MOLISE;
+
+DE LELLIS Francesco; Isernia (IS); 21/07/1978; Via Umbria 95-86170Isernia (IS); 15792 del-of 28/02/2007;   ;  ISCRITTO ; MOLISE;
+
+DE NICOLAIS Angelo; Campobasso (CB); 21/07/1966; Via America 9-86039Termoli (CB); 626 del-of 18/12/2014;   ;  ISCRITTO ; MOLISE;
+
+DE SANTIS Pasquale; Campobasso (CB); 21/02/1965; Contrada Vazzieri 38-86100Campobasso (CB); 13053 del-of 05/04/2001;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; MOLISE;
+
+DEL CIOPPO Mauro; Vinchiaturo (CB); 17/03/1961; Viale E. Spensieri 7-86019Vinchiaturo (CB); 16086 del-of 28/08/2007;   ;  ISCRITTO ; MOLISE;
+
+DEL GESSO Floriana; Termoli (CB); 09/06/1976; Via Montecarlo 33-86039Termoli (CB); 15462 del-of 15/06/2006;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+DEL MONACO Monia; Isernia (IS); 15/04/1973; Largo Fontana, N. 44-86080Miranda (IS); 12990 del-of 27/02/2001;   ;  ISCRITTO ; MOLISE;
+
+DI BAGGIO Katia; Castel Di Sangro (AQ); 12/02/1980; Via G. Tedeschi 110-86170Isernia (IS); 16055 del-of 25/07/2007;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+DI CARLO Antonio; Castel Di Sangro (AQ); 14/10/1975; Contrada Alluoro-86070Fornelli (IS); 12127 del-of 15/09/1999;   ;  ISCRITTO ; MOLISE;
+
+DI CIERO Gianfelice; Agnone (IS); 09/12/1963; Corso Vittorio Emanuele, N. 121-86081Agnone (IS); 13450 del-of 19/02/2002;   IW BANK SPA;  ISCRITTO ; MOLISE;
+
+DI DOMENICO Carlo; Castel Di Sangro (AQ); 26/04/1974; Via Veneziale 91-86170Isernia (IS); 16043 del-of 17/07/2007;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+DI DONATO Ettore; Caserta (CE); 17/12/1966; Viale Elena, N. 11-86100Campobasso (CB); 13167 del-of 13/06/2001;   ;  ISCRITTO ; MOLISE;
+
+DI FLORIO Corrado; Termoli (CB); 03/04/1967; Via Delle Viole 12-86039Termoli (CB); 933 del-of 12/09/2018;   BANCA GENERALI SPA;  ISCRITTO ; MOLISE;
+
+DI FLORIO Mario; Termoli (CB); 12/03/1969; Via Amalfi , 8-86039Termoli (CB); 12046 del-of 30/06/1999;   ;  ISCRITTO ; MOLISE;
+
+DI IORIO Daniela; Campobasso (CB); 09/08/1978; Via San Sisto 41-86020Colle D'anchise (CB); 626 del-of 18/12/2014;   ;  ISCRITTO ; MOLISE;
+
+DI LULLO Ughetta; Isernia (IS); 01/08/1980; Pedemontana 48-86079Venafro (IS); 14412 del-of 10/02/2004;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+DI MASCIA Antonio; Isernia (IS); 18/06/1963; Via Xxiv Maggio 315-86170Isernia (IS); 507 del-of 12/09/2013;   Intesa Sanpaolo spa;  ISCRITTO ; MOLISE;
+
+DI NATALE Ermelindo Antonio; Foggia (FG); 11/12/1969; Via Degli Aceri 15 F-86039Termoli (CB); 596 del-of 17/07/2014;   ;  ISCRITTO ; MOLISE;
+
+DI PASQUALE Angela; Isernia (IS); 30/01/1975; Via Libero Testa 138-86170Isernia (IS); 16493 del-of 27/05/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+DI PERNA Pietro Paolo; Isernia (IS); 29/06/1986; Via San Leucio 73-86170Isernia (IS); 549 del-of 16/01/2014;   ;  ISCRITTO ; MOLISE;
+
+DI PETTA Fabrizio; Bojano (CB); 13/07/1977; Via Sicilia 23-86170Isernia (IS); 16139 del-of 09/10/2007;   ;  ISCRITTO ; MOLISE;
+
+DI PETTA Livio Pellegrino; Campobasso (CB); 03/08/1971; Via Campo Di Maggio, N. 18-86020Colle D'anchise (CB); 13481 del-of 12/03/2002;   IW BANK SPA;  ISCRITTO ; MOLISE;
+
+DI PILLA Marco; Isernia (IS); 11/09/1974; Via Sandro Pertini 19-86070Sant'agapito (IS); 14412 del-of 10/02/2004;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+DI STEFANO Michele; Santa Croce Di Magliano (CB); 09/06/1962; Vico Nazario Sauro 5-86039Termoli (CB); 637 del-of 27/01/2015;   ;  ISCRITTO ; MOLISE;
+
+DI TORE Danilo; Isernia (IS); 20/07/1975; Viale Della Liberta' 16-86070Sant'agapito (IS); 14412 del-of 10/02/2004;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+DI TULLIO Luigi; Termoli (CB); 28/12/1964; Via Cavalieri Di Vittorio Veneto, 3-86039Termoli (CB); 9895 del-of 11/04/1996;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; MOLISE;
+
+DICENSO Chiara; Termoli (CB); 04/01/1988; Via Marconi 67-86046San Martino In Pensilis (CB); 730 del-of 11/02/2016;   ;  ISCRITTO ; MOLISE;
+
+DOGANIERI Bruno; Campobasso (CB); 12/05/1989; Localita' Sant'antonio Abate Snc-86021Bojano (CB); 323 del-of 18/07/2011;   ;  ISCRITTO ; MOLISE;
+
+ELISEO Francescopaolo; Campobasso (CB); 30/03/1965; Contrada Piana 22-86010Ferrazzano (CB); 796 del-of 14/12/2016;   ;  ISCRITTO ; MOLISE;
+
+FANTACONE Luca; Napoli (NA); 03/11/1966; Via Foggia 39-86010Mirabello Sannitico (CB); 7171 del-of 22/06/1993;   ;  ISCRITTO ; MOLISE;
+
+FARINA Angelo; Termoli (CB); 08/04/1976; Via Stati Uniti, N. 24-86039Termoli (CB); 13481 del-of 12/03/2002;   CREDITO EMILIANO SPA;  ISCRITTO ; MOLISE;
+
+FATICA Claudio; Campobasso (CB); 21/02/1968; Contrada Colle Delle Api 41-86100Campobasso (CB); 13514 del-of 08/04/2002;   ;  ISCRITTO ; MOLISE;
+
+FIDELBO Luca; Campobasso (CB); 09/01/1961; Via Ferrari, N. 72-86100Campobasso (CB); 12209 del-of 24/11/1999;   ;  ISCRITTO ; MOLISE;
+
+FINAMORE Maria Concetta; Campobasso (CB); 08/12/1978; Viale Della Liberta' 16-86070Sant'agapito (IS); 15410 del-of 19/04/2006;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+FOLCHI Tiberio; Fossalto (CB); 19/07/1964; Via Monforte, N. 25-86100Campobasso (CB); 12461 del-of 29/03/2000;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; MOLISE;
+
+FRATANGELO Nicola; Campobasso (CB); 24/02/1966; Via Del Molinello 16-86020Castellino Del Biferno (CB); 10152 del-of 22/07/1996;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+FRATIPIETRO Pasqualino; Campobasso (CB); 06/01/1960; Via Francesco Petrarca 12-86079Venafro (IS); 13643 del-of 02/07/2002;   DEUTSCHE BANK SPA;  ISCRITTO ; MOLISE;
+
+GABRIELE Michele; Campobasso (CB); 19/03/1964; Via Genova, N. 3-86100Campobasso (CB); 11643 del-of 06/10/1998;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+GALASSO Giovanni; Isernia (IS); 18/01/1980; Via Mantegna 32-86170Isernia (IS); 15462 del-of 15/06/2006;   ;  ISCRITTO ; MOLISE;
+
+GALLO Remo; Colletorto (CB); 03/04/1961; Via Marconi 21-86019Vinchiaturo (CB); 10043 del-of 10/06/1996;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; MOLISE;
+
+GASPARO Francesco; Campobasso (CB); 17/08/1975; Via Iv Novembre 6-86100Campobasso (CB); 13481 del-of 12/03/2002;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+GENOVESE Carmine; Martina Franca (TA); 24/01/1966; Contrada Fonte Della Signora 3-86038Petacciato (CB); 13191 del-of 10/07/2001;   ALTO ADIGE BANCA SPA;  ISCRITTO ; MOLISE;
+
+GENTILE Tiziano; Isernia (IS); 08/04/1981; Via Comunale San Leucio 25-86170Isernia (IS); 16696 del-of 25/11/2008;   ;  ISCRITTO ; MOLISE;
+
+GIAMPETRAGLIA Andrea; Napoli (NA); 16/07/1959; Via Del Molinello 88-86039Termoli (CB); 507 del-of 12/09/2013;   Intesa Sanpaolo spa;  ISCRITTO ; MOLISE;
+
+GIANNANTONIO Tonino; Ripalimosani (CB); 08/02/1958; Via Marconi 102-86100Campobasso (CB); 6971 del-of 07/04/1993;   ;  ISCRITTO ; MOLISE;
+
+GIOVARRUSCIO Davide; Roma (RM); 26/10/1963; Via Vigliardi 39-86100Campobasso (CB); 13322 del-of 31/10/2001;   ;  ISCRITTO ; MOLISE;
+
+GISONDI Tommaso; Napoli (NA); 17/05/1977; Via Lazio 100-86100Campobasso (CB); 14728 del-of 05/10/2004;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; MOLISE;
+
+GUALTIERI Patrizia; San Severo (FG); 27/03/1968; Corso Garibaldi, N. 149-86081Agnone (IS); 13643 del-of 02/07/2002;   ;  ISCRITTO ; MOLISE;
+
+GUGLIELMI Donato; Termoli (CB); 04/02/1979; Piazza Jovine 11-86030Guardialfiera (CB); 14914 del-of 22/02/2005;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; MOLISE;
+
+IACOBUCCI Saverio; Campobasso (CB); 06/07/1972; Via San Giovanni Dei Gelsi, N. 132-86100Campobasso (CB); 12283 del-of 22/12/1999;   ;  ISCRITTO ; MOLISE;
+
+IACONO Marco; Ischia (NA); 09/07/1968; Contrada Cese 59/e-86100Campobasso (CB); 14893 del-of 01/02/2005;   ;  ISCRITTO ; MOLISE;
+
+IACUSSO Sabrina; Termoli (CB); 31/10/1969; Via Martiri Della Resistenza, N.122-86039Termoli (CB); 13481 del-of 12/03/2002;   ;  ISCRITTO ; MOLISE;
+
+IALONGO Paola Anna; Montreal (CANADA); 08/02/1969; Via S. Pertini, N. 9-86070Rocchetta A Volturno (IS); 14477 del-of 16/03/2004;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+IANIRO Bruno; Termoli (CB); 16/02/1956; Via Adda 7-86039Termoli (CB); 6254 del-of 10/06/1992;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; MOLISE;
+
+IANNETTA Alberto; Bojano (CB); 29/01/1965; Via Mario Iannone 9-86021Bojano (CB); 7280 del-of 28/07/1993;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+IMPOSIMATO Domenico; Isernia (IS); 12/05/1971; Via Teodoro La Cava 5-86170Isernia (IS); 933 del-of 12/09/2018;   ;  ISCRITTO ; MOLISE;
+
+IORIO Domenico; Campobasso (CB); 17/02/1968; Via Dei Mandorli 15-86039Termoli (CB); 442 del-of 29/11/2012;   BANCA GENERALI SPA;  ISCRITTO ; MOLISE;
+
+LAFRATTA Mario Vito; Termoli (CB); 18/12/1968; Via Francesco Longano 9-86100Campobasso (CB); 852 del-of 11/09/2017;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; MOLISE;
+
+LAPENNA Luigi; Larino (CB); 15/04/1959; Via G. Cesare 39-86035Larino (CB); 5993 del-of 18/02/1992;   ;  ISCRITTO ; MOLISE;
+
+LIBERATORE Antonio; Colletorto (CB); 20/03/1961; Via Dante 16-86044Colletorto (CB); 898 del-of 27/03/2018;   ;  ISCRITTO ; MOLISE;
+
+LITTERIO Ludovico; Campobasso (CB); 24/12/1963; Via Petitti 5-86100Campobasso (CB); 599 del-of 30/07/2014;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; MOLISE;
+
+LONGHI Gianfranco; Isernia (IS); 09/06/1963; Via Ugo Foscolo 6-86039Termoli (CB); 591 del-of 23/06/2014;   ;  ISCRITTO ; MOLISE;
+
+MANES Stefania; Campobasso (CB); 16/10/1969; Contrada Cese 59/e-86100Campobasso (CB); 15462 del-of 15/06/2006;   ;  ISCRITTO ; MOLISE;
+
+MANOCCHIO Francesco; Campobasso (CB); 10/11/1962; Via Ferrari 7-86100Campobasso (CB); 6598 del-of 11/11/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+MANOCCHIO Michele; Campobasso (CB); 15/07/1956; Localita' Poggio Verde Snc-86010Ferrazzano (CB); 11819 del-of 03/02/1999;   ;  ISCRITTO ; MOLISE;
+
+MARCELLUSI Giacinto; Ururi (CB); 11/11/1955; Via De Gasperi,20-86039Termoli (CB); 5993 del-of 18/02/1992;   BANCA GENERALI SPA;  ISCRITTO ; MOLISE;
+
+MARTELLA Domenico; Campobasso (CB); 27/11/1961; Via E. Fermi 5-86010Ferrazzano (CB); 10238 del-of 30/09/1996;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; MOLISE;
+
+MARUCCI Domenico; Isernia (IS); 21/06/1974; Via Ruggiero Labella 7-86080Miranda (IS); 14436 del-of 24/02/2004;   ;  ISCRITTO ; MOLISE;
+
+MASCILONGO Giuseppe; Termoli (CB); 25/03/1963; Via Vittorio Emanuele Iii 1-86039Termoli (CB); 16407 del-of 26/03/2008;   ;  ISCRITTO ; MOLISE;
+
+MASCIO Luciano; Monteroduni (IS); 06/07/1968; Via Italo Balbo 1/3-86075Monteroduni (IS); 10238 del-of 30/09/1996;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+MASTROBERARDINO Tommaso; Campobasso (CB); 26/07/1962; Contrada San Salvatore 10-86010Ferrazzano (CB); 10 del-of 23/02/2009;   Intesa Sanpaolo spa;  ISCRITTO ; MOLISE;
+
+MASTROPAOLO Michele; Campobasso (CB); 11/04/1980; Piazza Molise 7-86100Campobasso (CB); 286 del-of 17/02/2011;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; MOLISE;
+
+MEFFE Nicola; Torella Del Sannio (CB); 14/06/1958; Contrada Cerritiello 2-86028Torella Del Sannio (CB); 8140 del-of 14/06/1994;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+MELILLO Giulio; Salerno (SA); 21/11/1956; Via A. Cardarelli, N. 66-86100Campobasso (CB); 13211 del-of 24/07/2001;   ;  ISCRITTO ; MOLISE;
+
+MENNA Gianni; Termoli (CB); 15/07/1978; Contrada Sterparo 13-86033Montefalcone Nel Sannio (CB); 16139 del-of 09/10/2007;   ;  ISCRITTO ; MOLISE;
+
+MENNA Sandro; Trivento (CB); 25/04/1964; Via Copelle I, N. 13-86029Trivento (CB); 12283 del-of 22/12/1999;   ;  ISCRITTO ; MOLISE;
+
+MICONE Tiziana; Campobasso (CB); 14/11/1969; Via Canonica S.n.c.-86027San Massimo (CB); 15462 del-of 15/06/2006;   ;  ISCRITTO ; MOLISE;
+
+MIGNOGNA Luigi Antonio; Gambatesa (CB); 05/06/1949; Via Nazionale Appula 21-86013Gambatesa (CB); 11559 del-of 28/07/1998;   ;  ISCRITTO ; MOLISE;
+
+MIGNOGNA Mirella; Riccia (CB); 13/07/1975; Via Campobasso, N. 3/c-86016Riccia (CB); 12982 del-of 21/02/2001;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+MILANESE Giustino; Isernia (IS); 23/07/1960; Via Riziero Di Marzo 2-86170Isernia (IS); 5993 del-of 18/02/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+MIRAGLIA Annunziata; Mugnano Di Napoli (NA); 12/05/1981; Via Canonica - Parco Danil-86027San Massimo (CB); 16139 del-of 09/10/2007;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; MOLISE;
+
+MITE Emilia; Napoli (NA); 24/10/1981; Via Nobile 3-86100Campobasso (CB); 933 del-of 12/09/2018;   CORDUSIO SIM spa;  ISCRITTO ; MOLISE;
+
+MOAURO Michele; Campobasso (CB); 07/10/1960; Via Roma 29-86081Agnone (IS); 12386 del-of 22/02/2000;   BANCA GENERALI SPA;  ISCRITTO ; MOLISE;
+
+MOFFA Eugenia; Campobasso (CB); 15/05/1994; Taverna Del Cortile 14-86025Ripalimosani (CB); 909 del-of 10/05/2018;   ;  ISCRITTO ; MOLISE;
+
+MOFFA Luciano; Campobasso (CB); 24/02/1969; Via Lazio 49-86100Campobasso (CB); 11527 del-of 07/07/1998;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+MOFFA Maurizio; Napoli (NA); 28/08/1968; Via Emilia, 21-86100Campobasso (CB); 12982 del-of 21/02/2001;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+MUSACCHIO Nicoletta; Portocannone (CB); 29/12/1962; Via Xxiv Maggio 21-86039Termoli (CB); 591 del-of 23/06/2014;   Intesa Sanpaolo spa;  ISCRITTO ; MOLISE;
+
+MUSELLA Vincenzo; Napoli (NA); 11/08/1969; Via Giovanni Pascoli 58-86100Campobasso (CB); 483 del-of 21/05/2013;   Intesa Sanpaolo spa;  ISCRITTO ; MOLISE;
+
+NOCELLA Antonella; Formia (LT); 22/01/1970; Via Lombardia, 147/g-86100Campobasso (CB); 11753 del-of 21/12/1998;   ;  ISCRITTO ; MOLISE;
+
+PACE Pietro; Ururi (CB); 17/09/1952; Via N. Mascilongo, N. 39-86039Termoli (CB); 14137 del-of 24/06/2003;   ;  ISCRITTO ; MOLISE;
+
+PALOMBO Michele; Campobasso (CB); 12/07/1976; Via Roma 83-86020Castellino Del Biferno (CB); 16139 del-of 09/10/2007;   BANCA DI CREDITO COOP. DI SAN MARZANO DI SAN GIUSEPPE;  ISCRITTO ; MOLISE;
+
+PAOLINO Nicolino; Isernia (IS); 03/08/1957; Via Saragat N.1-86170Isernia (IS); 6598 del-of 11/11/1992;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; MOLISE;
+
+PAONESSA Paolo; Fragneto L'abate (BN); 29/06/1971; Via Puglie 8-86034Guglionesi (CB); 681 del-of 22/06/2015;   ;  ISCRITTO ; MOLISE;
+
+PAPARELLA Francesco; Campobasso (CB); 22/04/1949; Via San Giovanni 154-86100Campobasso (CB); 11376 del-of 05/05/1998;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+PAPI Giuseppe; Vasto (CH); 24/07/1973; Via Monforte 22-86100Campobasso (CB); 15410 del-of 19/04/2006;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; MOLISE;
+
+PARENTE Vincenzo; Roma (RM); 17/03/1968; Via Roma 41-86071Castel San Vincenzo (IS); 7988 del-of 19/04/1994;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+PARPIGLIA Carmelo; Brancaleone (RC); 02/05/1962; Via De Attelis 6-86100Campobasso (CB); 9574 del-of 06/11/1995;   ;  ISCRITTO ; MOLISE;
+
+PASQUALE Giuseppe; Campobasso (CB); 31/10/1966; Via Campania 71-86100Campobasso (CB); 555 del-of 27/02/2014;   ;  ISCRITTO ; MOLISE;
+
+PASQUALE Pasquale; Busso (CB); 18/07/1960; Via Monsignor Bologna, N. 72-86100Campobasso (CB); 13781 del-of 15/10/2002;   ;  ISCRITTO ; MOLISE;
+
+PASQUALONE Francesco; Campobasso (CB); 04/10/1969; Contrada Colle Rosa 17-86025Ripalimosani (CB); 922 del-of 18/06/2018;   Intesa Sanpaolo spa;  ISCRITTO ; MOLISE;
+
+PEDUTO Francesca; Termoli (CB); 03/07/1973; Via C. Ruffini, N. 6-86039Termoli (CB); 14067 del-of 13/05/2003;   ;  ISCRITTO ; MOLISE;
+
+PERDONO' Roberto; Foggia (FG); 28/11/1966; Contrada Sorienza Snc-86040Pietracatella (CB); 564 del-of 20/03/2014;   ;  ISCRITTO ; MOLISE;
+
+PETRUCCI Michele; Termoli (CB); 08/05/1974; Via America 42-86039Termoli (CB); 15462 del-of 15/06/2006;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+PETTA Susanna; Frankfurt Am Main (GERMANIA); 29/10/1972; Via Catania 30-86039Termoli (CB); 12982 del-of 21/02/2001;   ;  ISCRITTO ; MOLISE;
+
+PILLA Antonietta; Pietrelcina (BN); 20/03/1968; Via Santa Maria Del Bagno 4-86090Pesche (IS); 691 del-of 21/09/2015;   UNICREDIT SPA;  ISCRITTO ; MOLISE;
+
+PISANO Nicola; Termoli (CB); 19/01/1979; Via Marconi 19-86049Ururi (CB); 16086 del-of 28/08/2007;   ;  ISCRITTO ; MOLISE;
+
+PUCA Ugo; Nicastro (CZ); 26/01/1956; Contrada Colle Dell'orso 55/h-86100Campobasso (CB); 15410 del-of 19/04/2006;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+PUNZO Daniele Paolo; Campobasso (CB); 03/11/1964; Via D'amato 13/d-86100Campobasso (CB); 13973 del-of 11/03/2003;   BANCA REALE SPA;  ISCRITTO ; MOLISE;
+
+RAGNI Federico; Termoli (CB); 19/08/1955; Via Duomo 15-86039Termoli (CB); 564 del-of 20/03/2014;   Intesa Sanpaolo spa;  ISCRITTO ; MOLISE;
+
+RAGNI Gianpaolo; Termoli (CB); 30/01/1964; Via Giappone 1/b-86039Termoli (CB); 12886 del-of 02/01/2001;   ;  ISCRITTO ; MOLISE;
+
+RAGO Cristofaro; Venafro (IS); 22/01/1969; Via Guado San Nicola 16-86075Monteroduni (IS); 604 del-of 18/09/2014;   ;  ISCRITTO ; MOLISE;
+
+RASPONE Roberto; Campobasso (CB); 28/06/1972; Via Giuseppe Di Vittorio 6-86100Campobasso (CB); 12982 del-of 21/02/2001;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; MOLISE;
+
+RICCIONI Pietro; Termoli (CB); 13/07/1983; Via Abruzzi 11 A-86042Campomarino (CB); 887 del-of 31/01/2018;   ;  ISCRITTO ; MOLISE;
+
+ROCCIO Antonella; Bojano (CB); 13/03/1968; Via Barcellona 76-86021Bojano (CB); 9574 del-of 06/11/1995;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+RUSSO Mariangela; Isernia (IS); 19/06/1983; Via Sant'eusanio 4-86075Sant'eusanio (IS); 465 del-of 12/02/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+RUTA Pierluigi; Campobasso (CB); 03/03/1963; Via Pirandello, N. 7/a-86100Campobasso (CB); 13887 del-of 14/01/2003;   ;  ISCRITTO ; MOLISE;
+
+SALVATORELLI Mario; Montorio Nei Frentani (CB); 11/06/1966; Via Ugo Foscolo 14-86100Campobasso (CB); 10238 del-of 30/09/1996;   ;  ISCRITTO ; MOLISE;
+
+SANTANGELO Raffaele; Campobasso (CB); 17/09/1964; Via Giacomo Leopardi 118-86100Campobasso (CB); 7171 del-of 22/06/1993;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; MOLISE;
+
+SANTILLO Luca; Isernia (IS); 26/03/1974; Via Xxiv Maggio 15/e-86170Isernia (IS); 16696 del-of 25/11/2008;   ;  ISCRITTO ; MOLISE;
+
+SARDELLA Marco; Roma (RM); 27/06/1973; Viale Monsignor Secondo Bologna 8 A-86100Campobasso (CB); 771 del-of 13/09/2016;   ;  ISCRITTO ; MOLISE;
+
+SCACCIAVILLANI Angelina; Frosolone (IS); 21/03/1967; Via Toscanini, 15-86170Isernia (IS); 8010 del-of 03/05/1994;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; MOLISE;
+
+SCARANO Giuseppe Luciano; Trivento (CB); 13/12/1958; Via Lombardia 70-86100Campobasso (CB); 5993 del-of 18/02/1992;   BANCA GENERALI SPA;  ISCRITTO ; MOLISE;
+
+SCE' Michele; Larino (CB); 22/02/1964; Via Danubio 58-86039Termoli (CB); 898 del-of 27/03/2018;   ;  ISCRITTO ; MOLISE;
+
+SCHIOPPA Antonio; Monteroduni (IS); 13/07/1960; Viale Dei Pentri 1-86170Isernia (IS); 16463 del-of 06/05/2008;   ;  ISCRITTO ; MOLISE;
+
+SCOCCHERA Adolfo; Campobasso (CB); 24/11/1959; Via Principe Di Piemonte, N. 22-86100Campobasso (CB); 12209 del-of 24/11/1999;   ;  ISCRITTO ; MOLISE;
+
+SENZAMICI Enza; Campobasso (CB); 31/12/1971; Via Vincenzo Ludovico Fraticelli 18-86100Campobasso (CB); 13653 del-of 09/07/2002;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+SIMEONE Fabrizio; Venafro (IS); 05/12/1977; Via Casilina 4-86079Venafro (IS); 507 del-of 12/09/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+SISTILLI Alessandro; Termoli (CB); 27/06/1978; Via G. Matteotti 1/a-86042Campomarino (CB); 15462 del-of 15/06/2006;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+SOCCI Mariella; Campobasso (CB); 02/04/1969; Via Ungaretti, 3-86100Campobasso (CB); 9623 del-of 04/12/1995;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+SPEZZATI Enrico; Bari (BA); 21/03/1980; Via Sardegna 42-86039Termoli (CB); 747 del-of 28/04/2016;   ;  ISCRITTO ; MOLISE;
+
+TADDEO Emanuele; Campobasso (CB); 10/07/1988; Via Colonno 28-86021Bojano (CB); 691 del-of 21/09/2015;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; MOLISE;
+
+TAVINI Nicola; Campobasso (CB); 16/01/1959; Via Principe Di Piemonte 148-86100Campobasso (CB); 5993 del-of 18/02/1992;   ;  ISCRITTO ; MOLISE;
+
+TAVINI Pasquale; Campobasso (CB); 23/09/1964; Via Kenedy 1-86100Campobasso (CB); 6598 del-of 11/11/1992;   ;  ISCRITTO ; MOLISE;
+
+TODARO Giuseppantonio; Ripabottoni (CB); 07/02/1957; Via Delle Betulle 26-86039Termoli (CB); 633 del-of 14/01/2015;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+TOMASINO Michele; Campobasso (CB); 25/03/1963; Via Colle Delle Api, N. 91/l-86100Campobasso (CB); 11682 del-of 03/11/1998;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+TOMIZZI Antonio; Campobasso (CB); 30/09/1987; Via Municipio Vecchio 16-86016Riccia (CB); 604 del-of 18/09/2014;   ;  ISCRITTO ; MOLISE;
+
+TOMIZZI Giuseppe; Montecilfone (CB); 03/11/1956; Via Puglia, N. 46-86100Campobasso (CB); 12001 del-of 08/06/1999;   ;  ISCRITTO ; MOLISE;
+
+TOMMASETTI Bruno; Casoria (NA); 04/01/1969; Via Colle Principe 4 Z-86070Rocchetta A Volturno (IS); 852 del-of 11/09/2017;   ;  ISCRITTO ; MOLISE;
+
+TONDI Massimo; Campobasso (CB); 07/09/1965; Via Muricchio 3-86100Campobasso (CB); 898 del-of 27/03/2018;   ;  ISCRITTO ; MOLISE;
+
+TULLO Rosa; Fossalto (CB); 30/03/1952; Via Trento 4-86039Termoli (CB); 5993 del-of 18/02/1992;   ;  ISCRITTO ; MOLISE;
+
+VALENTE Guido; Sesto Campano (IS); 19/05/1965; Via Maiella 52-86079Venafro (IS); 13167 del-of 13/06/2001;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+VALLINI Maria Francesca; Venafro (IS); 06/01/1973; Via M. Milano, N. 2/h-86039Termoli (CB); 14728 del-of 05/10/2004;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+
+VENEZIALE Carlo; Napoli (NA); 19/02/1969; Via Ciarlante, N. 18-86170Isernia (IS); 14510 del-of 06/04/2004;   ;  ISCRITTO ; MOLISE;
+
+VITALE Francesco; Campobasso (CB); 19/02/1981; Via Q. Sella 12-86100Campobasso (CB); 15462 del-of 15/06/2006;   BANCA MEDIOLANUM SPA;  ISCRITTO ; MOLISE;
+

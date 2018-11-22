@@ -1,0 +1,1198 @@
+
+Cognome-Surname;Luogo di nascita-Place of birth;Data di nascita-Date of birth;Indirizzo-Address;Delibera d'iscrizione-Subscrition resolution;Intermediario-Intermediary;Sospensione cautelare/sanzionatoria  di-Protective/penalty suspension of;Regione di residenza-Residence;;
+ABIS Giovanni; Cagliari (CA); 16/12/1980; Strada 1 N. 9 Poggio D. P.-09012Capoterra (CA); 13781 del-of 15/10/2002;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+ABIS Pierpaolo; Oristano (OR); 01/04/1971; Via Sassari, 118-09170Oristano (OR); 13053 del-of 05/04/2001;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+ADDIS Francesco; Sassari (SS); 02/01/1962; Viale Mameli 45/c-07100Sassari (SS); 637 del-of 27/01/2015;   Banca Prossima Spa;  ISCRITTO ; SARDEGNA;
+
+AIELLO Maria Antonietta; Cagliari (CA); 08/05/1963; Via Alcide De Gasperi 5-09170Oristano (OR); 16331 del-of 05/02/2008;   CREDITO EMILIANO SPA;  ISCRITTO ; SARDEGNA;
+
+ALDORISIO Maria Filomena; Cagliari (CA); 05/06/1958; Via Viviani 87-09134Cagliari (CA); 489 del-of 04/06/2013;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+ALESSANDRINI Fabrizio; Cagliari (CA); 14/05/1970; Via Ponza 50-09045Quartu Sant'elena (CA); 12461 del-of 29/03/2000;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+ALTIERI Corrado; Cagliari (CA); 23/06/1965; Via Giuseppe Verdi 36-09128Cagliari (CA); 933 del-of 12/09/2018;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+AMBROSINI Alessio; Cagliari (CA); 19/07/1971; Via Fracastoro 23-09100Cagliari (CA); 14137 del-of 24/06/2003;   ;  ISCRITTO ; SARDEGNA;
+
+AMORATI Omar; Cagliari (CA); 14/09/1967; Via Montello 30-09122Cagliari (CA); 6728 del-of 22/12/1992;   CREDITO EMILIANO SPA;  ISCRITTO ; SARDEGNA;
+
+AMORUSO Michele; Carbonia (CI); 20/01/1966; Viale Trento 122-09100Cagliari (CA); 9234 del-of 22/05/1995;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+ANEDDA Anna; Selegas (CA); 15/03/1945; Via Piemonte 19-09127Cagliari (CA); 10809 del-of 16/07/1997;   ;  ISCRITTO ; SARDEGNA;
+
+ANEDDA Ottavio; Selegas (CA); 06/07/1952; Via S. Antonio 164-09045Quartu Sant'elena (CA); 12079 del-of 28/07/1999;   ;  ISCRITTO ; SARDEGNA;
+
+ANGOTZI Silvio; Cuglieri (OR); 20/08/1940; Via Roma 127-09124Cagliari (CA); 5949 del-of 28/01/1992;   SOLIDARIETA' & FINANZA SIM SPA;  ISCRITTO ; SARDEGNA;
+
+ANTOGNINI Antonio Luigi Franco; Lugano (SVIZZERA); 24/01/1951; Via Le Caravelle 10-07021Arzachena (SS); 15504 del-of 18/07/2006;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+APPEDDU Giorgio; Nuoro (NU); 08/06/1981; Via San Francesco 4-08028Orosei (NU); 810 del-of 31/01/2017;   ;  ISCRITTO ; SARDEGNA;
+
+ARATINI Roberto; Cagliari (CA); 01/11/1958; Via De Gioannis 10-09125Cagliari (CA); 626 del-of 18/12/2014;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+ARGIOLAS Sergio; Cagliari (CA); 09/05/1967; Via G. Murat 13-09134Cagliari (CA); 564 del-of 20/03/2014;   ;  ISCRITTO ; SARDEGNA;
+
+ARU Federico; Cagliari (CA); 15/01/1991; Via Milano 38-09125Cagliari (CA); 675 del-of 11/06/2015;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+ARUS Giosue'; Alghero (SS); 28/10/1967; Regione San Francesco 7-07041Alghero (SS); 626 del-of 18/12/2014;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+ASARA Romina; Olbia (OT); 16/12/1974; Via Federico Garcia Lorca 11/c-07026Olbia (OT); 403 del-of 31/05/2012;   ;  ISCRITTO ; SARDEGNA;
+
+ATZORI Giampaolo; Terralba (OR); 19/09/1954; Via Nazionale 148-09098Terralba (OR); 891 del-of 22/02/2018;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+ATZORI Mario; Cagliari (CA); 17/06/1953; Via San Marino 16-09129Cagliari (CA); 675 del-of 11/06/2015;   ;  ISCRITTO ; SARDEGNA;
+
+ATZORI Mauro; Cagliari (CA); 15/08/1972; Via Ghibli 7-09100Cagliari (CA); 12255 del-of 15/12/1999;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+ATZORI Pietro Claudio; Sassari (SS); 28/01/1955; Via Marialisa De Carolis 9-07100Sassari (SS); 5949 del-of 28/01/1992;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+ATZORI Pietro Daniele; Isili (CA); 19/10/1938; Piazza Sirio 6-09126Cagliari (CA); 13096 del-of 24/04/2001;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+AZZENA Antonietta; Telti (OT); 01/10/1971; Localita' Zilibriccu 108 H-07020Telti (OT); 113 del-of 21/12/2009;   ;  ISCRITTO ; SARDEGNA;
+
+AZZOLA Stefano; Porto Torres (SS); 05/07/1968; Via Balai 24-07046Porto Torres (SS); 11062 del-of 02/12/1997;   ;  ISCRITTO ; SARDEGNA;
+
+BACCHETTA Michele; Romano Di Lombardia (BG); 29/07/1971; Via Lanusei 18-09125Cagliari (CA); 13623 del-of 20/06/2002;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+BALBONI Mirko; Bologna (BO); 01/02/1965; Via Pasubio 6-07100Sassari (SS); 846 del-of 06/07/2017;   ;  ISCRITTO ; SARDEGNA;
+
+BANDEL Alessandro; Cagliari (CA); 11/02/1960; Via G.m.angioj 34-09124Cagliari (CA); 11225 del-of 17/02/1998;   ;  ISCRITTO ; SARDEGNA;
+
+BANDINU Gianluca; Ozieri (SS); 01/08/1980; Via Toscanini 5 B-07026Olbia (OT); 706 del-of 12/11/2015;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+BARBA Letizia Francesca; Nuoro (NU); 24/01/1957; Via Eraclito N. 34-07026Olbia (OT); 14374 del-of 29/12/2003;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+BARONE Pasquale; Napoli (NA); 31/08/1967; Via Gavino Alivia 12-07100Sassari (SS); 408 del-of 19/06/2012;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; SARDEGNA;
+
+BASSO Gavino; Sassari (SS); 03/05/1962; Via Zanfarino 35-07100Sassari (SS); 6728 del-of 22/12/1992;   ;  ISCRITTO ; SARDEGNA;
+
+BEGALA Paolo Ettore; Sassari (SS); 07/06/1955; Via Eleonora D'arborea 27-09125Cagliari (CA); 5949 del-of 28/01/1992;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+BERNARDINI Alessio; Iglesias (CI); 09/06/1981; Via San Pietro 28-09010Villamassargia (CI); 15813 del-of 21/03/2007;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+BERTACCHINI Cesare; Brescia (BS); 31/08/1961; Via Maddalena, 20-09124Cagliari (CA); 5949 del-of 28/01/1992;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+BIGGIO Francesco; Carbonia (CI); 25/10/1974; Localita' Badde Catorgia Snc-07037Sorso (SS); 642 del-of 12/02/2015;   ;  ISCRITTO ; SARDEGNA;
+
+BOI Sergio; Cagliari (CA); 03/10/1954; V. S. Efisio 77-09124Cagliari (CA); 5949 del-of 28/01/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+BOMBARDA Maria Teresa; Campobasso (CB); 14/07/1960; Via Fratelli Cairoli 28-07026Olbia (OT); 494 del-of 20/06/2013;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+BONISOLI Sonia; Oristano (OR); 24/02/1972; Via Italia 38-09045Quartu Sant'elena (CA); 691 del-of 21/09/2015;   BANCA MONTE DEI PASCHI DI SIENA SPA;  ISCRITTO ; SARDEGNA;
+
+BORGIA Claudia; Lucca (LU); 23/07/1975; Via Del Collegio 19-09124Cagliari (CA); 691 del-of 21/09/2015;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+BOVE Enzo; Pagani (SA); 16/12/1975; Via Germania 34-07026Olbia (OT); 13412 del-of 08/01/2002;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; SARDEGNA;
+
+BOZZO Francesco; Sassari (SS); 27/03/1956; Via Lelio Basso 4-07100Sassari (SS); 507 del-of 12/09/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+BRANCA Giuseppe; Sassari (SS); 13/07/1972; Via Baldedda 20-07100Sassari (SS); 10 del-of 23/02/2009;   ;  ISCRITTO ; SARDEGNA;
+
+BRUNI Massimo; Santo Stefano Di Magra (SP); 20/07/1960; Via Verrocchio, 44-07026Olbia (OT); 13560 del-of 15/05/2002;   ;  ISCRITTO ; SARDEGNA;
+
+BULCIOLU Agostino Maria; Sassari (SS); 03/07/1957; Via Guerrazzi 12-07020Palau (OT); 203 del-of 08/07/2010;   ;  ISCRITTO ; SARDEGNA;
+
+BUSSU Luca; Nuoro (NU); 10/03/1980; Vico Nuoro 8-08020Ollolai (NU); 659 del-of 30/04/2015;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+BUZZANCA Massimo; Carbonia (CI); 15/05/1951; Via Fleming 8-09126Cagliari (CA); 5949 del-of 28/01/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+CABIGIOSU Giovanni Antonio Mario; Olbia (OT); 25/02/1960; Via Figari 1-07100Sassari (SS); 474 del-of 27/03/2013;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+CABONI Luciano; Cagliari (CA); 02/04/1967; Piazza Dei Fanti 4-09134Pirri (CA); 9109 del-of 06/03/1995;   ;  ISCRITTO ; SARDEGNA;
+
+CABRAS Bruno; Muravera (CA); 21/11/1954; Loc. S.maria Case Sparse-09043Muravera (CA); 6728 del-of 22/12/1992;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+CABRAS Corrado; Cagliari (CA); 02/02/1971; Via Scirocco 8-09126Cagliari (CA); 747 del-of 28/04/2016;   ;  ISCRITTO ; SARDEGNA;
+
+CABRAS Davide; Cagliari (CA); 27/03/1972; Via Ravenna 21-09125Cagliari (CA); 10693 del-of 03/06/1997;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+CABRAS Luigi; Sassari (SS); 11/06/1965; Via Tempio, 4-07100Sassari (SS); 13567 del-of 22/05/2002;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+CABRAS Paolo; Cagliari (CA); 28/06/1950; Via Scano 41-09129Cagliari (CA); 9536 del-of 23/10/1995;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+CABRAS Rita; Carbonia (CI); 13/09/1958; Via Matteo Bandello 46-09131Cagliari (CA); 626 del-of 18/12/2014;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+CADEDDU Massimo; Roma (RM); 13/01/1959; Localita' Mirialvera Snc-07021Arzachena (SS); 14374 del-of 29/12/2003;   ;  ISCRITTO ; SARDEGNA;
+
+CADONI Giampiero; Olbia (OT); 01/07/1959; Via Tiepolo 7-09121Cagliari (CA); 6956 del-of 31/03/1993;   ;  ISCRITTO ; SARDEGNA;
+
+CALABRO' SERCI Vincenzo; Bari Sardo (OG); 05/06/1957; Via Verdi 6-09010Portoscuso (CI); 10152 del-of 22/07/1996;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+CAMBARAU Roberto; Cagliari (CA); 06/03/1984; Via Simon Mossa 119-09047Selargius (CA); 497 del-of 09/07/2013;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+CAMEDDA Elisabetta; Oristano (OR); 21/04/1978; Viale Trento 64-09123Cagliari (CA); 12502 del-of 27/04/2000;   ;  ISCRITTO ; SARDEGNA;
+
+CAMEDDA Rita; Cabras (OR); 01/08/1962; Via Alghero 14-09127Cagliari (CA); 837 del-of 23/05/2017;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+CAMMAROTA Stefano; Sassari (SS); 13/05/1969; Via Ambu 4-09134Cagliari (CA); 12198 del-of 17/11/1999;   ;  ISCRITTO ; SARDEGNA;
+
+CAMPAGNOLO Antonio; Cittadella (PD); 24/01/1950; Localita' Capo Ferro 0-07021Arzachena (SS); 5972 del-of 12/02/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+CANCEDDA Augusto; Oristano (OR); 22/11/1961; Via Carloforte, 5-09170Oristano (OR); 12886 del-of 02/01/2001;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+CANESSA Laura; Camogli (GE); 14/05/1974; Via Cavour 45-09047Selargius (CA); 507 del-of 12/09/2013;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+CANNAS Marco; Cagliari (CA); 22/02/1965; Vico Ii Roma, 4-08030Serri (CA); 12079 del-of 28/07/1999;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+CANNEDDU Marco Antonio; Nuoro (NU); 06/06/1962; Viale Mameli 64-07100Sassari (SS); 8466 del-of 27/09/1994;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+CANU Cristoforo; Pattada (SS); 07/06/1966; Via Copernico 2-07041Alghero (SS); 13713 del-of 14/08/2002;   ;  ISCRITTO ; SARDEGNA;
+
+CAPELLI Marcello; Cagliari (CA); 30/09/1963; Via Portogallo 27-09045Quartu Sant'elena (CA); 7280 del-of 28/07/1993;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+CAPONE Angelo; Oristano (OR); 17/03/1951; Via Lombardia 14-09170Oristano (OR); 5949 del-of 28/01/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+CAPONE Laura; Cagliari (CA); 05/06/1983; Via Beatrice D'arborea 11-09170Oristano (OR); 323 del-of 18/07/2011;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+CAPOZZI Pietro Igor; Nuoro (NU); 07/10/1965; Ss 200 Dell'anglona 67/a-07100Sassari (SS); 13412 del-of 08/01/2002;   ;  ISCRITTO ; SARDEGNA;
+
+CARBONI Daniele; Sassari (SS); 25/09/1990; Via Angioi 15-07037Sorso (SS); 824 del-of 16/03/2017;   ;  ISCRITTO ; SARDEGNA;
+
+CARBONI Marcello; Civitavecchia (RM); 02/09/1964; Via Alghero 28-07100Sassari (SS); 276 del-of 13/01/2011;   ;  ISCRITTO ; SARDEGNA;
+
+CARBONI Salvatore; Cagliari (CA); 03/02/1949; Via Ancona 2-09125Cagliari (CA); 12461 del-of 29/03/2000;   ;  ISCRITTO ; SARDEGNA;
+
+CARDIA Alessandro; Cagliari (CA); 26/10/1974; Via Stradella, 61-09045Quartu Sant'elena (CA); 13191 del-of 10/07/2001;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+CARDIA Antonio; Capoterra (CA); 10/11/1955; Strada 66 N.20-09012Poggio Dei Pini (CA); 5949 del-of 28/01/1992;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+CAREDDA Roberto; Cagliari (CA); 01/08/1959; Via S. Giuseppe 3-09124Cagliari (CA); 11225 del-of 17/02/1998;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+CAREDDU Patrizia; Sassari (SS); 06/10/1974; Via Marras 1-07100Sassari (SS); 633 del-of 14/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+CARFAGNA Nicola; Sassari (SS); 17/06/1972; Via Filippo Addis 1/g-07100Sassari (SS); 66 del-of 16/10/2009;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+CARIA Valentina; Iglesias (CI); 19/06/1974; Via Rossini 7-09016Iglesias (CI); 286 del-of 17/02/2011;   ;  ISCRITTO ; SARDEGNA;
+
+CARIELLO Manuela; Cagliari (CA); 21/03/1970; Via Sidney Sonnino 163-09127Cagliari (CA); 697 del-of 06/10/2015;   CHEBANCA! SPA;  ISCRITTO ; SARDEGNA;
+
+CARRONI Giuseppe; Nuoro (NU); 04/06/1946; Via Olbia 53/a-08100Nuoro (NU); 16493 del-of 27/05/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+CARRONI Salvatore; Nuoro (NU); 06/08/1952; Via Della Pieta' N.51-08100Nuoro (NU); 12079 del-of 28/07/1999;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+CARTA Francesca Maria Rita; Sassari (SS); 04/02/1963; Via Dalmazia 17-07100Sassari (SS); 766 del-of 28/07/2016;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+CARTA Giovanni; Cagliari (CA); 17/03/1975; Via Costantinopoli 56-09129Cagliari (CA); 15489 del-of 04/07/2006;   ;  ISCRITTO ; SARDEGNA;
+
+CARTA Raffaele; Jerzu (OG); 27/09/1949; Via Iglesias 13-09010Villa San Pietro (CA); 6728 del-of 22/12/1992;   ;  ISCRITTO ; SARDEGNA;
+
+CARTA Raimonda; Vallermosa (CA); 26/10/1963; Via Giuseppe Garibaldi 52-09010Vallermosa (CA); 642 del-of 12/02/2015;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+CASTI Laura; Cagliari (CA); 30/11/1982; Viale Funtana Buddia 77-08100Nuoro (NU); 898 del-of 27/03/2018;   ;  ISCRITTO ; SARDEGNA;
+
+CASU Alessandro; Sassari (SS); 13/01/1979; Via L. Barzini, 15-07100Sassari (SS); 15580 del-of 10/10/2006;   ;  ISCRITTO ; SARDEGNA;
+
+CASU Michele; Cagliari (CA); 13/05/1978; Corso Vittorio Emanuele Ii 441-09123Cagliari (CA); 887 del-of 31/01/2018;   ;  ISCRITTO ; SARDEGNA;
+
+CASU Paolo; San Gavino Monreale (VS); 03/06/1974; Via San Bernardino 3-09095Mogoro (OR); 686 del-of 30/07/2015;   ;  ISCRITTO ; SARDEGNA;
+
+CATTE Francesco; Oliena (NU); 25/04/1961; Via Ancona 1-08025Oliena (NU); 10 del-of 23/02/2009;   ;  ISCRITTO ; SARDEGNA;
+
+CAU Emmanuel; San Gavino Monreale (VS); 04/02/1977; Via Ungaretti, 9-09025Sanluri (VS); 13053 del-of 05/04/2001;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+CAU Roberto; Sassari (SS); 27/02/1972; Via Marcora 3-07036Sennori (SS); 753 del-of 26/05/2016;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+CAUCCI Leonardo; Napoli (NA); 09/01/1971; Via Cala Chiesa N. 6-07024La Maddalena (OT); 11559 del-of 28/07/1998;   ;  ISCRITTO ; SARDEGNA;
+
+CAULI Luciano; Cagliari (CA); 06/01/1946; Via Catalani 43-09128Cagliari (CA); 5949 del-of 28/01/1992;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+CERVONE Mario Eligio Silverio; Oristano (OR); 23/07/1952; Via G. Verga 53-09170Oristano (OR); 12255 del-of 15/12/1999;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+CHESSA Antonio; Nuoro (NU); 20/05/1952; Via Delle Magnolie 8-08100Nuoro (NU); 5949 del-of 28/01/1992;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+CHIAVACCI Antonella; Torino (TO); 30/10/1958; Viale Cugnana 82-07026Olbia (OT); 403 del-of 31/05/2012;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+CHICCONI Salvatore; Nuoro (NU); 04/02/1967; Via Nazario Sauro 9-09123Cagliari (CA); 646 del-of 26/02/2015;   ;  ISCRITTO ; SARDEGNA;
+
+CHIRIGONI Ettore; Ozieri (SS); 26/11/1952; Amba Alagi-07026Olbia (OT); 13125 del-of 15/05/2001;   ;  ISCRITTO ; SARDEGNA;
+
+CIABATTINI BOLLA Roberto; Sassari (SS); 25/03/1958; Strada Vicinale Monte Di Jesgia 69-07100Sassari (SS); 6728 del-of 22/12/1992;   ;  ISCRITTO ; SARDEGNA;
+
+CICALO' Silvia; Guasila (SU); 16/09/1965; Via Bach 4-09045Quartu Sant'elena (CA); 507 del-of 12/09/2013;   BANCA MONTE DEI PASCHI DI SIENA SPA;  ISCRITTO ; SARDEGNA;
+
+CINUS Federico; Cagliari (CA); 01/09/1980; Via Decimo 118-09026San Sperate (CA); 646 del-of 26/02/2015;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+CIREDDU Roberto; Villasor (CA); 03/03/1966; Via Sardegna 26-09034Villasor (CA); 7544 del-of 23/11/1993;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+CIRILLO Roberto; Cremona (CR); 24/02/1963; Via Dei Tralci 4-09134Cagliari (CA); 7415 del-of 28/09/1993;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+CIRINA Elisabetta; Senorbi' (CA); 19/11/1968; Via Marengo, 14-09040Senorbi' (CA); 13481 del-of 12/03/2002;   ;  ISCRITTO ; SARDEGNA;
+
+COCCO Daniela; San Gavino Monreale (VS); 30/09/1969; Via Roma 41-08015Macomer (NU); 511 del-of 02/10/2013;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+COCI Alessandro; Cagliari (CA); 26/08/1966; Traversa Di Via Della Pace 13-09044Quartucciu (CA); 933 del-of 12/09/2018;   ;  ISCRITTO ; SARDEGNA;
+
+COGONI Giuseppe; Cagliari (CA); 06/08/1961; Via Riva Villasanta 8-09134Cagliari (CA); 11225 del-of 17/02/1998;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+COIANA Gianluca; Cagliari (CA); 19/11/1970; Via Delle Viole 196-09047Selargius (CA); 14893 del-of 01/02/2005;   ;  ISCRITTO ; SARDEGNA;
+
+COIANA Massimiliano; Cagliari (CA); 17/06/1969; Via Argonne 3-09122Cagliari (CA); 9895 del-of 11/04/1996;   ;  ISCRITTO ; SARDEGNA;
+
+COIS Massimiliano Maria; Cagliari (CA); 25/10/1976; Via Degli Usignoli 4-09126Cagliari (CA); 591 del-of 23/06/2014;   ;  ISCRITTO ; SARDEGNA;
+
+COLIZZI Manuela; Cagliari (CA); 13/03/1969; Via Scano 11-09129Cagliari (CA); 10152 del-of 22/07/1996;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+CONCAS Anselmo; Cavalese (TN); 09/03/1964; Viale Danubio 15-09012Capoterra (CA); 507 del-of 12/09/2013;   ;  ISCRITTO ; SARDEGNA;
+
+CONCAS Simone; Cagliari (CA); 18/07/1982; Via Lombardia 6/c-09040Settimo San Pietro (CA); 16331 del-of 05/02/2008;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+CONGIA Fabia; Iglesias (CI); 02/08/1977; Piazza Grazia Sanna Serra 1-09016Iglesias (CI); 571 del-of 08/04/2014;   ;  ISCRITTO ; SARDEGNA;
+
+CONGIU Antonio; Cagliari (CA); 20/02/1970; Via Della Liberta' 1-09040Suelli (CA); 9996 del-of 28/05/1996;   ;  ISCRITTO ; SARDEGNA;
+
+CONGIU Carlo; Escalaplano (CA); 07/02/1962; Via S. Pietro, 1-08043Escalaplano (CA); 13053 del-of 05/04/2001;   ;  ISCRITTO ; SARDEGNA;
+
+CONTI Marina; Cagliari (CA); 21/06/1966; Via A. Cesalpino 9-09126Cagliari (CA); 9777 del-of 12/02/1996;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+CONTU Andrea Ettore; Oristano (OR); 15/11/1961; Via Principe Umberto 104-09070Zerfaliu (OR); 13560 del-of 15/05/2002;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; SARDEGNA;
+
+CONTU Paolo; Cagliari (CA); 22/02/1963; Viale Regina Margherita 36-09124Cagliari (CA); 94 del-of 12/11/2009;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+COPPOLA Emmanuele; Giugliano In Campania (NA); 07/12/1965; Via Fontana Umbrina 41-07026Olbia (OT); 9574 del-of 06/11/1995;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+CORBELLINI Carlo; Spessa (PV); 06/04/1955; Via Tharros 12-09045Quartu Sant'elena (CA); 358 del-of 28/11/2011;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; SARDEGNA;
+
+CORONA Massimo; Jerzu (OG); 04/05/1972; Via Cimarosa 56-09128Cagliari (CA); 489 del-of 04/06/2013;   ;  ISCRITTO ; SARDEGNA;
+
+CORONA Nicola; San Gavino Monreale (VS); 21/07/1977; Via Bernini 3-09025Sanluri (VS); 13839 del-of 27/11/2002;   ;  ISCRITTO ; SARDEGNA;
+
+CORTIS Alessio; Cagliari (CA); 28/09/1977; Vico Iii Serra 7-09038Serramanna (VS); 12502 del-of 27/04/2000;   ;  ISCRITTO ; SARDEGNA;
+
+COSSEDDU Gian Paolo; Galtelli (NU); 11/05/1973; Localita' Sas Mendulas 3-08020Galtelli (NU); 637 del-of 27/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+COSSU Barbara; Cagliari (CA); 11/09/1968; Via Spano 8-09124Cagliari (CA); 871 del-of 15/12/2017;   ;  ISCRITTO ; SARDEGNA;
+
+COSSU Fabrizio; Nuoro (NU); 18/11/1974; Via Torino 35-09170Oristano (OR); 15813 del-of 21/03/2007;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+COSSU Giambattista; Calasetta (CI); 26/03/1959; Viale Merello 87/a-09123Cagliari (CA); 5949 del-of 28/01/1992;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+COSSU Giovanni Antonio Fedele; Nuoro (NU); 26/05/1957; Via Rodolfo Morandi 2 H-07100Sassari (SS); 280 del-of 28/01/2011;   Banca Prossima Spa;  ISCRITTO ; SARDEGNA;
+
+COSSU Maria Cristina; Cagliari (CA); 21/03/1979; Via Dei Saraceni 18-09042Monserrato (CA); 771 del-of 13/09/2016;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+COSTA Helmut; Terralba (OR); 21/10/1970; Via Gesuino Manca 93-09098Terralba (OR); 11225 del-of 17/02/1998;   ;  ISCRITTO ; SARDEGNA;
+
+CUBEDDU Antonio; Sassari (SS); 23/04/1965; Via Civitavecchia 29-07100Sassari (SS); 211 del-of 15/09/2010;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+CUCCIA Andrea; Cagliari (CA); 29/05/1970; Via Einaudi 17-09044Quartucciu (CA); 12198 del-of 17/11/1999;   ;  ISCRITTO ; SARDEGNA;
+
+CUCCURU Antonio; Sassari (SS); 30/12/1963; Via Satta Branca 4-07100Sassari (SS); 555 del-of 27/02/2014;   ;  ISCRITTO ; SARDEGNA;
+
+CUCCUS Giuliana; Quartu Sant'elena (CA); 18/10/1973; Via Li Scali Snc-07021Arzachena (SS); 626 del-of 18/12/2014;   ;  ISCRITTO ; SARDEGNA;
+
+CURCI Francesca; San Gavino Monreale (VS); 09/02/1987; Via Armando Diaz 180/a-09045Quartu Sant'elena (CA); 810 del-of 31/01/2017;   ;  ISCRITTO ; SARDEGNA;
+
+CURRELI Stefano; Aritzo (NU); 27/06/1968; Via Sant'antioco 15-09030Elmas (CA); 12581 del-of 30/05/2000;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+CURRIDORI Stefano; Cagliari (CA); 01/01/1969; Via Ugo Foscolo 28-09128Cagliari (CA); 866 del-of 21/11/2017;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+DAGA Sandro; Cagliari (CA); 16/06/1967; Via Austria 4-09045Quartu Sant'elena (CA); 860 del-of 26/10/2017;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+DAMENO ROTA Paolo; Milano (MI); 19/09/1965; Via Multa Maria 165-07026Olbia (OT); 127 del-of 18/01/2010;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+DAMU Simona; Cagliari (CA); 26/08/1974; Via Asfodelo 24-09134Cagliari (CA); 564 del-of 20/03/2014;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+DE BIASI Mauro Giuseppe; Cuglieri (OR); 14/05/1965; Via Li Puntitti-07026Olbia (OT); 13481 del-of 12/03/2002;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+DE LEO Alessandro; Sassari (SS); 15/07/1970; Via Togliatti 5-07100Sassari (SS); 181 del-of 03/06/2010;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+DEDOLA Mario; Nuoro (NU); 16/05/1961; Loc. Sas Linnas Siccas-08028Orosei (NU); 8777 del-of 22/11/1994;   ;  ISCRITTO ; SARDEGNA;
+
+DEIANA Giovanna Maria Domenica; Calangianus (OT); 21/07/1963; Via Salvatore Petta 114/8-07026Olbia (OT); 12255 del-of 15/12/1999;   IW BANK SPA;  ISCRITTO ; SARDEGNA;
+
+DEIDDA Pier Luigi; Villacidro (VS); 22/06/1965; Via Cesare Pavese 74-09039Villacidro (VS); 633 del-of 14/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+DEL GIUDICE Francesco; La Maddalena (OT); 19/06/1956; Loc. Mongiardino 2-07024La Maddalena (OT); 10076 del-of 24/06/1996;   ;  ISCRITTO ; SARDEGNA;
+
+DELOGU Francesco Mario; Sassari (SS); 09/12/1976; Sp 18 Sassari Argentiera 20/a-07100Sassari (SS); 140 del-of 19/02/2010;   ;  ISCRITTO ; SARDEGNA;
+
+DEMONTIS Carlo; Cagliari (CA); 20/06/1970; Via Cedrino, 23-09032Assemini (CA); 12886 del-of 02/01/2001;   ;  ISCRITTO ; SARDEGNA;
+
+DEMURTAS Luciana; Cagliari (CA); 29/03/1964; Via Fillirea, 1-09045Quartu Sant'elena (CA); 13412 del-of 08/01/2002;   ;  ISCRITTO ; SARDEGNA;
+
+DENTI Immacolata; Ottana (NU); 27/08/1963; Via Ruggero Bacone 1 C-2-09134Cagliari (CA); 13053 del-of 05/04/2001;   ;  ISCRITTO ; SARDEGNA;
+
+DERIU Fabio; Nuoro (NU); 24/01/1970; Via Eroi D'italia, 22/a-09134Cagliari (CA); 8777 del-of 22/11/1994;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+DERIU Silverio; Nuoro (NU); 16/12/1966; Via Wagner 1-08100Nuoro (NU); 16696 del-of 25/11/2008;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+DEROSAS Diego; Sassari (SS); 04/05/1970; Via Pascoli 16/b-07100Sassari (SS); 250 del-of 11/11/2010;   ;  ISCRITTO ; SARDEGNA;
+
+DESSI' Costantino; Capoterra (CA); 16/01/1961; Via Giuseppe Mazzini 11-09012Capoterra (CA); 7415 del-of 28/09/1993;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+DESSI' Maria Antonietta; Cagliari (CA); 25/07/1972; Via Pixinortu 9-09026San Sperate (CA); 607 del-of 16/10/2014;   ;  ISCRITTO ; SARDEGNA;
+
+DETTORI Rita; Bari Sardo (OG); 07/02/1962; Via Borea 4-09126Cagliari (CA); 6956 del-of 31/03/1993;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+DI CARLO Giovanni Francesco; Nuoro (NU); 24/06/1960; Via Tridentina 10-08100Nuoro (NU); 6728 del-of 22/12/1992;   ;  ISCRITTO ; SARDEGNA;
+
+DI GIROLAMO Luca Davide; Roma (RM); 18/06/1979; Strada Vicinale Sant'anna Pollina 13-07041Alghero (SS); 480 del-of 23/04/2013;   ;  ISCRITTO ; SARDEGNA;
+
+DI GREZIA Giovanni; Avellino (AV); 09/02/1978; Via Scano 27-09129Cagliari (CA); 697 del-of 06/10/2015;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; SARDEGNA;
+
+DI MARIA Renato; Sassari (SS); 12/02/1953; Via Muroni 28-07100Sassari (SS); 596 del-of 17/07/2014;   ;  ISCRITTO ; SARDEGNA;
+
+DI MARTINIS Andrea; Cagliari (CA); 07/06/1976; Via Della Pineta, 47-09125Cagliari (CA); 14707 del-of 21/09/2004;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+DI MARTINO Marcello; Cagliari (CA); 10/10/1965; Via Einstein 3-09126Cagliari (CA); 591 del-of 23/06/2014;   ;  ISCRITTO ; SARDEGNA;
+
+DI PIETRO Gabriele; Alghero (SS); 10/09/1970; Via Brigata Sassari 78-07041Alghero (SS); 555 del-of 27/02/2014;   ;  ISCRITTO ; SARDEGNA;
+
+DI PIETRO Ivo; Teramo (TE); 01/06/1979; Via Chiesa 36-09134Cagliari (CA); 564 del-of 20/03/2014;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; SARDEGNA;
+
+DIANA Antonio; Cagliari (CA); 17/04/1987; Via Zurru 16-09025Sanluri (VS); 804 del-of 18/01/2017;   ;  ISCRITTO ; SARDEGNA;
+
+DONEDDU Annarita; Pattada (SS); 22/01/1964; Via Santa Barbara 69-08100Nuoro (NU); 735 del-of 25/02/2016;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+DONEDDU Elena; Lanusei (OG); 23/11/1981; Rione Cuccuroni Snc-08042Bari Sardo (OG); 14137 del-of 24/06/2003;   BANCA SELLA - SPA;  ISCRITTO ; SARDEGNA;
+
+DOPPIU ANFOSSI Roberto; Sassari (SS); 14/11/1976; Via Messico 29-07026Olbia (OT); 520 del-of 29/10/2013;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; SARDEGNA;
+
+DORE Pierpaolo; Cagliari (CA); 15/04/1970; Via G. Pitzolo 25-09128Cagliari (CA); 13053 del-of 05/04/2001;   ;  ISCRITTO ; SARDEGNA;
+
+DOTTI Gianfranco; Cagliari (CA); 01/12/1977; Via Lodi 9-07026Olbia (OT); 604 del-of 18/09/2014;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+ERDAS Roberto; San Gavino Monreale (VS); 29/08/1970; Via S'arruga E Susu 1-09070Bauladu (OR); 103 del-of 20/11/2009;   ;  ISCRITTO ; SARDEGNA;
+
+ESPOSITO Giovanni; Alghero (SS); 15/03/1959; Via Joan Miro' 32/b - Regione Taulera-07041Alghero (SS); 642 del-of 12/02/2015;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+ETZI Maria Angela; Iglesias (CI); 30/07/1978; Via Pergolesi 3-09016Iglesias (CI); 670 del-of 28/05/2015;   CHEBANCA! SPA;  ISCRITTO ; SARDEGNA;
+
+FADDA Angelino; Sassari (SS); 18/12/1969; Localita' Sa Sedda Snc-08029Siniscola (NU); 642 del-of 12/02/2015;   ;  ISCRITTO ; SARDEGNA;
+
+FADDA Marco; Cagliari (CA); 21/04/1973; Via Puccini, 8-09041Dolianova (CA); 13053 del-of 05/04/2001;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+FADDA Michela; Cagliari (CA); 04/09/1982; Via Del Porto 13-09049Villasimius (CA); 824 del-of 16/03/2017;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+FADDA Roberto; Cagliari (CA); 17/10/1963; Via Portogallo 19-09045Quartu Sant'elena (CA); 323 del-of 18/07/2011;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+FALCHI Antonello; Sassari (SS); 16/01/1962; Via Michele Abozzi, 18-07100Sassari (SS); 12672 del-of 19/07/2000;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; SARDEGNA;
+
+FALCIANI Guglielmo; Cagliari (CA); 11/01/1962; Via Lunigiana, 1-09122Cagliari (CA); 13053 del-of 05/04/2001;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+FANNI Giovanni Maria; Cagliari (CA); 10/05/1978; Loc.su Spantu Petite Res. 4-09012Capoterra (CA); 12461 del-of 29/03/2000;   BANCA SELLA - SPA;  ISCRITTO ; SARDEGNA;
+
+FARRE Gianfranco; Bitti (NU); 06/03/1958; Via A.cesalpino 7-09126Cagliari (CA); 8004 del-of 27/04/1994;   ;  ISCRITTO ; SARDEGNA;
+
+FARRIS Maria Fausta; Cagliari (CA); 15/05/1973; Via Dei Monsoni 9-09125Cagliari (CA); 753 del-of 26/05/2016;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+FAVERIO Maria Caterina; Ozieri (SS); 14/06/1983; Via Ruzittu 27-07021Arzachena (SS); 465 del-of 12/02/2013;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+FENU Salvatore Matteo; Nuoro (NU); 06/03/1985; Via Muggianu 48-08028Orosei (NU); 675 del-of 11/06/2015;   ;  ISCRITTO ; SARDEGNA;
+
+FERRARA Stefano; Iglesias (CI); 18/02/1969; Via Pillematta 82-09010Villamassargia (CI); 205 del-of 23/07/2010;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; SARDEGNA;
+
+FIGUS Anna Rita; Aritzo (NU); 30/06/1965; Via Dei Tritoni 28-09126Cagliari (CA); 703 del-of 20/10/2015;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+FILIGHEDDU Antonio; Ozieri (SS); 26/03/1972; Via Padula Ugo Andrea 4-07100Sassari (SS); 103 del-of 20/11/2009;   ;  ISCRITTO ; SARDEGNA;
+
+FILIZIU Giovanni; Sassari (SS); 19/08/1965; Via Palau, 5-07029Tempio Pausania (OT); 11953 del-of 05/05/1999;   ;  ISCRITTO ; SARDEGNA;
+
+FISANOTTI Marino; Calasetta (CI); 27/02/1964; Viale Al Mare 12 - Loc. Frutti D'oro I-09012Capoterra (CA); 9996 del-of 28/05/1996;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+FLORIS Andrea; Cagliari (CA); 04/03/1965; Piazza Michelangelo 3-09128Cagliari (CA); 9636 del-of 11/12/1995;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+FLORIS Daniela; Castellanza (VA); 10/05/1970; Via Catalani 141-09045Quartu Sant'elena (CA); 11879 del-of 17/03/1999;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+FLORIS Emanuele; Cagliari (CA); 23/08/1974; Via Angioy 15/a-09010Villaspeciosa (CA); 13653 del-of 09/07/2002;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+FLORIS Maria Grazia; Cagliari (CA); 16/02/1956; Via Zagabria 12-09129Cagliari (CA); 12158 del-of 19/10/1999;   ;  ISCRITTO ; SARDEGNA;
+
+FODDE Giorgio; Cagliari (CA); 28/09/1967; Via Bucarest 11-09129Cagliari (CA); 14812 del-of 07/12/2004;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+FODDIS Claudio; Assemini (CA); 27/08/1963; Via Sardegna, 9-09032Assemini (CA); 6956 del-of 31/03/1993;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+FODERA' Vincenzo; Cagliari (CA); 15/10/1971; Case Sparse Regione Santa Suia 0-09026San Sperate (CA); 148 del-of 19/02/2010;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+FOIS Gabriella; Dolianova (CA); 16/02/1974; Via Giuseppe Dessi' 22 Int. 3-09036Guspini (VS); 14650 del-of 20/07/2004;   ;  ISCRITTO ; SARDEGNA;
+
+FOIS Giovanni; Nuoro (NU); 26/06/1961; Via Malta 35-08100Nuoro (NU); 646 del-of 26/02/2015;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+FRAU Francesca; Cagliari (CA); 26/02/1972; Via Liri 7-09045Quartu Sant'elena (CA); 9513 del-of 16/10/1995;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+FRULIO Gavino; Sassari (SS); 01/09/1970; Via Emilio Lussu 20 H-07046Porto Torres (SS); 626 del-of 18/12/2014;   ;  ISCRITTO ; SARDEGNA;
+
+FUNEDDA Giuseppe; Siniscola (NU); 13/11/1969; Via G. Da Verrazano 2-08029Siniscola (NU); 646 del-of 26/02/2015;   ;  ISCRITTO ; SARDEGNA;
+
+GABRIELE Francesco; Tunisi (TUNISIA); 20/10/1957; Via Luchino Visconti 30 D-09032Assemini (CA); 691 del-of 21/09/2015;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+GABRIELI Elio; Campli (TE); 18/11/1959; Via Luna E Sole 18-07100Sassari (SS); 5949 del-of 28/01/1992;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+GALISAI Gabriela; Teti (NU); 18/03/1959; Largo Gennari, 10-09129Cagliari (CA); 12198 del-of 17/11/1999;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+GALIZIA Alberto; Cagliari (CA); 02/12/1946; Via Le Grazie, 37-08100Nuoro (NU); 5949 del-of 28/01/1992;   ;  ISCRITTO ; SARDEGNA;
+
+GALLUS Rossella; Cagliari (CA); 08/06/1963; Via Daniele Manin, 227-09047Selargius (CA); 12886 del-of 02/01/2001;   ;  ISCRITTO ; SARDEGNA;
+
+GALLUS Simone; Cagliari (CA); 13/10/1968; Via Cagliari 251-09045Quartu Sant'elena (CA); 10286 del-of 23/10/1996;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+GANASSI Zeffirino; Arborea (OR); 09/07/1965; Via Barletta 41-09045Quartu Sant'elena (CA); 14388 del-of 21/01/2004;   ;  ISCRITTO ; SARDEGNA;
+
+GARAU Antonello; Villaurbana (OR); 22/10/1953; Vico Ii San Crispo 4-09080Villaurbana (OR); 5949 del-of 28/01/1992;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+GAVASSINO Enrico Edoardo; Cagliari (CA); 11/02/1987; Via Pierluigi Da Palestrina 84-09129Cagliari (CA); 735 del-of 25/02/2016;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+GENTILE Vincenzo; Sassari (SS); 23/05/1968; Via Lazio 78-07026Olbia (OT); 10433 del-of 07/01/1997;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+GERMINO Antonio Giuseppe; Solarussa (OR); 13/02/1958; Via Masones 36-09170Oristano (OR); 5949 del-of 28/01/1992;   ;  ISCRITTO ; SARDEGNA;
+
+GESSA Stefano; Cagliari (CA); 06/11/1967; Viale Merello 41-09123Cagliari (CA); 555 del-of 27/02/2014;   ;  ISCRITTO ; SARDEGNA;
+
+GIANNICHEDDA Maria Paola; Porto Torres (SS); 09/06/1966; Via Manzoni 30-07046Porto Torres (SS); 633 del-of 14/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+GIANNONI Cinzia; Carbonia (CI); 24/02/1967; Via Ariosto 23-09129Cagliari (CA); 642 del-of 12/02/2015;   ;  ISCRITTO ; SARDEGNA;
+
+GIORDANO Donatella; Cagliari (CA); 19/05/1969; Via Leonardo Da Vinci 3-09128Cagliari (CA); 14931 del-of 01/03/2005;   ;  ISCRITTO ; SARDEGNA;
+
+GIOVANNINI Luca; Roma (RM); 25/11/1963; S.s. Per San Pantaleo 34-07026Olbia (OT); 10580 del-of 17/03/1997;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+GUISO Giovanni; Nuoro (NU); 20/09/1964; Via Biscollai Tr.acquedotto-08100Nuoro (NU); 12079 del-of 28/07/1999;   ;  ISCRITTO ; SARDEGNA;
+
+IESU Nicola; Sant'antioco (CI); 28/09/1963; Via N. Sauro, 7-09017Sant'antioco (CI); 14137 del-of 24/06/2003;   ;  ISCRITTO ; SARDEGNA;
+
+INZAINA Lidia; Tempio Pausania (OT); 12/11/1984; Via Giovanni Tamponi 12-07029Tempio Pausania (OT); 535 del-of 29/11/2013;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+ISGRO' Giovanni Lorenzo; Oristano (OR); 28/12/1967; Via Monserrato 8-07014Ozieri (SS); 11923 del-of 14/04/1999;   ;  ISCRITTO ; SARDEGNA;
+
+KALB Fabrizio; Cagliari (CA); 01/12/1969; Via Ischia 12-09012Capoterra (CA); 8004 del-of 27/04/1994;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+LACONI Elisabetta; Quartu Sant'elena (CA); 02/04/1975; Via Praga 10/12-09047Selargius (CA); 11802 del-of 26/01/1999;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+LAI Giorgio; Quartu Sant'elena (CA); 14/12/1968; Via Cagliari 51-09045Quartu Sant'elena (CA); 626 del-of 18/12/2014;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+LAI Maria Grazia; Jerzu (OG); 07/04/1965; Via Nicaragua 19-09042Monserrato (CA); 13567 del-of 22/05/2002;   ;  ISCRITTO ; SARDEGNA;
+
+LANGIU Pierpaolo; Cagliari (CA); 28/05/1958; Via Baldedda 12/c-07100Sassari (SS); 5949 del-of 28/01/1992;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+LAPICCA Antonio; Cagliari (CA); 29/09/1966; Via Gerolamo Pitzolo 33-09128Cagliari (CA); 10238 del-of 30/09/1996;   ;  ISCRITTO ; SARDEGNA;
+
+LAUDIZI Giampietro; Cagliari (CA); 19/09/1967; Via Juanne Secche Snc Resid. Belvedere Lotto 1-07026Olbia (OT); 6939 del-of 25/03/1993;   ;  ISCRITTO ; SARDEGNA;
+
+LEBIU Giobellino; Carbonia (CI); 04/01/1959; Via Canalis N.21-09170Oristano (OR); 12079 del-of 28/07/1999;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+LEDDA Giuseppe Giacomo Mario; Sassari (SS); 30/06/1967; S.v. Luna E Sole 10 Prunizzedda-07100Sassari (SS); 735 del-of 25/02/2016;   ;  ISCRITTO ; SARDEGNA;
+
+LEDDA Graziano; Nuoro (NU); 17/01/1967; Viale Sardegna 12-08100Nuoro (NU); 497 del-of 09/07/2013;   ;  ISCRITTO ; SARDEGNA;
+
+LEONE Leonardo; Domus De Maria (CA); 30/06/1961; Via Allegri 36-09045Quartu Sant'elena (CA); 9191 del-of 26/04/1995;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+LEONE Lucrezia; Cagliari (CA); 21/11/1990; Via Allegri 36-09045Quartu Sant'elena (CA); 666 del-of 14/05/2015;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+LEONI Benedetta; Cagliari (CA); 01/10/1968; Via Eleonora D'arborea, 22-09125Cagliari (CA); 14550 del-of 11/05/2004;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+LI GIOI Roberto Franco Michele; Olbia (OT); 13/05/1962; Via Umberto Giordano 27-07026Olbia (OT); 6728 del-of 22/12/1992;   IW BANK SPA;  ISCRITTO ; SARDEGNA;
+
+LIGAS Antonio Giorgio; Oristano (OR); 14/10/1951; Via Figoli, 110-09170Oristano (OR); 14187 del-of 05/08/2003;   ;  ISCRITTO ; SARDEGNA;
+
+LIGAS Simonetta; Dusseldorf (GERMANIA); 29/03/1972; Viale Iv Novembre 4-08030Belvi (NU); 23 del-of 28/04/2009;   ;  ISCRITTO ; SARDEGNA;
+
+LISCI Efisio; Samassi (VS); 29/02/1960; Via Marco Polo 10-09030Samassi (VS); 11225 del-of 17/02/1998;   ;  ISCRITTO ; SARDEGNA;
+
+LIXI Luca; Cagliari (CA); 02/09/1985; Via Boi 58-09030Elmas (CA); 549 del-of 16/01/2014;   ;  ISCRITTO ; SARDEGNA;
+
+LO GIUDICE Stefania; Cagliari (CA); 15/09/1979; Via Einstein 15-09028Sestu (CA); 852 del-of 11/09/2017;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+LOBINA Giorgio; Cagliari (CA); 11/12/1960; Via Curie 29-09126Cagliari (CA); 6728 del-of 22/12/1992;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+LOBRANO Francesca; Cagliari (CA); 14/04/1981; Via Tamburino Sardo 12-09134Cagliari (CA); 14187 del-of 05/08/2003;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+LOCCI Gianluca; Cagliari (CA); 05/02/1971; Via Montello 17-09122Cagliari (CA); 12158 del-of 19/10/1999;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; SARDEGNA;
+
+LOI Daniela; Cagliari (CA); 23/04/1966; Via Scano 11-09129Cagliari (CA); 596 del-of 17/07/2014;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+LOI Giacomo; Seui (OG); 19/09/1962; Via Cesalpino 9-09126Cagliari (CA); 626 del-of 18/12/2014;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+LOI Stefania; Cagliari (CA); 19/09/1966; Case Sparse - Terras Noas Snc-09033Decimomannu (CA); 591 del-of 23/06/2014;   ;  ISCRITTO ; SARDEGNA;
+
+LONDI Carlo; Napoli (NA); 19/12/1961; Via Luca Della Robbia, 7-09047Selargius (CA); 13921 del-of 04/02/2003;   ;  ISCRITTO ; SARDEGNA;
+
+LONGONI Alessandro; Quartu Sant'elena (CA); 05/03/1979; Via Cettigne 1-09100Cagliari (CA); 842 del-of 15/06/2017;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+LORU Antonello; Cagliari (CA); 13/06/1971; Piazza Michelangelo 19-09128Cagliari (CA); 633 del-of 14/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+LOVISELLI Bruno; Cagliari (CA); 13/08/1947; Via Neapolis 30-09045Quartu Sant'elena (CA); 15215 del-of 15/11/2005;   ;  ISCRITTO ; SARDEGNA;
+
+LUNESU Giovanni; Sassari (SS); 17/11/1974; Vico Carloforte Snc-08020Lu Fraili (OT); 626 del-of 18/12/2014;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+LUPINU Francesco; Cagliari (CA); 06/01/1973; Viale Trieste 63/b-09123Cagliari (CA); 553 del-of 05/02/2014;   ;  ISCRITTO ; SARDEGNA;
+
+MACOR Andrea; Udine (UD); 05/04/1976; Via Dettori 5-09010Uta (CA); 14931 del-of 01/03/2005;   ;  ISCRITTO ; SARDEGNA;
+
+MADEDDU Luca; Iglesias (CI); 05/01/1978; Via Danimarca 9-09016Iglesias (CI); 626 del-of 18/12/2014;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+MANCA Francesco; Iglesias (CI); 22/08/1962; Via L'aquila, 15-09016Iglesias (CI); 11802 del-of 26/01/1999;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+MANCA Francesco; Tuili (VS); 15/05/1958; Via Della Pineta, 153-09126Cagliari (CA); 13096 del-of 24/04/2001;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; SARDEGNA;
+
+MANCA Giovanni Marco; Alghero (SS); 24/04/1962; Via Nulauro 5-07041Alghero (SS); 12079 del-of 28/07/1999;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+MANCA Pier Franco; Sassari (SS); 09/11/1962; Via Del Castagno, 16-07100Sassari (SS); 12198 del-of 17/11/1999;   ;  ISCRITTO ; SARDEGNA;
+
+MANCA Stefano; Ghilarza (OR); 28/03/1987; Via Alagon 11-09074Ghilarza (OR); 779 del-of 25/10/2016;   ;  ISCRITTO ; SARDEGNA;
+
+MANCINI Vincenzo; Frosinone (FR); 14/08/1948; Via Svizzera, 82-09045Quartu Sant'elena (CA); 13887 del-of 14/01/2003;   ;  ISCRITTO ; SARDEGNA;
+
+MANIAS Ezio; Cagliari (CA); 17/07/1965; Via Po 22-09170Oristano (OR); 94 del-of 12/11/2009;   ;  ISCRITTO ; SARDEGNA;
+
+MANNAZZU Franco Priamo; Budoni (OT); 12/03/1965; Frazione San Lorenzo Snc-08020Budoni (OT); 5949 del-of 28/01/1992;   IW BANK SPA;  ISCRITTO ; SARDEGNA;
+
+MANNONI Martino; Santa Teresa Gallura (OT); 01/09/1957; Via Pacinotti 1-07021Arzachena (SS); 926 del-of 11/07/2018;   ;  ISCRITTO ; SARDEGNA;
+
+MANNU Andrea; Cagliari (CA); 22/11/1977; Via Milano 57-09125Cagliari (CA); 10 del-of 23/02/2009;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+MARCELLO Andrea; Iglesias (CI); 12/10/1964; Via San Lucifero 31-09125Cagliari (CA); 366 del-of 21/12/2011;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+MARCETTI Paolo; Sassari (SS); 20/10/1981; Via Pisa 30-07026Olbia (OT); 933 del-of 12/09/2018;   ;  ISCRITTO ; SARDEGNA;
+
+MARCHETTI Angelo; Olbia (OT); 26/11/1961; Via Calamida 15-08100Nuoro (NU); 113 del-of 21/12/2009;   ;  ISCRITTO ; SARDEGNA;
+
+MARCI Daniele; Cagliari (CA); 14/02/1971; Via Principe Di Piemonte 52-09134Cagliari (CA); 474 del-of 27/03/2013;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+MARCIACANE Giacomo; Cagliari (CA); 18/10/1979; Via 11 Settembre 2001 8-09028Sestu (CA); 580 del-of 13/05/2014;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+MARCIALIS Giancarlo; Sassari (SS); 15/09/1962; Via Addis 1/g-07100Sassari (SS); 13481 del-of 12/03/2002;   ;  ISCRITTO ; SARDEGNA;
+
+MARINELLI Paolo Raimondo; Cagliari (CA); 27/06/1966; Via Dei Mandorli 2-09043Muravera (CA); 16043 del-of 17/07/2007;   ;  ISCRITTO ; SARDEGNA;
+
+MARONGIU Giancarlo; Narbolia (OR); 22/08/1959; Via Principe Amedeo 52-09070Narbolia (OR); 6956 del-of 31/03/1993;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+MARONGIU Marco; Cagliari (CA); 09/05/1973; Via Golfo Di Orosei 8-09030Elmas (CA); 9895 del-of 11/04/1996;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+MARONGIU Paolo; Cagliari (CA); 18/10/1955; Via N. Ferracciu 3-09128Cagliari (CA); 12079 del-of 28/07/1999;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+MARRAS Alessio; Sassari (SS); 13/07/1959; Via Rodolfo Morandi 8/g-07100Sassari (SS); 12198 del-of 17/11/1999;   ;  ISCRITTO ; SARDEGNA;
+
+MARRAS Monica; Sassari (SS); 10/05/1983; Via Cosseddu 49-07100Sassari (SS); 604 del-of 18/09/2014;   ;  ISCRITTO ; SARDEGNA;
+
+MARRAS Sergio; Serrenti (VS); 01/03/1964; Via Nazionale 37-09024Nuraminis (CA); 7754 del-of 16/02/1994;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+MARRAS Stefano; Oristano (OR); 15/12/1983; Viale Matteotti 15-09094Marrubiu (OR); 596 del-of 17/07/2014;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+MARROCCU Alberto; Cagliari (CA); 09/05/1964; Via Is Arenas, 20-09045Quartu Sant'elena (CA); 7415 del-of 28/09/1993;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; SARDEGNA;
+
+MASALA Antonello; Cagliari (CA); 01/06/1958; Via S. Tommaso D'aquino 12-09134Cagliari (CA); 5949 del-of 28/01/1992;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; SARDEGNA;
+
+MASCIA Davide; Nuoro (NU); 05/05/1968; Via Olbia 88-08100Nuoro (NU); 16227 del-of 20/11/2007;   ;  ISCRITTO ; SARDEGNA;
+
+MASIA Pietro Luigi; Sassari (SS); 10/03/1955; Via De Gasperi 30-07100Sassari (SS); 156 del-of 18/03/2010;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; SARDEGNA;
+
+MASSI Sandra; Civitanova Marche (MC); 21/09/1957; Via Rockefeller 2-09126Cagliari (CA); 10495 del-of 11/02/1997;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+MATERA Vito; Gravina In Puglia (BA); 20/01/1971; Via Montecatini 64-09045Quartu Sant'elena (CA); 555 del-of 27/02/2014;   ;  ISCRITTO ; SARDEGNA;
+
+MATTA Simona; Torino (TO); 18/10/1971; Via Segni 6-09010Tratalias (CI); 633 del-of 14/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+MATTEU Alessandro Sebastiano; Iglesias (CI); 11/09/1987; Via Palladio Snc-09013Carbonia (CI); 642 del-of 12/02/2015;   ;  ISCRITTO ; SARDEGNA;
+
+MATZUZZI Sandro; Iglesias (CI); 21/08/1970; Via Roma 17-09016Iglesias (CI); 10928 del-of 23/09/1997;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+MAXIA Stefano Mauro; Sorgono (NU); 25/09/1969; Piazza Parrocchia 10/c-08030Atzara (NU); 8004 del-of 27/04/1994;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+MEDDE Gabriela; Abbasanta (OR); 29/10/1970; Via Italia 5-09071Abbasanta (OR); 8534 del-of 18/10/1994;   ;  ISCRITTO ; SARDEGNA;
+
+MELE Marcello; Cagliari (CA); 12/03/1964; Via Molise 49-09127Cagliari (CA); 8997 del-of 17/01/1995;   ;  ISCRITTO ; SARDEGNA;
+
+MELIS Giuliano; Selargius (CA); 08/07/1969; Via Macomer 41-09044Quartucciu (CA); 13521 del-of 16/04/2002;   ;  ISCRITTO ; SARDEGNA;
+
+MELIS Luisanna; Iglesias (CI); 17/08/1967; Via Isonzo 22-09016Iglesias (CI); 8004 del-of 27/04/1994;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+MELIS Maurizio; Sassari (SS); 03/12/1973; Via Togliatti, 8-07100Sassari (SS); 13713 del-of 14/08/2002;   ;  ISCRITTO ; SARDEGNA;
+
+MELIS Pietro; Nuoro (NU); 16/09/1968; Via Istiritta 29-08100Nuoro (NU); 642 del-of 12/02/2015;   ;  ISCRITTO ; SARDEGNA;
+
+MELIS Roberto; Cagliari (CA); 29/04/1972; Via Avicenna 5-09131Cagliari (CA); 637 del-of 27/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+MELIS Serafino Giuseppe; Tuili (VS); 20/02/1962; Via Leopardi 1-09025Sanluri (VS); 12079 del-of 28/07/1999;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+MELONI Andrea; Oristano (OR); 25/04/1962; Via P.ghiani 5-09090Tiria (OR); 774 del-of 11/10/2016;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; SARDEGNA;
+
+MELONI Antonello; Carbonia (CI); 29/07/1971; Piazza Delle Querce 11-09016Iglesias (CI); 626 del-of 18/12/2014;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+MELONI Antonio; Torino (TO); 01/01/1961; Via Monsignor Virgilio 109-08048Tortoli' (OG); 5844 del-of 18/12/1991;   ;  ISCRITTO ; SARDEGNA;
+
+MELONI Enzo; Sassari (SS); 17/03/1957; Viale Roberto Ruffilli, 2-07100Sassari (SS); 7415 del-of 28/09/1993;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+MELONI Flavio; Cagliari (CA); 30/09/1964; Via Ortobene, 11-09045Quartu Sant'elena (CA); 14707 del-of 21/09/2004;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+MELONI Giuseppe; Cagliari (CA); 12/09/1948; Via Piave 31-09124Cagliari (CA); 11923 del-of 14/04/1999;   ;  ISCRITTO ; SARDEGNA;
+
+MELONI Paolo; Cagliari (CA); 02/09/1977; Via Colletta, 12-09048Sinnai (CA); 13623 del-of 20/06/2002;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+MELOTTI Pier Luigi Nicola; Sassari (SS); 06/12/1951; Via De Biase 30-07041Alghero (SS); 5949 del-of 28/01/1992;   ;  ISCRITTO ; SARDEGNA;
+
+MERELLA Massimiliano; Sorso (SS); 15/12/1964; Largo Baracca 23-07037Sorso (SS); 616 del-of 13/11/2014;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+MEREU Antonio; Settimo San Pietro (CA); 01/03/1968; Via Nuoro 25-09040Maracalagonis (CA); 703 del-of 20/10/2015;   ;  ISCRITTO ; SARDEGNA;
+
+MEREU Gianfranco; Nuoro (NU); 10/02/1965; Via Friuli Venezia Giulia 9-08025Oliena (NU); 939 del-of 11/10/2018;   ;  ISCRITTO ; SARDEGNA;
+
+MEREU Silvio; Cagliari (CA); 19/05/1986; Via Pietro Cavaro 23-09131Cagliari (CA); 604 del-of 18/09/2014;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+MICHELI Marcello; Cagliari (CA); 09/05/1963; Via Sardegna 58-09032Assemini (CA); 7119 del-of 09/06/1993;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+MIGLIORI Massimiliano; Olbia (OT); 20/06/1955; Via Sicilia 5a-07026Olbia (OT); 211 del-of 15/09/2010;   BANCA SELLA - SPA;  ISCRITTO ; SARDEGNA;
+
+MOCCI Giovanni; Cagliari (CA); 28/04/1971; Via Montixeddu 2/b-09123Cagliari (CA); 13567 del-of 22/05/2002;   ;  ISCRITTO ; SARDEGNA;
+
+MOLLICA Franco Stefano; Tempio Pausania (OT); 26/12/1949; Via Filigheddu 165-07100Sassari (SS); 12672 del-of 19/07/2000;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+MONNI Antonella; Nuoro (NU); 19/01/1977; Via Arma Azzurra 38-09030Elmas (CA); 852 del-of 11/09/2017;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+MONNI Pasquale; Ploaghe (SS); 12/04/1963; Via Gorizia 53-07100Sassari (SS); 7544 del-of 23/11/1993;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+MONTALDO Maurizio; Cagliari (CA); 26/01/1952; Via G. Guglielmo 12-09131Cagliari (CA); 14707 del-of 21/09/2004;   ;  ISCRITTO ; SARDEGNA;
+
+MORAGLIA Riccardo Ernesto Michele; Sanremo (IM); 19/05/1950; Strada Provinciale 018 Via Argentiera 136-07100Sassari (SS); 383 del-of 28/02/2012;   ;  ISCRITTO ; SARDEGNA;
+
+MORETTI Stefano Giulio; Sassari (SS); 19/09/1963; Via Turchia 11-07026Olbia (OT); 13103 del-of 02/05/2001;   ;  ISCRITTO ; SARDEGNA;
+
+MORI Dario; Brescia (BS); 18/02/1963; Via Corelli 4-09045Quartu Sant'elena (CA); 686 del-of 30/07/2015;   ;  ISCRITTO ; SARDEGNA;
+
+MORO Gianfranco; Bono (SS); 29/07/1966; Via Foscolo, 29-08100Nuoro (NU); 13096 del-of 24/04/2001;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+MORVILLO Massimo; Gragnano (NA); 09/10/1969; Via Coros 3/b-07041Alghero (SS); 13887 del-of 14/01/2003;   ;  ISCRITTO ; SARDEGNA;
+
+MOTZO Antonio; Cuglieri (OR); 25/11/1954; Via Aldo Moro 4-09073Cuglieri (OR); 922 del-of 18/06/2018;   ;  ISCRITTO ; SARDEGNA;
+
+MOTZO Bruno; Nuoro (NU); 24/05/1976; Via G. Dessì 8-08011Bolotana (NU); 16365 del-of 04/03/2008;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+MUDADU Costanzo; Sassari (SS); 12/03/1962; Via Poligono 6-07100Sassari (SS); 596 del-of 17/07/2014;   ;  ISCRITTO ; SARDEGNA;
+
+MUNDULA Giovanna Antonia Francesca; Nughedu San Nicolo' (SS); 18/11/1947; Via Monza 3-07026Olbia (OT); 5949 del-of 28/01/1992;   ;  ISCRITTO ; SARDEGNA;
+
+MUNDULA Roberto; La Maddalena (OT); 30/01/1975; Via San Carlo Borromeo 16-09131Cagliari (CA); 12672 del-of 19/07/2000;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+MURA Fabio; Cagliari (CA); 22/05/1961; Via Virginia 30-09042Monserrato (CA); 15075 del-of 14/06/2005;   ;  ISCRITTO ; SARDEGNA;
+
+MURA Luigi Alberto; Oristano (OR); 26/08/1971; Via Ponente 28-09030Elmas (CA); 16572 del-of 29/07/2008;   ;  ISCRITTO ; SARDEGNA;
+
+MURA Marco; Sassari (SS); 25/04/1972; Via Pirandello 9-07100Sassari (SS); 686 del-of 30/07/2015;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+MUREDDU Giovannina; Nuoro (NU); 27/06/1972; Via Pertini 2-07100Sassari (SS); 113 del-of 21/12/2009;   ;  ISCRITTO ; SARDEGNA;
+
+MUREDDU Sergio; Sassari (SS); 10/01/1969; Viale Emilio Lussu 1-07046Porto Torres (SS); 626 del-of 18/12/2014;   ;  ISCRITTO ; SARDEGNA;
+
+MURGIA Antonello; Nuoro (NU); 22/09/1968; Via Dei Venti 30-09134Cagliari (CA); 596 del-of 17/07/2014;   ;  ISCRITTO ; SARDEGNA;
+
+MURGIA Daria; Cagliari (CA); 16/12/1975; Strada 54 N.4-09012Poggio Dei Pini (CA); 827 del-of 05/04/2017;   ;  ISCRITTO ; SARDEGNA;
+
+MURGIA Giovanni Carlo; Nuoro (NU); 20/04/1961; Via Cubeddu 18-08100Nuoro (NU); 637 del-of 27/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+MURGIA Mario; Torino (TO); 27/01/1962; Via Petrarca, 1-09040San Vito (CA); 5913 del-of 08/01/1992;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+MURGIANU Valter; Cagliari (CA); 06/05/1966; Via Sarrabus 11-09121Cagliari (CA); 12323 del-of 19/01/2000;   ;  ISCRITTO ; SARDEGNA;
+
+MURONI Roberto Federico Salvatore; Sassari (SS); 12/11/1953; Via La Gruzzitta 7 Funtani 34 F-07100Sassari (SS); 779 del-of 25/10/2016;   ;  ISCRITTO ; SARDEGNA;
+
+MURRU Costantino; Sorgono (NU); 30/12/1960; Via Due Giugno 1946 13-09170Oristano (OR); 686 del-of 30/07/2015;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+MURRU Filippo; Cagliari (CA); 26/07/1978; Viale Cristoforo Colombo 178-09045Quartu Sant'elena (CA); 211 del-of 15/09/2010;   AGORA INVESTMENTS - SOCIETA' DI GESTIONE DEL RISPARMIO SPA;  ISCRITTO ; SARDEGNA;
+
+MURRU Giovanni; Sassari (SS); 07/10/1965; Via Telesio 76-09131Cagliari (CA); 12502 del-of 27/04/2000;   ;  ISCRITTO ; SARDEGNA;
+
+MURRU Marcello; Sassari (SS); 19/12/1968; Via Friuli 9-08100Nuoro (NU); 11320 del-of 08/04/1998;   ;  ISCRITTO ; SARDEGNA;
+
+MURRU Pier Giorgio; Sassari (SS); 21/10/1967; Via Agostino Di Castelvi' 4-09129Cagliari (CA); 11401 del-of 19/05/1998;   ;  ISCRITTO ; SARDEGNA;
+
+MURRU Roberto; Cagliari (CA); 24/01/1972; Via Giulio Cesare 213-09042Monserrato (CA); 16532 del-of 01/07/2008;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+MURRU Stefano; Cagliari (CA); 07/12/1966; Via Pontano 4-09124Cagliari (CA); 11559 del-of 28/07/1998;   ;  ISCRITTO ; SARDEGNA;
+
+MUSSINU Sebastiano; Nuoro (NU); 17/09/1966; Via A. Gramsci, 114-08020Lula (NU); 13521 del-of 16/04/2002;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+NAPOLI Paolo; Cagliari (CA); 22/12/1965; Via Dei Galanzieri 11/c-09014Carloforte (CI); 511 del-of 02/10/2013;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+NARDI Elena; Firenze (FI); 14/11/1983; Via Delle Salicornie 2-07026Olbia (OT); 113 del-of 21/12/2009;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+NELLI Maruzza; Firenze (FI); 13/03/1957; Via La Piana 84/a-07038Trinita' D'agultu E Vignola (OT); 12060 del-of 13/07/1999;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+NIEDDU Massimo; Sassari (SS); 09/08/1976; Piazza Col. Gavino Serra 6-07100Sassari (SS); 23 del-of 28/04/2009;   CREDITO EMILIANO SPA;  ISCRITTO ; SARDEGNA;
+
+NOCCO Efisio; Serramanna (VS); 18/10/1971; Via Oberdan, 19-09038Serramanna (VS); 12502 del-of 27/04/2000;   ;  ISCRITTO ; SARDEGNA;
+
+NONNIS Federico; Cagliari (CA); 02/08/1982; Via Sandro Pertini 6-09010Uta (CA); 507 del-of 12/09/2013;   ;  ISCRITTO ; SARDEGNA;
+
+OGGIANU Carlo; Cagliari (CA); 25/04/1963; Via P.paruta 13-09131Cagliari (CA); 7415 del-of 28/09/1993;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+OI Giorgio; Domusnovas (CI); 09/08/1959; Via Tito Livio 9-09042Monserrato (CA); 11225 del-of 17/02/1998;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+OLEDA Clemente; Teti (NU); 20/01/1963; S.s. 127 Sassari-osilo 14-07100Sassari (SS); 295 del-of 24/03/2011;   VALORI & FINANZA INVESTIMENTI SIM S.p.A.;  ISCRITTO ; SARDEGNA;
+
+OLIA Mario Antonio; Sassari (SS); 11/02/1956; Largo Londra, 6-07100Sassari (SS); 13292 del-of 09/10/2001;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+OMBRA Maristella; Cagliari (CA); 17/08/1960; Via Alberto Riva Villasanta 104-09134Cagliari (CA); 442 del-of 29/11/2012;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; SARDEGNA;
+
+OMETTO Daniela; Padova (PD); 10/12/1955; Piazza Lussemburgo 5-09129Cagliari (CA); 626 del-of 18/12/2014;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+ONIDI Maurizio; Guspini (VS); 18/09/1951; Vico Salvatore Farina 36-09036Guspini (VS); 483 del-of 21/05/2013;   ;  ISCRITTO ; SARDEGNA;
+
+ONNIS Antonella; Cagliari (CA); 15/01/1965; Via Van Gogh, 15-09045Quartu Sant'elena (CA); 13713 del-of 14/08/2002;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+ORANI Ricardo; Cagliari (CA); 01/05/1962; Via Montevecchio 11-09121Cagliari (CA); 607 del-of 16/10/2014;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+ORECCHIONI Antonio; Tempio Pausania (OT); 02/04/1969; Via Montimasa 11-07029Tempio Pausania (OT); 926 del-of 11/07/2018;   ;  ISCRITTO ; SARDEGNA;
+
+ORRU' Elisabetta; Nurallao (CA); 22/07/1971; Via Matta Sa Prama, 1-08030Escolca (CA); 11753 del-of 21/12/1998;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+ORRU' Mauro; Cagliari (CA); 09/07/1972; Via Roma 42-09040Furtei (VS); 12079 del-of 28/07/1999;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+ORTU Giovanni; Sassari (SS); 13/02/1978; Via Palmiro Togliatti 13-07100Sassari (SS); 849 del-of 27/07/2017;   ;  ISCRITTO ; SARDEGNA;
+
+PADULA Stella; Sassari (SS); 06/04/1988; Via Silki 9-07100Sassari (SS); 783 del-of 10/11/2016;   ;  ISCRITTO ; SARDEGNA;
+
+PALA Alberto Antonio; Sassari (SS); 26/09/1968; Via Francesco Muroni 16-07100Sassari (SS); 331 del-of 28/07/2011;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; SARDEGNA;
+
+PALA Elena; Sassari (SS); 12/05/1977; Via Alfredo Oriani 5/a-07100Sassari (SS); 856 del-of 05/10/2017;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+PALA Luca; Sassari (SS); 03/05/1974; Via Lombardia, 17-08100Nuoro (NU); 13921 del-of 04/02/2003;   ;  ISCRITTO ; SARDEGNA;
+
+PALMAS Andrea; Cagliari (CA); 30/12/1987; Via Ariosto 44-09032Assemini (CA); 317 del-of 24/06/2011;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+PALMIERI Ivan; Sassari (SS); 10/11/1976; Via Angelo Poliziano 19-09131Cagliari (CA); 703 del-of 20/10/2015;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+PANNO Ciro; Napoli (NA); 21/12/1969; Regione Zilibriccu 108 H-07020Telti (OT); 383 del-of 28/02/2012;   ;  ISCRITTO ; SARDEGNA;
+
+PANZERI Rinaldo; Cagliari (CA); 09/11/1967; Via Mandrolisai 64-09045Quartu Sant'elena (CA); 649 del-of 19/03/2015;   CREDITO EMILIANO SPA;  ISCRITTO ; SARDEGNA;
+
+PAPA Luca; Milano (MI); 05/06/1963; Via Punta Li Canneddi 15-07038Trinita' D'agultu E Vignola (OT); 7297 del-of 03/08/1993;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+PARADISI Stefano; Roma (RM); 30/04/1977; Via Roma 22/a-07040Tissi (SS); 12127 del-of 15/09/1999;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+PARISI Marco; Sassari (SS); 11/01/1957; Via G. Manno 24-07049Usini (SS); 5949 del-of 28/01/1992;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+PASSERO' Paolo; Sassari (SS); 23/03/1973; Via Beatrice D'arborea 11-09170Oristano (OR); 233 del-of 19/10/2010;   ;  ISCRITTO ; SARDEGNA;
+
+PATTA Antonio; Alghero (SS); 08/10/1964; Via A. Andreoni, 61-07041Alghero (SS); 13096 del-of 24/04/2001;   ;  ISCRITTO ; SARDEGNA;
+
+PAU Maria Giada; Cagliari (CA); 22/09/1987; Via La Maddalena 6 B-09032Assemini (CA); 816 del-of 22/02/2017;   ;  ISCRITTO ; SARDEGNA;
+
+PERI Gianfranco; Cabras (OR); 04/02/1949; Via Corridoni 151-09134Cagliari (CA); 5949 del-of 28/01/1992;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+PERRA Angelo; Sassari (SS); 22/04/1970; Via G. Matteotti, 28-07100Sassari (SS); 14550 del-of 11/05/2004;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; SARDEGNA;
+
+PERRA Gianluca; Quartu Sant'elena (CA); 08/09/1976; Via Riccione 4-09045Quartu Sant'elena (CA); 13096 del-of 24/04/2001;   ;  ISCRITTO ; SARDEGNA;
+
+PETRUZZO Luciano; Cagliari (CA); 22/11/1961; Via Basilicata 55-09127Cagliari (CA); 6728 del-of 22/12/1992;   ;  ISCRITTO ; SARDEGNA;
+
+PIBIRI Dimitri; Villacidro (VS); 18/10/1971; Via San Nicolo', 132-09039Villacidro (VS); 12461 del-of 29/03/2000;   ;  ISCRITTO ; SARDEGNA;
+
+PICCIAU Massimiliano; Sestu (CA); 21/12/1969; Via Ugo La Malfa 15-09028Sestu (CA); 842 del-of 15/06/2017;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+PICCIAU Walter; Cagliari (CA); 21/09/1972; Via P. Pasolini 2-09032Assemini (CA); 11559 del-of 28/07/1998;   ;  ISCRITTO ; SARDEGNA;
+
+PIGA Davide; Sassari (SS); 04/02/1973; Via Della Resistenza 49-08100Nuoro (NU); 13096 del-of 24/04/2001;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+PIGA Roberto; Cagliari (CA); 24/11/1966; Via Ariosto 13-09129Cagliari (CA); 691 del-of 21/09/2015;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+PIGHEDDU Antonio; Cagliari (CA); 14/06/1965; Via Piemonte 16-09032Assemini (CA); 15925 del-of 15/05/2007;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; SARDEGNA;
+
+PILIA Alberto; Arbus (VS); 04/04/1988; Via Mazzini 20-09031Arbus (VS); 804 del-of 18/01/2017;   ;  ISCRITTO ; SARDEGNA;
+
+PILLERI Alberto; Settimo San Pietro (CA); 29/09/1947; Via Bacaredda 95-09127Cagliari (CA); 10495 del-of 11/02/1997;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+PILLERI Alessio; Cagliari (CA); 13/10/1990; Via Francesco Loddo Canepa 8-09126Cagliari (CA); 824 del-of 16/03/2017;   ;  ISCRITTO ; SARDEGNA;
+
+PILLONI Giuseppe; Villaurbana (OR); 21/11/1970; Via Figoli 111-09170Oristano (OR); 15370 del-of 28/03/2006;   ;  ISCRITTO ; SARDEGNA;
+
+PILUDU Roberto; Cagliari (CA); 04/02/1960; Via Milano 44-09125Cagliari (CA); 933 del-of 12/09/2018;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+PINNA Giovanni Maria; Sassari (SS); 24/09/1960; Via Giuseppe Garibaldi 20-07039Valledoria (SS); 763 del-of 07/07/2016;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  SOSPESO con delibera Consob n. 20285 ; SARDEGNA;
+
+PINNA Giuseppe; Nuoro (NU); 17/03/1973; Via A. Soddu 2-08100Nuoro (NU); 14292 del-of 04/11/2003;   ;  ISCRITTO ; SARDEGNA;
+
+PINNA Maria Luisa; Carbonia (CI); 03/10/1979; Via Della Liberta' 6 A-09032Assemini (CA); 686 del-of 30/07/2015;   BANCA POPOLARE ETICA SOCIETA' COOPERATIVA PER AZIONI;  ISCRITTO ; SARDEGNA;
+
+PINNA Nicolo'; Alghero (SS); 06/02/1956; Via Mazzini, 192-07041Alghero (SS); 12079 del-of 28/07/1999;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; SARDEGNA;
+
+PINNA Sergio; Roma (RM); 19/08/1960; Via Lussu 9-09045Quartu Sant'elena (CA); 16139 del-of 09/10/2007;   ;  ISCRITTO ; SARDEGNA;
+
+PINTAURO Marco; Cagliari (CA); 22/05/1987; Piazza Peru' 3-09042Monserrato (CA); 323 del-of 18/07/2011;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+PINTONELLO Angelo; Sassari (SS); 01/12/1942; Via G.stampa 26-09131Cagliari (CA); 10495 del-of 11/02/1997;   ;  ISCRITTO ; SARDEGNA;
+
+PINTOR Michele Graziano; Nuoro (NU); 25/11/1964; Via Santa Barbara 69-08100Nuoro (NU); 553 del-of 05/02/2014;   ;  ISCRITTO ; SARDEGNA;
+
+PINTOR Roberto; Cagliari (CA); 06/03/1983; Via Geronimo Zurita 8-09125Cagliari (CA); 480 del-of 23/04/2013;   ;  ISCRITTO ; SARDEGNA;
+
+PINTUS Adriano; Ploaghe (SS); 04/09/1959; Via A. Gramsci 3-07017Ploaghe (SS); 5949 del-of 28/01/1992;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+PINTUS Luigi; Cagliari (CA); 02/09/1967; Viale Trieste 116/1-09123Cagliari (CA); 10638 del-of 16/04/1997;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+PIRAS Andrea; Assemini (CA); 05/04/1969; Località Perda Fogu Sn-09027Serrenti (VS); 7415 del-of 28/09/1993;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+PIRAS Andrea; Sassari (SS); 25/05/1970; Via Parigi, 8-07100Sassari (SS); 13623 del-of 20/06/2002;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+PIRAS Fabio; Sassari (SS); 07/02/1976; Via Pietro Mastino 3-07100Sassari (SS); 16227 del-of 20/11/2007;   ;  ISCRITTO ; SARDEGNA;
+
+PIRAS Gianluca; Genova (GE); 28/06/1973; Via Copernico 3-09131Cagliari (CA); 591 del-of 23/06/2014;   ;  ISCRITTO ; SARDEGNA;
+
+PIRAS Maurizio; Cagliari (CA); 19/05/1960; Via Giardini 87-09127Cagliari (CA); 14931 del-of 01/03/2005;   ;  ISCRITTO ; SARDEGNA;
+
+PIRAS Silvana; Ilbono (OG); 19/01/1970; Via Porto Frailis 5/a-08048Tortoli' (OG); 12079 del-of 28/07/1999;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+PIRAS Stefano; Cagliari (CA); 04/01/1970; Via Firenze 40-09047Selargius (CA); 666 del-of 14/05/2015;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+PIREDDU Antonella; Macomer (NU); 16/11/1963; Via Emilio Lussu 4-08015Macomer (NU); 637 del-of 27/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+PIRINA Laura; Olbia (OT); 10/02/1972; Via Friuli 30-07026Olbia (OT); 480 del-of 23/04/2013;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+PIRONE Massimo; Napoli (NA); 17/01/1970; Via Donizetti 1-09128Cagliari (CA); 317 del-of 24/06/2011;   ;  ISCRITTO ; SARDEGNA;
+
+PISANU Giampaolo Massimo; Cagliari (CA); 08/02/1954; Piazza A. Torrente 6-09170Oristano (OR); 6728 del-of 22/12/1992;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+PISANU Sergio; Barumini (VS); 14/12/1959; Via Is Mirrionis 181-09122Cagliari (CA); 866 del-of 21/11/2017;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+PISTELLI Luana; Sassari (SS); 09/04/1975; Viale Sant'orsola13-07100Sassari (SS); 156 del-of 18/03/2010;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+PISTIDDA Antonio; Sassari (SS); 04/08/1967; Viale Dante 30-07100Sassari (SS); 13096 del-of 24/04/2001;   ;  ISCRITTO ; SARDEGNA;
+
+PITZALIS Alessandra; Cagliari (CA); 16/02/1972; Via Del Prato, 14-09030Elmas (CA); 13354 del-of 27/11/2001;   IW BANK SPA;  ISCRITTO ; SARDEGNA;
+
+PODDA Alessandra; Monastir (CA); 01/09/1966; Via Visconti 10-09032Assemini (CA); 7415 del-of 28/09/1993;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+PODDA Alessio; Cagliari (CA); 03/11/1967; Via F. Turati, 4/c-09045Quartu Sant'elena (CA); 13292 del-of 09/10/2001;   ;  ISCRITTO ; SARDEGNA;
+
+PODDA Gianfranco; Sanluri (VS); 08/08/1969; Via S. Martino Lott. Usai-09025Sanluri (VS); 14137 del-of 24/06/2003;   ;  ISCRITTO ; SARDEGNA;
+
+POLLASTRI Maurizio; Bologna (BO); 05/08/1962; Via Campi Elisi, 124-09047Selargius (CA); 13053 del-of 05/04/2001;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+POLO Enrico; Sant'antioco (CI); 06/07/1959; Piazza S. Bartolomeo 8-09128Cagliari (CA); 9513 del-of 16/10/1995;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+PONZO Vincenzo; Vibo Valentia (VV); 21/06/1966; Via S'oru E Mari 98/a-09045Quartu Sant'elena (CA); 12837 del-of 28/11/2000;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+PORCU Gabriele; Sassari (SS); 18/03/1987; Via Istria 16 H-07100Sassari (SS); 747 del-of 28/04/2016;   ;  ISCRITTO ; SARDEGNA;
+
+PORCU Giacomo; Cagliari (CA); 09/02/1975; Via Su Piscinali 12/b-09010Uta (CA); 465 del-of 12/02/2013;   ;  ISCRITTO ; SARDEGNA;
+
+PORCU Michele; Cagliari (CA); 10/08/1973; Via Austria 7-09045Quartu Sant'elena (CA); 16227 del-of 20/11/2007;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+PORCU Paola; San Gavino Monreale (VS); 05/09/1987; Via Umberto I 133-09030Sardara (VS); 759 del-of 16/06/2016;   ;  ISCRITTO ; SARDEGNA;
+
+PORRU Francesco; Dolianova (CA); 18/07/1962; Via Damiano Filia 56-09045Quartu Sant'elena (CA); 14436 del-of 24/02/2004;   ;  ISCRITTO ; SARDEGNA;
+
+PORRU Giacomo; Cagliari (CA); 25/05/1987; Via Roma 38-09020Villanovafranca (VS); 637 del-of 27/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+PORTA Alessandro; Cagliari (CA); 15/03/1969; Via Carlo Del Prete 19-09030Elmas (CA); 16043 del-of 17/07/2007;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+PUGGIONI Gianluca; Sassari (SS); 13/08/1974; Via Gramsci 12-07046Porto Torres (SS); 16227 del-of 20/11/2007;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+PUSCEDDU Alessandro Massimo; Sassari (SS); 03/07/1973; Via Vardabasso N. 15-07100Sassari (SS); 13653 del-of 09/07/2002;   ;  ISCRITTO ; SARDEGNA;
+
+PUSCEDDU Gianluca; Cagliari (CA); 06/09/1968; Via Giardini 202-09127Cagliari (CA); 11225 del-of 17/02/1998;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+PUTZU Alessio; Oristano (OR); 02/04/1969; Via Cavour 10-09170Oristano (OR); 691 del-of 21/09/2015;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+PUTZU Carlo; Cagliari (CA); 14/01/1982; Via L. Corona 14-09134Cagliari (CA); 295 del-of 24/03/2011;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+RACCIS Antonello; Cagliari (CA); 06/04/1948; Via Dei Conversi N.72-09129Cagliari (CA); 11559 del-of 28/07/1998;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; SARDEGNA;
+
+RACCIS Daniele; Cagliari (CA); 03/02/1958; Via Pertini 52-09044Quartucciu (CA); 783 del-of 10/11/2016;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; SARDEGNA;
+
+RANDACCIO Stefania; Cagliari (CA); 24/07/1969; Via Pietro Cavaro 73-09131Cagliari (CA); 626 del-of 18/12/2014;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+RAPETTI Alessandro; Cagliari (CA); 06/07/1967; Piazza Sirio 3-09126Cagliari (CA); 10076 del-of 24/06/1996;   ;  ISCRITTO ; SARDEGNA;
+
+REA Anna Maria; Quartu Sant'elena (CA); 10/03/1960; Via Rossi Vitelli 75-09045Quartu Sant'elena (CA); 846 del-of 06/07/2017;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+RIVANO Giuseppe; Cagliari (CA); 21/06/1972; Via Don Minzoni 27-09014Carloforte (CI); 13354 del-of 27/11/2001;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+RIVIECCIO Francesco Saverio; Napoli (NA); 10/04/1960; Via G. Fracastoro, 2-09126Cagliari (CA); 13053 del-of 05/04/2001;   ;  ISCRITTO ; SARDEGNA;
+
+ROBERTO Paolo; Cagliari (CA); 18/09/1956; Piazza Dell'annunziata 5-09123Cagliari (CA); 5949 del-of 28/01/1992;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+ROGGERO Francesco; Santa Teresa Gallura (OT); 19/07/1962; Via Augusto Righi 21-07021Arzachena (SS); 646 del-of 26/02/2015;   ;  ISCRITTO ; SARDEGNA;
+
+ROMANO Giovanni Battista; Cagliari (CA); 27/06/1961; Via Dei Gabbiani 16-09126Cagliari (CA); 295 del-of 24/03/2011;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+ROMBI Paolo; Carbonia (CI); 21/04/1967; Via Ciusa, 85/87-09131Cagliari (CA); 13973 del-of 11/03/2003;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; SARDEGNA;
+
+ROSINA Giovanni Paolo; Iglesias (CI); 18/10/1985; Viale Giorgio Asproni 18-09016Iglesias (CI); 926 del-of 11/07/2018;   ;  ISCRITTO ; SARDEGNA;
+
+ROSSINO Antonella; Venezia (VE); 05/12/1973; Via Simon Mossa 133-09047Selargius (CA); 511 del-of 02/10/2013;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+ROSSINO Salvatore; Carloforte (CI); 15/07/1964; Via Francesca Rosso 11-09014Carloforte (CI); 8418 del-of 20/09/1994;   ;  ISCRITTO ; SARDEGNA;
+
+RUBANU Antonino; Oliena (NU); 23/07/1968; Via Annunzio Cervi 75-07100Sassari (SS); 626 del-of 18/12/2014;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+RUBANU Maddalena; Oliena (NU); 07/08/1969; Via Tamburino Sardo 64-09134Cagliari (CA); 555 del-of 27/02/2014;   ;  ISCRITTO ; SARDEGNA;
+
+RUDA Antonio; Thiesi (SS); 24/08/1960; Via Dante 18-07047Thiesi (SS); 926 del-of 11/07/2018;   ;  ISCRITTO ; SARDEGNA;
+
+RUZZETTU Paola; Sassari (SS); 23/02/1974; Strada Vicinale Monti Bianchinu 45 Box 13-07100Sassari (SS); 13481 del-of 12/03/2002;   ;  ISCRITTO ; SARDEGNA;
+
+SABA Andrea; Ozieri (SS); 30/01/1974; Via Vittorio Veneto 24/26-07014Ozieri (SS); 103 del-of 20/11/2009;   ;  ISCRITTO ; SARDEGNA;
+
+SABA Chiara; Cagliari (CA); 04/02/1983; Via Messina 1-09126Cagliari (CA); 747 del-of 28/04/2016;   ;  ISCRITTO ; SARDEGNA;
+
+SABA Donatella; Cagliari (CA); 17/01/1977; Viale Regina Margherita 36-09124Cagliari (CA); 12079 del-of 28/07/1999;   ;  ISCRITTO ; SARDEGNA;
+
+SABA Mauro; Carbonia (CI); 10/11/1973; Via Olmedo 6-09013Carbonia (CI); 12581 del-of 30/05/2000;   ;  ISCRITTO ; SARDEGNA;
+
+SABA Paolo; Cagliari (CA); 28/01/1961; Strada 3 N.18-09012Poggio Dei Pini (CA); 295 del-of 24/03/2011;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+SALARIS Antonio; Pescara (PE); 11/03/1959; Via Principe Amedeo 4-09100Cagliari (CA); 189 del-of 23/06/2010;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; SARDEGNA;
+
+SALICI Severo; Nuoro (NU); 08/07/1965; Via A. Mereu, 35-08100Nuoro (NU); 15580 del-of 10/10/2006;   ;  ISCRITTO ; SARDEGNA;
+
+SALIS Antonio Gavino; Sassari (SS); 21/06/1966; Strada Vicinale Santu Tettaru, 43/a-07100Sassari (SS); 7447 del-of 18/10/1993;   ;  ISCRITTO ; SARDEGNA;
+
+SALIS Gavino; Nuoro (NU); 23/03/1978; Via Porrino, 9-08100Nuoro (NU); 13096 del-of 24/04/2001;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+SALIS Pietro; Sassari (SS); 08/01/1961; Via G. Asproni 12-07100Sassari (SS); 9513 del-of 16/10/1995;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+SALIS Rosanna; Cagliari (CA); 22/11/1965; Via Cugia 35-09129Cagliari (CA); 14292 del-of 04/11/2003;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+SANCIU Angelo; Sassari (SS); 23/01/1965; Via Prunizzedda, 49/h-07100Sassari (SS); 15638 del-of 28/11/2006;   ;  ISCRITTO ; SARDEGNA;
+
+SANCIU Gianquirico; Olbia (OT); 20/12/1972; Via Salieri 19-07026Olbia (OT); 633 del-of 14/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+SANNA Antonio; Sassari (SS); 23/01/1978; Via Carlo Felice 3/b-07100Sassari (SS); 675 del-of 11/06/2015;   CHEBANCA! SPA;  ISCRITTO ; SARDEGNA;
+
+SANNA Gabriele; Olbia (OT); 19/07/1993; Via Bonn 18/a-07026Olbia (OT); 480 del-of 23/04/2013;   ;  ISCRITTO ; SARDEGNA;
+
+SANNA Giorgio; Oristano (OR); 13/10/1962; Viale Brianza 11-09170Oristano (OR); 6728 del-of 22/12/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+SANNA Giovanni; Cagliari (CA); 25/06/1972; Via Della Pineta 61-09125Cagliari (CA); 735 del-of 25/02/2016;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+SANNA Giovanni; Cagliari (CA); 27/12/1970; Via Delle Felci 48-09134Cagliari (CA); 502 del-of 23/07/2013;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+SANNA Lucia; Oristano (OR); 13/12/1959; Via Olbia, 28-09170Oristano (OR); 11953 del-of 05/05/1999;   ;  ISCRITTO ; SARDEGNA;
+
+SANNA Matteo; Cagliari (CA); 11/03/1983; Via Scuole 47-09010Villaspeciosa (CA); 15109 del-of 12/07/2005;   ;  ISCRITTO ; SARDEGNA;
+
+SANNA Roberto; Sassari (SS); 25/07/1961; Via Malta 29-07041Alghero (SS); 580 del-of 13/05/2014;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+SANNA Salvatore; Siligo (SS); 26/08/1957; Via Cristoforo Colombo 17-07020Golfo Aranci (OT); 5949 del-of 28/01/1992;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+SANNA Simone; Sassari (SS); 29/05/1983; Via Leopardi 4-07022Berchidda (OT); 713 del-of 18/12/2015;   ;  ISCRITTO ; SARDEGNA;
+
+SARI Bruno Angelo Sergio; Alghero (SS); 15/06/1935; Via Canelles N.6-07041Alghero (SS); 12255 del-of 15/12/1999;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+SARI Consuelo Anna Franca; Alghero (SS); 11/10/1965; Via Canelles, 6-07041Alghero (SS); 12198 del-of 17/11/1999;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+SARI Luana; Alghero (SS); 15/04/1968; Via Verdi, 32-07041Alghero (SS); 12198 del-of 17/11/1999;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+SARNELLA Andrea; Carbonia (CI); 26/10/1966; Via Giudice Mariano 47-09131Cagliari (CA); 633 del-of 14/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+SAU Roberto; Dorgali (NU); 30/10/1958; Loc. Lolotha-08029Siniscola (NU); 6728 del-of 22/12/1992;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+SCANU Grazia Maria; Sassari (SS); 10/05/1970; Via Angelo Roth 1-07100Sassari (SS); 16532 del-of 01/07/2008;   ;  ISCRITTO ; SARDEGNA;
+
+SCASSEDDU Mauro; Cagliari (CA); 21/07/1968; Via Robert Koch, 1-09121Cagliari (CA); 13713 del-of 14/08/2002;   ;  ISCRITTO ; SARDEGNA;
+
+SCHIAFFINO Gian Giacomo; Sassari (SS); 08/05/1969; Via Tonnara 36/a-07040Stintino (SS); 56 del-of 07/09/2009;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+SCHIRRU Giuliana; Sant'antioco (CI); 06/12/1961; Via Garibaldi 21 Res. Sagittarius-09016Iglesias (CI); 11225 del-of 17/02/1998;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+SCHIRRU Riccardo; Cagliari (CA); 19/02/1978; Via Emilio Lussu 19-09040Settimo San Pietro (CA); 442 del-of 29/11/2012;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+SCODINO Paolo; Ozieri (SS); 10/07/1976; Via Vittorio Veneto, 6-07014Ozieri (SS); 13781 del-of 15/10/2002;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+SCUMACE Monia; Milano (MI); 29/05/1975; Via Praga 89-09045Quartu Sant'elena (CA); 51 del-of 23/07/2009;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+SECCHI Gianluca; Sassari (SS); 03/07/1980; Via Nizza 16 E-07100Sassari (SS); 846 del-of 06/07/2017;   BANCO DI SARDEGNA SPA;  ISCRITTO ; SARDEGNA;
+
+SECCHI Pio; Mandas (CA); 20/07/1951; Via Delle Felci 13-09012Capoterra (CA); 9623 del-of 04/12/1995;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+SECCI Giovanna; San Vito (CA); 03/05/1960; Loc. Porto Corallo-09040Villaputzu (CA); 13125 del-of 15/05/2001;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+SECHI Gian Mario; Sassari (SS); 05/12/1967; Via Xx Settembre 17-07041Alghero (SS); 16407 del-of 26/03/2008;   ;  ISCRITTO ; SARDEGNA;
+
+SECHI Giovanni; Ittiri (SS); 14/11/1969; Via Angelo Roth 25-07044Ittiri (SS); 13781 del-of 15/10/2002;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+SECHI Maria Sabina; Guspini (VS); 09/01/1964; Via Mazzini 22-07037Sorso (SS); 626 del-of 18/12/2014;   ;  ISCRITTO ; SARDEGNA;
+
+SECONDIN Luigi; Monselice (PD); 05/10/1972; Via Marco Polo Snc C/o Resid Terme Di Casteldoria-07030Santa Maria Coghinas (SS); 12522 del-of 10/05/2000;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; SARDEGNA;
+
+SEDDA Roberta; Oristano (OR); 21/02/1985; Via Giacomo Matteotti 18-09170Oristano (OR); 642 del-of 12/02/2015;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+SELIS Mauro; Sinnai (CA); 19/12/1962; Via Boccherini 98/a-09045Quartu Sant'elena (CA); 511 del-of 02/10/2013;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+SELLO Stefano; Cagliari (CA); 11/03/1964; Via Delle Lucciole 25-09134Cagliari (CA); 7447 del-of 18/10/1993;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+SENES Maria Lucia; Bonorva (SS); 19/08/1967; Via Ugo Andrea Padula 6-07100Sassari (SS); 13125 del-of 15/05/2001;   ;  ISCRITTO ; SARDEGNA;
+
+SENIS Stefania; Cagliari (CA); 07/07/1970; Via Goldoni, 11-09131Cagliari (CA); 14650 del-of 20/07/2004;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+SERPI Antonello; Cagliari (CA); 29/09/1959; Viale Leonardo Da Vinci 51-09045Quartu Sant'elena (CA); 5949 del-of 28/01/1992;   DEUTSCHE BANK SPA;  ISCRITTO ; SARDEGNA;
+
+SERRA Alessio; Cagliari (CA); 22/02/1980; Via Francesco Cocco Ortu 32-09128Cagliari (CA); 771 del-of 13/09/2016;   CHEBANCA! SPA;  ISCRITTO ; SARDEGNA;
+
+SERRA Alice; Sassari (SS); 11/04/1987; Via Calabria 18-09085Ruinas (OR); 331 del-of 28/07/2011;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+SERRA Angelino; Sassari (SS); 06/04/1973; Via Guido Sieni 15-07100Sassari (SS); 633 del-of 14/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+SERRA Antonio Maria; Sedini (SS); 11/03/1948; Via Don Minzoni, Traversa A-07041Alghero (SS); 5949 del-of 28/01/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+SERRA Francesco; Cagliari (CA); 02/10/1953; Via Goffredo Mameli 83-09124Cagliari (CA); 6728 del-of 22/12/1992;   ;  ISCRITTO ; SARDEGNA;
+
+SERRA Gianluca; Cagliari (CA); 18/05/1971; Via J. Keplero, 9-09100Cagliari (CA); 13096 del-of 24/04/2001;   Kairos Partners SGR Spa;  ISCRITTO ; SARDEGNA;
+
+SERRA Luciano; Sliema (MALTA); 27/06/1962; Via Irlanda 122-09045Quartu Sant'elena (CA); 10286 del-of 23/10/1996;   SOLIDARIETA' & FINANZA SIM SPA;  ISCRITTO ; SARDEGNA;
+
+SERRA Pierpaolo; Nurri (CA); 10/08/1959; Via Solmi 46-09129Cagliari (CA); 16532 del-of 01/07/2008;   ;  ISCRITTO ; SARDEGNA;
+
+SERRA Roberto; Cagliari (CA); 02/06/1969; Via Avicenna 1-09131Cagliari (CA); 12198 del-of 17/11/1999;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+SERRELI Giuseppe; Monserrato (CA); 28/04/1955; Via M.f.camillo 24-09042Monserrato (CA); 12079 del-of 28/07/1999;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; SARDEGNA;
+
+SERRI Gianluca; Cagliari (CA); 27/01/1966; Via Mar Adriatico 62-09045Quartu Sant'elena (CA); 14812 del-of 07/12/2004;   ;  ISCRITTO ; SARDEGNA;
+
+SERUIS Nicola; Cagliari (CA); 02/07/1980; Via Italia 77-09134Cagliari (CA); 887 del-of 31/01/2018;   ;  ISCRITTO ; SARDEGNA;
+
+SIMULA Cinzia; Macomer (NU); 11/03/1965; Viale San Vincenzo 51-09123Cagliari (CA); 555 del-of 27/02/2014;   ;  ISCRITTO ; SARDEGNA;
+
+SINI Nanni; Sassari (SS); 28/03/1969; Via Caruso 36-07100Sassari (SS); 11357 del-of 28/04/1998;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+SOFFIETTI Giovanni; Cagliari (CA); 26/05/1976; Via Ariosto 13-09100Cagliari (CA); 156 del-of 18/03/2010;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+SOI Nicola; Oristano (OR); 21/12/1990; Via Vittorio Veneto 154-09170Oristano (OR); 753 del-of 26/05/2016;   ;  ISCRITTO ; SARDEGNA;
+
+SOLIANI Umberto; Mogoro (OR); 10/02/1961; Vico Iv G. Pili 5-09090Tiria (OR); 13481 del-of 12/03/2002;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+SOLINA Sara; Iglesias (CI); 25/05/1985; Via Argentaria 28-09016Iglesias (CI); 604 del-of 18/09/2014;   ;  ISCRITTO ; SARDEGNA;
+
+SOLINAS Antonio; Ittiri (SS); 24/08/1945; Via Volturno, 13-09170Oristano (OR); 12634 del-of 27/06/2000;   ;  ISCRITTO ; SARDEGNA;
+
+SOLINAS Sara; Cagliari (CA); 06/06/1988; Via Dei Falconi 2-09126Cagliari (CA); 759 del-of 16/06/2016;   ;  ISCRITTO ; SARDEGNA;
+
+SOLLAI Fabio; Villacidro (VS); 04/03/1979; Via Sassari, 521-09039Villacidro (VS); 12461 del-of 29/03/2000;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+SOLLAI Massimo; Muravera (CA); 13/06/1963; Via G. Donizetti 65-09128Cagliari (CA); 12323 del-of 19/01/2000;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+SOLLAI Pasquale; Cagliari (CA); 12/04/1966; Via Monte Santo 59-09122Cagliari (CA); 15370 del-of 28/03/2006;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+SORBELLO Sonia; Oristano (OR); 29/07/1992; Via Cagliari 34-09071Abbasanta (OR); 759 del-of 16/06/2016;   ;  ISCRITTO ; SARDEGNA;
+
+SORGIA Andrea; Cagliari (CA); 19/02/1962; Via C.goldoni 25-09131Cagliari (CA); 12158 del-of 19/10/1999;   ;  ISCRITTO ; SARDEGNA;
+
+SORIGA Claudio; Guspini (VS); 01/12/1951; Via Tirso 13-09030Elmas (CA); 148 del-of 19/02/2010;   ;  ISCRITTO ; SARDEGNA;
+
+SORO Andreina; Sarule (NU); 23/11/1953; Via B. Sassari 27-08020Sarule (NU); 347 del-of 17/10/2011;   ;  ISCRITTO ; SARDEGNA;
+
+SPADA Maria Caterina; Sassari (SS); 30/06/1966; Via Brigata Sassri 18-07030Cargeghe (SS); 16625 del-of 23/09/2008;   ;  ISCRITTO ; SARDEGNA;
+
+SPANO Francesco; Sassari (SS); 16/12/1967; Via Petrarca, 5-07041Alghero (SS); 12198 del-of 17/11/1999;   BANCA REALE SPA;  ISCRITTO ; SARDEGNA;
+
+SPANO Paolo; Sassari (SS); 05/01/1967; Via G. Umana 2-07100Sassari (SS); 6956 del-of 31/03/1993;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+SPANO Paolo; Cagliari (CA); 12/09/1962; Via Sicilia, 38-09032Assemini (CA); 7447 del-of 18/10/1993;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+SPANO Pierpaolo; Olbia (OT); 01/01/1971; Via Svezia 21-07026Olbia (OT); 12461 del-of 29/03/2000;   AZIMUT CAPITAL MANAGEMENT SGR SPA;  ISCRITTO ; SARDEGNA;
+
+SPECCHIA Pierluigi; Napoli (NA); 21/11/1956; Localita' Torre Degli Ulivi 77 Settore A-09012Capoterra (CA); 6728 del-of 22/12/1992;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+SPEDICATO Vito Alessandro; Galatina (LE); 21/03/1988; Via Santa Gilla 14-09122Cagliari (CA); 646 del-of 26/02/2015;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+SPINELLI Lavinia; Padria (SS); 09/04/1968; Ss 127 Sassari Osilo 14-07100Sassari (SS); 633 del-of 14/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+SPUNTARELLI Alessandra; Roma (RM); 20/09/1966; Strada Provinciale 73 34-07026Olbia (OT); 9536 del-of 23/10/1995;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+STEFANINI Federico Pierluigi; Pievepelago (MO); 01/04/1941; Viale Vienna 197-09047Selargius (CA); 13839 del-of 27/11/2002;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+STROSCIO Gaetano; Cagliari (CA); 16/06/1992; Strada Provinciale 35 Snc-09040Guasila (SU); 871 del-of 15/12/2017;   FINECOBANK BANCA FINECO SPA;  ISCRITTO ; SARDEGNA;
+
+SULANAS Andrea; Cagliari (CA); 29/01/1973; Via Dell'abbondanza 42-09100Cagliari (CA); 14650 del-of 20/07/2004;   INTESA SANPAOLO PRIVATE BANKING SPA;  ISCRITTO ; SARDEGNA;
+
+SULIS Carla; Cagliari (CA); 29/08/1980; Via Tamburino Sardo, 42-09134Cagliari (CA); 16625 del-of 23/09/2008;   ;  ISCRITTO ; SARDEGNA;
+
+SULIS Gianluca; Cagliari (CA); 09/03/1967; Via Ravenna 13-09125Cagliari (CA); 11923 del-of 14/04/1999;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; SARDEGNA;
+
+SULIS Giovanni; Cagliari (CA); 16/12/1964; Via Cimabue 16-09018Sarroch (CA); 9996 del-of 28/05/1996;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+SULLIOTTI Stefano; Cagliari (CA); 06/09/1965; Via Gramsci 8-09045Quartu Sant'elena (CA); 5949 del-of 28/01/1992;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+TAMMARO Raffaele Maria; Sassari (SS); 28/07/1961; Via Carlo Forlanini 4-07100Sassari (SS); 11320 del-of 08/04/1998;   ;  ISCRITTO ; SARDEGNA;
+
+TAMPONI Alberto; Oristano (OR); 31/03/1968; Via Lepanto N.79-09170Oristano (OR); 12461 del-of 29/03/2000;   ;  ISCRITTO ; SARDEGNA;
+
+TAMPONI Mauro; Sassari (SS); 17/07/1966; Via Donizetti-09170Oristano (OR); 13521 del-of 16/04/2002;   ;  ISCRITTO ; SARDEGNA;
+
+TANCA Alessandro; Cagliari (CA); 27/02/1992; Viale Colombo 122-09045Quartu Sant'elena (CA); 804 del-of 18/01/2017;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+TEDDE Matteo; Alghero (SS); 20/04/1975; Via Rossini 1-07041Alghero (SS); 616 del-of 13/11/2014;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+TENEGGI Maria Carla; Sassuolo (MO); 17/04/1981; Via Dei Pini Loc. Baia Sardinia-07021Arzachena (SS); 14043 del-of 23/04/2003;   BPER BANCA SPA;  ISCRITTO ; SARDEGNA;
+
+TOCCO Marco Antonio; Carbonia (CI); 29/03/1952; Via Mandrolisai 70-09045Quartu Sant'elena (CA); 442 del-of 29/11/2012;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+TOCCO Valeria; Cagliari (CA); 06/03/1971; Via Paruta 3-09131Cagliari (CA); 654 del-of 01/04/2015;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+TOLA Roberto; Sassari (SS); 25/12/1952; Via Figari 5-07100Sassari (SS); 5949 del-of 28/01/1992;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+TOMASI Roberto; Grottaglie (TA); 19/10/1971; Via A. Poliziano 27/29-09131Cagliari (CA); 12079 del-of 28/07/1999;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+TOMASSINI Maria Flavia; Roma (RM); 25/05/1955; Via Ospitone 14-07100Sassari (SS); 11062 del-of 02/12/1997;   BANCA NAZIONALE DEL LAVORO S.P.A.;  ISCRITTO ; SARDEGNA;
+
+TRONCI Carlo; Cagliari (CA); 18/03/1961; Viale Poetto 16-09126Cagliari (CA); 14067 del-of 13/05/2003;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+TRONCI Giovanni Paolo; Nuoro (NU); 13/05/1971; Piazza Melis, 3-08100Nuoro (NU); 12886 del-of 02/01/2001;   ;  ISCRITTO ; SARDEGNA;
+
+TRONCI Paola; Nuoro (NU); 31/12/1974; Piazza Melis, 3-08100Nuoro (NU); 12886 del-of 02/01/2001;   ;  ISCRITTO ; SARDEGNA;
+
+TRONCI Sergio; Cagliari (CA); 25/02/1970; Via Irlanda 6-09045Quartu Sant'elena (CA); 474 del-of 27/03/2013;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+TRUZZU Gianfranco; Cagliari (CA); 25/08/1968; Via Generale Cagna 41-09126Cagliari (CA); 11923 del-of 14/04/1999;   ;  ISCRITTO ; SARDEGNA;
+
+TUMARI Alessandra; Padova (PD); 23/03/1976; Via Cagliari 280-09028Sestu (CA); 898 del-of 27/03/2018;   ;  ISCRITTO ; SARDEGNA;
+
+TURTAS Diego; Bitti (NU); 15/12/1944; Via G.galilei 3-08021Bitti (NU); 8004 del-of 27/04/1994;   ;  ISCRITTO ; SARDEGNA;
+
+TUVERI Eleano; San Gavino Monreale (VS); 25/07/1965; Via F. Birocchi 63-09030Sardara (VS); 9141 del-of 27/03/1995;   ;  ISCRITTO ; SARDEGNA;
+
+UDA Alfio; Macomer (NU); 28/08/1966; Via Aspromonte 2-08015Macomer (NU); 12079 del-of 28/07/1999;   ;  ISCRITTO ; SARDEGNA;
+
+USAI Carlo; Sassari (SS); 31/05/1972; Via Istria 16 L-07100Sassari (SS); 16227 del-of 20/11/2007;   BANCA POPOLARE ETICA SOCIETA' COOPERATIVA PER AZIONI;  ISCRITTO ; SARDEGNA;
+
+USAI Fabrizio; Cagliari (CA); 27/05/1972; Via Xxv Aprile 6-09047Selargius (CA); 13191 del-of 10/07/2001;   BANCA MONTE DEI PASCHI DI SIENA SPA;  ISCRITTO ; SARDEGNA;
+
+VACCA Angelo; Sassari (SS); 12/12/1971; Via De Gasperi 5-07100Sassari (SS); 642 del-of 12/02/2015;   ;  ISCRITTO ; SARDEGNA;
+
+VACCA Gianfranco; Nuoro (NU); 04/05/1977; Strada Vicinale Monti Bianchinu 45 Box 13-07100Sassari (SS); 13243 del-of 29/08/2001;   CHEBANCA! SPA;  ISCRITTO ; SARDEGNA;
+
+VACCA Pierre Paul; Chalon Sur Saone (FRANCIA); 22/10/1966; Via Della Resistenza 28-09028Sestu (CA); 6728 del-of 22/12/1992;   BANCA EUROMOBILIARE S.P.A.;  ISCRITTO ; SARDEGNA;
+
+VACCA Riccardo; Milano (MI); 01/11/1964; Localita' Cannas Di Sopra Snc-09013Carbonia (CI); 633 del-of 14/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+VACCA Stefano; Cagliari (CA); 08/06/1966; Via Meana Sardo 29-09044Quartucciu (CA); 12502 del-of 27/04/2000;   BANCA WISE DIALOG BANK SPA - BANCA WIDIBA;  ISCRITTO ; SARDEGNA;
+
+VALDES Gesuino; Villasor (CA); 07/05/1974; Via Don Bosco 1-09034Villasor (CA); 626 del-of 18/12/2014;   Intesa Sanpaolo spa;  ISCRITTO ; SARDEGNA;
+
+VALDES Maria Bonaria; Sestu (CA); 22/05/1961; Via Berna 10 Int. A-09049Villasimius (CA); 633 del-of 14/01/2015;   ;  ISCRITTO ; SARDEGNA;
+
+VALLEBONA Giuseppe; Carloforte (CI); 28/02/1938; V. Monte Mixi 11/a-09126Cagliari (CA); 5949 del-of 28/01/1992;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; SARDEGNA;
+
+VARRUCCIU Mario; Olbia (OT); 20/11/1966; Via Filarete 10-07026Olbia (OT); 6728 del-of 22/12/1992;   IW BANK SPA;  ISCRITTO ; SARDEGNA;
+
+VIDILI Elena; Sassari (SS); 10/12/1957; Via Delle Magnolie, 45-07100Sassari (SS); 14067 del-of 13/05/2003;   BANCA PATRIMONI SELLA & C. SPA;  ISCRITTO ; SARDEGNA;
+
+VIGNALI Ruero Antonio; Carbonia (CI); 17/10/1950; Via Palestrina 5-09129Cagliari (CA); 5949 del-of 28/01/1992;   CONSULTINVEST INVESTIMENTI SIM SPA;  ISCRITTO ; SARDEGNA;
+
+VINTI Antonio; Roma (RM); 25/06/1964; Via Del Sole 21-09126Cagliari (CA); 15215 del-of 15/11/2005;   ;  ISCRITTO ; SARDEGNA;
+
+VIRDIS Mario; Bauladu (OR); 15/07/1945; Viale San Martino 17-09170Oristano (OR); 10638 del-of 16/04/1997;   ;  ISCRITTO ; SARDEGNA;
+
+VIRDIS Roberto; Cagliari (CA); 15/05/1966; Via Del Bosso 12 (pirri)-09134Cagliari (CA); 6956 del-of 31/03/1993;   BANCA MEDIOLANUM SPA;  ISCRITTO ; SARDEGNA;
+
+ZAMARA Gian Luca; Torino (TO); 01/06/1961; Via Filippo Turati 91-09045Quartu Sant'elena (CA); 9996 del-of 28/05/1996;   FIDEURAM - INTESA SANPAOLO PRIVATE BANKING SPA IN FORMA ABBREVIATA FIDEURAM SPA;  ISCRITTO ; SARDEGNA;
+
+ZANDA Davide; San Gavino Monreale (VS); 29/06/1974; Via Emilio Lussu 19 A-09040Settimo San Pietro (CA); 866 del-of 21/11/2017;   ;  ISCRITTO ; SARDEGNA;
+
+ZANNIN Maurizio; Montebelluna (TV); 09/07/1959; Localita' Salinedda-08020San Teodoro (OT); 13015 del-of 20/03/2001;   SANPAOLO INVEST SIM SPA;  ISCRITTO ; SARDEGNA;
+
+ZARA Marco; Iglesias (CI); 12/01/1952; Via Aristotele 6/8-07026Olbia (OT); 6956 del-of 31/03/1993;   ;  ISCRITTO ; SARDEGNA;
+
+ZARA Massimo Ugo Mario; Carbonia (CI); 31/12/1961; Via Francesco Petrarca 12-09128Cagliari (CA); 580 del-of 13/05/2014;   UNICREDIT SPA;  ISCRITTO ; SARDEGNA;
+
+ZEDDA Carmela; Sorgono (NU); 06/02/1964; Corso Vittorio Emanuele, 50-09124Cagliari (CA); 6956 del-of 31/03/1993;   BANCA GENERALI SPA;  ISCRITTO ; SARDEGNA;
+
+ZEDDA Salvatore Mario; Sorgono (NU); 15/08/1966; Via Argentiera 56-09121Cagliari (CA); 11225 del-of 17/02/1998;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+ZUCCA Alberto; Villaurbana (OR); 27/05/1966; Via Cagliari, 244-09170Oristano (OR); 13921 del-of 04/02/2003;   ALLIANZ BANK FINANCIAL ADVISORS SPA;  ISCRITTO ; SARDEGNA;
+
+ZURRIDA Valeria; Cagliari (CA); 21/02/1960; Strada 35-09012Poggio Dei Pini (CA); 14292 del-of 04/11/2003;   ;  ISCRITTO ; SARDEGNA;
+
+ZURRU Fabrizio; Cagliari (CA); 10/05/1974; Via Carducci 31-09035Gonnosfanadiga (VS); 31 del-of 26/05/2009;   ;  ISCRITTO ; SARDEGNA;
+

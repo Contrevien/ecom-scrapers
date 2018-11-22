@@ -4,10 +4,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import os
-import urllib.request
 import time
 import json
 from pymongo import MongoClient
+from monitorLogs import monitorAndLog
 
 currencyMap = {
     "US": "USD",
@@ -129,10 +129,8 @@ def get_customer_ratings(el, marketPlace):
 def scrape_element(el, marketPlace, timestamp, detailedResults):
     temp = dict()
     temp["asinCode"] = el.get_attribute("data-asin")
-    temp["htmlLinkPage"] = el.find_element_by_class_name(
-        "s-access-detail-page").get_attribute("href")
-    temp["title"] = el.find_element_by_tag_name(
-        "h2").get_attribute("data-attribute")
+    temp["htmlLinkPage"] = el.find_element_by_class_name("s-access-detail-page").get_attribute("href")
+    temp["title"] = el.find_element_by_tag_name("h2").get_attribute("data-attribute")
     temp["currency"], price = get_price_and_currency(el, marketPlace)
     temp["prices"] = [{"price": price, "timestamp": timestamp}]
     if detailedResults != 1:
@@ -337,7 +335,7 @@ def open_url(marketPlace, keyword, sorter):
         return -1
 
 
-def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResults=0, mode=1):
+def scrapeAmazon(mode, keywords, marketPlaces, sortBy=0, detailedResults=0, limitResults=0):
     finalObject = []
     sortArray = ["relevancerank", "popularity-rank", "price-asc-rank",
                  "price-desc-rank", "review-rank", "date-desc-rank"]
@@ -356,8 +354,7 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
                 return
 
             # scrape the results
-            thisSearch, totalResults = scrape_less_detailed(
-                marketPlace, limitResults, timestamp, detailedResults)
+            thisSearch, totalResults = scrape_less_detailed(marketPlace, limitResults, timestamp, detailedResults)
             for x in thisSearch:
                 x["timestamp"] = timestamp
                 x["keyword"] = keyword
@@ -374,12 +371,12 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
             # if detailedResults
             if detailedResults == 1:
                 thisSearch = get_detailed_results(thisSearch, marketPlace, timestamp)
-                if mode == 1:
+                if mode == 2:
                     print("Storing in DB")
                     for x in thisSearch:
                         scraperDb.amazonDetailedProducts.insert_one(x)
             else:
-                if mode == 1:
+                if mode == 2:
                     print("Storing in DB")
                     for x in thisSearch:
                         scraperDb.amazonSimpleProducts.insert_one(x)
@@ -387,16 +384,7 @@ def scrapeAmazon(keywords, marketPlaces, sortBy=0, detailedResults=0, limitResul
             # add the result to the final object
             finalObject.extend(thisSearch)
     driver.quit()
-    collection = ""
-    if detailedResults == 1:
-        collection = "amazonDetailedProducts"
-    else:
-        collection = "amazonSimpleProducts"
-    for x in scraperDb.errors.find({"type": collection}):
-        y = x.copy()
-        if len(errors) != 0:
-            errors["timestamp"] = timestamp
-            y["errors"].append(errors)
-            scraperDb.errors.find_one_and_replace({"type": collection}, y)
-    return finalObject
+    return finalObject, errors
+
+op = monitorAndLog(scrapeAmazon, 2, ["sport watch"], ["US"], 0, 0, 1)
 
