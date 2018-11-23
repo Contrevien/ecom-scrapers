@@ -8,7 +8,6 @@ import os
 import time
 import json
 from pymongo import MongoClient
-import pprint
 
 currencyMap = {
     "US": "USD",

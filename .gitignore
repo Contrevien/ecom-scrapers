@@ -2,10 +2,9 @@ amazon-scraping/tools/
 ebay-scraping/tools/
 google-search-scraping/tools/
 linkedin-scraping/tools/
+tools/
 
 amazon-scraping/*.json
 google-search-scraping/*.json
 ebay-scraping/*.json
 linkedin-scraping/*.json
-
-*.sh

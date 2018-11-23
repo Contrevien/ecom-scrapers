@@ -7,7 +7,7 @@ import os
 import time
 import json
 from pymongo import MongoClient
-from monitorLogs import monitorAndLog
+import platform
 
 currencyMap = {
     "US": "USD",
@@ -20,6 +20,7 @@ ch = os.getcwd() + '/tools/chromedriver'
 options = Options()
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
+options.set_headless(headless=True)
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
@@ -85,11 +86,9 @@ def get_price_and_currency(el, marketPlace):
 
 def get_avg_ratings(el):
     try:
-        text = el.find_element_by_tag_name(
-            "i").get_attribute("class").split()[-1]
+        text = el.find_element_by_tag_name("i").get_attribute("class").split()[-1]
         if "a-star" not in text:
-            text = el.find_elements_by_tag_name(
-                "i")[1].get_attribute("class").split()[-1]
+            text = el.find_elements_by_tag_name("i")[1].get_attribute("class").split()[-1]
         text = text.split("-")
         rating = ""
         for x in text:
@@ -132,12 +131,16 @@ def scrape_element(el, marketPlace, timestamp, detailedResults):
     temp["htmlLinkPage"] = el.find_element_by_class_name("s-access-detail-page").get_attribute("href")
     temp["title"] = el.find_element_by_tag_name("h2").get_attribute("data-attribute")
     temp["currency"], price = get_price_and_currency(el, marketPlace)
-    temp["prices"] = [{"price": price, "timestamp": timestamp}]
+    temp["changingInfos"] = []
+    temptemp = dict()
+    temptemp["timestamp"] = timestamp
+    temp["changingInfos"].append(temptemp)
+    temp["changingInfos"][0]["price"] =  price
     if detailedResults != 1:
-        temp["ratingsOf5Stars"] = [{"ratingOf5Stars": get_avg_ratings(el), "timestamp": timestamp}]
-    temp["customersReviewsCounts"] = [{"customersReviewsCount": get_customer_ratings(el, marketPlace), "timestamp": timestamp}]
-
+        temp["changingInfos"][0]["ratingOf5Stars"] = get_avg_ratings(el)
+    temp["changingInfos"][0]["customersReviewsCount"] = get_customer_ratings(el, marketPlace)
     return temp
+    
 
 
 def scrape_less_detailed(marketPlace, limitResults, timestamp, detailedResults):
@@ -154,8 +157,7 @@ def scrape_less_detailed(marketPlace, limitResults, timestamp, detailedResults):
             resultsFound += 1
         except:
             try:
-                driver.get(driver.find_element_by_id(
-                    "pagnNextLink").get_attribute("href"))
+                driver.get(driver.find_element_by_id("pagnNextLink").get_attribute("href"))
                 page += 1
                 print("Scraping Page " + str(page) + " of results")
             except:
@@ -217,14 +219,12 @@ def filter_specs(tbody):
 def get_specs():
     tbody = ""
     try:
-        driver.get(driver.find_element_by_id(
-            "softlinesTechnicalSpecificationsLink").get_attribute("href"))
+        driver.get(driver.find_element_by_id("softlinesTechnicalSpecificationsLink").get_attribute("href"))
         tbody = driver.find_element_by_id("technicalSpecifications_section_1")
         return filter_specs(tbody)
     except:
         try:
-            tbody = driver.find_element_by_id(
-                "technicalSpecifications_feature_div")
+            tbody = driver.find_element_by_id("technicalSpecifications_feature_div")
             return filter_specs(tbody)
         except:
             return "NA"
@@ -265,16 +265,14 @@ def scrape_also_bought_element(el, marketPlace):
     try:
         for span in el.find_elements_by_tag_name("span"):
             if "a-color-price" in span.get_attribute("class"):
-                details["currency"], details["price"] = separate_price_and_currency(
-                    span.text, marketPlace)
+                details["currency"], details["price"] = separate_price_and_currency(span.text, marketPlace)
     except:
         details["currency"], details["price"] = ["NA", "NA"]
 
     details["htmlLinkPage"] = a[0].get_attribute("href")
     details["ratingOf5stars"] = get_avg_ratings(el)
     try:
-        details["customersReviewsCount"] = int(
-            "".join(a[-2].text.split(",")))
+        details["customersReviewsCount"] = int("".join(("".join(("".join(a[-2].text.split(","))).split())).split(".")))
     except:
         details["customersReviewsCount"] = "NA"
     return details
@@ -317,7 +315,7 @@ def get_detailed_results(arr, marketPlace, timestamp):
         arr[i]["description"] = get_description()
         arr[i]["customersAlsoBought"] = get_also_bought(marketPlace)
         arr[i]["productSpecs"] = get_specs()
-        arr[i]["ratings"] = [{ "rating": get_detailed_ratings(), "timestamp": timestamp }]
+        arr[i]["changingInfos"][0]["rating"] = get_detailed_ratings()
     return arr
 
 
@@ -335,10 +333,15 @@ def open_url(marketPlace, keyword, sorter):
         return -1
 
 
-def scrapeAmazon(mode, keywords, marketPlaces, sortBy=0, detailedResults=0, limitResults=0):
+def scrapeAmazon(mode, keywords, marketPlaces, sortBy, detailedResults=0, limitResults=0):
     finalObject = []
-    sortArray = ["relevancerank", "popularity-rank", "price-asc-rank",
-                 "price-desc-rank", "review-rank", "date-desc-rank"]
+    sortArray = {
+        "Featured": "relevancerank",
+        "Price: Low to High": "price-asc-rank",
+        "Price: High to Low": "price-desc-rank",
+        "Avg. Customer Review": "review-rank",
+        "Newest arrivals": "date-desc-rank"
+    }
 
     sorter = sortArray[sortBy]
 
@@ -360,7 +363,7 @@ def scrapeAmazon(mode, keywords, marketPlaces, sortBy=0, detailedResults=0, limi
                 x["keyword"] = keyword
                 x["marketPlace"] = marketPlace
                 x["sortBy"] = sortBy
-                x["resultsNumber"] = [{"resultsCount": totalResults, "timestamp": timestamp}]
+                x["changingInfos"][0]["resultsCount"] = totalResults
                 if limitResults == 0:
                     x["limitResults"] = 0
                 else:
@@ -380,11 +383,25 @@ def scrapeAmazon(mode, keywords, marketPlaces, sortBy=0, detailedResults=0, limi
                     print("Storing in DB")
                     for x in thisSearch:
                         scraperDb.amazonSimpleProducts.insert_one(x)
-
             # add the result to the final object
             finalObject.extend(thisSearch)
     driver.quit()
-    return finalObject, errors
+    return finalObject
 
-op = monitorAndLog(scrapeAmazon, 2, ["sport watch"], ["US"], 0, 0, 1)
+start = time.time()
+op = scrapeAmazon(2, ["sport watch"], ["US"], "Featured", 1, 0)
+print("Logging in database")
+end = time.time()
+log = {}
 
+log["timestamp"] = int(time.time())
+log["scrapingTime"] = int((end-start)*100)/100
+log["objectScraped"] = len(op)
+log["errors"] = errors
+log["type"] = "scrapeAmazon"
+# 1048576  # KB to GB
+
+log["OS"] = platform.linux_distribution()[0]
+log["OSVersion"] = platform.linux_distribution()[1]
+log["CPU"] = platform.processor()
+scraperDb.executionLog.insert_one(log)

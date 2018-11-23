@@ -8,6 +8,7 @@ import urllib.request
 import time
 import sys
 import json
+import platform
 from pymongo import MongoClient
 
 currencyMap = {
@@ -21,6 +22,7 @@ ch = os.getcwd() + '/tools/chromedriver'
 options = Options()
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
+options.set_headless(headless=True)
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
@@ -122,6 +124,10 @@ def scrape_element(el, marketPlace, limitResults):
     obj["type"] = "amazonBestSellers"
     obj["marketPlace"] = marketPlace
     obj["timestamp"] = timestamp
+    obj["changingInfos"] = []
+    temp = {}
+    temp["timestamp"] = timestamp
+    obj["changingInfos"].append(temp)
 
     a = el.find_elements_by_class_name("a-link-normal")
 
@@ -159,8 +165,7 @@ def scrape_element(el, marketPlace, limitResults):
             errors["rating"] += 1
         else:
             errors["rating"] = 1
-    obj["ratingsOf5Stars"] = [
-        {"timestamp": timestamp, "ratingOf5Stars": rating}]
+    obj["changingInfos"][0]["ratingOf5Stars"] = rating
 
     try:
         crc = "".join((a[2].text.split(",")))
@@ -175,8 +180,7 @@ def scrape_element(el, marketPlace, limitResults):
             errors["crc"] += 1
         else:
             errors["crc"] = 1
-    obj["customersReviewsCounts"] = [
-        {"timestamp": timestamp, "customersReviewsCount": crc}]
+    obj["changingInfos"][0]["customersReviewsCount"] = crc
 
     try:
         price = slice_price(a[3].text, marketPlace)
@@ -189,22 +193,20 @@ def scrape_element(el, marketPlace, limitResults):
         else:
             errors["price"] = 1
     obj["currency"] = currencyMap[marketPlace]
-    obj["prices"] = [{"timestamp": timestamp, "price": price}]
+    obj["changingInfos"][0]["price"] = price
 
     bestSellers.append(obj)
 
 
 def scrape_department(department, marketPlace, limitResults):
     print("Scraping", department)
-    ol = wait.until(EC.presence_of_element_located(
-        (By.ID, "zg-ordered-list")))
+    ol = wait.until(EC.presence_of_element_located((By.ID, "zg-ordered-list")))
     try:
         nextPage = driver.find_element_by_class_name("a-last")
     except:
         pass
     while True:
-        ol = wait.until(EC.presence_of_element_located(
-            (By.ID, "zg-ordered-list")))
+        ol = wait.until(EC.presence_of_element_located((By.ID, "zg-ordered-list")))
         for li in ol.find_elements_by_tag_name("li"):
             scrape_element(li, marketPlace, limitResults)
         try:
@@ -241,37 +243,26 @@ def loop_and_open(department, value, marketPlace, limitResults):
     else:
         for subdep in value.keys():
             loop_and_open(subdep, value[subdep], marketPlace, limitResults)
-        wait.until(EC.presence_of_element_located(
-            (By.ID, "zg_browseRoot")))
+        wait.until(EC.presence_of_element_located((By.ID, "zg_browseRoot")))
         print("Going back")
         driver.back()
         deparmentsHistory.pop()
         print("At", deparmentsHistory[-1])
 
 
-def amazonBestSellers(departments, marketPlaces, limitResults=0, mode=1):
-
+def amazonBestSellers(mode, departments, marketPlaces, limitResults=0):
     for marketPlace in marketPlaces:
         if open_url(marketPlace) == -1:
-            return
+            return []
         print(deparmentsHistory[-1])
         for department in departments.keys():
-            loop_and_open(
-                department, departments[department], marketPlace, limitResults)
+            loop_and_open(department, departments[department], marketPlace, limitResults)
         for x in bestSellers:
             x["limitResults"] = limitResults
-    if mode == 1:
+    if mode == 2:
         store_data()
-    else:
-        for x in scraperDb.errors.find({"type": "bestSellers"}):
-            y = x.copy()
-            if len(errors) != 0:
-                errors["timestamp"] = timestamp
-                y["errors"].append(errors)
-                scraperDb.errors.find_one_and_replace(
-                    {"type": "bestSellers"}, y)
-        return bestSellers
     driver.quit()
+    return bestSellers
 
 
 test = {
@@ -284,3 +275,21 @@ test = {
         },
     },
 }
+
+start = time.time()
+op = amazonBestSellers(2, test, ["US"], 0)
+print("Logging in database")
+end = time.time()
+log = {}
+
+log["timestamp"] = int(time.time())
+log["scrapingTime"] = int((end-start)*100)/100
+log["objectScraped"] = len(op)
+log["errors"] = errors
+log["type"] = "amazonBestSellers"
+# 1048576  # KB to GB
+
+log["OS"] = platform.linux_distribution()[0]
+log["OSVersion"] = platform.linux_distribution()[1]
+log["CPU"] = platform.processor()
+scraperDb.executionLog.insert_one(log)

@@ -11,6 +11,7 @@ import json
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 from amazonBestSellers import amazonBestSellers
+import platform
 
 
 timestamp = int(time.time())
@@ -27,13 +28,12 @@ test = {
     },
 }
 
-client = MongoClient(
-    'mongodb://developer:5cr4p3r18@devserver.nulabs.it:27027/scraperDb')
+client = MongoClient('mongodb://developer:5cr4p3r18@devserver.nulabs.it:27027/scraperDb')
 scraperDb = client.scraperDb
 
 
 def monitorBestSellers(departments, marketPlaces):
-    updatedOnes = amazonBestSellers(departments, marketPlaces, 0, 2)
+    updatedOnes = amazonBestSellers(1, departments, marketPlaces, 0)
     for x in updatedOnes:
         a = scraperDb.bestSellers.find(
             {"title": x["title"], "type": x["type"], "marketPlace": x["marketPlace"], "department": x["department"], "subDepartment": x["subDepartment"], "subSubDepartment": x["subSubDepartment"]})
@@ -43,18 +43,24 @@ def monitorBestSellers(departments, marketPlaces):
         else:
             for y in a:
                 print("Updating", y["title"][:20])
-                if y["customersReviewsCounts"][-1]["customersReviewsCount"] != x["customersReviewsCounts"][-1]["customersReviewsCount"]:
-                    y["customersReviewsCounts"].extend(
-                        x["customersReviewsCounts"])
-                else:
-                    y["customersReviewsCounts"][-1]["timestamp"] = x["customersReviewsCounts"][-1]["timestamp"]
-                if y["ratingsOf5Stars"][-1]["ratingOf5Stars"] != x["ratingsOf5Stars"][-1]["ratingOf5Stars"]:
-                    y["ratingsOf5Stars"].extend(x["ratingsOf5Stars"])
-                else:
-                    y["ratingsOf5Stars"][-1]["timestamp"] = x["ratingsOf5Stars"][-1]["timestamp"]
-                if y["prices"][-1]["price"] != x["prices"][-1]["price"]:
-                    y["prices"].extend(x["prices"])
-                else:
-                    y["prices"][-1]["timestamp"] = x["prices"][-1]["timestamp"]
-                scraperDb.bestSellers.find_one_and_replace(
-                    {"_id": y["_id"]}, y)
+                y["changingInfos"].extend(x["changingInfos"])
+                scraperDb.bestSellers.find_one_and_replace({"_id": y["_id"]}, y)
+    return updatedOnes
+
+start = time.time()
+op = monitorBestSellers(test, ["US"])
+print("Logging in database")
+end = time.time()
+log = {}
+
+log["timestamp"] = int(time.time())
+log["scrapingTime"] = int((end-start)*100)/100
+log["objectScraped"] = len(op)
+log["errors"] = errors
+log["type"] = "monitorBestSellers"
+# 1048576  # KB to GB
+
+log["OS"] = platform.linux_distribution()[0]
+log["OSVersion"] = platform.linux_distribution()[1]
+log["CPU"] = platform.processor()
+scraperDb.executionLog.insert_one(log)

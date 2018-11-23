@@ -17,6 +17,7 @@ ch = os.getcwd() + '/tools/chromedriver'
 options = Options()
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
+options.set_headless(headless=True)
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
@@ -113,32 +114,17 @@ def scrape_and_update(el, mode):
     driver.get(el["htmlLinkPage"])
     wait.until(EC.presence_of_element_located((By.ID, "reviewsMedley")))
     newOne = el.copy()
+    temp = {}
     if mode == "detailed":
-        rating = get_detailed_ratings()
-        if newOne["ratings"][-1]["rating"] != rating:
-            newOne["ratings"].append(
-                {"timestamp": timestamp, "rating": rating})
-        else:
-            newOne["ratings"][-1]["timestamp"] = timestamp
+        temp["rating"] = get_detailed_ratings()
+        
     if mode == "simple" or mode == "best":
-        rating = get_ratings(el["marketPlace"])
-        if newOne["ratingsOf5Stars"][-1]["ratingOf5Stars"] != rating:
-            newOne["ratingsOf5Stars"].append(
-                {"timestamp": timestamp, "ratingOf5Stars": rating})
-        else:
-            newOne["ratingsOf5Stars"][-1]["timestamp"] = timestamp
-    crc = get_reviews(el["marketPlace"])
-    if newOne["customersReviewsCounts"][-1]["customersReviewsCount"] != crc:
-        newOne["customersReviewsCounts"].append(
-            {"timestamp": timestamp, "customersReviewsCount": crc})
-    else:
-        newOne["customersReviewsCounts"][-1]["timestamp"] = timestamp
-    price = get_price(el["marketPlace"])
-    if newOne["prices"][-1]["price"] != price:
-        newOne["prices"].append(
-            {"timestamp": timestamp, "price": price})
-    else:
-        newOne["prices"][-1]["timestamp"] = timestamp
+        temp["ratingOf5Stars"] = get_ratings(el["marketPlace"])
+        
+    temp["customersReviewsCount"] = get_reviews(el["marketPlace"])
+    temp["price"] = get_price(el["marketPlace"])
+    temp["timestamp"] = timestamp
+    newOne["changingInfos"].append(temp)
     return newOne
 
 
@@ -147,8 +133,7 @@ def monitor_best_sellers():
         print("Scraping", x["title"][:20])
         temp = scrape_and_update(x, "best")
         print("Updating", x["title"][:20])
-        scraperDb.bestSellers.find_one_and_replace(
-            {"_id": x["_id"]}, temp)
+        scraperDb.bestSellers.find_one_and_replace({"_id": x["_id"]}, temp)
 
 
 def monitor_simple_products():
@@ -156,8 +141,7 @@ def monitor_simple_products():
         print("Scraping", x["title"][:20])
         temp = scrape_and_update(x, "simple")
         print("Updating", x["title"][:20])
-        scraperDb.amazonSimpleProducts.find_one_and_replace(
-            {"_id": x["_id"]}, temp)
+        scraperDb.amazonSimpleProducts.find_one_and_replace({"_id": x["_id"]}, temp)
 
 
 def monitor_detailed_products():
@@ -165,11 +149,12 @@ def monitor_detailed_products():
         print("Scraping", x["title"][:20])
         temp = scrape_and_update(x, "detailed")
         print("Updating", x["title"][:20])
-        scraperDb.amazonDetailedProducts.find_one_and_replace(
-            {"_id": x["_id"]}, temp)
+        scraperDb.amazonDetailedProducts.find_one_and_replace({"_id": x["_id"]}, temp)
 
 
 def monitorProducts():
     monitor_detailed_products()
     monitor_simple_products()
     monitor_best_sellers()
+
+monitorProducts()

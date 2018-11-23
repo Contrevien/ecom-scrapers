@@ -11,6 +11,7 @@ import json
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 from scrapeAmazon import scrapeAmazon
+import platform
 
 
 timestamp = int(time.time())
@@ -21,38 +22,19 @@ client = MongoClient(
 scraperDb = client.scraperDb
 
 
-def monitorAmazon(keyowrds, marketPlaces, sortBy=0, detailedResults=0, limitResults=0):
-    updatedObjects = scrapeAmazon(
-        keyowrds, marketPlaces, sortBy, detailedResults, 1, 2)
+def monitorAmazon(keyowrds, marketPlaces, sortBy, detailedResults=0, limitResults=0):
+    updatedObjects = scrapeAmazon(1, keyowrds, marketPlaces, sortBy, detailedResults, 1)
     for x in updatedObjects:
         if detailedResults == 0:
-            a = scraperDb.amazonSimpleProducts.find(
-                {"asinCode": x["asinCode"], "sortBy": x["sortBy"], "type": x["type"], "marketPlace": x["marketPlace"], "keyword": x["keyword"]})
+            a = scraperDb.amazonSimpleProducts.find({"asinCode": x["asinCode"], "sortBy": x["sortBy"], "type": x["type"], "marketPlace": x["marketPlace"], "keyword": x["keyword"]})
             if a.count() == 0:
                 print("Adding", x["asinCode"])
                 scraperDb.amazonSimpleProducts.insert_one(x)
             else:
                 for y in a:
                     print("Updating", y["title"][:20])
-                    if y["resultsNumber"][-1]["resultsCount"] != x["resultsNumber"][-1]["resultsCount"]:
-                        y["resultsNumber"].extend(x["resultsNumber"])
-                    else:
-                        y["resultsNumber"][-1]["timestamp"] = x["resultsNumber"][-1]["timestamp"]
-                    if y["customersReviewsCounts"][-1]["customersReviewsCount"] != x["customersReviewsCounts"][-1]["customersReviewsCount"]:
-                        y["customersReviewsCounts"].extend(
-                            x["customersReviewsCounts"])
-                    else:
-                        y["customersReviewsCounts"][-1]["timestamp"] = x["customersReviewsCounts"][-1]["timestamp"]
-                    if y["ratingsOf5Stars"][-1]["ratingOf5Stars"] != x["ratingsOf5Stars"][-1]["ratingOf5Stars"]:
-                        y["ratingsOf5Stars"].extend(x["ratingsOf5Stars"])
-                    else:
-                        y["ratingsOf5Stars"][-1]["timestamp"] = x["ratingsOf5Stars"][-1]["timestamp"]
-                    if y["prices"][-1]["price"] != x["prices"][-1]["price"]:
-                        y["prices"].extend(x["prices"])
-                    else:
-                        y["prices"][-1]["timestamp"] = x["prices"][-1]["timestamp"]
-                    scraperDb.amazonSimpleProducts.find_one_and_replace(
-                        {"_id": y["_id"]}, y)
+                    y["changingInfos"].extend(x["changingInfos"])
+                    scraperDb.amazonSimpleProducts.find_one_and_replace({"_id": y["_id"]}, y)
 
         elif detailedResults == 1:
             a = scraperDb.amazonDetailedProducts.find(
@@ -63,26 +45,24 @@ def monitorAmazon(keyowrds, marketPlaces, sortBy=0, detailedResults=0, limitResu
             else:
                 for y in a:
                     print("Updating", y["title"][:20])
-                    if y["resultsNumber"][-1]["resultsCount"] != x["resultsNumber"][-1]["resultsCount"]:
-                        y["resultsNumber"].extend(x["resultsNumber"])
-                    else:
-                        y["resultsNumber"][-1]["timestamp"] = x["resultsNumber"][-1]["timestamp"]
-                    if y["customersReviewsCounts"][-1]["customersReviewsCount"] != x["customersReviewsCounts"][-1]["customersReviewsCount"]:
-                        y["customersReviewsCounts"].extend(
-                            x["customersReviewsCounts"])
-                    else:
-                        y["customersReviewsCounts"][-1]["timestamp"] = x["customersReviewsCounts"][-1]["timestamp"]
-                    if y["ratings"][-1]["rating"] != x["ratings"][-1]["rating"]:
-                        y["ratings"].extend(x["ratings"])
-                    else:
-                        y["ratings"][-1]["timestamp"] = x["ratings"][-1]["timestamp"]
+                    y["changingInfos"].extend(x["changingInfos"])
+                    scraperDb.amazonDetailedProducts.find_one_and_replace({"_id": y["_id"]}, y)
+    return updatedObjects
 
-                    if y["prices"][-1]["price"] != x["prices"][-1]["price"]:
-                        y["prices"].extend(x["prices"])
-                    else:
-                        y["prices"][-1]["timestamp"] = x["prices"][-1]["timestamp"]
-                    scraperDb.amazonDetailedProducts.find_one_and_replace(
-                        {"_id": y["_id"]}, y)
+start = time.time()
+op = monitorAmazon(["sport watch"], ["US"], "Featured")
+print("Logging in database")
+end = time.time()
+log = {}
 
+log["timestamp"] = int(time.time())
+log["scrapingTime"] = int((end-start)*100)/100
+log["objectScraped"] = len(op)
+log["errors"] = errors
+log["type"] = "monitorAmazon"
+# 1048576  # KB to GB
 
-monitorAmazon(["sport watch"], ["US"])
+log["OS"] = platform.linux_distribution()[0]
+log["OSVersion"] = platform.linux_distribution()[1]
+log["CPU"] = platform.processor()
+scraperDb.executionLog.insert_one(log)
