@@ -432,8 +432,8 @@ def scrapeAmazon(mode, keywords, marketPlaces, sortBy, detailedResults=0, limitR
 #             log["CPU"][splitInfo[0]] = splitInfo[1].strip()
 # log["ConnectionSpeed"] = {}
 # speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n'):
-# log["ConnectionSpeed"]["Upload"] = speedCheck[-1].split(':')[1].strip()
-# log["ConnectionSpeed"]["Download"] = speedCheck[-3].split(':')[1].strip()
-# log["ConnectionSpeed"]["Ping"] = speedCheck[-5].split(':')[1].strip()
+# log["ConnectionSpeed"]["Upload"] = speedCheck[-2].split(':')[1].strip()
+# log["ConnectionSpeed"]["Download"] = speedCheck[-4].split(':')[1].strip()
+# log["ConnectionSpeed"]["Ping"] = speedCheck[-6].split(':')[1].strip()
 
 # scraperDb.executionLog.insert_one(log)
