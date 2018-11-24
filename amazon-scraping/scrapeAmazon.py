@@ -8,6 +8,7 @@ import time
 import json
 from pymongo import MongoClient
 import platform
+from psutil import virtual_memory
 
 currencyMap = {
     "US": "USD",
@@ -186,8 +187,7 @@ def get_description():
 
 def get_detailed_ratings():
     try:
-        review = wait.until(
-            EC.presence_of_element_located((By.ID, "reviewsMedley")))
+        review = wait.until(EC.presence_of_element_located((By.ID, "reviewsMedley")))
         table = review.find_element_by_id("histogramTable")
         percents = table.find_elements_by_class_name("a-text-right")
         review_arr = []
@@ -309,11 +309,11 @@ def get_also_bought(marketPlace):
 def get_detailed_results(arr, marketPlace, timestamp):
     for i in range(len(arr)):
         # get detailed versions
-        print("Getting details of", arr[i]["title"][:20])
+        print("Getting details of " + arr[i]["title"][:20])
         driver.get(arr[i]["htmlLinkPage"])
         arr[i]["type"] = "scrapeAmazonDetailed"
         arr[i]["description"] = get_description()
-        arr[i]["customersAlsoBought"] = get_also_bought(marketPlace)
+        arr[i]["searchParams"][0]["changingInfos"][0]["customersAlsoBought"] = get_also_bought(marketPlace)
         arr[i]["productSpecs"] = get_specs()
         arr[i]["searchParams"][0]["changingInfos"][0]["rating"] = get_detailed_ratings()
     return arr
@@ -405,6 +405,7 @@ def scrapeAmazon(mode, keywords, marketPlaces, sortBy, detailedResults=0, limitR
     driver.quit()
     return finalObject
 
+# mem = virtual_memory()
 # start = time.time()
 # op = scrapeAmazon(2, ["sport watch"], ["US"], 1, 1, 2)
 # print("Logging in database")
@@ -418,7 +419,21 @@ def scrapeAmazon(mode, keywords, marketPlaces, sortBy, detailedResults=0, limitR
 # log["type"] = "scrapeAmazon"
 # # 1048576  # KB to GB
 
+# log["RAM"] = str(mem.total/1048576*1024) + " GB"
 # log["OS"] = platform.linux_distribution()[0]
 # log["OSVersion"] = platform.linux_distribution()[1]
-# log["CPU"] = platform.processor()
+# log["CPU"] = {}
+# for info in check_output(['lscpu']).decode('utf-8').split('\n'):
+#     splitInfo = info.split(':')
+#     if splitInfo[0] in ['Architecture', 'CPU op-mode(s)', 'Byte Order', 'CPU(s)', 'Thread(s) per core', 'Core(s) per socket', 'Socket(s)', 'Model name', 'CPU MHz']:
+#         try:
+#             log["CPU"][splitInfo[0]] = int(splitInfo[1].strip())
+#         except:
+#             log["CPU"][splitInfo[0]] = splitInfo[1].strip()
+# log["ConnectionSpeed"] = {}
+# speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n'):
+# log["ConnectionSpeed"]["Upload"] = speedCheck[-1].split(':')[1].strip()
+# log["ConnectionSpeed"]["Download"] = speedCheck[-3].split(':')[1].strip()
+# log["ConnectionSpeed"]["Ping"] = speedCheck[-5].split(':')[1].strip()
+
 # scraperDb.executionLog.insert_one(log)

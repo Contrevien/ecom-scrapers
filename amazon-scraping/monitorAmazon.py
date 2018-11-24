@@ -12,13 +12,13 @@ from pymongo import MongoClient
 from bson.objectid import ObjectId
 from scrapeAmazon import scrapeAmazon
 import platform
+from psutil import virtual_memory
 
 
 timestamp = int(time.time())
 errors = {}
 
-client = MongoClient(
-    'mongodb://developer:5cr4p3r18@devserver.nulabs.it:27027/scraperDb')
+client = MongoClient('mongodb://developer:5cr4p3r18@devserver.nulabs.it:27027/scraperDb')
 scraperDb = client.scraperDb
 
 
@@ -48,8 +48,9 @@ def monitorAmazon(keyowrds, marketPlaces, sortBy, detailedResults=0, limitResult
                     scraperDb[collection].find_one_and_replace({"_id": y["_id"]}, y)
     return updatedObjects
 
+# mem = virtual_memory()
 # start = time.time()
-# op = monitorAmazon(["girls women's digital"], ["US"], 0, 1)
+# op = monitorAmazon(["sport watch"], ["US"], 1, 1, 2)
 # print("Logging in database")
 # end = time.time()
 # log = {}
@@ -58,10 +59,24 @@ def monitorAmazon(keyowrds, marketPlaces, sortBy, detailedResults=0, limitResult
 # log["scrapingTime"] = int((end-start)*100)/100
 # log["objectScraped"] = len(op)
 # log["errors"] = errors
-# log["type"] = "monitorAmazon"
+# log["type"] = "scrapeAmazon"
 # # 1048576  # KB to GB
 
+# log["RAM"] = str(mem.total/1048576*1024) + " GB"
 # log["OS"] = platform.linux_distribution()[0]
 # log["OSVersion"] = platform.linux_distribution()[1]
-# log["CPU"] = platform.processor()
+# log["CPU"] = {}
+# for info in check_output(['lscpu']).decode('utf-8').split('\n'):
+#     splitInfo = info.split(':')
+#     if splitInfo[0] in ['Architecture', 'CPU op-mode(s)', 'Byte Order', 'CPU(s)', 'Thread(s) per core', 'Core(s) per socket', 'Socket(s)', 'Model name', 'CPU MHz']:
+#         try:
+#             log["CPU"][splitInfo[0]] = int(splitInfo[1].strip())
+#         except:
+#             log["CPU"][splitInfo[0]] = splitInfo[1].strip()
+# log["ConnectionSpeed"] = {}
+# speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n'):
+# log["ConnectionSpeed"]["Upload"] = speedCheck[-1].split(':')[1].strip()
+# log["ConnectionSpeed"]["Download"] = speedCheck[-3].split(':')[1].strip()
+# log["ConnectionSpeed"]["Ping"] = speedCheck[-5].split(':')[1].strip()
+
 # scraperDb.executionLog.insert_one(log)
