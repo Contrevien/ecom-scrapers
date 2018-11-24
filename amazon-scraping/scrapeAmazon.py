@@ -20,7 +20,7 @@ ch = os.getcwd() + '/tools/chromedriver'
 options = Options()
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
-options.set_headless(headless=True)
+# options.set_headless(headless=True)
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
@@ -315,7 +315,7 @@ def get_detailed_results(arr, marketPlace, timestamp):
         arr[i]["description"] = get_description()
         arr[i]["customersAlsoBought"] = get_also_bought(marketPlace)
         arr[i]["productSpecs"] = get_specs()
-        arr[i]["changingInfos"][0]["rating"] = get_detailed_ratings()
+        arr[i]["searchParams"][0]["changingInfos"][0]["rating"] = get_detailed_ratings()
     return arr
 
 
@@ -335,13 +335,13 @@ def open_url(marketPlace, keyword, sorter):
 
 def scrapeAmazon(mode, keywords, marketPlaces, sortBy, detailedResults=0, limitResults=0):
     finalObject = []
-    sortArray = {
-        "Featured": "relevancerank",
-        "Price: Low to High": "price-asc-rank",
-        "Price: High to Low": "price-desc-rank",
-        "Avg. Customer Review": "review-rank",
-        "Newest arrivals": "date-desc-rank"
-    }
+    sortArray = [
+        "relevancerank",
+        "price-asc-rank",
+        "price-desc-rank",
+        "review-rank",
+        "date-desc-rank"
+    ]
 
     sorter = sortArray[sortBy]
 
@@ -360,48 +360,65 @@ def scrapeAmazon(mode, keywords, marketPlaces, sortBy, detailedResults=0, limitR
             thisSearch, totalResults = scrape_less_detailed(marketPlace, limitResults, timestamp, detailedResults)
             for x in thisSearch:
                 x["timestamp"] = timestamp
-                x["keyword"] = keyword
-                x["marketPlace"] = marketPlace
-                x["sortBy"] = sortBy
+                x["searchParams"] = []
+                temp = {}
+                temp["keyword"] = keyword
+                temp["marketPlace"] = marketPlace
+                temp["sortBy"] = sortBy
                 x["changingInfos"][0]["resultsCount"] = totalResults
+                temp["changingInfos"] = x["changingInfos"]
+                del x["changingInfos"]
+                x["searchParams"].append(temp)
                 if limitResults == 0:
-                    x["limitResults"] = 0
+                    temp["limitResults"] = 0
                 else:
-                    x["limitResults"] = limitResults
+                    temp["limitResults"] = limitResults
                     thisSearch = thisSearch[:limitResults]
                 x["type"] = "scrapeAmazonSimple"
 
+            collection = ""
             # if detailedResults
             if detailedResults == 1:
                 thisSearch = get_detailed_results(thisSearch, marketPlace, timestamp)
-                if mode == 2:
-                    print("Storing in DB")
-                    for x in thisSearch:
-                        scraperDb.amazonDetailedProducts.insert_one(x)
+                collection = "amazonDetailedProducts"
             else:
-                if mode == 2:
-                    print("Storing in DB")
-                    for x in thisSearch:
-                        scraperDb.amazonSimpleProducts.insert_one(x)
+                collection = "amazonSimpleProducts"
+            if mode == 2:
+                for x in thisSearch:
+                    prev = scraperDb[collection].find({"asinCode": x["asinCode"]})
+                    if prev.count() != 0:
+                        for obj in prev:
+                            for instance in obj["searchParams"]:
+                                if instance["keyword"] == x["searchParams"][0]["keyword"] and instance["limitResults"] == x["searchParams"][0]["limitResults"] and instance["sortBy"] == x["searchParams"][0]["sortBy"] and instance["marketPlace"] == x["searchParams"][0]["marketPlace"]:
+                                    print(obj["title"][:20] + " remains Unchanged")
+                                    break
+                            else:
+                                print(obj["title"][:20] + " being updated")
+                                obj["searchParams"].append(x["searchParams"][0])
+                        scraperDb[collection].find_one_and_replace({"asinCode": x["asinCode"]}, obj)
+
+                    else:
+                        print("Storing in DB " + x["title"][:20])
+                        scraperDb[collection].insert_one(x)
             # add the result to the final object
             finalObject.extend(thisSearch)
     driver.quit()
     return finalObject
 
-start = time.time()
-op = scrapeAmazon(2, ["sport watch"], ["US"], "Featured", 1, 0)
-print("Logging in database")
-end = time.time()
-log = {}
+# start = time.time()
+# op = scrapeAmazon(2, ["sport watch"], ["US"], 1, 1, 2)
+# print("Logging in database")
+# end = time.time()
+# log = {}
 
-log["timestamp"] = int(time.time())
-log["scrapingTime"] = int((end-start)*100)/100
-log["objectScraped"] = len(op)
-log["errors"] = errors
-log["type"] = "scrapeAmazon"
-# 1048576  # KB to GB
+# log["timestamp"] = int(time.time())
+# log["scrapingTime"] = int((end-start)*100)/100
+# log["objectScraped"] = len(op)
+# log["errors"] = errors
+# log["type"] = "scrapeAmazon"
+# # 1048576  # KB to GB
 
-log["OS"] = platform.linux_distribution()[0]
-log["OSVersion"] = platform.linux_distribution()[1]
-log["CPU"] = platform.processor()
-scraperDb.executionLog.insert_one(log)
+# log["OS"] = platform.linux_distribution()[0]
+# log["OSVersion"] = platform.linux_distribution()[1]
+# log["CPU"] = platform.processor()
+# scraperDb.executionLog.insert_one(log)

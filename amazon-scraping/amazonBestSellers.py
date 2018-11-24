@@ -276,20 +276,20 @@ test = {
     },
 }
 
-start = time.time()
-op = amazonBestSellers(2, test, ["US"], 0)
-print("Logging in database")
-end = time.time()
-log = {}
+# start = time.time()
+# op = amazonBestSellers(2, test, ["US"], 0)
+# print("Logging in database")
+# end = time.time()
+# log = {}
 
-log["timestamp"] = int(time.time())
-log["scrapingTime"] = int((end-start)*100)/100
-log["objectScraped"] = len(op)
-log["errors"] = errors
-log["type"] = "amazonBestSellers"
-# 1048576  # KB to GB
+# log["timestamp"] = int(time.time())
+# log["scrapingTime"] = int((end-start)*100)/100
+# log["objectScraped"] = len(op)
+# log["errors"] = errors
+# log["type"] = "amazonBestSellers"
+# # 1048576  # KB to GB
 
-log["OS"] = platform.linux_distribution()[0]
-log["OSVersion"] = platform.linux_distribution()[1]
-log["CPU"] = platform.processor()
-scraperDb.executionLog.insert_one(log)
+# log["OS"] = platform.linux_distribution()[0]
+# log["OSVersion"] = platform.linux_distribution()[1]
+# log["CPU"] = platform.processor()
+# scraperDb.executionLog.insert_one(log)

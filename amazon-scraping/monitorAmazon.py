@@ -24,45 +24,44 @@ scraperDb = client.scraperDb
 
 def monitorAmazon(keyowrds, marketPlaces, sortBy, detailedResults=0, limitResults=0):
     updatedObjects = scrapeAmazon(1, keyowrds, marketPlaces, sortBy, detailedResults, 1)
+    collection = ""
+    if detailedResults == 0:
+        collection = "amazonSimpleProducts"
+    else:
+        collection = "amazonDetailedProducts"
     for x in updatedObjects:
-        if detailedResults == 0:
-            a = scraperDb.amazonSimpleProducts.find({"asinCode": x["asinCode"], "sortBy": x["sortBy"], "type": x["type"], "marketPlace": x["marketPlace"], "keyword": x["keyword"]})
+            a = scraperDb[collection].find({"asinCode": x["asinCode"]})
             if a.count() == 0:
                 print("Adding", x["asinCode"])
-                scraperDb.amazonSimpleProducts.insert_one(x)
+                scraperDb[collection].insert_one(x)
             else:
                 for y in a:
-                    print("Updating", y["title"][:20])
-                    y["changingInfos"].extend(x["changingInfos"])
-                    scraperDb.amazonSimpleProducts.find_one_and_replace({"_id": y["_id"]}, y)
+                    for instance in y["searchParams"]:
+                        if instance["keyword"] == x["searchParams"][0]["keyword"] and instance["limitResults"] == x["searchParams"][0]["limitResults"] and instance["sortBy"] == x["searchParams"][0]["sortBy"] and instance["marketPlace"] == x["searchParams"][0]["marketPlace"]:
+                            print("Updating " + y["title"][:20])
+                            instance["changingInfos"].extend(x["searchParams"][0]["changingInfos"])
+                            break
+                    else:
+                        print("Adding new params " + y["title"][:20])
+                        y["searchParams"].extend(x["searchParams"])
 
-        elif detailedResults == 1:
-            a = scraperDb.amazonDetailedProducts.find(
-                {"asinCode": x["asinCode"], "sortBy": x["sortBy"], "type": x["type"], "marketPlace": x["marketPlace"], "keyword": x["keyword"]})
-            if a.count() == 0:
-                print("Adding", x["asinCode"])
-                scraperDb.amazonDetailedProducts.insert_one(x)
-            else:
-                for y in a:
-                    print("Updating", y["title"][:20])
-                    y["changingInfos"].extend(x["changingInfos"])
-                    scraperDb.amazonDetailedProducts.find_one_and_replace({"_id": y["_id"]}, y)
+                    scraperDb[collection].find_one_and_replace({"_id": y["_id"]}, y)
     return updatedObjects
 
-start = time.time()
-op = monitorAmazon(["sport watch"], ["US"], "Featured")
-print("Logging in database")
-end = time.time()
-log = {}
+# start = time.time()
+# op = monitorAmazon(["girls women's digital"], ["US"], 0, 1)
+# print("Logging in database")
+# end = time.time()
+# log = {}
 
-log["timestamp"] = int(time.time())
-log["scrapingTime"] = int((end-start)*100)/100
-log["objectScraped"] = len(op)
-log["errors"] = errors
-log["type"] = "monitorAmazon"
-# 1048576  # KB to GB
+# log["timestamp"] = int(time.time())
+# log["scrapingTime"] = int((end-start)*100)/100
+# log["objectScraped"] = len(op)
+# log["errors"] = errors
+# log["type"] = "monitorAmazon"
+# # 1048576  # KB to GB
 
-log["OS"] = platform.linux_distribution()[0]
-log["OSVersion"] = platform.linux_distribution()[1]
-log["CPU"] = platform.processor()
-scraperDb.executionLog.insert_one(log)
+# log["OS"] = platform.linux_distribution()[0]
+# log["OSVersion"] = platform.linux_distribution()[1]
+# log["CPU"] = platform.processor()
+# scraperDb.executionLog.insert_one(log)

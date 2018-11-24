@@ -112,7 +112,6 @@ def get_reviews(marketPlace):
 
 def scrape_and_update(el, mode):
     driver.get(el["htmlLinkPage"])
-    wait.until(EC.presence_of_element_located((By.ID, "reviewsMedley")))
     newOne = el.copy()
     temp = {}
     if mode == "detailed":
