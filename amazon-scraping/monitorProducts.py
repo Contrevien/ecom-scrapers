@@ -10,6 +10,9 @@ import sys
 import json
 from pymongo import MongoClient
 from bson.objectid import ObjectId
+from psutil import virtual_memory
+import platform
+from subprocess import check_output
 # from scrapeAmazon import get_detailed_ratings
 
 
@@ -17,7 +20,7 @@ ch = os.getcwd() + '/tools/chromedriver'
 options = Options()
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
-options.set_headless(headless=True)
+# options.set_headless(headless=True)
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
@@ -109,51 +112,156 @@ def get_reviews(marketPlace):
     except:
         return "NA"
 
+def get_avg_ratings(el):
+    try:
+        text = el.find_element_by_tag_name("i").get_attribute("class").split()[-1]
+        if "a-star" not in text:
+            text = el.find_elements_by_tag_name("i")[1].get_attribute("class").split()[-1]
+        text = text.split("-")
+        rating = ""
+        for x in text:
+            if x.isdigit():
+                rating += x + " "
+        if "avg-rating" in errors.keys():
+            errors["avg-rating"] = 0
+        return float(".".join(rating.split()))
+    except:
+        if "avg-rating" in errors.keys():
+            errors["avg-rating"] += 1
+        else:
+            errors["avg-rating"] = 1
+        return "NA"
 
-def scrape_and_update(el, mode):
+def separate_price_and_currency(value, marketPlace):
+    if "-" in value:
+        value = value.split("-")
+        value = value[0].strip()
+    if marketPlace == "US":
+        if "," in value:
+            value = "".join(value.split(","))
+        return ["USD", float(value[1:])]
+    if marketPlace == "IN":
+        if "," in value:
+            value = "".join(value.split(","))
+        return ["INR", float(value)]
+    if marketPlace == "FR":
+        value = value.split()[1:]
+        value = "".join(value)
+        value = ".".join(value.split(","))
+        return ["EUR", float(value)]
+    if marketPlace == "IT":
+        value = value.split()[1:]
+        value = value[0]
+        value = "".join(value.split("."))
+        value = ".".join(value.split(","))
+        return ["EUR", float(value)]
+
+    return ["NA", "NA"]
+
+
+def scrape_also_bought_element(el, marketPlace):
+    details = dict()
+    dets = el.text.split("\n")
+    details["title"] = dets[0]
+    a = el.find_elements_by_tag_name("a")
+    try:
+        for span in el.find_elements_by_tag_name("span"):
+            if "a-color-price" in span.get_attribute("class"):
+                details["currency"], details["price"] = separate_price_and_currency(span.text, marketPlace)
+    except:
+        details["currency"], details["price"] = ["NA", "NA"]
+
+    details["htmlLinkPage"] = a[0].get_attribute("href")
+    details["ratingOf5stars"] = get_avg_ratings(el)
+    try:
+        details["customersReviewsCount"] = int("".join(("".join(("".join(a[-2].text.split(","))).split())).split(".")))
+    except:
+        details["customersReviewsCount"] = "NA"
+    return details
+
+
+def get_lists_of_carousel(carousel, marketPlace):
+    lis = carousel.find_elements_by_tag_name("li")
+    newli = []
+    for x in lis:
+        if x.get_attribute("aria-hidden") == "true":
+            continue
+        try:
+            newli.append(scrape_also_bought_element(x, marketPlace))
+        except:
+            pass
+    return newli
+
+
+def get_also_bought(marketPlace):
+    try:
+        carousel = driver.find_element_by_id("desktop-dp-sims_purchase-similarities-sims-feature")
+        if "alsoBought" in errors.keys():
+            errors["alsoBought"] = 0
+        return get_lists_of_carousel(carousel, marketPlace)
+    except:
+        if "alsoBought" in errors.keys():
+            errors["alsoBought"] += 1
+        else:
+            errors["alsoBought"] = 1
+        return "NA"
+
+def scrape_and_update(el, marketPlace, mode):
     driver.get(el["htmlLinkPage"])
-    newOne = el.copy()
+    print("Scraping " + el["title"][:20])
     temp = {}
-    if mode == "detailed":
+    if mode == "amazonDetailedProducts":
         temp["rating"] = get_detailed_ratings()
+        temp["customersAlsoBought"] = get_also_bought(marketPlace)
         
-    if mode == "simple" or mode == "best":
-        temp["ratingOf5Stars"] = get_ratings(el["marketPlace"])
+    if mode == "amazonSimpleProducts" or mode == "bestSellers":
+        temp["ratingOf5Stars"] = get_ratings(marketPlace)
         
-    temp["customersReviewsCount"] = get_reviews(el["marketPlace"])
-    temp["price"] = get_price(el["marketPlace"])
+    temp["customersReviewsCount"] = get_reviews(marketPlace)
+    temp["price"] = get_price(marketPlace)
     temp["timestamp"] = timestamp
-    newOne["changingInfos"].append(temp)
-    return newOne
+    for obj in el["searchParams"]:
+        obj["changingInfos"].append(temp)
+    print("Updating in DB " + el["title"][:20])
+    scraperDb[mode].find_one_and_replace({"asinCode": el["asinCode"]}, el)
+    return el
+
+def monitorProducts(asins, marketPlace, collection):
+    for asin in asins:
+        for found in scraperDb[collection].find({"asinCode": asin}):
+            scrape_and_update(found, marketPlace, collection)
+    return asins
 
 
-def monitor_best_sellers():
-    for x in scraperDb.bestSellers.find({"type": "amazonBestSellers"}):
-        print("Scraping", x["title"][:20])
-        temp = scrape_and_update(x, "best")
-        print("Updating", x["title"][:20])
-        scraperDb.bestSellers.find_one_and_replace({"_id": x["_id"]}, temp)
+# mem = virtual_memory()
+# start = time.time()
+# op = monitorProducts(["B078XXN7CP"], "US", "amazonDetailedProducts")
+# print("Logging in database")
+# end = time.time()
+# log = {}
 
+# log["timestamp"] = int(time.time())
+# log["scrapingTime"] = int((end-start)*100)/100
+# log["objectScraped"] = len(op)
+# log["errors"] = errors
+# log["type"] = "scrapeAmazon"
+# # 1048576  # KB to GB
 
-def monitor_simple_products():
-    for x in scraperDb.amazonSimpleProducts.find({"type": "scrapeAmazonSimple"}):
-        print("Scraping", x["title"][:20])
-        temp = scrape_and_update(x, "simple")
-        print("Updating", x["title"][:20])
-        scraperDb.amazonSimpleProducts.find_one_and_replace({"_id": x["_id"]}, temp)
+# log["RAM"] = str(mem.total/1048576*1024) + " GB"
+# log["OS"] = platform.linux_distribution()[0]
+# log["OSVersion"] = platform.linux_distribution()[1]
+# log["CPU"] = {}
+# for info in check_output(['lscpu']).decode('utf-8').split('\n'):
+#     splitInfo = info.split(':')
+#     if splitInfo[0] in ['Architecture', 'CPU op-mode(s)', 'Byte Order', 'CPU(s)', 'Thread(s) per core', 'Core(s) per socket', 'Socket(s)', 'Model name', 'CPU MHz']:
+#         try:
+#             log["CPU"][splitInfo[0]] = int(splitInfo[1].strip())
+#         except:
+#             log["CPU"][splitInfo[0]] = splitInfo[1].strip()
+# log["ConnectionSpeed"] = {}
+# speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n'):
+# log["ConnectionSpeed"]["Upload"] = speedCheck[-2].split(':')[1].strip()
+# log["ConnectionSpeed"]["Download"] = speedCheck[-4].split(':')[1].strip()
+# log["ConnectionSpeed"]["Ping"] = speedCheck[-6].split(':')[1].strip()
 
-
-def monitor_detailed_products():
-    for x in scraperDb.amazonDetailedProducts.find({"type": "scrapeAmazonDetailed"}):
-        print("Scraping", x["title"][:20])
-        temp = scrape_and_update(x, "detailed")
-        print("Updating", x["title"][:20])
-        scraperDb.amazonDetailedProducts.find_one_and_replace({"_id": x["_id"]}, temp)
-
-
-def monitorProducts():
-    monitor_detailed_products()
-    monitor_simple_products()
-    monitor_best_sellers()
-
-monitorProducts()
+# scraperDb.executionLog.insert_one(log)

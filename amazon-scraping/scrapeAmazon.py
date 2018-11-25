@@ -9,6 +9,7 @@ import json
 from pymongo import MongoClient
 import platform
 from psutil import virtual_memory
+from subprocess import check_output
 
 currencyMap = {
     "US": "USD",
@@ -293,8 +294,7 @@ def get_lists_of_carousel(carousel, marketPlace):
 
 def get_also_bought(marketPlace):
     try:
-        carousel = driver.find_element_by_id(
-            "desktop-dp-sims_purchase-similarities-sims-feature")
+        carousel = driver.find_element_by_id("desktop-dp-sims_purchase-similarities-sims-feature")
         if "alsoBought" in errors.keys():
             errors["alsoBought"] = 0
         return get_lists_of_carousel(carousel, marketPlace)
