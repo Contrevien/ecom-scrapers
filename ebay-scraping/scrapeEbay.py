@@ -37,18 +37,56 @@ errors = {}
 
 def open_url(marketPlace, keyword, sorter):
     keyword = "+".join(keyword.split())
-    url = "http://www.ebay.com/sch/?" + "&_nkw=" + keyword + "&_sop=" + sorter
+    url = ""
+    if marketPlace == "US":
+        url = "http://www.ebay.com/sch/?" + "&_nkw=" + keyword + "&_sop=" + sorter
+    elif marketPlace == "AU":
+        url = "http://www.ebay.com.au/sch/?" + "&_nkw=" + keyword + "&_sop=" + sorter
+    else:
+        url = "http://www.ebay." + marketPlace.lower() + "/sch/?" + "&_nkw=" + keyword + "&_sop=" + sorter
     driver.get(url)
 
 def process_numbers(value, marketPlace, f):
     if marketPlace == "US" or marketPlace == "AU" or marketPlace == "IN":
         return f("".join(value.split(",")))
+    if marketPlace == "FR":
+        return f("".join(value.split()))
+    if marketPlace == "IT":
+        return f("".join(value.split(".")))
 
 def slice_price(value, marketPlace):
     if marketPlace == "US":
         value = value.split("to")[0]
-        value = "".join(value.split(","))
+        value = value.replace(",", "")
         return float(value[1:])
+    if marketPlace == "IT":
+        value.replace("EUR", "")
+        value = value.replace(" ", "")
+        value = value.replace(".", "")
+        value = value.replace(",", ".")
+        index = 0
+        while value[index].isdigit() or value[index] == ".":
+            index += 1
+        value = value[:index]
+        return float(value)
+    if marketPlace == "FR":
+        value = value.replace(" ", "")
+        index = 0
+        while value[index].isdigit() or value[index]  == ",":
+            index += 1
+        value = value[:index]
+        value = value.replace(",", ".")
+        return float(value)
+    if marketPlace == "AU":
+        value = value.replace(" ", "")
+        value.replace("AU", "")
+        value.replace("$", "")
+        index = 0
+        while value[index].isdigit() or value[index]  == ".":
+            index += 1
+        value = value[:index]
+        return float(value)
+
 
 def scrape_element(el, marketPlace, detailedResults):
     obj = dict()
@@ -94,11 +132,14 @@ def scrape_element(el, marketPlace, detailedResults):
 
 def scrape_less_detailed(marketPlace, limitResults, detailedResults):
     done = False
-    resutlsFound = driver.find_element_by_css_selector("h1.srp-controls__count-heading").text
-    index = len(resutlsFound) - 1
-    while resutlsFound[index] != " ":
-        index -= 1
-    resutlsFound = process_numbers(resutlsFound[:index], marketPlace, int)
+    try:
+        resultsFound = driver.find_element_by_css_selector("h1.srp-controls__count-heading").text
+        index = len(resultsFound) - 1
+        while resultsFound[index] != " ":
+            index -= 1
+        resultsFound = process_numbers(resultsFound[:index], marketPlace, int)
+    except:
+        resultsFound = "NA"
     thisSearch = []
     resutlsScraped = 1
     print("Scraping Page 1 of results")
@@ -117,7 +158,7 @@ def scrape_less_detailed(marketPlace, limitResults, detailedResults):
             else:
                 driver.get(pgn)
                 resutlsScraped = 1
-    return [thisSearch, resutlsFound]
+    return [thisSearch, resultsFound]
 
 def get_specs():
     try:
@@ -212,4 +253,35 @@ def scrapeEbay(mode, keywords, marketPlaces, sortBy, detailedResults, limitResul
             finalObject.append(thisSearch)
     return finalObject
 
-op =scrapeEbay(1, ["sport watch"], ["US"], 0, 1, 200)
+# mem = virtual_memory()
+# start = time.time()
+# op = scrapeEbay(1, ["sport watch"], ["US"], 0, 1, 1)
+# print("Logging in database")
+# end = time.time()
+# log = {}
+
+# log["timestamp"] = int(time.time())
+# log["scrapingTime"] = int((end-start)*100)/100
+# log["objectScraped"] = len(op)
+# log["errors"] = errors
+# log["type"] = "scrapeEbay"
+# # 1048576  # KB to GB
+
+# log["RAM"] = str(mem.total/1048576*1024) + " GB"
+# log["OS"] = platform.linux_distribution()[0]
+# log["OSVersion"] = platform.linux_distribution()[1]
+# log["CPU"] = {}
+# for info in check_output(['lscpu']).decode('utf-8').split('\n'):
+#     splitInfo = info.split(':')
+#     if splitInfo[0] in ['Architecture', 'CPU op-mode(s)', 'Byte Order', 'CPU(s)', 'Thread(s) per core', 'Core(s) per socket', 'Socket(s)', 'Model name', 'CPU MHz']:
+#         try:
+#             log["CPU"][splitInfo[0]] = int(splitInfo[1].strip())
+#         except:
+#             log["CPU"][splitInfo[0]] = splitInfo[1].strip()
+# log["ConnectionSpeed"] = {}
+# speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n'):
+# log["ConnectionSpeed"]["Upload"] = speedCheck[-2].split(':')[1].strip()
+# log["ConnectionSpeed"]["Download"] = speedCheck[-4].split(':')[1].strip()
+# log["ConnectionSpeed"]["Ping"] = speedCheck[-6].split(':')[1].strip()
+
+# scraperDb.executionLog.insert_one(log)

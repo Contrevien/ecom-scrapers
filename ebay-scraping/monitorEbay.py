@@ -10,7 +10,7 @@ import sys
 import json
 from pymongo import MongoClient
 from bson.objectid import ObjectId
-from scrapeAmazon import scrapeAmazon
+from scrapeEbay import scrapeEbay
 import platform
 from psutil import virtual_memory
 
@@ -22,17 +22,17 @@ client = MongoClient('mongodb://developer:5cr4p3r18@devserver.nulabs.it:27027/sc
 scraperDb = client.scraperDb
 
 
-def monitorAmazon(keyowrds, marketPlaces, sortBy, detailedResults=0, limitResults=0):
-    updatedObjects = scrapeAmazon(1, keyowrds, marketPlaces, sortBy, detailedResults, 1)
+def monitorEbay(keyowrds, marketPlaces, sortBy, detailedResults=0, limitResults=0):
+    updatedObjects = scrapeEbay(1, keyowrds, marketPlaces, sortBy, detailedResults, 1)
     collection = ""
     if detailedResults == 0:
-        collection = "amazonSimpleProducts"
+        collection = "ebaySimpleProducts"
     else:
-        collection = "amazonDetailedProducts"
+        collection = "ebayDetailedProducts"
     for x in updatedObjects:
-            a = scraperDb[collection].find({"asinCode": x["asinCode"]})
+            a = scraperDb[collection].find({"uniqueCode": x["uniqueCode"]})
             if a.count() == 0:
-                print("Adding", x["asinCode"])
+                print("Adding", x["uniqueCode"])
                 scraperDb[collection].insert_one(x)
             else:
                 for y in a:
@@ -50,7 +50,7 @@ def monitorAmazon(keyowrds, marketPlaces, sortBy, detailedResults=0, limitResult
 
 # mem = virtual_memory()
 # start = time.time()
-# op = monitorAmazon(["sport watch"], ["US"], 1, 1, 2)
+# op = monitorEbay(["sport watch"], ["US"], 1, 1, 2)
 # print("Logging in database")
 # end = time.time()
 # log = {}
@@ -59,7 +59,7 @@ def monitorAmazon(keyowrds, marketPlaces, sortBy, detailedResults=0, limitResult
 # log["scrapingTime"] = int((end-start)*100)/100
 # log["objectScraped"] = len(op)
 # log["errors"] = errors
-# log["type"] = "monitorAmazon"
+# log["type"] = "monitorEbay"
 # # 1048576  # KB to GB
 
 # log["RAM"] = str(mem.total/1048576*1024) + " GB"
