@@ -13,7 +13,7 @@ from bson.objectid import ObjectId
 from scrapeEbay import scrapeEbay
 import platform
 from psutil import virtual_memory
-
+from subprocess import check_output
 
 timestamp = int(time.time())
 errors = {}
@@ -74,7 +74,7 @@ def monitorEbay(keyowrds, marketPlaces, sortBy, detailedResults=0, limitResults=
 #         except:
 #             log["CPU"][splitInfo[0]] = splitInfo[1].strip()
 # log["ConnectionSpeed"] = {}
-# speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n'):
+# speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n')
 # log["ConnectionSpeed"]["Upload"] = speedCheck[-2].split(':')[1].strip()
 # log["ConnectionSpeed"]["Download"] = speedCheck[-4].split(':')[1].strip()
 # log["ConnectionSpeed"]["Ping"] = speedCheck[-6].split(':')[1].strip()

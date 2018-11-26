@@ -10,6 +10,7 @@ from pymongo import MongoClient
 import pyspeedtest
 from psutil import virtual_memory
 import platform
+from subprocess import check_output
 
 currencyMap = {
     "US": "USD",
@@ -47,12 +48,15 @@ def open_url(marketPlace, keyword, sorter):
     driver.get(url)
 
 def process_numbers(value, marketPlace, f):
-    if marketPlace == "US" or marketPlace == "AU" or marketPlace == "IN":
-        return f("".join(value.split(",")))
-    if marketPlace == "FR":
-        return f("".join(value.split()))
-    if marketPlace == "IT":
-        return f("".join(value.split(".")))
+    try:
+        if marketPlace == "US" or marketPlace == "AU" or marketPlace == "IN":
+            return f("".join(value.split(",")))
+        if marketPlace == "FR":
+            return f("".join(value.split()))
+        if marketPlace == "IT":
+            return f("".join(value.split(".")))
+    except:
+        return "NA"
 
 def slice_price(value, marketPlace):
     if marketPlace == "US":
@@ -126,23 +130,27 @@ def scrape_element(el, marketPlace, detailedResults):
         temp["price"] = slice_price(el.find_element_by_class_name("s-item__price").text, marketPlace)
     except:
         temp["price"] = "NA"
+    temp["currency"] = currencyMap[marketPlace]
     obj["changingInfos"].append(temp)
-    obj["currency"] = currencyMap[marketPlace]
     return obj
 
 def scrape_less_detailed(marketPlace, limitResults, detailedResults):
     done = False
+    resultsFound = ""
     try:
         resultsFound = driver.find_element_by_css_selector("h1.srp-controls__count-heading").text
-        index = len(resultsFound) - 1
-        while resultsFound[index] != " ":
-            index -= 1
-        resultsFound = process_numbers(resultsFound[:index], marketPlace, int)
     except:
-        resultsFound = "NA"
+        try:
+            resultsFound = driver.find_element_by_css_selector("span.rcnt").text
+        except:
+            resultsFound = "NA"
+    index = len(resultsFound) - 1
+    while resultsFound[index] != " ":
+        index -= 1
+    resultsFound = process_numbers(resultsFound[:index], marketPlace, int)
     thisSearch = []
     resutlsScraped = 1
-    print("Scraping Page 1 of results")
+    print("Scraping Pages of result")
     while not done:
         try:
             el = driver.find_element_by_id("srp-river-results-listing" + str(resutlsScraped))
@@ -165,9 +173,13 @@ def get_specs():
         box = driver.find_element_by_class_name("itemAttr")
         tds = box.find_elements_by_tag_name("td")
         temp = {}
-        for i in range(len(tds)):
-            if ":" in tds[i].text:
-                temp[tds[i].text[:-1]] = tds[i+1].text
+        for i in range(0, len(tds), 2):
+            key = ""
+            for ch in tds[i].text[:-1]:
+                if ch.isalpha() or ch == " ":
+                    key += ch
+            
+            temp[key] = tds[i+1].text
         return temp
     except:
         return "NA"
@@ -192,7 +204,7 @@ def scrape_detailed(arr, marketPlace):
         driver.get(arr[i]["htmlLinkPage"])
         arr[i]["type"] = "scrapeEbayDetailed"
         arr[i]["description"] = "NA"
-        arr[i]["customersAlsoBought"] = "NA"
+        arr[i]["searchParams"][0]["changingInfos"][0]["customersAlsoBought"] = "NA"
         arr[i]["productSpecs"] = get_specs()
         arr[i]["searchParams"][0]["changingInfos"][0]["rating"] = get_detailed_ratings()
     return arr
@@ -219,6 +231,7 @@ def scrapeEbay(mode, keywords, marketPlaces, sortBy, detailedResults, limitResul
                 temp["keyword"] = keyword
                 temp["marketPlace"] = marketPlace
                 temp["sortBy"] = sortBy
+                temp["limitResults"] = limitResults
                 x["changingInfos"][0]["resultsCount"] = totalResults
                 x["changingInfos"][0]["timestamp"] = timestamp
                 temp["changingInfos"] = x["changingInfos"]
@@ -238,7 +251,7 @@ def scrapeEbay(mode, keywords, marketPlaces, sortBy, detailedResults, limitResul
                     if prev.count() != 0:
                         for obj in prev:
                             for instance in obj["searchParams"]:
-                                if instance["keyword"] == x["searchParams"][0]["keyword"] and instance["limitResults"] == x["searchParams"][0]["limitResults"] and instance["sortBy"] == x["searchParams"][0]["sortBy"] and instance["marketPlace"] == x["searchParams"][0]["marketPlace"]:
+                                if instance["keyword"] == x["searchParams"][0]["keyword"] and instance["sortBy"] == x["searchParams"][0]["sortBy"] and instance["marketPlace"] == x["searchParams"][0]["marketPlace"]:
                                     print(obj["title"][:20] + " remains Unchanged")
                                     break
                             else:
@@ -253,11 +266,11 @@ def scrapeEbay(mode, keywords, marketPlaces, sortBy, detailedResults, limitResul
             finalObject.append(thisSearch)
     return finalObject
 
-# mem = virtual_memory()
-# start = time.time()
-# op = scrapeEbay(1, ["sport watch"], ["US"], 0, 1, 1)
-# print("Logging in database")
-# end = time.time()
+mem = virtual_memory()
+start = time.time()
+op = scrapeEbay(2, ["sport watch"], ["US"], 0, 0, 100)
+print("Logging in database")
+end = time.time()
 # log = {}
 
 # log["timestamp"] = int(time.time())
@@ -279,7 +292,7 @@ def scrapeEbay(mode, keywords, marketPlaces, sortBy, detailedResults, limitResul
 #         except:
 #             log["CPU"][splitInfo[0]] = splitInfo[1].strip()
 # log["ConnectionSpeed"] = {}
-# speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n'):
+# speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n')
 # log["ConnectionSpeed"]["Upload"] = speedCheck[-2].split(':')[1].strip()
 # log["ConnectionSpeed"]["Download"] = speedCheck[-4].split(':')[1].strip()
 # log["ConnectionSpeed"]["Ping"] = speedCheck[-6].split(':')[1].strip()

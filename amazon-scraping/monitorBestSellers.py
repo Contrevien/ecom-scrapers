@@ -35,8 +35,7 @@ scraperDb = client.scraperDb
 def monitorBestSellers(departments, marketPlaces):
     updatedOnes = amazonBestSellers(1, departments, marketPlaces, 0)
     for x in updatedOnes:
-        a = scraperDb.bestSellers.find(
-            {"title": x["title"], "type": x["type"], "marketPlace": x["marketPlace"], "department": x["department"], "subDepartment": x["subDepartment"], "subSubDepartment": x["subSubDepartment"]})
+        a = scraperDb.bestSellers.find({"title": x["title"], "type": x["type"], "marketPlace": x["marketPlace"], "department": x["department"], "subDepartment": x["subDepartment"], "subSubDepartment": x["subSubDepartment"]})
         if a.count() == 0:
             print("Adding", x["title"][:20])
             scraperDb.bestSellers.insert_one(x)

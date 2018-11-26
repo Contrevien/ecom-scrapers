@@ -192,7 +192,7 @@ def scrape_element(el, marketPlace, limitResults):
             errors["price"] += 1
         else:
             errors["price"] = 1
-    obj["currency"] = currencyMap[marketPlace]
+    obj["changingInfos"][0]["currency"] = currencyMap[marketPlace]
     obj["changingInfos"][0]["price"] = price
 
     bestSellers.append(obj)
@@ -213,8 +213,7 @@ def scrape_department(department, marketPlace, limitResults):
             nextPage = driver.find_element_by_class_name("a-last")
             if "a-disabled" in nextPage.get_attribute("class"):
                 break
-            driver.get(nextPage.find_element_by_tag_name(
-                "a").get_attribute("href"))
+            driver.get(nextPage.find_element_by_tag_name("a").get_attribute("href"))
         except:
             break
 
@@ -225,8 +224,7 @@ def scrape_department(department, marketPlace, limitResults):
             if "a-disabled" in firstLi.get_attribute("class"):
                 break
             driver.back()
-            wait.until(EC.presence_of_element_located(
-                (By.CLASS_NAME, "a-last")))
+            wait.until(EC.presence_of_element_located((By.CLASS_NAME, "a-last")))
         except:
             break
     print("Going back")

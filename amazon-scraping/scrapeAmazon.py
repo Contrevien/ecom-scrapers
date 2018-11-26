@@ -132,12 +132,11 @@ def scrape_element(el, marketPlace, timestamp, detailedResults):
     temp["asinCode"] = el.get_attribute("data-asin")
     temp["htmlLinkPage"] = el.find_element_by_class_name("s-access-detail-page").get_attribute("href")
     temp["title"] = el.find_element_by_tag_name("h2").get_attribute("data-attribute")
-    temp["currency"], price = get_price_and_currency(el, marketPlace)
     temp["changingInfos"] = []
     temptemp = dict()
     temptemp["timestamp"] = timestamp
     temp["changingInfos"].append(temptemp)
-    temp["changingInfos"][0]["price"] =  price
+    temp["changingInfos"][0]["currency"], temp["changingInfos"][0]["price"] = get_price_and_currency(el, marketPlace)
     if detailedResults != 1:
         temp["changingInfos"][0]["ratingOf5Stars"] = get_avg_ratings(el)
     temp["changingInfos"][0]["customersReviewsCount"] = get_customer_ratings(el, marketPlace)
@@ -405,11 +404,11 @@ def scrapeAmazon(mode, keywords, marketPlaces, sortBy, detailedResults=0, limitR
     driver.quit()
     return finalObject
 
-# mem = virtual_memory()
-# start = time.time()
-# op = scrapeAmazon(2, ["sport watch"], ["US"], 1, 1, 2)
-# print("Logging in database")
-# end = time.time()
+mem = virtual_memory()
+start = time.time()
+op = scrapeAmazon(2, ["sport watch"], ["US"], 0, 0, 100)
+print("Logging in database")
+end = time.time()
 # log = {}
 
 # log["timestamp"] = int(time.time())
@@ -431,7 +430,7 @@ def scrapeAmazon(mode, keywords, marketPlaces, sortBy, detailedResults=0, limitR
 #         except:
 #             log["CPU"][splitInfo[0]] = splitInfo[1].strip()
 # log["ConnectionSpeed"] = {}
-# speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n'):
+# speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n')
 # log["ConnectionSpeed"]["Upload"] = speedCheck[-2].split(':')[1].strip()
 # log["ConnectionSpeed"]["Download"] = speedCheck[-4].split(':')[1].strip()
 # log["ConnectionSpeed"]["Ping"] = speedCheck[-6].split(':')[1].strip()

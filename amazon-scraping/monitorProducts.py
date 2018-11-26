@@ -219,6 +219,7 @@ def scrape_and_update(el, marketPlace, mode):
         
     temp["customersReviewsCount"] = get_reviews(marketPlace)
     temp["price"] = get_price(marketPlace)
+    temp["currency"] = el["searchParams"][0]["changingInfos"][0]["currency"]
     temp["timestamp"] = timestamp
     for obj in el["searchParams"]:
         obj["changingInfos"].append(temp)
