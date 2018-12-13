@@ -27,7 +27,16 @@ options.add_argument("--disable-gpu")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
 options.add_argument("log-level=3")
-driver = webdriver.Chrome(options=options, executable_path=ch)
+try:
+    driver = webdriver.Chrome(options=options, executable_path=ch)
+except:
+    try:
+        os.chdir('..')
+        ch = os.getcwd() + '/tools/chromedriver'
+        os.chdir('amazon-scraping')
+        driver = webdriver.Chrome(options=options, executable_path=ch)
+    except:
+        print("Install chromedriver!")
 wait = WebDriverWait(driver, 10)
 
 client = MongoClient('mongodb://developer:5cr4p3r18@devserver.nulabs.it:27027/scraperDb')
