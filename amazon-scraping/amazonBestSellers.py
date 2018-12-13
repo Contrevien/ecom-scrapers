@@ -318,7 +318,8 @@ def loop_and_open(department, marketPlace, limitResults, levels=0):
                 else:
                     scrape_department(deparmentsHistory[-1], marketPlace, limitResults)
                     return {}
-            return {}
+            except:
+                return {}
     return {}
 
 
