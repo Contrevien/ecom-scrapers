@@ -164,14 +164,17 @@ def scrape_detailed(d):
     return d
 
 
-def scrape_element(el, marketPlace, limitResults):
+def scrape_element(el, marketPlace, limitResults, mode):
     if limitResults != 0 and len(bestSellers) == limitResults:
         for x in bestSellers:
             x["limitResults"] = limitResults
             driver.get(x["htmlLinkPage"])
             x = scrape_detailed(x)
         # print(bestSellers)
-        store_data()
+        if mode == 2:
+            store_data()
+        else:
+            print(bestSellers)
         sys.exit()
     obj = {}
     obj["levels"] = []
@@ -322,11 +325,10 @@ def loop_and_open(department, marketPlace, limitResults, levels=0):
                     for el in toExplore:
                         deparmentsHistory.append(el[0])
                         driver.get(el[1])
-                        department[el[0]] = loop_and_open({}, marketPlace, limitResults, l)
-                    print(department)
+                        department[el[0]] = loop_and_open({}, marketPlace, limitResults, l, mode)
                     return department
                 else:
-                    scrape_department(deparmentsHistory[-1], marketPlace, limitResults)
+                    scrape_department(deparmentsHistory[-1], marketPlace, limitResults, mode)
                     return {}
             except:
                 return {}
@@ -338,7 +340,7 @@ def amazonBestSellers(mode, marketPlaces, limitResults=0):
         if open_url(marketPlace) == -1:
             return []
         # driver.get("https://www.amazon.com/Best-Sellers-Appliances/zgbs/appliances/ref=zg_bs_unv_la_1_3741261_1")
-        departments = loop_and_open({}, marketPlace, limitResults)
+        departments = loop_and_open({}, marketPlace, limitResults, mode)
         # print(departments)
     #     for department in departments.keys():
     #         loop_and_open(department, departments[department], marketPlace, limitResults)
@@ -354,7 +356,7 @@ def amazonBestSellers(mode, marketPlaces, limitResults=0):
 
 mem = virtual_memory()
 start = time.time()
-op = amazonBestSellers(2, ["US"])
+op = amazonBestSellers(2, ["US"], )
 print("Creating log in database")
 end = time.time()
 log = {}
@@ -363,7 +365,7 @@ log["timestamp"] = int(time.time())
 log["scrapingTime"] = int((end-start)*100)/100
 log["objectScraped"] = len(op)
 log["errors"] = errors
-log["type"] = "scrapeAmazon"
+log["type"] = "bestSellers"
 # 1048576  # KB to GB
 
 log["RAM"] = str(mem.total/1048576*1024) + " GB"
