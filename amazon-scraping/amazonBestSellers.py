@@ -56,10 +56,8 @@ def open_url(marketPlace):
 def open_department(department):
     print("Opening", department)
     try:
-        ul = wait.until(EC.presence_of_element_located(
-            (By.ID, "zg_browseRoot")))
-        driver.get(ul.find_element_by_link_text(
-            department).get_attribute("href"))
+        ul = wait.until(EC.presence_of_element_located((By.ID, "zg_browseRoot")))
+        driver.get(ul.find_element_by_link_text(department).get_attribute("href"))
         deparmentsHistory.append(department)
         return 1
     except:
@@ -106,21 +104,70 @@ def store_data():
             scraperDb.errors.find_one_and_replace({"type": "bestSellers"}, y)
 
 
+def scrape_detailed(d):
+    print("Getting details of " + d["title"][:20])
+    
+    try:
+        seller = driver.find_element_by_id("merchant-info")
+        d["seller"] = seller.find_element_by_tag_name("a").text
+    except:
+        try:
+            seller = driver.find_element_by_id("usedbuyBox")
+            for row in seller.find_elements_by_class_name("a-row"):
+                if "Sold by" in row.text:
+                    d["seller"] = row.find_element_by_tag_name("a").text
+                    break
+            else:
+                d["seller"] = "NA"
+        except:
+            d["seller"] = "NA"
+    
+    container = ""
+    try:
+        container = driver.find_element_by_id("productDetails_detailBullets_sections1")
+    except:
+        link = d["htmlLinkPage"]
+        try:
+            d["asinCode"] = link.split("/")[-2]
+        except:
+            d["asinCode"] = "NA"
+        d["bestSellersRank"] = "NA"
+        return d
+    for tr in container.find_elements_by_tag_name("tr"):
+        if tr.find_element_by_tag_name("th").text.strip() == "ASIN":
+            d["asinCode"] = tr.find_element_by_tag_name("td").text
+        if tr.find_element_by_tag_name("th").text.strip() == "Best Sellers Rank":
+            rank = tr.find_element_by_tag_name("td").text
+            final = ""
+            for ch in rank:
+                if ch.isalpha():
+                    break
+                final += ch
+            final = final.replace("#", "")
+            final = final.replace(" ", "")
+            final = final.replace(",", "")
+            final = final.replace(".", "")
+            try:
+                d["bestSellersRank"] = int(final)
+            except:
+                d["bestSellersRank"] = "NA"
+    return d
+
+
 def scrape_element(el, marketPlace, limitResults):
     if limitResults != 0 and len(bestSellers) == limitResults:
+        for x in bestSellers:
+            x["limitResults"] = limitResults
+            driver.get(x["htmlLinkPage"])
+            x = scrape_detailed(x)
+        # print(bestSellers)
         store_data()
-        print("Limit Reached!")
         sys.exit()
     obj = {}
-    obj["department"] = deparmentsHistory[1]
-    try:
-        obj["subDepartment"] = deparmentsHistory[2]
-    except:
-        obj["subDepartment"] = ""
-    try:
-        obj["subSubDepartment"] = deparmentsHistory[3]
-    except:
-        obj["subSubDepartment"] = ""
+    obj["levels"] = []
+    for i in range(1,len(deparmentsHistory)):
+        obj["levels"].append(deparmentsHistory[i])
+    obj["numberOfLevels"] = len(obj["levels"])
     obj["type"] = "amazonBestSellers"
     obj["marketPlace"] = marketPlace
     obj["timestamp"] = timestamp
@@ -227,55 +274,75 @@ def scrape_department(department, marketPlace, limitResults):
             wait.until(EC.presence_of_element_located((By.CLASS_NAME, "a-last")))
         except:
             break
-    print("Going back")
-    driver.back()
     deparmentsHistory.pop()
-    print("At", deparmentsHistory[-1])
 
 
-def loop_and_open(department, value, marketPlace, limitResults):
-    if open_department(department) == -1:
-        return
-    if len(value) == 0:
-        scrape_department(department, marketPlace, limitResults)
-    else:
-        for subdep in value.keys():
-            loop_and_open(subdep, value[subdep], marketPlace, limitResults)
-        wait.until(EC.presence_of_element_located((By.ID, "zg_browseRoot")))
-        print("Going back")
-        driver.back()
-        deparmentsHistory.pop()
-        print("At", deparmentsHistory[-1])
+# def loop_and_open(department, value, marketPlace, limitResults):
+#     if open_department(department) == -1:
+#         return
+#     if len(value) == 0:
+#         scrape_department(department, marketPlace, limitResults)
+#     else:
+#         for subdep in value.keys():
+#             loop_and_open(subdep, value[subdep], marketPlace, limitResults)
+#         wait.until(EC.presence_of_element_located((By.ID, "zg_browseRoot")))
+#         print("Going back")
+#         driver.back()
+#         deparmentsHistory.pop()
+#         print("At", deparmentsHistory[-1])
 
 
-def amazonBestSellers(mode, departments, marketPlaces, limitResults=0):
+def loop_and_open(department, marketPlace, limitResults, levels=0):
+    ul = wait.until(EC.presence_of_element_located((By.ID, "zg_browseRoot")))
+    done = False
+    l = 1
+    while not done:
+        try:
+            ul = ul.find_element_by_tag_name("ul")
+            l += 1
+        except:
+            try:
+                if levels != l:
+                    toExplore = []
+                    for li in ul.find_elements_by_tag_name("li"):
+                        el = []
+                        el.append(li.find_element_by_tag_name("a").text)
+                        el.append(li.find_element_by_tag_name("a").get_attribute("href"))
+                        toExplore.append(el)
+                    for el in toExplore:
+                        deparmentsHistory.append(el[0])
+                        driver.get(el[1])
+                        department[el[0]] = loop_and_open({}, marketPlace, limitResults, l)
+                    print(department)
+                    return department
+                else:
+                    scrape_department(deparmentsHistory[-1], marketPlace, limitResults)
+                    return {}
+            return {}
+    return {}
+
+
+def amazonBestSellers(mode, marketPlaces, limitResults=0):
     for marketPlace in marketPlaces:
         if open_url(marketPlace) == -1:
             return []
-        print(deparmentsHistory[-1])
-        for department in departments.keys():
-            loop_and_open(department, departments[department], marketPlace, limitResults)
+        # driver.get("https://www.amazon.com/Best-Sellers-Appliances/zgbs/appliances/ref=zg_bs_unv_la_1_3741261_1")
+        departments = loop_and_open({}, marketPlace, limitResults)
+        # print(departments)
+    #     for department in departments.keys():
+    #         loop_and_open(department, departments[department], marketPlace, limitResults)
         for x in bestSellers:
             x["limitResults"] = limitResults
+            driver.get(x["htmlLinkPage"])
+            x = scrape_detailed(x)
     if mode == 2:
         store_data()
     driver.quit()
     return bestSellers
 
 
-test = {
-    "Computers & Accessories": {
-        "Desktops": dict(),
-    },
-    "Amazon Devices & Accessories": {
-        "Amazon Devices": {
-            "Home Security from Amazon": dict(),
-        },
-    },
-}
-
 # start = time.time()
-# op = amazonBestSellers(2, test, ["US"], 0)
+op = amazonBestSellers(2, ["US"])
 # print("Logging in database")
 # end = time.time()
 # log = {}

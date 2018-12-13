@@ -7,7 +7,6 @@ import os
 import time
 import json
 from pymongo import MongoClient
-import pyspeedtest
 from psutil import virtual_memory
 import platform
 from subprocess import check_output
@@ -134,16 +133,8 @@ def scrape_element(el, marketPlace, detailedResults):
     obj["changingInfos"].append(temp)
     return obj
 
-def scrape_less_detailed(marketPlace, limitResults, detailedResults):
-    done = False
-    resultsFound = ""
-    try:
-        resultsFound = driver.find_element_by_css_selector("h1.srp-controls__count-heading").text
-    except:
-        try:
-            resultsFound = driver.find_element_by_css_selector("span.rcnt").text
-        except:
-            resultsFound = "NA"
+def one_way(marketPlace, limitResults, detailedResults):
+    resultsFound = driver.find_element_by_css_selector("h1.srp-controls__count-heading").text
     index = len(resultsFound) - 1
     while resultsFound[index] != " ":
         index -= 1
@@ -151,6 +142,7 @@ def scrape_less_detailed(marketPlace, limitResults, detailedResults):
     thisSearch = []
     resutlsScraped = 1
     print("Scraping Pages of result")
+    done = False
     while not done:
         try:
             el = driver.find_element_by_id("srp-river-results-listing" + str(resutlsScraped))
@@ -167,6 +159,21 @@ def scrape_less_detailed(marketPlace, limitResults, detailedResults):
                 driver.get(pgn)
                 resutlsScraped = 1
     return [thisSearch, resultsFound]
+
+def second_way(marketPlace, limitResults, detailedResults):
+    pass
+
+def scrape_less_detailed(marketPlace, limitResults, detailedResults):
+    
+    try:
+        return one_way(marketPlace, limitResults, detailedResults)
+    except:
+        try:
+            return second_way(marketPlace, limitResults, detailedResults)
+        except:
+            errors["Format Changed"] = 1
+            return [-1, -1]
+            
 
 def get_specs():
     try:
