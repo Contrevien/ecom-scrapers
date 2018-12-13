@@ -258,7 +258,7 @@ def scrape_element(el, marketPlace, limitResults, mode):
     bestSellers.append(obj)
 
 
-def scrape_department(department, marketPlace, limitResults):
+def scrape_department(department, marketPlace, limitResults, mode):
     print("Scraping", department)
     ol = wait.until(EC.presence_of_element_located((By.ID, "zg-ordered-list")))
     try:
@@ -268,7 +268,7 @@ def scrape_department(department, marketPlace, limitResults):
     while True:
         ol = wait.until(EC.presence_of_element_located((By.ID, "zg-ordered-list")))
         for li in ol.find_elements_by_tag_name("li"):
-            scrape_element(li, marketPlace, limitResults)
+            scrape_element(li, marketPlace, limitResults, mode)
         try:
             nextPage = driver.find_element_by_class_name("a-last")
             if "a-disabled" in nextPage.get_attribute("class"):
@@ -305,7 +305,7 @@ def scrape_department(department, marketPlace, limitResults):
 #         print("At", deparmentsHistory[-1])
 
 
-def loop_and_open(department, marketPlace, limitResults, levels=0):
+def loop_and_open(department, marketPlace, limitResults, mode, levels=0):
     ul = wait.until(EC.presence_of_element_located((By.ID, "zg_browseRoot")))
     done = False
     l = 1
@@ -325,7 +325,7 @@ def loop_and_open(department, marketPlace, limitResults, levels=0):
                     for el in toExplore:
                         deparmentsHistory.append(el[0])
                         driver.get(el[1])
-                        department[el[0]] = loop_and_open({}, marketPlace, limitResults, l, mode)
+                        department[el[0]] = loop_and_open({}, marketPlace, limitResults, mode, l)
                     return department
                 else:
                     scrape_department(deparmentsHistory[-1], marketPlace, limitResults, mode)
