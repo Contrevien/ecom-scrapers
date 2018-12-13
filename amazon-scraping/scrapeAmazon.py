@@ -22,7 +22,7 @@ ch = os.getcwd() + '/tools/chromedriver'
 options = Options()
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
-# options.set_headless(headless=True)
+options.set_headless(headless=True)
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
@@ -406,33 +406,33 @@ def scrapeAmazon(mode, keywords, marketPlaces, sortBy, detailedResults=0, limitR
 
 mem = virtual_memory()
 start = time.time()
-op = scrapeAmazon(2, ["sport watch"], ["US"], 0, 0, 100)
-print("Logging in database")
+op = scrapeAmazon(1, ["32gb memory usb"], ["US"], 0, 0, 0)
+print("Creating log in database")
 end = time.time()
-# log = {}
+log = {}
 
-# log["timestamp"] = int(time.time())
-# log["scrapingTime"] = int((end-start)*100)/100
-# log["objectScraped"] = len(op)
-# log["errors"] = errors
-# log["type"] = "scrapeAmazon"
-# # 1048576  # KB to GB
+log["timestamp"] = int(time.time())
+log["scrapingTime"] = int((end-start)*100)/100
+log["objectScraped"] = len(op)
+log["errors"] = errors
+log["type"] = "scrapeAmazon"
+# 1048576  # KB to GB
 
-# log["RAM"] = str(mem.total/1048576*1024) + " GB"
-# log["OS"] = platform.linux_distribution()[0]
-# log["OSVersion"] = platform.linux_distribution()[1]
-# log["CPU"] = {}
-# for info in check_output(['lscpu']).decode('utf-8').split('\n'):
-#     splitInfo = info.split(':')
-#     if splitInfo[0] in ['Architecture', 'CPU op-mode(s)', 'Byte Order', 'CPU(s)', 'Thread(s) per core', 'Core(s) per socket', 'Socket(s)', 'Model name', 'CPU MHz']:
-#         try:
-#             log["CPU"][splitInfo[0]] = int(splitInfo[1].strip())
-#         except:
-#             log["CPU"][splitInfo[0]] = splitInfo[1].strip()
-# log["ConnectionSpeed"] = {}
-# speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n')
-# log["ConnectionSpeed"]["Upload"] = speedCheck[-2].split(':')[1].strip()
-# log["ConnectionSpeed"]["Download"] = speedCheck[-4].split(':')[1].strip()
-# log["ConnectionSpeed"]["Ping"] = speedCheck[-6].split(':')[1].strip()
+log["RAM"] = str(mem.total/1048576*1024) + " GB"
+log["OS"] = platform.linux_distribution()[0]
+log["OSVersion"] = platform.linux_distribution()[1]
+log["CPU"] = {}
+for info in check_output(['lscpu']).decode('utf-8').split('\n'):
+    splitInfo = info.split(':')
+    if splitInfo[0] in ['Architecture', 'CPU op-mode(s)', 'Byte Order', 'CPU(s)', 'Thread(s) per core', 'Core(s) per socket', 'Socket(s)', 'Model name', 'CPU MHz']:
+        try:
+            log["CPU"][splitInfo[0]] = int(splitInfo[1].strip())
+        except:
+            log["CPU"][splitInfo[0]] = splitInfo[1].strip()
+log["ConnectionSpeed"] = {}
+speedCheck = check_output(['speedtest-cli', '--bytes']).decode('utf-8').split('\n')
+log["ConnectionSpeed"]["Upload"] = speedCheck[-2].split(':')[1].strip()
+log["ConnectionSpeed"]["Download"] = speedCheck[-4].split(':')[1].strip()
+log["ConnectionSpeed"]["Ping"] = speedCheck[-6].split(':')[1].strip()
 
-# scraperDb.executionLog.insert_one(log)
+scraperDb.executionLog.insert_one(log)
