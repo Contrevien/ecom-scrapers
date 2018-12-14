@@ -19,11 +19,16 @@ currencyMap = {
     "IT": "EUR"
 }
 
+num = ""
+with open("scraped.txt", "r") as f:
+    num = int(f.readline())
+
 ch = os.getcwd() + '/tools/chromedriver'
 options = Options()
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
-options.set_headless(headless=True)
+# options.add_extension('test.crx')
+# options.set_headless(headless=True)
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
@@ -149,13 +154,20 @@ def scrape_detailed(d):
             final = final.replace(",", "")
             final = final.replace(".", "")
             try:
-                d["bestSellersRank"] = int(final)
+                if final == "":
+                    d["bestSellersRank"] = "NA"
+                else:    
+                    d["bestSellersRank"] = int(final)
             except:
                 d["bestSellersRank"] = "NA"
     return d
 
 
 def scrape_element(el, marketPlace, limitResults):
+    global num
+    if num > 0:
+        num -= 1
+        return -2
     if limitResults != 0 and len(bestSellers) == limitResults:
         return -1
     obj = {}
@@ -238,11 +250,12 @@ def scrape_element(el, marketPlace, limitResults):
     obj["changingInfos"][0]["price"] = price
 
     bestSellers.append(obj)
-    return 1
+    return obj
 
 
-def scrape_department(department, marketPlace, limitResults):
+def scrape_department(department, marketPlace, limitResults, mode):
     print("Scraping", department)
+    thisDepartment = []
     ol = wait.until(EC.presence_of_element_located((By.ID, "zg-ordered-list")))
     try:
         nextPage = driver.find_element_by_class_name("a-last")
@@ -251,8 +264,26 @@ def scrape_department(department, marketPlace, limitResults):
     while True:
         ol = wait.until(EC.presence_of_element_located((By.ID, "zg-ordered-list")))
         for li in ol.find_elements_by_tag_name("li"):
-            if scrape_element(li, marketPlace, limitResults) == -1:
+            returned = scrape_element(li, marketPlace, limitResults)
+            if returned == -1:
+                for x in thisDepartment:
+                    x["limitResults"] = limitResults
+                    driver.get(x["htmlLinkPage"])
+                    x = scrape_detailed(x)
+                    if mode == 2:
+                        scraperDb.bestSellers.insert_one(x)
+                        num1 = ""
+                        with open('scraped.txt','r') as f:
+                            num1 = int(f.readline())
+                        with open('scraped.txt','w') as f2:
+                            f2.write(str(num1 + 1))
+                    else:
+                        print(x)
                 return -1
+            elif returned == -2:
+                continue
+            else:
+                thisDepartment.append(returned)
         try:
             nextPage = driver.find_element_by_class_name("a-last")
             if "a-disabled" in nextPage.get_attribute("class"):
@@ -271,6 +302,19 @@ def scrape_department(department, marketPlace, limitResults):
             wait.until(EC.presence_of_element_located((By.CLASS_NAME, "a-last")))
         except:
             break
+    for x in thisDepartment:
+        x["limitResults"] = limitResults
+        driver.get(x["htmlLinkPage"])
+        x = scrape_detailed(x)
+        if mode == 2:
+            scraperDb.bestSellers.insert_one(x)
+            num1 = ""
+            with open('scraped.txt','r') as f:
+                num1 = int(f.readline())
+            with open('scraped.txt','w') as f2:
+                f2.write(str(num1 + 1))
+        else:
+            print(x)
     deparmentsHistory.pop()
     return 1
 
@@ -290,7 +334,7 @@ def scrape_department(department, marketPlace, limitResults):
 #         print("At", deparmentsHistory[-1])
 
 
-def loop_and_open(department, marketPlace, limitResults, levels=0):
+def loop_and_open(department, marketPlace, limitResults, mode, levels=0):
     ul = wait.until(EC.presence_of_element_located((By.ID, "zg_browseRoot")))
     done = False
     l = 1
@@ -310,13 +354,13 @@ def loop_and_open(department, marketPlace, limitResults, levels=0):
                     for el in toExplore:
                         deparmentsHistory.append(el[0])
                         driver.get(el[1])
-                        asdf = loop_and_open({}, marketPlace, limitResults, l)
+                        asdf = loop_and_open({}, marketPlace, limitResults, mode, l)
                         if asdf == -1:
                             return -1
                         department[el[0]] = asdf
                     return department
                 else:
-                    if scrape_department(deparmentsHistory[-1], marketPlace, limitResults) == -1:
+                    if scrape_department(deparmentsHistory[-1], marketPlace, limitResults, mode) == -1:
                         return -1
                     return {}
             except:
@@ -329,24 +373,17 @@ def amazonBestSellers(mode, marketPlaces, limitResults=0):
         if open_url(marketPlace) == -1:
             return []
         # driver.get("https://www.amazon.com/Best-Sellers-Appliances/zgbs/appliances/ref=zg_bs_unv_la_1_3741261_1")
-        departments = loop_and_open({}, marketPlace, limitResults)
+        departments = loop_and_open({}, marketPlace, limitResults, mode)
         # print(departments)
     #     for department in departments.keys():
     #         loop_and_open(department, departments[department], marketPlace, limitResults)
-        for x in bestSellers:
-            x["limitResults"] = limitResults
-            driver.get(x["htmlLinkPage"])
-            x = scrape_detailed(x)
-    if mode == 2:
-        store_data()
     driver.quit()
     return bestSellers
 
 
 mem = virtual_memory()
 start = time.time()
-op = amazonBestSellers(1, ["US"], 5)
-print(op)
+op = amazonBestSellers(2, ["US"])
 print("Creating log in database")
 end = time.time()
 log = {}
