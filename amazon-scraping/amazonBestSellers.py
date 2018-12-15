@@ -352,12 +352,15 @@ def loop_and_open(department, marketPlace, limitResults, mode, levels=0):
                         el.append(li.find_element_by_tag_name("a").get_attribute("href"))
                         toExplore.append(el)
                     for el in toExplore:
+                        if "Apps" in el[0]:
+                            continue
                         deparmentsHistory.append(el[0])
                         driver.get(el[1])
                         asdf = loop_and_open({}, marketPlace, limitResults, mode, l)
                         if asdf == -1:
                             return -1
                         department[el[0]] = asdf
+                        deparmentsHistory.pop()
                     return department
                 else:
                     if scrape_department(deparmentsHistory[-1], marketPlace, limitResults, mode) == -1:
@@ -379,7 +382,6 @@ def amazonBestSellers(mode, marketPlaces, limitResults=0):
     #         loop_and_open(department, departments[department], marketPlace, limitResults)
     driver.quit()
     return bestSellers
-
 
 mem = virtual_memory()
 start = time.time()
