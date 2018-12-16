@@ -352,7 +352,7 @@ def loop_and_open(department, marketPlace, limitResults, mode, levels=0):
                         el.append(li.find_element_by_tag_name("a").get_attribute("href"))
                         toExplore.append(el)
                     for el in toExplore:
-                        if "Apps" in el[0]:
+                        if "Amazon" in el[0] or "Apps" in el[0]:
                             continue
                         deparmentsHistory.append(el[0])
                         driver.get(el[1])
