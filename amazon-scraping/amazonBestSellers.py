@@ -111,7 +111,6 @@ def store_data():
 
 
 def scrape_detailed(d):
-    input()
     print("Getting details of " + d["title"][:20])
     
     try:
@@ -148,12 +147,10 @@ def scrape_detailed(d):
             final = final.replace(".", "")
             try:
                 if final == "":
-                    print("here2")
                     d["bestSellersRank"] = "NA"
                 else:    
                     d["bestSellersRank"] = int(final)
             except:
-                print("here1")
                 d["bestSellersRank"] = "NA"
     return d
 
