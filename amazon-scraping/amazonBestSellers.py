@@ -301,6 +301,11 @@ def scrape_department(department, marketPlace, limitResults, mode):
         x = scrape_detailed(x)
         if mode == 2:
             scraperDb.bestSellers.insert_one(x)
+            num1 = ""
+            with open("scraped.txt", "r") as f:
+                num1 = int(f.readline())
+            with open("scraped.txt", "w") as f:
+                f.write(str(num1 + 1))
         else:
             print(x)
     # deparmentsHistory.pop()
