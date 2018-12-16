@@ -28,7 +28,7 @@ options = Options()
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
 # options.add_extension('test.crx')
-options.set_headless(headless=True)
+# options.set_headless(headless=True)
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
@@ -111,6 +111,7 @@ def store_data():
 
 
 def scrape_detailed(d):
+    input()
     print("Getting details of " + d["title"][:20])
     
     try:
@@ -127,19 +128,11 @@ def scrape_detailed(d):
                 d["seller"] = "NA"
         except:
             d["seller"] = "NA"
-    
-    container = ""
     try:
-        container = driver.find_element_by_id("productDetails_detailBullets_sections1")
+        d["asinCode"] = d["htmlLinkPage"].split("/")[-2]
     except:
-        link = d["htmlLinkPage"]
-        try:
-            d["asinCode"] = link.split("/")[-2]
-        except:
-            d["asinCode"] = "NA"
-        d["bestSellersRank"] = "NA"
-        return d
-    for tr in container.find_elements_by_tag_name("tr"):
+        d["asinCode"] = "NA"
+    for tr in driver.find_elements_by_tag_name("tr"):
         if tr.find_element_by_tag_name("th").text.strip() == "ASIN":
             d["asinCode"] = tr.find_element_by_tag_name("td").text
         if tr.find_element_by_tag_name("th").text.strip() == "Best Sellers Rank":
@@ -155,10 +148,12 @@ def scrape_detailed(d):
             final = final.replace(".", "")
             try:
                 if final == "":
+                    print("here2")
                     d["bestSellersRank"] = "NA"
                 else:    
                     d["bestSellersRank"] = int(final)
             except:
+                print("here1")
                 d["bestSellersRank"] = "NA"
     return d
 
@@ -384,7 +379,7 @@ def amazonBestSellers(mode, marketPlaces, limitResults=0):
 
 mem = virtual_memory()
 start = time.time()
-op = amazonBestSellers(2, ["US"])
+op = amazonBestSellers(1, ["US"])
 print("Creating log in database")
 end = time.time()
 log = {}
