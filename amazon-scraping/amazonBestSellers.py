@@ -28,7 +28,7 @@ options = Options()
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
 # options.add_extension('test.crx')
-# options.set_headless(headless=True)
+options.set_headless(headless=True)
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
@@ -315,7 +315,7 @@ def scrape_department(department, marketPlace, limitResults, mode):
                 f2.write(str(num1 + 1))
         else:
             print(x)
-    deparmentsHistory.pop()
+    # deparmentsHistory.pop()
     return 1
 
 
@@ -365,7 +365,6 @@ def loop_and_open(department, marketPlace, limitResults, mode, levels=0):
                 else:
                     if scrape_department(deparmentsHistory[-1], marketPlace, limitResults, mode) == -1:
                         return -1
-                    return {}
             except:
                 return {}
     return {}
