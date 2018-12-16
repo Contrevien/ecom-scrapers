@@ -28,7 +28,7 @@ options = Options()
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
 # options.add_extension('test.crx')
-# options.set_headless(headless=True)
+options.set_headless(headless=True)
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
@@ -131,27 +131,32 @@ def scrape_detailed(d):
         d["asinCode"] = d["htmlLinkPage"].split("/")[-2]
     except:
         d["asinCode"] = "NA"
+
     for tr in driver.find_elements_by_tag_name("tr"):
-        if tr.find_element_by_tag_name("th").text.strip() == "ASIN":
-            d["asinCode"] = tr.find_element_by_tag_name("td").text
-        if tr.find_element_by_tag_name("th").text.strip() == "Best Sellers Rank":
-            rank = tr.find_element_by_tag_name("td").text
-            final = ""
-            for ch in rank:
-                if ch.isalpha():
-                    break
-                final += ch
-            final = final.replace("#", "")
-            final = final.replace(" ", "")
-            final = final.replace(",", "")
-            final = final.replace(".", "")
-            try:
-                if final == "":
+        try:
+            if tr.find_element_by_tag_name("th").text.strip() == "Best Sellers Rank":
+                rank = tr.find_element_by_tag_name("td").text
+                final = ""
+                for ch in rank:
+                    if ch.isalpha():
+                        break
+                    final += ch
+                final = final.replace("#", "")
+                final = final.replace(" ", "")
+                final = final.replace(",", "")
+                final = final.replace(".", "")
+                try:
+                    if final == "":
+                        d["bestSellersRank"] = "NA"
+                    else:    
+                        d["bestSellersRank"] = int(final)
+                        break
+                except:
                     d["bestSellersRank"] = "NA"
-                else:    
-                    d["bestSellersRank"] = int(final)
-            except:
-                d["bestSellersRank"] = "NA"
+        except:
+            continue
+    else:
+        d["bestSellersRank"] = "NA"
     return d
 
 
@@ -264,11 +269,6 @@ def scrape_department(department, marketPlace, limitResults, mode):
                     x = scrape_detailed(x)
                     if mode == 2:
                         scraperDb.bestSellers.insert_one(x)
-                        num1 = ""
-                        with open('scraped.txt','r') as f:
-                            num1 = int(f.readline())
-                        with open('scraped.txt','w') as f2:
-                            f2.write(str(num1 + 1))
                     else:
                         print(x)
                 return -1
@@ -294,17 +294,13 @@ def scrape_department(department, marketPlace, limitResults, mode):
             wait.until(EC.presence_of_element_located((By.CLASS_NAME, "a-last")))
         except:
             break
+
     for x in thisDepartment:
         x["limitResults"] = limitResults
         driver.get(x["htmlLinkPage"])
         x = scrape_detailed(x)
         if mode == 2:
             scraperDb.bestSellers.insert_one(x)
-            num1 = ""
-            with open('scraped.txt','r') as f:
-                num1 = int(f.readline())
-            with open('scraped.txt','w') as f2:
-                f2.write(str(num1 + 1))
         else:
             print(x)
     # deparmentsHistory.pop()
@@ -344,7 +340,7 @@ def loop_and_open(department, marketPlace, limitResults, mode, levels=0):
                         el.append(li.find_element_by_tag_name("a").get_attribute("href"))
                         toExplore.append(el)
                     for el in toExplore:
-                        if "Amazon" in el[0] or "Apps" in el[0]:
+                        if "Apps" in el[0]:
                             continue
                         deparmentsHistory.append(el[0])
                         driver.get(el[1])
