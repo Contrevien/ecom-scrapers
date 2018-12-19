@@ -93,69 +93,6 @@ def slice_price(value, marketPlace):
         return float(price)
 
 
-# def store_data():
-#     # if len(errors) != 0:
-#     #     bestSellers.insert(0, errors)
-#     # json_data = json.dumps(bestSellers)
-#     # with open('test.json', 'w') as f:
-#     #     f.write(json_data)
-#     # driver.quit()
-#     for x in bestSellers:
-#         scraperDb.bestSellers.insert_one(x)
-#     for x in scraperDb.errors.find({"type": "bestSellers"}):
-#         y = x.copy()
-#         if len(errors) != 0:
-#             errors["timestamp"] = timestamp
-#             y["errors"].append(errors)
-#             scraperDb.errors.find_one_and_replace({"type": "bestSellers"}, y)
-
-
-# def scrape_detailed(d):
-#     print("Getting details of " + d["title"][:20])
-    
-#     try:
-#         seller = driver.find_element_by_id("merchant-info")
-#         d["seller"] = seller.find_element_by_tag_name("a").text
-#     except:
-#         try:
-#             seller = driver.find_element_by_id("usedbuyBox")
-#             for row in seller.find_elements_by_class_name("a-row"):
-#                 if "Sold by" in row.text:
-#                     d["seller"] = row.find_element_by_tag_name("a").text
-#                     break
-#             else:
-#                 d["seller"] = "NA"
-#         except:
-#             d["seller"] = "NA"
-
-#     for tr in driver.find_elements_by_tag_name("tr"):
-#         try:
-#             if tr.find_element_by_tag_name("th").text.strip() == "Best Sellers Rank":
-#                 rank = tr.find_element_by_tag_name("td").text
-#                 final = ""
-#                 for ch in rank:
-#                     if ch.isalpha():
-#                         break
-#                     final += ch
-#                 final = final.replace("#", "")
-#                 final = final.replace(" ", "")
-#                 final = final.replace(",", "")
-#                 final = final.replace(".", "")
-#                 try:
-#                     if final == "":
-#                         d["bestSellersRank"] = "NA"
-#                     else:    
-#                         d["bestSellersRank"] = int(final)
-#                         break
-#                 except:
-#                     d["bestSellersRank"] = "NA"
-#         except:
-#             continue
-#     else:
-#         d["bestSellersRank"] = "NA"
-#     return d
-
-
 def scrape_element(el, marketPlace, limitResults):
     global num
     if num > 0:
@@ -265,8 +202,6 @@ def scrape_department(department, marketPlace, limitResults, mode):
             if returned == -1:
                 for x in thisDepartment:
                     x["limitResults"] = limitResults
-                    # driver.get(x["htmlLinkPage"])
-                    # x = scrape_detailed(x)
                     if mode == 2:
                         scraperDb.bestSellers.insert_one(x)
                     else:
@@ -297,34 +232,17 @@ def scrape_department(department, marketPlace, limitResults, mode):
 
     for x in thisDepartment:
         x["limitResults"] = limitResults
-        # driver.get(x["htmlLinkPage"])
-        # x = scrape_detailed(x)
         if mode == 2:
-            scraperDb.bestSellers.insert_one(x)
             num1 = ""
             with open("scraped.txt", "r") as f:
                 num1 = int(f.readline())
+            x["obj_id"] = num1
             with open("scraped.txt", "w") as f:
                 f.write(str(num1 + 1))
+            scraperDb.bestSellers.insert_one(x)
         else:
             print(x)
-    # deparmentsHistory.pop()
     return 1
-
-
-# def loop_and_open(department, value, marketPlace, limitResults):
-#     if open_department(department) == -1:
-#         return
-#     if len(value) == 0:
-#         scrape_department(department, marketPlace, limitResults)
-#     else:
-#         for subdep in value.keys():
-#             loop_and_open(subdep, value[subdep], marketPlace, limitResults)
-#         wait.until(EC.presence_of_element_located((By.ID, "zg_browseRoot")))
-#         print("Going back")
-#         driver.back()
-#         deparmentsHistory.pop()
-#         print("At", deparmentsHistory[-1])
 
 
 def loop_and_open(department, marketPlace, limitResults, mode, levels=0):
@@ -337,6 +255,7 @@ def loop_and_open(department, marketPlace, limitResults, mode, levels=0):
             l += 1
         except:
             try:
+                print(levels, l)
                 if levels != l:
                     toExplore = []
                     for li in ul.find_elements_by_tag_name("li"):
@@ -358,6 +277,7 @@ def loop_and_open(department, marketPlace, limitResults, mode, levels=0):
                 else:
                     if scrape_department(deparmentsHistory[-1], marketPlace, limitResults, mode) == -1:
                         return -1
+                    return {}
             except:
                 return {}
     return {}
@@ -377,7 +297,7 @@ def amazonBestSellers(mode, marketPlaces, limitResults=0):
 
 mem = virtual_memory()
 start = time.time()
-op = amazonBestSellers(1, ["US"])
+op = amazonBestSellers(2, ["US"])
 print("Creating log in database")
 end = time.time()
 log = {}
