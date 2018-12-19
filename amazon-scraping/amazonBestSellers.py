@@ -93,71 +93,67 @@ def slice_price(value, marketPlace):
         return float(price)
 
 
-def store_data():
-    # if len(errors) != 0:
-    #     bestSellers.insert(0, errors)
-    # json_data = json.dumps(bestSellers)
-    # with open('test.json', 'w') as f:
-    #     f.write(json_data)
-    # driver.quit()
-    for x in bestSellers:
-        scraperDb.bestSellers.insert_one(x)
-    for x in scraperDb.errors.find({"type": "bestSellers"}):
-        y = x.copy()
-        if len(errors) != 0:
-            errors["timestamp"] = timestamp
-            y["errors"].append(errors)
-            scraperDb.errors.find_one_and_replace({"type": "bestSellers"}, y)
+# def store_data():
+#     # if len(errors) != 0:
+#     #     bestSellers.insert(0, errors)
+#     # json_data = json.dumps(bestSellers)
+#     # with open('test.json', 'w') as f:
+#     #     f.write(json_data)
+#     # driver.quit()
+#     for x in bestSellers:
+#         scraperDb.bestSellers.insert_one(x)
+#     for x in scraperDb.errors.find({"type": "bestSellers"}):
+#         y = x.copy()
+#         if len(errors) != 0:
+#             errors["timestamp"] = timestamp
+#             y["errors"].append(errors)
+#             scraperDb.errors.find_one_and_replace({"type": "bestSellers"}, y)
 
 
-def scrape_detailed(d):
-    print("Getting details of " + d["title"][:20])
+# def scrape_detailed(d):
+#     print("Getting details of " + d["title"][:20])
     
-    try:
-        seller = driver.find_element_by_id("merchant-info")
-        d["seller"] = seller.find_element_by_tag_name("a").text
-    except:
-        try:
-            seller = driver.find_element_by_id("usedbuyBox")
-            for row in seller.find_elements_by_class_name("a-row"):
-                if "Sold by" in row.text:
-                    d["seller"] = row.find_element_by_tag_name("a").text
-                    break
-            else:
-                d["seller"] = "NA"
-        except:
-            d["seller"] = "NA"
-    try:
-        d["asinCode"] = d["htmlLinkPage"].split("/")[-2]
-    except:
-        d["asinCode"] = "NA"
+#     try:
+#         seller = driver.find_element_by_id("merchant-info")
+#         d["seller"] = seller.find_element_by_tag_name("a").text
+#     except:
+#         try:
+#             seller = driver.find_element_by_id("usedbuyBox")
+#             for row in seller.find_elements_by_class_name("a-row"):
+#                 if "Sold by" in row.text:
+#                     d["seller"] = row.find_element_by_tag_name("a").text
+#                     break
+#             else:
+#                 d["seller"] = "NA"
+#         except:
+#             d["seller"] = "NA"
 
-    for tr in driver.find_elements_by_tag_name("tr"):
-        try:
-            if tr.find_element_by_tag_name("th").text.strip() == "Best Sellers Rank":
-                rank = tr.find_element_by_tag_name("td").text
-                final = ""
-                for ch in rank:
-                    if ch.isalpha():
-                        break
-                    final += ch
-                final = final.replace("#", "")
-                final = final.replace(" ", "")
-                final = final.replace(",", "")
-                final = final.replace(".", "")
-                try:
-                    if final == "":
-                        d["bestSellersRank"] = "NA"
-                    else:    
-                        d["bestSellersRank"] = int(final)
-                        break
-                except:
-                    d["bestSellersRank"] = "NA"
-        except:
-            continue
-    else:
-        d["bestSellersRank"] = "NA"
-    return d
+#     for tr in driver.find_elements_by_tag_name("tr"):
+#         try:
+#             if tr.find_element_by_tag_name("th").text.strip() == "Best Sellers Rank":
+#                 rank = tr.find_element_by_tag_name("td").text
+#                 final = ""
+#                 for ch in rank:
+#                     if ch.isalpha():
+#                         break
+#                     final += ch
+#                 final = final.replace("#", "")
+#                 final = final.replace(" ", "")
+#                 final = final.replace(",", "")
+#                 final = final.replace(".", "")
+#                 try:
+#                     if final == "":
+#                         d["bestSellersRank"] = "NA"
+#                     else:    
+#                         d["bestSellersRank"] = int(final)
+#                         break
+#                 except:
+#                     d["bestSellersRank"] = "NA"
+#         except:
+#             continue
+#     else:
+#         d["bestSellersRank"] = "NA"
+#     return d
 
 
 def scrape_element(el, marketPlace, limitResults):
@@ -202,6 +198,10 @@ def scrape_element(el, marketPlace, limitResults):
             errors["htmlLink"] += 1
         else:
             errors["htmlLink"] = 1
+    try:
+        obj["asinCode"] = obj["htmlLinkPage"].split("/")[-2]
+    except:
+        obj["asinCode"] = "NA"
     try:
         rating = a[1].get_attribute("title").split()[0]
         if marketPlace == "IT" or marketPlace == "FR":
@@ -265,8 +265,8 @@ def scrape_department(department, marketPlace, limitResults, mode):
             if returned == -1:
                 for x in thisDepartment:
                     x["limitResults"] = limitResults
-                    driver.get(x["htmlLinkPage"])
-                    x = scrape_detailed(x)
+                    # driver.get(x["htmlLinkPage"])
+                    # x = scrape_detailed(x)
                     if mode == 2:
                         scraperDb.bestSellers.insert_one(x)
                     else:
@@ -297,8 +297,8 @@ def scrape_department(department, marketPlace, limitResults, mode):
 
     for x in thisDepartment:
         x["limitResults"] = limitResults
-        driver.get(x["htmlLinkPage"])
-        x = scrape_detailed(x)
+        # driver.get(x["htmlLinkPage"])
+        # x = scrape_detailed(x)
         if mode == 2:
             scraperDb.bestSellers.insert_one(x)
             num1 = ""
